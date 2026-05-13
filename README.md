@@ -10,3 +10,7 @@ The functionality and intended user experience for this application are outlined
 ### Implementation
 
 The detailed implementation of the project is outlined [here](Documentation/implementation_description.md "Implementation Description"). The basic file and class structures are outlined, along with some basic specifications for components of the application.
+
+## Scriptural Texts
+
+The text for this application is taken from the KJV due to copyright limitations. Text files were sourced from [here](https://kjv-txt-files.sourceforge.io/).
