@@ -1,3 +1,4 @@
+#!/bin/bash
 @echo off
 echo ---------- Scriptureware! ----------"
 echo Version  0.00 (alpha) 
