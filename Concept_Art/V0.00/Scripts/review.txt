@@ -1,0 +1,19 @@
+---------- Scriptureware! ----------
+Version  0.00 (alpha) 
+Created by David Hokuf and Benjamin Van Grouw
+Last update: May 2026
+Scriptureware currently supports:
+    ^<1^> 1 Peter [5 chapters]
+Enter the index of the book to memorize or ^<quit^> to exit: 1
+Enter ^<1^> to review, ^<2^> to memorize new material, or ^<quit^> to exit: 1
+Enter a reference to begin review (e.g. <1:1>): 1:1
+---------- Reviewing 1 Peter 1:1 ----------
+Enter each verse as prompted. Enter ^<quit^> to return to the main menu.
+1:1 ^> Peter, an apostle of Jesus Christ, To those who are elect exiles of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
+1:2 ^> according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood.
+Incorrect! 1 Peter 1:2:
+"according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood: May grace and peace be multiplied to you."
+1:2 ^> quit
+---------- Exiting Review ----------
+Review Stats: You reviewed 1 Peter 1:1 - 1:2 with 1/2 verses correct (50% accuracy).
+Enter ^<1^> to review, ^<2^> to memorize new material, or ^<quit^> to exit: quit

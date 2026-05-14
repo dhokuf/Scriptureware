@@ -1,0 +1,7 @@
+---------- Scriptureware! ----------
+Version  0.00 (alpha) 
+Created by David Hokuf and Benjamin Van Grouw
+Last update: May 2026
+Scriptureware currently supports:
+    <1> 1 Peter [5 chapters]
+Enter the index of the book to memorize or <quit> to exit: quit
