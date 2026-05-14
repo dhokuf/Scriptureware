@@ -1,5 +1,5 @@
 ---------- Scriptureware! ----------
-Version  0.00 (alpha) 
+Version  0.1.0 (alpha) 
 Created by David Hokuf and Benjamin Van Grouw
 Last update: May 2026
 Scriptureware currently supports:

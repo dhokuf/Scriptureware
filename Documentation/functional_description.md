@@ -1,6 +1,6 @@
 # Functionality
 
-## V0.00
+## v1.0.0
 
 ### Main Menu
 
