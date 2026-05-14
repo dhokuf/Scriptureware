@@ -13,4 +13,4 @@ The detailed implementation of the project is outlined [here](Documentation/impl
 
 ## Scriptural Texts
 
-The text for this application is taken from the KJV due to copyright limitations. Text files were sourced from [here](https://kjv-txt-files.sourceforge.io/).
+The texts for this application are taken solely from the KJV due to copyright limitations. Text files were sourced [here](https://kjv-txt-files.sourceforge.io/).
