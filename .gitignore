@@ -5,7 +5,7 @@
 
 # ---------- Manual Additions ----------
 
-Executables/*
+*.exe
 
 # --------------------------------------
 # User-specific files
