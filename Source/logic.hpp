@@ -5,3 +5,4 @@ Authors: David Hokuf and Benjamin Van Grouw
 Date: May 2026 
 */
 
+#pragma once

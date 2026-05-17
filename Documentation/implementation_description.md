@@ -8,10 +8,9 @@ V0.00 will be implemented using a procedural programming approach. Later version
 | Task | File |
 | :--- | ---: |
 | Control of program logic flow | `main.cpp` |
-| Loading and parsing of index and texts | `parse.cpp` |
+| Parsing and manipulation of inputs and outputs | `text.cpp` |
 | Menu and UI handling | `ui.cpp` |
 | Accuracy evaluation, logic, and input handling | `logic.cpp` |
-| Memorization word-removal algorithm | `algorithm.cpp` |
 
 Detailed specifications of the individual functions are placed in the relevant header files.
 

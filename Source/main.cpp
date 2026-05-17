@@ -19,10 +19,9 @@ Date: May 2026
 
 #endif
 
-#include "parse.hpp"
+#include "text.hpp"
 #include "ui.hpp"
 #include "logic.hpp"
-#include "algorithm.hpp"
 
 // And so it begins...
 int main() {
