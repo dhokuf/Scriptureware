@@ -18,25 +18,35 @@ This file will just contain the `main` function. Its role will essentially just 
 
 ### `text.cpp`
 
-This file will contain the code for all parsing and manipulation of inputs and outputs. Its major tasks will include:
+This file will contain the code for all parsing and manipulation of file inputs and outputs. Its major tasks will include:
 | Task | Function|
 | :--- | ---:|
-| Loading texts from a file and parsing them into a vector| `vector<string> load` |
+| Loading texts from a file and parsing them into a vector | `vector<string> load` |
 | Returning a verse by reference | `string getVerse` |
 | Obscuring texts by removing two words at a time by replacing letters with 'X' | `bool obscure` |
-| Checking inputs against the currently selected text to check accuracy (0 or 100 for v1.0.0)| `int getAccuracy` |
+
 
 ### `ui.cpp`
 
-**TODO: fill in this specification**
+This file will contain the code for all handling of the main menu and general user interface. This is mostly just output functions and global inputs:
 | Task | Function |
 | :--- | ---: |
+| displaying homescreen main menu | `void displayHomeScreen` |
+| clearing the entire screen | `void clearScreen` |
+| clearing a single line | `void clearLine` |
+| printing a verse | `void printVerse` |
+| printing the reference of the current verse for the command prompt | `void printReference` |
+| printing message after memorization completion | `void printMemorized` |
+| printing message after incorrect verse input | `void printTryAgain` |
+| printing exit screen | void `printExit` |
 
 ### `logic.cpp`
 
-**TODO: fill in this specification**
+This file will contain the code for handling user input and evaluating user accuracy:
 | Task | Function |
 | :--- | ---: |
+| checking user inputs against the currently selected text to check accuracy (0 or 100 for v1.0.0)| `int getAccuracy` |
+| reading user input into a vector if not "quit" (otherwise quit program) | `vector<string> userInput` |
 
 Detailed specifications of the individual functions are placed in the relevant header files.
 
