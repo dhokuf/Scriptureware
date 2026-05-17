@@ -1,8 +1,8 @@
 # Implementation
 
-## v1.0.0
+# v1.0.0
 
-### Project Structure
+## Project Structure
 
 V0.00 will be implemented using a procedural programming approach. Later versions may become object-oriented, especially if a graphical user interface is desired. Program logic flow at a high level will be controlled by `main` in `main.cpp`. Each major task will be delegated to sub-functions, which will be placed in a separate file along with any helper functions required to perform the task. The major tasks for V0.00 are:
 | Task | File |
@@ -12,8 +12,34 @@ V0.00 will be implemented using a procedural programming approach. Later version
 | Menu and UI handling | `ui.cpp` |
 | Accuracy evaluation, logic, and input handling | `logic.cpp` |
 
+### `main.cpp`
+
+This file will just contain the `main` function. Its role will essentially just be calling other functions.
+
+### `text.cpp`
+
+This file will contain the code for all parsing and manipulation of inputs and outputs. Its major tasks will include:
+| Task | Function|
+| :--- | ---:|
+| Loading texts from a file and parsing them into a vector| `vector<string> load` |
+| Returning a verse by reference | `string getVerse` |
+| Obscuring texts by removing two words at a time by replacing letters with 'X' | `bool obscure` |
+| Checking inputs against the currently selected text to check accuracy (0 or 100 for v1.0.0)| `int getAccuracy` |
+
+### `ui.cpp`
+
+**TODO: fill in this specification**
+| Task | Function |
+| :--- | ---: |
+
+### `logic.cpp`
+
+**TODO: fill in this specification**
+| Task | Function |
+| :--- | ---: |
+
 Detailed specifications of the individual functions are placed in the relevant header files.
 
-### Text Formatting and Specs
+## Text Formatting and Specs
 
 Scriptural texts are located in the `Texts` folder. Each book is located in its own file. Chapters are demarcated on a new line with `CHAPTER 1`, etc. Each verse is placed on a newline and preceded by its reference as an integer (e.g. `4 To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,`). The `Texts` folder also contains an `index.txt` file, which collects each file to be used in the program for convenience. The index file is formatted with a numerical index (`1`), a filename (`1peter.txt`), and the title in plain text, followed by a newline (`1 Peter`). In total: `1 1peter.txt 1 Peter`. Hopefully this should facilitate parsing as well as updates to the program.
