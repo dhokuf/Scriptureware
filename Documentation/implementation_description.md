@@ -35,18 +35,17 @@ This file will contain the code for all handling of the main menu and general us
 | clearing the entire screen | `void clearScreen` |
 | clearing a single line | `void clearLine` |
 | printing a verse | `void printVerse` |
-| printing the reference of the current verse for the command prompt | `void printReference` |
 | printing message after memorization completion | `void printMemorized` |
 | printing message after incorrect verse input | `void printTryAgain` |
-| printing exit screen | void `printExit` |
+| printing exit screen | `void printExit` |
 
 ### `logic.cpp`
 
 This file will contain the code for handling user input and evaluating user accuracy:
 | Task | Function |
 | :--- | ---: |
-| checking user inputs against the currently selected text to check accuracy (0 or 100 for v1.0.0)| `int getAccuracy` |
-| reading user input into a vector if not "quit" (otherwise quit program) | `vector<string> userInput` |
+| checking user inputs against the currently selected text to check accuracy (0 or 100 for v1.0.0)| `int checkAccuracy` |
+| reading user input into a vector if not "quit" (otherwise quit program) | `vector<string> userAttempt` |
 
 Detailed specifications of the individual functions are placed in the relevant header files.
 
