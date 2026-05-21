@@ -21,6 +21,38 @@ Date: May 2026
 
 // And so it begins...
 int main() {
+    /*
+
+    displayHomeScreen();
+
+    askForMode();
+
+    askForReference();
+
+    initializeCurrVerse();
+
+    if (reviewing) {
+        displayReviewScreen();
+
+        while (!endOfBookReached) {
+            
+            askForAttempt();
+
+            currVerse.checkAccurracy();
+            
+            if (attemptAccurracy == 100) { currVerse++;       }
+            else                         { displayTryAgain(); }
+        }
+    }
+    else {
+        displayMemorizeScreen();
+
+        while (!endOfBookReached) {
+            // perform mem logic
+        }
+    }
+
+    /**/
 
     log("Build test success!");
     return 0;
