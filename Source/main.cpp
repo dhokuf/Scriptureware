@@ -27,7 +27,7 @@ int main() {
 
     askForMode();
 
-    askForReference();
+    askForReference();                                     // initial currVerse
 
     initializeCurrVerse();
 
@@ -38,17 +38,35 @@ int main() {
             
             askForAttempt();
 
-            currVerse.checkAccurracy();
+            currVerse.checkAccurracy(attempt);
             
             if (attemptAccurracy == 100) { currVerse++;       }
             else                         { displayTryAgain(); }
         }
     }
-    else {
+    else {                                                     // if memorizing
         displayMemorizeScreen();
 
         while (!endOfBookReached) {
-            // perform mem logic
+            while (currVerse.obscure()) {
+                currVerse.displayObscureVerse();
+
+                askForAttempt();
+
+                currVerse.checkAccuracy(attempt);
+
+                while (attemptAccurracy == 0) {
+                    displayTryAgain();
+
+                    currVerse.displayVerse();
+
+                    askForAttempt();
+
+                    currVerse.checkAccuracy(attempt);
+                }
+            }
+
+            currVerse++;
         }
     }
 
