@@ -11,19 +11,27 @@ Date: May 2026
 #include <string>
 using namespace std;
 
+struct Reference {
+
+    int book;
+    int chapter;
+    int verse;
+};
+
 class Verse {
 
     public:
-        Verse(vector<int> reference);
-        int checkAccuracy(string attempt);
+        Verse(Reference reference);
+        int checkAccuracy(vector<string> attempt);
         bool obscure();
-        void printVerse();
-        void printObscuredverse();
+        vector<string> getVerse();
+        Reference getReference();
+        vector<string> getObscuredVerse();
         Verse& operator++();
+        bool endOfBookReached();
 
     private:
-        vector<int> reference;     // [book, chapter, verse]
-        vector<string> text;
+        Reference reference;
         vector<string> obscuredText;
         int obscurityLevel;
         vector<bool> obscurityMap;

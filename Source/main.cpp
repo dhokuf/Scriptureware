@@ -5,64 +5,65 @@ Authors: David Hokuf and Benjamin Van Grouw
 Date: May 2026 
 */
 
+#include "main.hpp"
+#include "ui.hpp"
+#include "verse.hpp"
+#include "text.hpp"
+
 // Comment this line out to disable development mode and remove debug output
 /**/ #define _DEVELOPMENT_MODE */
 
-// If development mode is enabled, define a log function for debug output
 #ifdef _DEVELOPMENT_MODE
     #include <iostream>
-    #define log(x) std::cout << "[DEBUG] " << x << std::endl;
-
-// Otherwise, do nothing when a log statement is encountered
+    #define log(x) std::cout << "[DEBUG] " << x << std::endl
 #else
     #define log(x)
-
 #endif
+
+Verse& initializeCurrVerse();
 
 // And so it begins...
 int main() {
-    /*
 
     displayHomeScreen();
 
-    askForMode();
+    mode = askForMode();
 
     askForReference();                                 // for initial currVerse
 
-    initializeCurrVerse();
+    currVerse = &initializeCurrVerse();
 
-    if (reviewing) {
+    if (mode = REVIEW) {
         displayReviewScreen();
 
-        while (!endOfBookReached) {
+        while (!currVerse->endOfBookReached()) {
             
-            attempt = askForAttempt();
+            attempt = getAttempt(currVerse);
 
-            currVerse.checkAccurracy(attempt);
+            attemptAccuracy = currVerse->checkAccuracy(attempt);
             
-            if (attemptAccurracy == 100) { currVerse++;       }
+            if (attemptAccuracy == 100) { currVerse++;       }
             else                         { displayTryAgain(); }
         }
     }
-    else {                                                     // if memorizing
+    else if (mode = MEMORIZE) {                                                     // if memorizing
         displayMemorizeScreen();
 
-        while (!endOfBookReached) {
-            while (currVerse.obscure()) {
-                currVerse.printObscuredVerse();
+        while (!currVerse->endOfBookReached()) {
+            while (currVerse->obscure()) {
+                printObscuredVerse(currVerse);
 
-                askForAttempt();
+                attempt = getAttempt(currVerse);
 
-                currVerse.checkAccuracy(attempt);
+                attemptAccuracy = currVerse->checkAccuracy(attempt);
 
-                while (attemptAccurracy == 0) {
+                while (attemptAccuracy == 0) {
                     displayTryAgain();
 
-                    currVerse.printVerse();
+                    printVerse(currVerse);
 
-                    askForAttempt();
-
-                    currVerse.checkAccuracy(attempt);
+                    attempt = getAttempt(currVerse);
+                    currVerse->checkAccuracy(attempt);
                 }
             }
 
@@ -70,8 +71,10 @@ int main() {
         }
     }
 
-    /**/
-
     log("Build test success!");
     return 0;
+}
+
+Verse& intializeCurrVerse(Reference reference) {
+    return *(new Verse(reference));
 }

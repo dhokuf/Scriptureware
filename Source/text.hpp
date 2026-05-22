@@ -7,3 +7,12 @@ Date: May 2026
 
 #pragma once
 
+#include <string>
+#include <vector>
+
+#include "verse.hpp"
+
+using namespace std;
+
+vector<string> load(Reference reference);
+string getVerse(Reference reference);
