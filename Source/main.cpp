@@ -8,7 +8,6 @@ Date: May 2026
 #include "main.hpp"
 #include "ui.hpp"
 #include "verse.hpp"
-#include "text.hpp"
 
 // Comment this line out to disable development mode and remove debug output
 /**/ #define _DEVELOPMENT_MODE */

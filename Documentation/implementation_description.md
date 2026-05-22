@@ -8,9 +8,8 @@ V0.00 will be implemented using a simple object oriented programming approach. P
 | Task | File |
 | :--- | ---: |
 | Control of program logic flow | `main.cpp` |
-| Parsing and manipulation of inputs and outputs | `text.cpp` |
 | Menu and UI handling | `ui.cpp` |
-| low-level logic and helper functions | `logic.cpp` |
+| Verse class | `verse.cpp` |
 
 ### `main.cpp`
 
@@ -19,15 +18,6 @@ This file will contain the `main` function, which will contain the main applicat
 | :--- | ---:|
 | Loading texts from a file and parsing them into a vector | `int main` |
 | construct current verse | `void initializeCurrVerse` |
-
-
-### `text.cpp`
-
-This file will contain the code for all parsing and manipulation of file inputs and outputs. Its major tasks will include:
-| Task | Function|
-| :--- | ---:|
-| Loading texts from a file and parsing them into a vector | `vector<string> load` |
-| Returning a verse by reference | `string getVerse` |
 
 ### `ui.cpp`
 
@@ -58,6 +48,7 @@ This file will contain the code for the verse class which will contain private d
 | Checking user inputs against the current verse to check accuracy (0 or 100 for v1.0.0)| `int checkAccuracy` |
 | Obscuring texts by removing two words at a time by replacing letters with 'X' | `bool obscure` |
 | Get the verse text | `void getVerse` |
+| Returning a verse by reference (helper function) | `vector<string> loadVerse` |
 | Get the obscured verse text | `void getObscuredVerse` |
 | Updating verse text to the next verse | `Verse& operator++` |
 

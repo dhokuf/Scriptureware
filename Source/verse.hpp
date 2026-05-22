@@ -29,11 +29,12 @@ class Verse {
         vector<string> getObscuredVerse();
         Verse& operator++();
         bool endOfBookReached();
+        friend vector<string> loadVerse(Reference reference);
 
     private:
         Reference reference;
+        vector<string> text;
         vector<string> obscuredText;
-        int obscurityLevel;
         vector<bool> obscurityMap;
 
 

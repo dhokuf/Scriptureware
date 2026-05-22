@@ -5,7 +5,8 @@ Authors: David Hokuf and Benjamin Van Grouw
 Date: May 2026 
 */
 
-#include "text.hpp"
+#pragma once
+
 #include "verse.hpp"
 #include "ui.hpp"
 

@@ -4,3 +4,13 @@ Version  0.1.0 (alpha)
 Authors: David Hokuf and Benjamin Van Grouw
 Date: May 2026 
 */
+
+#include "verse.hpp"
+#include "ui.hpp"
+
+Verse::Verse(Reference reference) {
+    this->reference = reference;
+    text = loadVerse(reference);
+    obscuredText = text;
+
+}
