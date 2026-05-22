@@ -36,7 +36,7 @@ int main() {
 
         while (!endOfBookReached) {
             
-            askForAttempt();
+            attempt = askForAttempt();
 
             currVerse.checkAccurracy(attempt);
             
@@ -49,7 +49,7 @@ int main() {
 
         while (!endOfBookReached) {
             while (currVerse.obscure()) {
-                currVerse.printObscureVerse();
+                currVerse.printObscuredVerse();
 
                 askForAttempt();
 

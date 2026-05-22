@@ -14,7 +14,12 @@ V0.00 will be implemented using a simple object oriented programming approach. P
 
 ### `main.cpp`
 
-This file will just contain the `main` function. Its role will essentially just be calling other functions.
+This file will contain the `main` function, which will contain the main application loop and call the other functions. It will also contain helper functions for basic tasks in order to keep `main` as clean as possible.
+| Task | Function|
+| :--- | ---:|
+| Loading texts from a file and parsing them into a vector | `int main` |
+| construct current verse | `void initializeCurrVerse` |
+
 
 ### `text.cpp`
 
@@ -38,28 +43,22 @@ This file will contain the code for all handling of the main menu and general us
 | printing exit screen | `void displayExit` |
 | reading user input into a vector if not "quit" (otherwise quit program) | `vector<string> getUserAttempt` |
 
-### `logic.cpp`
-
-This file will contain the code for lower level logic:
-
-| Task | Function |
-| :--- | ---: |
-| construct current verse | `void initializeCurrVerse` |
-
-### 'verse.cpp`
+### `verse.cpp`
 
 This file will contain the code for the verse class which will contain private data members: the vector of strings representing the verse text, an identical vector that is obscured during memorization, the verse's book, chapter, and verse number, mutator and accessor functions, and friend functions that perform the logic tasks that partain directly to the verse. The tasks excluding simple accessing and mutating are:
 
 | Task | Function |
 | :--- | ---: |
-| checking user inputs against the current verse to check accuracy (0 or 100 for v1.0.0)| `int checkAccuracy` |
+| Constructor; initializing data | `Verse` |
+| Checking user inputs against the current verse to check accuracy (0 or 100 for v1.0.0)| `int checkAccuracy` |
 | Obscuring texts by removing two words at a time by replacing letters with 'X' | `bool obscure` |
 | Printing the verse text | `void printVerse` |
-| Printing the obscured verse | `void printObscureVerse` |
-| Updating verse text to the next verse | `verse operator++` |
+| Printing the obscured verse | `void printObscuredVerse` |
+| Updating verse text to the next verse | `Verse& operator++` |
 
 Detailed specifications of the individual functions are placed in the relevant header files.
 
 ## Text Formatting and Specs
 
-Scriptural texts are located in the `Texts` folder. Each book is located in its own file. Chapters are demarcated on a new line with `CHAPTER 1`, etc. Each verse is placed on a newline and preceded by its reference as an integer (e.g. `4 To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,`). The `Texts` folder also contains an `index.txt` file, which collects each file to be used in the program for convenience. The index file is formatted with a numerical index (`1`), a filename (`1peter.txt`), and the title in plain text, followed by a newline (`1 Peter`). In total: `1 1peter.txt 1 Peter`. Hopefully this should facilitate parsing as well as updates to the program.
+- Scriptural texts are located in the `Texts` folder. Each book is located in its own file. Chapters are demarcated on a new line with `CHAPTER 1`, etc. Each verse is placed on a newline and preceded by its reference as an integer (e.g. `4 To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,`). The `Texts` folder also contains an `index.txt` file, which collects each file to be used in the program for convenience. The index file is formatted with a numerical index (`1`), a filename (`1peter.txt`), and the title in plain text, followed by a newline (`1 Peter`). In total: `1 1peter.txt 1 Peter`. Hopefully this should facilitate parsing as well as updates to the program.
+- References in the program are formatted as `vector<int>` objects. Each vector contains three values corresponding to the book (as indexed), chapter, and verse.
