@@ -27,7 +27,7 @@ int main() {
 
     askForMode();
 
-    askForReference();                                     // initial currVerse
+    askForReference();                                 // for initial currVerse
 
     initializeCurrVerse();
 
@@ -49,7 +49,7 @@ int main() {
 
         while (!endOfBookReached) {
             while (currVerse.obscure()) {
-                currVerse.displayObscureVerse();
+                currVerse.printObscureVerse();
 
                 askForAttempt();
 
@@ -58,7 +58,7 @@ int main() {
                 while (attemptAccurracy == 0) {
                     displayTryAgain();
 
-                    currVerse.displayVerse();
+                    currVerse.printVerse();
 
                     askForAttempt();
 
