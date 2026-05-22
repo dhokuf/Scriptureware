@@ -4,13 +4,13 @@
 
 ## Project Structure
 
-V0.00 will be implemented using a simple object oriented programming approach. Program logic flow at a high level will be controlled by `main` in `main.cpp`. A verse class will contain all data and functions relating to the current verse. Other major tasks will be delegated to sub-functions, which will be placed in a separate file along with any helper functions required to perform the task. Other than the verse class, the major tasks for V0.00 are:
+V0.00 will be implemented using a simple object oriented programming approach. Program logic flow at a high level will be controlled by `main` in `main.cpp`. A verse class will contain all data and functions relating to the current verse. Other major tasks will be delegated to sub-functions, which will be placed in separate files along with any helper functions required to perform the task. Other than the verse class, the major tasks for V0.00 are:
 | Task | File |
 | :--- | ---: |
 | Control of program logic flow | `main.cpp` |
 | Parsing and manipulation of inputs and outputs | `text.cpp` |
 | Menu and UI handling | `ui.cpp` |
-| logic and input handling | `logic.cpp` |
+| low-level logic and helper functions | `logic.cpp` |
 
 ### `main.cpp`
 
@@ -34,8 +34,8 @@ This file will contain the code for all handling of the main menu and general us
 | clearing a single line | `void clearLine` |
 | printing a verse | `void printVerse` |
 | printing message after memorization completion | `void printMemorized` |
-| printing message after incorrect verse input | `void printTryAgain` |
-| printing exit screen | `void printExit` |
+| printing message after incorrect verse input | `void displayTryAgain` |
+| printing exit screen | `void displayExit` |
 | reading user input into a vector if not "quit" (otherwise quit program) | `vector<string> getUserAttempt` |
 
 ### `logic.cpp`
@@ -44,17 +44,19 @@ This file will contain the code for lower level logic:
 
 | Task | Function |
 | :--- | ---: |
+| construct current verse | `void initializeCurrVerse` |
 
 ### 'verse.cpp`
 
-This file will contain the code for the verse class which will contain the vector of strings representing the verse text, the verse's reference in the form of a string (chapter:verse), mutator and accessor functions, and friend functions that perform the logic tasks that partain directly to the verse. The logic tasks are:
+This file will contain the code for the verse class which will contain private data members: the vector of strings representing the verse text, an identical vector that is obscured during memorization, the verse's book, chapter, and verse number, mutator and accessor functions, and friend functions that perform the logic tasks that partain directly to the verse. The tasks excluding simple accessing and mutating are:
 
 | Task | Function |
 | :--- | ---: |
-| checking user inputs against the currently selected text to check accuracy (0 or 100 for v1.0.0)| `int checkAccuracy` |
-| asking for user attempt
+| checking user inputs against the current verse to check accuracy (0 or 100 for v1.0.0)| `int checkAccuracy` |
 | Obscuring texts by removing two words at a time by replacing letters with 'X' | `bool obscure` |
-
+| Printing the verse text | `void printVerse` |
+| Printing the obscured verse | `void printObscureVerse` |
+| Updating verse text to the next verse | `verse operator++` |
 
 Detailed specifications of the individual functions are placed in the relevant header files.
 
