@@ -13,9 +13,9 @@ namespace ui {
 
         clearScreen();
 
-        cout << "-------------Scriptureware!-------------\n";
+        cout << "------------ Scriptureware! ------------\n";
         cout << right << setw(20) << "Version:" << " 0.1.0 (alpha)\n";
-        cout << right << setw(20) << "Created by " 
+        cout << right << setw(20) << "Created by:" 
             << " David Hokuf and Benjamin Van Grouw\n";
         cout << right << setw(20) << "Last update:" << " May 2026\n";
         cout << right << setw(20) << "Currently supports:" 
@@ -26,27 +26,27 @@ namespace ui {
         
         Mode mode;
         string userInput;
-        bool waitingForValidInput = true;
+        bool ValidInput = false;
         
         cout << "Enter <1> to review, <2> to memorize new material, "
             << "or <quit> to exit: ";
         
-        while (waitingForValidInput) {
+        while (!ValidInput) {
             cin >> userInput;
 
             if (userInput == "1") {
                 mode = REVIEW;
-                waitingForValidInput = false;
+                ValidInput = true;
             }
             else if (userInput == "2") {
                 mode = MEMORIZE;
-                waitingForValidInput = false;
+                ValidInput = true;
             }
             else if (userInput == "quit") {
                 exit(0);
             }
             else {
-                cout << "\nPlease choose one of the provided options :) ";
+                cout << "Please choose one of the provided options (: ";
             }
         }
 
@@ -63,7 +63,9 @@ namespace ui {
 
         cout << "At what biblical text would you like to start?\n";
         cout         << right << setw(10) << "Book: ";
-        cin >> book;
+
+        cin.ignore();
+        getline(cin, book);
 
         clearLine();
 
@@ -83,13 +85,14 @@ namespace ui {
             }
             book.at(i) = tolower(book.at(i));
         }
+
         Reference reference;
+
         reference.book = book;
         reference.chapter = chapter;
         reference.verse = verse;
 
         return reference;
-
     }
 
     vector<string> getAttempt(Verse* verse) {
