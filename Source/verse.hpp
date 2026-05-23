@@ -13,7 +13,7 @@ using namespace std;
 
 struct Reference {
 
-    string book;
+    int book;
     int chapter;
     int verse;
 };
@@ -26,7 +26,7 @@ class Verse {
         Verse(Reference reference);
         int checkAccuracy(vector<string> attempt);
         bool obscure();
-        vector<string> getVerse();
+        vector<string> getVerse() { return text; }
         Reference getReference();
         vector<string> getObscuredVerse();
         Verse& operator++();

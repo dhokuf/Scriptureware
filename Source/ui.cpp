@@ -83,7 +83,7 @@ namespace ui {
 
     Reference askForReference() {
 
-        string book;
+        int book;
         int chapter;
         int verse;
 
@@ -94,26 +94,17 @@ namespace ui {
 
         clearLine();
 
-        cout << ACCENT << "\tEnter a chapter: " << loadIndex()->at(stoi(book)-1) << " ";
+        cout << ACCENT << "\tEnter a chapter: " << loadIndex()->at(book-1) << " ";
         cin >> chapter;
 
         clearLine();
 
-        cout << ACCENT << "\tEnter a verse: " << loadIndex()->at(stoi(book)-1) << " " << chapter << ":";
+        cout << ACCENT << "\tEnter a verse: " << loadIndex()->at(book-1) << " " << chapter << ":";
         cin >> verse;
         cout << endl;
 
-        // make book match name of its txt file
-        for (int i = 0; i < book.size(); i++) {
-            if (book.at(i) == ' ') {
-                book.erase(i, 1);
-            }
-            book.at(i) = tolower(book.at(i));
-        }
-
         Reference reference;
-
-        reference.book = book;
+        reference.book = book - 1;
         reference.chapter = chapter;
         reference.verse = verse;
 
@@ -126,14 +117,27 @@ namespace ui {
 
     }
 
-    void displayMemorizeScreen() {
-        cout << "-------------Memorizing-------------"; //FIXME: must say reference
-        cout << "Enter each verse as prompted. Enter <quit> to exit.";
+    void displayMemorizeScreen(Verse* verse) {
+
+        clearScreen();
+        string book = loadIndex()->at(verse->getReference().book);
+        string chapterAndVerse = to_string(verse->getReference().chapter) + ":"
+        + to_string(verse->getReference().verse);
+        cout << TITLE << "-------------Memorizing " << book << " " << chapterAndVerse
+            << "-------------\n";
+        cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
         //FIXME finish implementation
     }
 
-    void displayReviewScreen() {
+    void displayReviewScreen(Verse* verse) {
 
+        clearScreen();
+        string book = loadIndex()->at(verse->getReference().book);
+        string chapterAndVerse = to_string(verse->getReference().chapter) + ":"
+        + to_string(verse->getReference().verse);
+        cout << TITLE << "-------------Reviewing-------------\n";
+        cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
+        // FIXME finish implementation
     }
 
     void printVerse(Verse* verse) {
@@ -153,11 +157,11 @@ namespace ui {
     }
 
     void clearScreen() {
-        cout << CLEARSCREEN;
+        cout << CLEARSCREEN << endl;
     }
 
     void clearLine() {
-        cout << CLEARLINE << RESET;
+        cout << CLEARLINE << RESET << flush;
     }
 
     void displayExit() {
