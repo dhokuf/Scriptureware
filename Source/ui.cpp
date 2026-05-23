@@ -132,7 +132,8 @@ namespace ui {
     }
 
     void displayReviewScreen() {
-
+        cout << "-------------Reviewing-------------"; //FIXME: must say reference
+        cout << "Enter each verse as prompted. Enter <quit> to exit.";
     }
 
     void printVerse(Verse* verse) {
