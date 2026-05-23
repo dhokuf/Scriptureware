@@ -25,13 +25,9 @@ int main() {
     ui::displayHomeScreen();
 
     mode = ui::askForMode();
-
     reference = ui::askForReference();
-
     currVerse = &initializeCurrVerse(reference);
-
-    if (mode = REVIEW) {
-
+    if (mode == REVIEW) {
         ui::displayReviewScreen();
 
         while (!currVerse->endOfBookReached()) {
@@ -46,7 +42,7 @@ int main() {
         }
     }
 
-    else if (mode = MEMORIZE) {
+    else if (mode == MEMORIZE) {
         ui::displayMemorizeScreen();
 
         while (!currVerse->endOfBookReached()) {

@@ -5,7 +5,18 @@ Authors: David Hokuf and Benjamin Van Grouw
 Date: May 2026 
 */
 
+// Comment this line out to disable development mode and remove debug output
+/**/ #define _DEVELOPMENT_MODE */
+
+#ifdef _DEVELOPMENT_MODE
+    #include <iostream>
+    #define log(x) std::cout << "[DEBUG] " << x << std::endl
+#else
+    #define log(x)
+#endif
+
 #include "ui.hpp"
+#include "verse.hpp"
 
 namespace ui {
 
@@ -13,13 +24,11 @@ namespace ui {
 
         clearScreen();
 
-        cout << "------------ Scriptureware! ------------\n";
-        cout << right << setw(20) << "Version:" << " 0.1.0 (alpha)\n";
-        cout << right << setw(20) << "Created by:" 
-            << " David Hokuf and Benjamin Van Grouw\n";
-        cout << right << setw(20) << "Last update:" << " May 2026\n";
-        cout << right << setw(20) << "Currently supports:" 
-            << " 1 Peter [5 chapters]\n\n";
+        cout << TITLE << "\n\n-------------Scriptureware!-------------\n";
+        cout << CREDITS << "Version: " << VERSION;
+        cout << "Created by " << AUTHORS;
+        cout << "Last update: " << LASTUPDATE;
+        cout << "Currently supports: " << SUPPORT << RESET << endl;
     }
 
     Mode askForMode() {
@@ -28,8 +37,8 @@ namespace ui {
         string userInput;
         bool ValidInput = false;
         
-        cout << "Enter <1> to review, <2> to memorize new material, "
-            << "or <quit> to exit: ";
+        cout << INSTRUCTIONS << "Enter <1> to review, <2> to memorize new material, "
+            << "or <quit> to exit: " << RESET;
         
         while (!ValidInput) {
             cin >> userInput;
@@ -51,8 +60,25 @@ namespace ui {
         }
 
         cout << endl;
-
         return mode;
+    }
+
+    void displayIndex() {
+
+        vector<string>* index = loadIndex();
+        cout << INSTRUCTIONS << "Index: \n\t" << ACCENT;
+
+        int columnCounter = 0;
+        for (int i = 0; i < index->size(); i++) {
+            cout << left << setw(30) << (to_string((i+1)) + ": " + index->at(i));
+            columnCounter++;
+            if (columnCounter > 2) {
+                cout << "\n\t";
+                columnCounter = 0;
+            }
+        }
+       cout << endl;
+
     }
 
     Reference askForReference() {
@@ -61,20 +87,19 @@ namespace ui {
         int chapter;
         int verse;
 
-        cout << "At what biblical text would you like to start?\n";
-        cout         << right << setw(10) << "Book: ";
-
-        cin.ignore();
-        getline(cin, book);
+        displayIndex();
+        cout << INSTRUCTIONS << "What biblical text would you like to begin with?\n";
+        cout << ACCENT << "\tEnter a book: " << RESET;
+        cin >> book;
 
         clearLine();
 
-        cout << right << setw(10) << "Chapter: " << book << " ";
+        cout << ACCENT << "\tEnter a chapter: " << loadIndex()->at(stoi(book)-1) << " ";
         cin >> chapter;
 
         clearLine();
 
-        cout << right << setw(10) << "Verse: " << book << " " << chapter << ":";
+        cout << ACCENT << "\tEnter a verse: " << loadIndex()->at(stoi(book)-1) << " " << chapter << ":";
         cin >> verse;
         cout << endl;
 
@@ -128,11 +153,11 @@ namespace ui {
     }
 
     void clearScreen() {
-        cout << "\033[2J\033[1;1H";
+        cout << CLEARSCREEN;
     }
 
     void clearLine() {
-        cout << "\033[A\033[2K";
+        cout << CLEARLINE << RESET;
     }
 
     void displayExit() {
