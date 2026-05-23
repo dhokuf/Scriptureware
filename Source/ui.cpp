@@ -13,13 +13,11 @@ namespace ui {
 
         clearScreen();
 
-        cout << "-------------Scriptureware!-------------\n";
-        cout << right << setw(20) << "Version:" << " 0.1.0 (alpha)\n";
-        cout << right << setw(20) << "Created by " 
-            << " David Hokuf and Benjamin Van Grouw\n";
-        cout << right << setw(20) << "Last update:" << " May 2026\n";
-        cout << right << setw(20) << "Currently supports:" 
-            << " 1 Peter [5 chapters]\n\n";
+        cout << TITLE << "\n\n-------------Scriptureware!-------------\n";
+        cout << CREDITS << "Version: " << VERSION;
+        cout << "Created by " << AUTHORS;
+        cout << "Last update: " << LASTUPDATE;
+        cout << "Currently supports: " << SUPPORT << RESET << endl;
     }
 
     Mode askForMode() {
@@ -28,8 +26,8 @@ namespace ui {
         string userInput;
         bool waitingForValidInput = true;
         
-        cout << "Enter <1> to review, <2> to memorize new material, "
-            << "or <quit> to exit: ";
+        cout << INSTRUCTIONS << "Enter <1> to review, <2> to memorize new material, "
+            << "or <quit> to exit: " << RESET;
         
         while (waitingForValidInput) {
             cin >> userInput;
@@ -61,8 +59,8 @@ namespace ui {
         int chapter;
         int verse;
 
-        cout << "At what biblical text would you like to start?\n";
-        cout         << right << setw(10) << "Book: ";
+        cout << INSTRUCTIONS << "What biblical text would you like to begin with?\n";
+        cout << ACCENT << right << setw(10) << "Book: " << RESET;
         cin >> book;
 
         clearLine();
@@ -125,11 +123,11 @@ namespace ui {
     }
 
     void clearScreen() {
-        cout << "\033[2J\033[1;1H";
+        cout << CLEARSCREEN;
     }
 
     void clearLine() {
-        cout << "\033[A\033[2K";
+        cout << CLEARLINE << RESET;
     }
 
     void displayExit() {
