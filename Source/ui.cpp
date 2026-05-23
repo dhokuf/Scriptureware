@@ -104,7 +104,7 @@ namespace ui {
         cout << endl;
 
         Reference reference;
-        reference.book = book;
+        reference.book = book - 1;
         reference.chapter = chapter;
         reference.verse = verse;
 
@@ -118,19 +118,26 @@ namespace ui {
 
     }
 
-    void displayMemorizeScreen() {
+    void displayMemorizeScreen(Verse* verse) {
 
         clearScreen();
-        cout << "-------------Memorizing-------------\n"; //FIXME: must say reference
-        cout << "Enter each verse as prompted. Enter <quit> to exit." << endl;
+        string book = loadIndex()->at(verse->getReference().book);
+        string chapterAndVerse = to_string(verse->getReference().chapter) + ":"
+        + to_string(verse->getReference().verse);
+        cout << TITLE << "-------------Memorizing " << book << " " << chapterAndVerse
+            << "-------------\n";
+        cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
         //FIXME finish implementation
     }
 
-    void displayReviewScreen() {
+    void displayReviewScreen(Verse* verse) {
 
         clearScreen();
-        cout << "-------------Reviewing-------------\n"; //FIXME: must say reference
-        cout << "Enter each verse as prompted. Enter <quit> to exit." << endl;
+        string book = loadIndex()->at(verse->getReference().book);
+        string chapterAndVerse = to_string(verse->getReference().chapter) + ":"
+        + to_string(verse->getReference().verse);
+        cout << TITLE << "-------------Reviewing-------------\n";
+        cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
         // FIXME finish implementation
     }
 

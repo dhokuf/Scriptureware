@@ -38,8 +38,8 @@ namespace ui {
     void displayHomeScreen();
     Mode askForMode();
     Reference askForReference();
-    void displayMemorizeScreen();
-    void displayReviewScreen();
+    void displayMemorizeScreen(Verse* verse);
+    void displayReviewScreen(Verse* verse);
     void clearScreen();
     void clearLine();
     void printVerse(Verse* verse);

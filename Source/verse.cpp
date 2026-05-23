@@ -11,11 +11,11 @@ Date: May 2026
 vector<string>* loadIndex() {
     vector<string>* index = new vector<string>;
     index->push_back("1 Peter");
-    index->push_back("Fake test data");
-    index->push_back("Fake test data");
-    index->push_back("Fake test data");
-    index->push_back("Fake test data");
-    index->push_back("Fake test data");
+    index->push_back("Matthew");
+    index->push_back("Mark");
+    index->push_back("Luke");
+    index->push_back("3 John");
+    index->push_back("Jude");
     return index;
 }
 
@@ -29,20 +29,14 @@ Verse::Verse(Reference reference) {
 }
 
 int Verse::checkAccuracy(vector<string> attempt) {
-
-    return 100;
+    if (attempt == text) return 100;
+    return 0;
 
 }
 
 bool Verse::obscure() {
 
     return true;
-
-}
-
-vector<string> Verse::getVerse() {
-
-    return vector<string>();
 
 }
 
@@ -72,6 +66,8 @@ bool Verse::endOfBookReached() {
 
 vector<string> Verse::loadVerse(Reference reference) {
     
-    return vector<string>();
+    vector<string> verse;
+    verse.push_back("Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,");
+    return verse;
 
 }
