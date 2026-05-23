@@ -13,7 +13,7 @@ using namespace std;
 
 struct Reference {
 
-    string book;
+    int book;
     int chapter;
     int verse;
 };

@@ -83,7 +83,7 @@ namespace ui {
 
     Reference askForReference() {
 
-        string book;
+        int book;
         int chapter;
         int verse;
 
@@ -94,22 +94,15 @@ namespace ui {
 
         clearLine();
 
-        cout << ACCENT << "\tEnter a chapter: " << loadIndex()->at(stoi(book)-1) << " ";
+        cout << ACCENT << "\tEnter a chapter: " << loadIndex()->at(book-1) << " ";
         cin >> chapter;
 
         clearLine();
 
-        cout << ACCENT << "\tEnter a verse: " << loadIndex()->at(stoi(book)-1) << " " << chapter << ":";
+        cout << ACCENT << "\tEnter a verse: " << loadIndex()->at(book-1) << " " << chapter << ":";
         cin >> verse;
         cout << endl;
 
-        // make book match name of its txt file
-        for (int i = 0; i < book.size(); i++) {
-            if (book.at(i) == ' ') {
-                book.erase(i, 1);
-            }
-            book.at(i) = tolower(book.at(i));
-        }
         Reference reference;
         reference.book = book;
         reference.chapter = chapter;
@@ -126,14 +119,19 @@ namespace ui {
     }
 
     void displayMemorizeScreen() {
-        cout << "-------------Memorizing-------------"; //FIXME: must say reference
-        cout << "Enter each verse as prompted. Enter <quit> to exit.";
+
+        clearScreen();
+        cout << "-------------Memorizing-------------\n"; //FIXME: must say reference
+        cout << "Enter each verse as prompted. Enter <quit> to exit." << endl;
         //FIXME finish implementation
     }
 
     void displayReviewScreen() {
-        cout << "-------------Reviewing-------------"; //FIXME: must say reference
-        cout << "Enter each verse as prompted. Enter <quit> to exit.";
+
+        clearScreen();
+        cout << "-------------Reviewing-------------\n"; //FIXME: must say reference
+        cout << "Enter each verse as prompted. Enter <quit> to exit." << endl;
+        // FIXME finish implementation
     }
 
     void printVerse(Verse* verse) {
@@ -153,11 +151,11 @@ namespace ui {
     }
 
     void clearScreen() {
-        cout << CLEARSCREEN;
+        cout << CLEARSCREEN << endl;
     }
 
     void clearLine() {
-        cout << CLEARLINE << RESET;
+        cout << CLEARLINE << RESET << flush;
     }
 
     void displayExit() {

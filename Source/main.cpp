@@ -43,6 +43,7 @@ int main() {
     }
 
     else if (mode == MEMORIZE) {
+        
         ui::displayMemorizeScreen();
 
         while (!currVerse->endOfBookReached()) {
