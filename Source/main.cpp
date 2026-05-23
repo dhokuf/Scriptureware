@@ -26,9 +26,9 @@ int main() {
 
     displayHomeScreen();
 
-    mode = askForMode();
+    askForMode();
 
-    askForReference();                                 // for initial currVerse
+    askForReference();
 
     currVerse = &initializeCurrVerse();
 
@@ -42,10 +42,10 @@ int main() {
             attemptAccuracy = currVerse->checkAccuracy(attempt);
             
             if (attemptAccuracy == 100) { currVerse++;       }
-            else                         { displayTryAgain(); }
+            else                        { displayTryAgain(); }
         }
     }
-    else if (mode = MEMORIZE) {                                                     // if memorizing
+    else if (mode = MEMORIZE) {
         displayMemorizeScreen();
 
         while (!currVerse->endOfBookReached()) {

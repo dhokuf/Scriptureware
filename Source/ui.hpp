@@ -7,6 +7,9 @@ Date: May 2026
 
 #pragma once
 
+#include <iostream>
+#include <iomanip>
+#include <cstdlib>
 #include "verse.hpp"
 
 using namespace std;
@@ -15,10 +18,10 @@ enum Mode { REVIEW, MEMORIZE };
 
 void displayHeader();
 void displayHomeScreen();
+void askForMode();
+void askForReference();
 void displayMemorizeScreen();
 void displayReviewScreen();
-Mode askForMode();
-void askForReference();
 void clearScreen();
 void clearLine();
 void printVerse(Verse* verse);
