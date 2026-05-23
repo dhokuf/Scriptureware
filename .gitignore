@@ -6,6 +6,7 @@
 # ---------- Manual Additions ----------
 
 *.exe
+.vscode/
 
 # --------------------------------------
 # User-specific files
