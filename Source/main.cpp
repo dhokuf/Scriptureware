@@ -19,49 +19,50 @@ Date: May 2026
     #define log(x)
 #endif
 
-Verse& initializeCurrVerse();
-
 // And so it begins...
 int main() {
 
-    displayHomeScreen();
+    ui::displayHomeScreen();
 
-    askForMode();
+    mode = ui::askForMode();
 
-    askForReference();
+    reference = ui::askForReference();
 
-    currVerse = &initializeCurrVerse();
+    currVerse = &initializeCurrVerse(reference);
 
     if (mode = REVIEW) {
-        displayReviewScreen();
+
+        ui::displayReviewScreen();
 
         while (!currVerse->endOfBookReached()) {
             
-            attempt = getAttempt(currVerse);
+            attempt = ui::getAttempt(currVerse);
 
             attemptAccuracy = currVerse->checkAccuracy(attempt);
             
             if (attemptAccuracy == 100) { currVerse++;       }
-            else                        { displayTryAgain(); }
+            else                        { ui::displayTryAgain(); }
+
         }
     }
+
     else if (mode = MEMORIZE) {
-        displayMemorizeScreen();
+        ui::displayMemorizeScreen();
 
         while (!currVerse->endOfBookReached()) {
             while (currVerse->obscure()) {
-                printObscuredVerse(currVerse);
+                ui::printObscuredVerse(currVerse);
 
-                attempt = getAttempt(currVerse);
+                attempt = ui::getAttempt(currVerse);
 
                 attemptAccuracy = currVerse->checkAccuracy(attempt);
 
                 while (attemptAccuracy == 0) {
-                    displayTryAgain();
+                    ui::displayTryAgain();
 
-                    printVerse(currVerse);
+                    ui::printVerse(currVerse);
 
-                    attempt = getAttempt(currVerse);
+                    attempt = ui::getAttempt(currVerse);
                     currVerse->checkAccuracy(attempt);
                 }
             }
@@ -74,6 +75,6 @@ int main() {
     return 0;
 }
 
-Verse& intializeCurrVerse(Reference reference) {
-    return *(new Verse(reference));
+Verse& initializeCurrVerse(Reference ref) {
+    return *(new Verse(ref));
 }

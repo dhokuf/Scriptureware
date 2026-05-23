@@ -16,17 +16,18 @@ using namespace std;
 
 enum Mode { REVIEW, MEMORIZE };
 
-void displayHeader();
-void displayHomeScreen();
-void askForMode();
-void askForReference();
-void displayMemorizeScreen();
-void displayReviewScreen();
-void clearScreen();
-void clearLine();
-void printVerse(Verse* verse);
-void printObscuredVerse(Verse* verse);
-void printMemorized();
-void displayTryAgain();
-void displayExit();
-vector<string> getAttempt(Verse* verse);
+namespace ui {
+    void displayHomeScreen();
+    Mode askForMode();
+    Reference askForReference();
+    void displayMemorizeScreen();
+    void displayReviewScreen();
+    void clearScreen();
+    void clearLine();
+    void printVerse(Verse* verse);
+    void printObscuredVerse(Verse* verse);
+    void printMemorized();
+    void displayTryAgain();
+    void displayExit();
+    vector<string> getAttempt(Verse* verse);
+}

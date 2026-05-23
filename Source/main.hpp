@@ -15,6 +15,8 @@ Date: May 2026
 
 using namespace std;
 
+Verse& initializeCurrVerse(Reference ref);
+
 Mode mode;
 Reference reference;
 vector<string> attempt;

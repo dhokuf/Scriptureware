@@ -24,7 +24,6 @@ This file will contain the `main` function, which will contain the main applicat
 This file will contain the code for all handling of the main menu and general user interface. This is mostly just output functions and global inputs:
 | Task | Function |
 | :--- | ---: |
-| Displaying the Scriptureware header | `void displayHeader` |
 | Displaying homescreen main menu | `void displayHomeScreen` |
 | Display memorize screen | `void displayMemorizeScreen` |
 | Display review screen | `void displayReviewScreen` |
