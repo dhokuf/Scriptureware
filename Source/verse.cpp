@@ -8,6 +8,17 @@ Date: May 2026
 #include "verse.hpp"
 #include "ui.hpp"
 
+vector<string>* loadIndex() {
+    vector<string>* index = new vector<string>;
+    index->push_back("1 Peter");
+    index->push_back("Fake test data");
+    index->push_back("Fake test data");
+    index->push_back("Fake test data");
+    index->push_back("Fake test data");
+    index->push_back("Fake test data");
+    return index;
+}
+
 Verse::Verse(Reference reference) {
 
     this->reference = reference;
@@ -37,7 +48,7 @@ vector<string> Verse::getVerse() {
 
 Reference Verse::getReference() {
 
-    return Reference();
+    return reference;
 
 }
 

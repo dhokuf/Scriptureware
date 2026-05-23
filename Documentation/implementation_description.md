@@ -35,6 +35,7 @@ This file will contain the code for all handling of the main menu and general us
 | Printing message after memorization completion | `void printMemorized` |
 | Printing message after incorrect verse input | `void displayTryAgain` |
 | Printing exit screen | `void displayExit` |
+| Displaying index of books | `void displayIndex` |
 | Reading user input into a vector if not "quit" (otherwise quit program) | `vector<string> getAttempt` |
 
 ### `verse.cpp`
@@ -50,6 +51,7 @@ This file will contain the code for the verse class which will contain private d
 | Returning a verse by reference (helper function) | `vector<string> loadVerse` |
 | Get the obscured verse text | `void getObscuredVerse` |
 | Updating verse text to the next verse | `Verse& operator++` |
+| Loading the index into an array | `vector<string> loadIndex` |
 
 Detailed specifications of the individual functions are placed in the relevant header files.
 

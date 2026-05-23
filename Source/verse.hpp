@@ -18,6 +18,8 @@ struct Reference {
     int verse;
 };
 
+vector<string>* loadIndex();
+
 class Verse {
 
     public:

@@ -27,9 +27,9 @@ using namespace std;
 #define CLEARLINE "\033[A\033[2K"
 
 #define TITLE "\x1b[1;38;5;68m"
-#define CREDITS "\x1b[38;5;130m"
+#define CREDITS "\x1b[1;38;5;130m"
 #define INSTRUCTIONS "\x1b[1;38;5;68m"
-#define ACCENT "\x1b[38;5;130m"
+#define ACCENT "\x1b[1;38;5;130m"
 #define RESET "\x1b[0m"
 
 enum Mode { REVIEW, MEMORIZE };
@@ -47,5 +47,6 @@ namespace ui {
     void printMemorized();
     void displayTryAgain();
     void displayExit();
+    void displayIndex();
     vector<string> getAttempt(Verse* verse);
 }
