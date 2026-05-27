@@ -5,17 +5,39 @@ Authors: David Hokuf and Benjamin Van Grouw
 Date: May 2026 
 */
 
+// Comment this line out to disable development mode and remove debug output
+/**/ #define _DEVELOPMENT_MODE */
+
+#ifdef _DEVELOPMENT_MODE
+    #include <iostream>
+    #define log(x) std::cout << "[DEBUG] " << x << std::endl
+#else
+    #define log(x)
+#endif
+
+#include <fstream>
+#include <sstream>
+
 #include "verse.hpp"
 #include "ui.hpp"
 
 vector<string>* loadIndex() {
+
     vector<string>* index = new vector<string>;
-    index->push_back("1 Peter");
-    index->push_back("Matthew");
-    index->push_back("Mark");
-    index->push_back("Luke");
-    index->push_back("3 John");
-    index->push_back("Jude");
+    ifstream indexFile("../Texts/index");
+    string line;
+    string bookTitle;
+
+    while (getline(indexFile, line)) {
+        istringstream currLine(line);
+        // Consume the file name
+        currLine >> bookTitle;
+        // Get the rest of the line
+        getline(currLine, bookTitle);
+        index->push_back(bookTitle);
+    }
+
+    indexFile.close();
     return index;
 }
 
