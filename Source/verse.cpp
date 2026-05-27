@@ -8,13 +8,6 @@ Date: May 2026
 // Comment this line out to disable development mode and remove debug output
 /**/ #define _DEVELOPMENT_MODE */
 
-#ifdef _DEVELOPMENT_MODE
-    #include <iostream>
-    #define log(x) std::cout << "[DEBUG] " << x << std::endl
-#else
-    #define log(x)
-#endif
-
 #include <fstream>
 #include <sstream>
 
@@ -44,7 +37,7 @@ vector<string>* loadIndex() {
 Verse::Verse(Reference reference) {
 
     this->reference = reference;
-    text = loadVerse(reference);
+    text = loadVerse();
     obscuredText = text;
     obscurityMask = vector<bool>(obscuredText.size(), false);
 
@@ -86,10 +79,43 @@ bool Verse::endOfBookReached() {
 
 }
 
-vector<string> Verse::loadVerse(Reference reference) {
-    
-    vector<string> verse;
-    verse.push_back("Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,");
-    return verse;
+vector<string> Verse::loadVerse() {
+
+    vector<string> returnVerse;
+    string textFolder = TEXTFOLDER;
+    ifstream index(textFolder + "index");
+    string bookIndex;
+    for (int i = 0; i <= reference.book; i++) {
+        getline(index, bookIndex);
+    }
+    istringstream line(bookIndex);
+    string fileName;
+    line >> fileName;
+    ifstream book(textFolder + fileName);
+    string token;
+    int currChapter;
+    while (book >> token) {
+        if (token == "CHAPTER") {
+            book >> currChapter;
+            log(currChapter);
+            if (currChapter == reference.chapter) break;
+        }
+    }
+    book.ignore(); // Go to the end of the line
+    string currLine;
+    int verseIndex;
+    while (getline(book, currLine)) {
+        istringstream verse(currLine);
+        verse >> verseIndex;
+        if (verseIndex == reference.verse) {
+            string currWord;
+            verse >> currWord;
+            while (currWord != "\n") {
+                returnVerse.push_back(currWord);
+                verse >> currWord;
+            }
+        }
+    }
+    return returnVerse;
 
 }

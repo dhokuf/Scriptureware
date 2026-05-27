@@ -7,9 +7,18 @@ Date: May 2026
 
 #pragma once
 
+#ifdef _DEVELOPMENT_MODE
+    #include <iostream>
+    #define log(x) std::cout << "[DEBUG] " << x << std::endl
+#else
+    #define log(x)
+#endif
+
 #include <vector>
 #include <string>
 using namespace std;
+
+#define TEXTFOLDER "../Texts/"
 
 struct Reference {
 
@@ -31,9 +40,10 @@ class Verse {
         vector<string> getObscuredVerse();
         Verse& operator++();
         bool endOfBookReached();
+        vector<string> loadVerse();
 
     private:
-        vector<string> loadVerse(Reference reference);
+        
         Reference reference;
         vector<string> text;
         vector<string> obscuredText;

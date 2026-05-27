@@ -9,16 +9,6 @@ Date: May 2026
 #include "ui.hpp"
 #include "verse.hpp"
 
-// Comment this line out to disable development mode and remove debug output
-/**/ #define _DEVELOPMENT_MODE */
-
-#ifdef _DEVELOPMENT_MODE
-    #include <iostream>
-    #define log(x) std::cout << "[DEBUG] " << x << std::endl
-#else
-    #define log(x)
-#endif
-
 // And so it begins...
 int main() {
 

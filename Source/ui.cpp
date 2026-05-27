@@ -128,6 +128,12 @@ namespace ui {
             << "-------------\n";
         cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
         //FIXME finish implementation
+        log("Verse loading test: ");
+        vector<string> currVerse = verse->loadVerse();
+        while (!currVerse.empty()) {
+            log(currVerse.back());
+            currVerse.pop_back();
+        }
     }
 
     void displayReviewScreen(Verse* verse) {
