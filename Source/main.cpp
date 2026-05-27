@@ -35,7 +35,7 @@ int main() {
     else if (mode == MEMORIZE) {
         
         ui::displayMemorizeScreen(currVerse);
-
+        
         while (!currVerse->endOfBookReached()) {
             while (currVerse->obscure()) {
                 ui::printObscuredVerse(currVerse);

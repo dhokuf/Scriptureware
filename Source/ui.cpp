@@ -115,6 +115,8 @@ namespace ui {
 
     vector<string> getAttempt(Verse* verse) {
         
+        string newString;
+        cin >> newString;
         return vector<string>();
 
     }
@@ -128,10 +130,6 @@ namespace ui {
         cout << TITLE << "-------------Memorizing " << book << " " << chapterAndVerse
             << "-------------\n";
         cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
-        
-        // Test
-        log("Verse loading test: ");
-        log(verse->prettyPrint());
         //FIXME finish implementation
     }
 
@@ -143,9 +141,6 @@ namespace ui {
         + to_string(verse->getReference().verse);
         cout << TITLE << "-------------Reviewing-------------\n";
         cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
-        // Test
-        log("Verse loading test: ");
-        log(verse->prettyPrint());
         // FIXME finish implementation
     }
 
