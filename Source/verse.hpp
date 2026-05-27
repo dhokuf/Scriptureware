@@ -40,10 +40,10 @@ class Verse {
         vector<string> getObscuredVerse();
         Verse& operator++();
         bool endOfBookReached();
-        vector<string> loadVerse();
+        string prettyPrint();
 
     private:
-        
+        vector<string> loadVerse();
         Reference reference;
         vector<string> text;
         vector<string> obscuredText;

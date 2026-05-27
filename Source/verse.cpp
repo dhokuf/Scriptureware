@@ -73,6 +73,15 @@ Verse& Verse::operator++() {
 
 }
 
+string Verse::prettyPrint() {
+
+    string returnVal;
+    for (string currWord : text) {
+        returnVal += currWord += " ";
+    }
+    return returnVal;
+}
+
 bool Verse::endOfBookReached() {
     
     return false;
@@ -97,7 +106,6 @@ vector<string> Verse::loadVerse() {
     while (book >> token) {
         if (token == "CHAPTER") {
             book >> currChapter;
-            log(currChapter);
             if (currChapter == reference.chapter) break;
         }
     }
@@ -109,11 +117,10 @@ vector<string> Verse::loadVerse() {
         verse >> verseIndex;
         if (verseIndex == reference.verse) {
             string currWord;
-            verse >> currWord;
-            while (currWord != "\n") {
+            while (verse >> currWord) {
                 returnVerse.push_back(currWord);
-                verse >> currWord;
             }
+            break;
         }
     }
     return returnVerse;
