@@ -82,6 +82,15 @@ string Verse::prettyPrint() {
     return returnVal;
 }
 
+string Verse::prettyPrintObscured() {
+
+    string returnVal;
+    for (string currWord : obscuredText) {
+        returnVal += currWord += " ";
+    }
+    return returnVal;
+}
+
 bool Verse::endOfBookReached() {
     
     return false;

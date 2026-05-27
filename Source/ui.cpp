@@ -52,6 +52,7 @@ namespace ui {
                 waitingForValidInput = false;
             }
             else if (userInput == "quit") {
+                displayExit();
                 exit(0);
             }
             else {
@@ -127,9 +128,11 @@ namespace ui {
         cout << TITLE << "-------------Memorizing " << book << " " << chapterAndVerse
             << "-------------\n";
         cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
-        //FIXME finish implementation
+        
+        // Test
         log("Verse loading test: ");
         log(verse->prettyPrint());
+        //FIXME finish implementation
     }
 
     void displayReviewScreen(Verse* verse) {
@@ -140,15 +143,18 @@ namespace ui {
         + to_string(verse->getReference().verse);
         cout << TITLE << "-------------Reviewing-------------\n";
         cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
+        // Test
+        log("Verse loading test: ");
+        log(verse->prettyPrint());
         // FIXME finish implementation
     }
 
     void printVerse(Verse* verse) {
-
+        cout << verse->prettyPrint() << endl;
     }
 
     void printObscuredVerse(Verse* verse) {
-
+        cout << verse->prettyPrintObscured() << endl;
     }
 
     void printMemorized() {
@@ -156,7 +162,7 @@ namespace ui {
     }
 
     void displayTryAgain() {
-
+        
     }
 
     void clearScreen() {
@@ -168,7 +174,9 @@ namespace ui {
     }
 
     void displayExit() {
-        
+        cout << RESET << TITLE;
+        cout << "\n-------------Exiting Scriptureware-------------\n" << endl;
+        cout << RESET;
     }
 
 }

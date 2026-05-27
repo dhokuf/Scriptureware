@@ -41,6 +41,7 @@ class Verse {
         Verse& operator++();
         bool endOfBookReached();
         string prettyPrint();
+        string prettyPrintObscured();
 
     private:
         vector<string> loadVerse();
