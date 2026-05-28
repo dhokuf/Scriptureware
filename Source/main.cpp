@@ -35,6 +35,9 @@ int main() {
     else if (mode == MEMORIZE) {
         
         ui::displayMemorizeScreen(currVerse);
+        // Note: you have to prefix it like this and dereference the pointer
+        ++(*currVerse);
+        ui::displayMemorizeScreen(currVerse);
         /*
         while (!currVerse->endOfBookReached()) {
             while (currVerse->obscure()) {
@@ -59,7 +62,6 @@ int main() {
         */
     }
 
-    log("Build test success!");
     return 0;
 }
 

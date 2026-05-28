@@ -59,16 +59,19 @@ bool Verse::obscure() {
     int obscured = true;
 
     for (bool i : obscurityMask) {
-        if (!i) obscured = false;
+        if (!i) {
+            obscured = false; 
+        }
     }
+
     if (obscured) return true;
 
     srand(time(0));
     while (!selected) {
-        index = rand() % (obscurityMask.size() + 1);
+        index = rand() % (obscurityMask.size());
         if (!obscurityMask.at(index)) {
             obscurityMask.at(index) = true;
-            break;
+            selected = true;
         }
     }
 
@@ -76,7 +79,7 @@ bool Verse::obscure() {
     string output;
     for (int i = 0; i < input.length(); i++) output += "X";
     obscuredText[index] = output;
-    return true;
+    return false;
 
 }
 
@@ -94,7 +97,16 @@ vector<string> Verse::getObscuredVerse() {
 
 Verse& Verse::operator++() {
 
-    return *(new Verse(reference));
+    reference.verse += 1;
+    if (endOfChapterReached()) {
+        reference.chapter += 1;
+        reference.verse = 0;
+    }
+
+    text = obscuredText = loadVerse();
+    obscurityMask = vector<bool>(obscuredText.size(), false);
+    
+    return *this;
 
 }
 

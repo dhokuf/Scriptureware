@@ -144,7 +144,10 @@ namespace ui {
         cout << TITLE << "-------------Memorizing " << book << " " << chapterAndVerse
             << "-------------\n";
         cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
-        verse->obscure();
+        // Test
+        while (!verse->obscure()) {
+            printObscuredVerse(verse);
+        }
         //FIXME finish implementation
     }
 
