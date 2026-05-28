@@ -12,7 +12,7 @@ Date: May 2026
     #include <iostream>
     #define log(x) std::cout << "[DEBUG] " << x << std::endl
 #else
-    #define log(x)
+    #define log(x);
 #endif
 
 #include "ui.hpp"
@@ -87,27 +87,41 @@ namespace ui {
         int book;
         int chapter;
         int verse;
-
+        Reference reference;
+        bool done = false;
+        
         displayIndex();
         cout << INSTRUCTIONS << "What biblical text would you like to begin with?\n";
-        cout << ACCENT << "\tEnter a book: " << RESET;
-        cin >> book;
 
-        clearLine();
+        while (!done) {
+            
+            cout << ACCENT << "\tEnter a book: " << RESET;
+            cin >> book;
+            if ((book) > loadIndex()->size()) {
+                cout << INSTRUCTIONS << "\nInvalid reference. Please try again: " << RESET << endl;
+                continue;
+            }
 
-        cout << ACCENT << "\tEnter a chapter: " << loadIndex()->at(book-1) << " ";
-        cin >> chapter;
+            clearLine();
 
-        clearLine();
+            cout << ACCENT << "\tEnter a chapter: " << loadIndex()->at(book-1) << " ";
+            cin >> chapter;
 
-        cout << ACCENT << "\tEnter a verse: " << loadIndex()->at(book-1) << " " << chapter << ":";
-        cin >> verse;
-        cout << endl;
+            clearLine();
 
-        Reference reference;
-        reference.book = book - 1;
-        reference.chapter = chapter;
-        reference.verse = verse;
+            cout << ACCENT << "\tEnter a verse: " << loadIndex()->at(book-1) << " " << chapter << ":";
+            cin >> verse;
+            cout << endl;
+
+            reference.book = book - 1;
+            reference.chapter = chapter;
+            reference.verse = verse;
+
+            Verse tempVerse(reference);
+            if (tempVerse.loadVerse().empty()) {
+                cout << INSTRUCTIONS << "Invalid reference. Please try again: " << RESET << endl;
+            } else done = true;
+        }
 
         return reference;
 
@@ -130,6 +144,7 @@ namespace ui {
         cout << TITLE << "-------------Memorizing " << book << " " << chapterAndVerse
             << "-------------\n";
         cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
+        verse->obscure();
         //FIXME finish implementation
     }
 

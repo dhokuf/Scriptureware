@@ -10,6 +10,8 @@ Date: May 2026
 
 #include <fstream>
 #include <sstream>
+#include <cstdlib>
+#include <ctime>
 
 #include "verse.hpp"
 #include "ui.hpp"
@@ -17,6 +19,7 @@ Date: May 2026
 vector<string>* loadIndex() {
 
     vector<string>* index = new vector<string>;
+    index->reserve(100);
     ifstream indexFile("../Texts/index");
     string line;
     string bookTitle;
@@ -51,6 +54,28 @@ int Verse::checkAccuracy(vector<string> attempt) {
 
 bool Verse::obscure() {
 
+    bool selected = false;
+    int index;
+    int obscured = true;
+
+    for (bool i : obscurityMask) {
+        if (!i) obscured = false;
+    }
+    if (obscured) return true;
+
+    srand(time(0));
+    while (!selected) {
+        index = rand() % (obscurityMask.size() + 1);
+        if (!obscurityMask.at(index)) {
+            obscurityMask.at(index) = true;
+            break;
+        }
+    }
+
+    string input = obscuredText.at(index);
+    string output;
+    for (int i = 0; i < input.length(); i++) output += "X";
+    obscuredText[index] = output;
     return true;
 
 }
@@ -92,9 +117,21 @@ string Verse::prettyPrintObscured() {
 }
 
 bool Verse::endOfBookReached() {
-    
+
+    if (!endOfChapterReached()) return false;
+    Reference tempRef = reference;
+    tempRef.chapter += 1;
+    tempRef.verse = 0;
+    Verse tempVerse(tempRef);
+    if (tempVerse.loadVerse().empty()) return true;
     return false;
 
+}
+
+bool Verse::endOfChapterReached() {
+
+    if (loadVerse().empty()) return true;
+    return false;
 }
 
 vector<string> Verse::loadVerse() {
