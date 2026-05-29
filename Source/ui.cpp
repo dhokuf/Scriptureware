@@ -127,11 +127,21 @@ namespace ui {
 
     }
 
-    vector<string> getAttempt(Verse* verse) {
+    vector<string>* getAttempt(Verse* verse) {
         
-        string newString;
-        cin >> newString;
-        return vector<string>();
+        string inString;
+        Reference reference = verse->getReference();
+        cout << ACCENT << loadIndex()->at(reference.book) << " " << reference.chapter 
+        << ":" << reference.verse << " > " << RESET;
+        cin >> inString;
+        istringstream input(inString);
+        vector<string> *attempt = new vector<string>;
+        attempt->reserve(100);
+        string curr;
+        while (input >> curr) {
+            attempt->push_back(curr);
+        }
+        return attempt;
 
     }
 
@@ -144,11 +154,6 @@ namespace ui {
         cout << TITLE << "-------------Memorizing " << book << " " << chapterAndVerse
             << "-------------\n";
         cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
-        // Test
-        while (!verse->obscure()) {
-            printObscuredVerse(verse);
-        }
-        //FIXME finish implementation
     }
 
     void displayReviewScreen(Verse* verse) {
@@ -159,7 +164,18 @@ namespace ui {
         + to_string(verse->getReference().verse);
         cout << TITLE << "-------------Reviewing-------------\n";
         cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
-        // FIXME finish implementation
+    }
+
+    void displayMemorizeExit(int memorized) {
+        cout << TITLE << "---------- Exiting Memorization ----------" << endl;
+        cout << ACCENT << "Memorization stats: you memorized " << memorized 
+        << ((memorized == 1) ? "verse " : "verses ") << RESET << endl;
+    }
+
+    void displayReviewExit(int reviewed, int correct) {
+        cout << TITLE << "---------- Exiting Review ----------" << endl;
+        cout << ACCENT << "You reviewed " << reviewed << " " << ((reviewed == 1) ? "verse " : "verses ")
+        << "with " << correct << "/" << reviewed << " correct" << RESET << endl;
     }
 
     void printVerse(Verse* verse) {
@@ -171,11 +187,13 @@ namespace ui {
     }
 
     void printMemorized() {
-
+        cout << INSTRUCTIONS << "Memorization Complete!" << endl;
     }
 
-    void displayTryAgain() {
-        
+    void displayTryAgain(Verse* verse) {
+
+        cout << INSTRUCTIONS << "Incorrect! Please try again: " << endl;
+        printVerse(verse);
     }
 
     void clearScreen() {

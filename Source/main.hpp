@@ -29,7 +29,11 @@ Verse& initializeCurrVerse(Reference ref);
 
 Mode mode;
 Reference reference;
-vector<string> attempt;
+vector<string>* attempt;
 Verse* currVerse = nullptr;
 
+int memorized;
+int reviewed;
+int correct;
 int attemptAccuracy;
+bool incorrectAttempt;

@@ -17,19 +17,36 @@ int main() {
     mode = ui::askForMode();
     reference = ui::askForReference();
     currVerse = &initializeCurrVerse(reference);
+
     if (mode == REVIEW) {
+        
+        reviewed = correct = incorrectAttempt = 0;
+
         ui::displayReviewScreen(currVerse);
 
         while (!currVerse->endOfBookReached()) {
             
             attempt = ui::getAttempt(currVerse);
 
-            attemptAccuracy = currVerse->checkAccuracy(attempt);
+            if (attempt->at(0) == "quit") break;
+            attemptAccuracy = currVerse->checkAccuracy(*attempt);
             
-            if (attemptAccuracy == 100) { currVerse++;       }
-            else                        { ui::displayTryAgain(); }
+            if (attemptAccuracy == 100) { 
+                
+                reviewed++;
+                currVerse++;
+                if (!incorrectAttempt) correct++;
+                incorrectAttempt = false;
 
+            } else { 
+
+                incorrectAttempt = true;
+                ui::displayTryAgain(currVerse); 
+            }
+        
         }
+
+        ui::displayReviewExit(reviewed, correct);
     }
 
     else if (mode == MEMORIZE) {

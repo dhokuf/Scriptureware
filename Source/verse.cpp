@@ -47,6 +47,11 @@ Verse::Verse(Reference reference) {
 }
 
 int Verse::checkAccuracy(vector<string> attempt) {
+    string entered, correct;
+    for (string curr : attempt) entered += curr;
+    for (string curr : text) correct += curr;
+    log(entered);
+    log(correct);
     if (attempt == text) return 100;
     return 0;
 
@@ -105,7 +110,7 @@ Verse& Verse::operator++() {
 
     text = obscuredText = loadVerse();
     obscurityMask = vector<bool>(obscuredText.size(), false);
-    
+
     return *this;
 
 }
