@@ -47,6 +47,7 @@ namespace ui {
     void printVerse(Verse* verse);
     void printObscuredVerse(Verse* verse);
     void printMemorized();
+    void displayCorrect();
     void displayTryAgain(Verse* verse);
     void displayExit();
     void displayIndex();

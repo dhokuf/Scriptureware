@@ -153,7 +153,8 @@ namespace ui {
         + to_string(verse->getReference().verse);
         cout << TITLE << "-------------Memorizing " << book << " " << chapterAndVerse
             << "-------------\n";
-        cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
+        cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." 
+        << RESET << endl;
     }
 
     void displayReviewScreen(Verse* verse) {
@@ -163,7 +164,8 @@ namespace ui {
         string chapterAndVerse = to_string(verse->getReference().chapter) + ":"
         + to_string(verse->getReference().verse);
         cout << TITLE << "-------------Reviewing-------------\n";
-        cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
+        cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit.\n" 
+        << RESET << endl;
     }
 
     void displayMemorizeExit(int memorized) {
@@ -194,6 +196,10 @@ namespace ui {
 
         cout << INSTRUCTIONS << "Incorrect! Please try again: " << endl;
         printVerse(verse);
+    }
+
+    void displayCorrect() {
+        cout << INSTRUCTIONS << " Correct!" << RESET << endl;
     }
 
     void clearScreen() {

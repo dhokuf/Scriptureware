@@ -21,20 +21,18 @@ int main() {
     if (mode == REVIEW) {
         
         reviewed = correct = incorrectAttempt = 0;
-
         ui::displayReviewScreen(currVerse);
-
         while (!currVerse->endOfBookReached()) {
-            log("Beginning while loop");
-            attempt = ui::getAttempt(currVerse);
 
+            attempt = ui::getAttempt(currVerse);
             if (attempt->at(0) == "quit") break;
             attemptAccuracy = currVerse->checkAccuracy(*attempt);
             
             if (attemptAccuracy == 100) { 
                 
                 reviewed++;
-                currVerse++;
+                ++(*currVerse);
+                ui::displayCorrect();
                 if (!incorrectAttempt) correct++;
                 incorrectAttempt = false;
 
@@ -43,7 +41,7 @@ int main() {
                 incorrectAttempt = true;
                 ui::displayTryAgain(currVerse); 
             }
-        
+            
         }
 
         ui::displayReviewExit(reviewed, correct);

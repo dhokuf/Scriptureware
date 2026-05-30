@@ -103,7 +103,7 @@ Verse& Verse::operator++() {
     reference.verse += 1;
     if (endOfChapterReached()) {
         reference.chapter += 1;
-        reference.verse = 0;
+        reference.verse = 1;
     }
 
     text = obscuredText = loadVerse();
@@ -136,14 +136,10 @@ bool Verse::endOfBookReached() {
     if (!endOfChapterReached()) return false;
     Reference tempRef;
     tempRef.book = reference.book;
-    tempRef.chapter += 1;
-    tempRef.verse = 0;
-    log(tempRef.book);
-    log(tempRef.chapter);
-    log(tempRef.verse);
+    tempRef.chapter = reference.chapter + 1;
+    tempRef.verse = 1;
     Verse tempVerse(tempRef);
     if (tempVerse.loadVerse().empty()) {
-        log("End of book");
         return true;
     }
     return false;
