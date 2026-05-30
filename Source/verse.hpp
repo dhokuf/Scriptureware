@@ -7,15 +7,26 @@ Date: May 2026
 
 #pragma once
 
+#ifdef _DEVELOPMENT_MODE
+    #include <iostream>
+    #define log(x) std::cout << "[DEBUG] " << x << std::endl
+#else
+    #define log(x)
+#endif
+
 #include <vector>
 #include <string>
 using namespace std;
+
+#define TEXTFOLDER "../Texts/"
 
 struct Reference {
 
     int book;
     int chapter;
     int verse;
+
+    Reference(int b = 0, int c = 0, int v = 0) : book(b), chapter(c), verse(v) {}
 };
 
 vector<string>* loadIndex();
@@ -31,9 +42,12 @@ class Verse {
         vector<string> getObscuredVerse();
         Verse& operator++();
         bool endOfBookReached();
+        bool endOfChapterReached();
+        string prettyPrint();
+        string prettyPrintObscured();
+        vector<string> loadVerse();
 
     private:
-        vector<string> loadVerse(Reference reference);
         Reference reference;
         vector<string> text;
         vector<string> obscuredText;

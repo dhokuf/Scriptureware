@@ -12,7 +12,7 @@ Date: May 2026
     #include <iostream>
     #define log(x) std::cout << "[DEBUG] " << x << std::endl
 #else
-    #define log(x)
+    #define log(x);
 #endif
 
 #include "ui.hpp"
@@ -52,6 +52,7 @@ namespace ui {
                 ValidInput = true;
             }
             else if (userInput == "quit") {
+                displayExit();
                 exit(0);
             }
             else {
@@ -86,34 +87,60 @@ namespace ui {
         int book;
         int chapter;
         int verse;
-
+        Reference reference;
+        bool done = false;
+        
         displayIndex();
         cout << INSTRUCTIONS << "What biblical text would you like to begin with?\n";
-        cout << ACCENT << "\tEnter a book: " << RESET;
-        cin >> book;
 
-        clearLine();
+        while (!done) {
+            
+            cout << ACCENT << "\tEnter a book: " << RESET;
+            cin >> book;
+            if ((book) > loadIndex()->size()) {
+                cout << INSTRUCTIONS << "\nInvalid reference. Please try again: " << RESET << endl;
+                continue;
+            }
 
-        cout << ACCENT << "\tEnter a chapter: " << loadIndex()->at(book-1) << " ";
-        cin >> chapter;
+            clearLine();
 
-        clearLine();
+            cout << ACCENT << "\tEnter a chapter: " << loadIndex()->at(book-1) << " ";
+            cin >> chapter;
 
-        cout << ACCENT << "\tEnter a verse: " << loadIndex()->at(book-1) << " " << chapter << ":";
-        cin >> verse;
-        cout << endl;
+            clearLine();
 
-        Reference reference;
-        reference.book = book - 1;
-        reference.chapter = chapter;
-        reference.verse = verse;
+            cout << ACCENT << "\tEnter a verse: " << loadIndex()->at(book-1) << " " << chapter << ":";
+            cin >> verse;
+            cout << endl;
+
+            reference.book = book - 1;
+            reference.chapter = chapter;
+            reference.verse = verse;
+
+            Verse tempVerse(reference);
+            if (tempVerse.loadVerse().empty()) {
+                cout << INSTRUCTIONS << "Invalid reference. Please try again: " << RESET << endl;
+            } else done = true;
+        }
 
         return reference;
     }
 
-    vector<string> getAttempt(Verse* verse) {
+    vector<string>* getAttempt(Verse* verse) {
         
-        return vector<string>();
+        string inString;
+        Reference reference = verse->getReference();
+        cout << ACCENT << loadIndex()->at(reference.book) << " " << reference.chapter 
+        << ":" << reference.verse << " > " << RESET;
+        getline(cin >> ws, inString);
+        istringstream input(inString);
+        vector<string> *attempt = new vector<string>;
+        attempt->reserve(100);
+        string curr;
+        while (input >> curr) {
+            attempt->push_back(curr);
+        }
+        return attempt;
 
     }
 
@@ -125,8 +152,8 @@ namespace ui {
         + to_string(verse->getReference().verse);
         cout << TITLE << "-------------Memorizing " << book << " " << chapterAndVerse
             << "-------------\n";
-        cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
-        //FIXME finish implementation
+        cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." 
+        << RESET << endl;
     }
 
     void displayReviewScreen(Verse* verse) {
@@ -136,24 +163,42 @@ namespace ui {
         string chapterAndVerse = to_string(verse->getReference().chapter) + ":"
         + to_string(verse->getReference().verse);
         cout << TITLE << "-------------Reviewing-------------\n";
-        cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." << RESET << endl;
-        // FIXME finish implementation
+        cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit.\n" 
+        << RESET << endl;
+    }
+
+    void displayMemorizeExit(int memorized) {
+        cout << TITLE << "---------- Exiting Memorization ----------" << endl;
+        cout << ACCENT << "Memorization stats: you memorized " << memorized 
+        << ((memorized == 1) ? "verse " : "verses ") << RESET << endl;
+    }
+
+    void displayReviewExit(int reviewed, int correct) {
+        cout << TITLE << "---------- Exiting Review ----------" << endl;
+        cout << ACCENT << "You reviewed " << reviewed << " " << ((reviewed == 1) ? "verse " : "verses ")
+        << "with " << correct << "/" << reviewed << " correct" << RESET << endl;
     }
 
     void printVerse(Verse* verse) {
-
+        cout << verse->prettyPrint() << endl;
     }
 
     void printObscuredVerse(Verse* verse) {
-
+        cout << verse->prettyPrintObscured() << endl;
     }
 
     void printMemorized() {
-
+        cout << INSTRUCTIONS << "Memorization Complete!" << endl;
     }
 
-    void displayTryAgain() {
+    void displayTryAgain(Verse* verse) {
 
+        cout << INSTRUCTIONS << "Incorrect! Please try again: " << endl;
+        printVerse(verse);
+    }
+
+    void displayCorrect() {
+        cout << INSTRUCTIONS << " Correct!" << RESET << endl;
     }
 
     void clearScreen() {
@@ -165,7 +210,9 @@ namespace ui {
     }
 
     void displayExit() {
-        
+        cout << RESET << TITLE;
+        cout << "\n-------------Exiting Scriptureware-------------\n" << endl;
+        cout << RESET;
     }
 
 }

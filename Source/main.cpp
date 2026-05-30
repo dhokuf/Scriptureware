@@ -9,16 +9,6 @@ Date: May 2026
 #include "ui.hpp"
 #include "verse.hpp"
 
-// Comment this line out to disable development mode and remove debug output
-/**/ #define _DEVELOPMENT_MODE */
-
-#ifdef _DEVELOPMENT_MODE
-    #include <iostream>
-    #define log(x) std::cout << "[DEBUG] " << x << std::endl
-#else
-    #define log(x)
-#endif
-
 // And so it begins...
 int main() {
 
@@ -27,25 +17,43 @@ int main() {
     mode = ui::askForMode();
     reference = ui::askForReference();
     currVerse = &initializeCurrVerse(reference);
+
     if (mode == REVIEW) {
+        
+        reviewed = correct = incorrectAttempt = 0;
         ui::displayReviewScreen(currVerse);
-
         while (!currVerse->endOfBookReached()) {
-            
+
             attempt = ui::getAttempt(currVerse);
-
-            attemptAccuracy = currVerse->checkAccuracy(attempt);
+            if (attempt->at(0) == "quit") break;
+            attemptAccuracy = currVerse->checkAccuracy(*attempt);
             
-            if (attemptAccuracy == 100) { currVerse++;       }
-            else                        { ui::displayTryAgain(); }
+            if (attemptAccuracy == 100) { 
+                
+                reviewed++;
+                ++(*currVerse);
+                ui::displayCorrect();
+                if (!incorrectAttempt) correct++;
+                incorrectAttempt = false;
 
+            } else { 
+
+                incorrectAttempt = true;
+                ui::displayTryAgain(currVerse); 
+            }
+            
         }
+
+        ui::displayReviewExit(reviewed, correct);
     }
 
     else if (mode == MEMORIZE) {
         
         ui::displayMemorizeScreen(currVerse);
-
+        // Note: you have to prefix it like this and dereference the pointer
+        ++(*currVerse);
+        ui::displayMemorizeScreen(currVerse);
+        /*
         while (!currVerse->endOfBookReached()) {
             while (currVerse->obscure()) {
                 ui::printObscuredVerse(currVerse);
@@ -66,9 +74,9 @@ int main() {
 
             currVerse++;
         }
+        */
     }
 
-    log("Build test success!");
     return 0;
 }
 

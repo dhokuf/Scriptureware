@@ -39,14 +39,17 @@ namespace ui {
     Mode askForMode();
     Reference askForReference();
     void displayMemorizeScreen(Verse* verse);
+    void displayMemorizeExit(int memorized);
     void displayReviewScreen(Verse* verse);
+    void displayReviewExit(int reviewed, int correct);
     void clearScreen();
     void clearLine();
     void printVerse(Verse* verse);
     void printObscuredVerse(Verse* verse);
     void printMemorized();
-    void displayTryAgain();
+    void displayCorrect();
+    void displayTryAgain(Verse* verse);
     void displayExit();
     void displayIndex();
-    vector<string> getAttempt(Verse* verse);
+    vector<string>* getAttempt(Verse* verse);
 }

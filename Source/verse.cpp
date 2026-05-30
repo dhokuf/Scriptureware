@@ -5,30 +5,51 @@ Authors: David Hokuf and Benjamin Van Grouw
 Date: May 2026 
 */
 
+// Comment this line out to disable development mode and remove debug output
+/**/ #define _DEVELOPMENT_MODE */
+
+#include <fstream>
+#include <sstream>
+#include <cstdlib>
+#include <ctime>
+
 #include "verse.hpp"
 #include "ui.hpp"
 
 vector<string>* loadIndex() {
+
     vector<string>* index = new vector<string>;
-    index->push_back("1 Peter");
-    index->push_back("Matthew");
-    index->push_back("Mark");
-    index->push_back("Luke");
-    index->push_back("3 John");
-    index->push_back("Jude");
+    index->reserve(100);
+    ifstream indexFile("../Texts/index");
+    string line;
+    string bookTitle;
+
+    while (getline(indexFile, line)) {
+        istringstream currLine(line);
+        // Consume the file name
+        currLine >> bookTitle;
+        // Get the rest of the line
+        getline(currLine, bookTitle);
+        index->push_back(bookTitle);
+    }
+
+    indexFile.close();
     return index;
 }
 
 Verse::Verse(Reference reference) {
 
     this->reference = reference;
-    text = loadVerse(reference);
+    text = loadVerse();
     obscuredText = text;
     obscurityMask = vector<bool>(obscuredText.size(), false);
 
 }
 
 int Verse::checkAccuracy(vector<string> attempt) {
+    string entered, correct;
+    for (string curr : attempt) entered += curr;
+    for (string curr : text) correct += curr;
     if (attempt == text) return 100;
     return 0;
 
@@ -36,7 +57,32 @@ int Verse::checkAccuracy(vector<string> attempt) {
 
 bool Verse::obscure() {
 
-    return true;
+    bool selected = false;
+    int index;
+    int obscured = true;
+
+    for (bool i : obscurityMask) {
+        if (!i) {
+            obscured = false; 
+        }
+    }
+
+    if (obscured) return true;
+
+    srand(time(0));
+    while (!selected) {
+        index = rand() % (obscurityMask.size());
+        if (!obscurityMask.at(index)) {
+            obscurityMask.at(index) = true;
+            selected = true;
+        }
+    }
+
+    string input = obscuredText.at(index);
+    string output;
+    for (int i = 0; i < input.length(); i++) output += "X";
+    obscuredText[index] = output;
+    return false;
 
 }
 
@@ -54,20 +100,93 @@ vector<string> Verse::getObscuredVerse() {
 
 Verse& Verse::operator++() {
 
-    return *(new Verse(reference));
+    reference.verse += 1;
+    if (endOfChapterReached()) {
+        reference.chapter += 1;
+        reference.verse = 1;
+    }
+
+    text = obscuredText = loadVerse();
+    obscurityMask = vector<bool>(obscuredText.size(), false);
+
+    return *this;
 
 }
 
+string Verse::prettyPrint() {
+
+    string returnVal;
+    for (string currWord : text) {
+        returnVal += currWord += " ";
+    }
+    return returnVal;
+}
+
+string Verse::prettyPrintObscured() {
+
+    string returnVal;
+    for (string currWord : obscuredText) {
+        returnVal += currWord += " ";
+    }
+    return returnVal;
+}
+
 bool Verse::endOfBookReached() {
-    
+
+    if (!endOfChapterReached()) return false;
+    Reference tempRef;
+    tempRef.book = reference.book;
+    tempRef.chapter = reference.chapter + 1;
+    tempRef.verse = 1;
+    Verse tempVerse(tempRef);
+    if (tempVerse.loadVerse().empty()) {
+        return true;
+    }
     return false;
 
 }
 
-vector<string> Verse::loadVerse(Reference reference) {
-    
-    vector<string> verse;
-    verse.push_back("Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,");
-    return verse;
+bool Verse::endOfChapterReached() {
+
+    if (loadVerse().empty()) return true;
+    return false;
+}
+
+vector<string> Verse::loadVerse() {
+
+    vector<string> returnVerse;
+    string textFolder = TEXTFOLDER;
+    ifstream index(textFolder + "index");
+    string bookIndex;
+    for (int i = 0; i <= reference.book; i++) {
+        getline(index, bookIndex);
+    }
+    istringstream line(bookIndex);
+    string fileName;
+    line >> fileName;
+    ifstream book(textFolder + fileName);
+    string token;
+    int currChapter;
+    while (book >> token) {
+        if (token == "CHAPTER") {
+            book >> currChapter;
+            if (currChapter == reference.chapter) break;
+        }
+    }
+    book.ignore(); // Go to the end of the line
+    string currLine;
+    int verseIndex;
+    while (getline(book, currLine)) {
+        istringstream verse(currLine);
+        verse >> verseIndex;
+        if (verseIndex == reference.verse) {
+            string currWord;
+            while (verse >> currWord) {
+                returnVerse.push_back(currWord);
+            }
+            break;
+        }
+    }
+    return returnVerse;
 
 }
