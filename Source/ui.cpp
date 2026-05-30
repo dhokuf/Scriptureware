@@ -133,7 +133,7 @@ namespace ui {
         Reference reference = verse->getReference();
         cout << ACCENT << loadIndex()->at(reference.book) << " " << reference.chapter 
         << ":" << reference.verse << " > " << RESET;
-        cin >> inString;
+        getline(cin >> ws, inString);
         istringstream input(inString);
         vector<string> *attempt = new vector<string>;
         attempt->reserve(100);

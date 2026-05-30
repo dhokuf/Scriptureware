@@ -50,8 +50,6 @@ int Verse::checkAccuracy(vector<string> attempt) {
     string entered, correct;
     for (string curr : attempt) entered += curr;
     for (string curr : text) correct += curr;
-    log(entered);
-    log(correct);
     if (attempt == text) return 100;
     return 0;
 
@@ -136,11 +134,18 @@ string Verse::prettyPrintObscured() {
 bool Verse::endOfBookReached() {
 
     if (!endOfChapterReached()) return false;
-    Reference tempRef = reference;
+    Reference tempRef;
+    tempRef.book = reference.book;
     tempRef.chapter += 1;
     tempRef.verse = 0;
+    log(tempRef.book);
+    log(tempRef.chapter);
+    log(tempRef.verse);
     Verse tempVerse(tempRef);
-    if (tempVerse.loadVerse().empty()) return true;
+    if (tempVerse.loadVerse().empty()) {
+        log("End of book");
+        return true;
+    }
     return false;
 
 }

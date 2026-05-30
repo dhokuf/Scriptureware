@@ -25,7 +25,7 @@ int main() {
         ui::displayReviewScreen(currVerse);
 
         while (!currVerse->endOfBookReached()) {
-            
+            log("Beginning while loop");
             attempt = ui::getAttempt(currVerse);
 
             if (attempt->at(0) == "quit") break;
