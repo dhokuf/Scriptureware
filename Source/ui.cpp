@@ -43,6 +43,8 @@ namespace ui {
         while (!ValidInput) {
             cin >> userInput;
 
+            clearInputBuffer();
+
             if (userInput == "1") {
                 mode = REVIEW;
                 ValidInput = true;
@@ -89,6 +91,7 @@ namespace ui {
         int verse;
         Reference reference;
         bool done = false;
+
         
         displayIndex();
         cout << INSTRUCTIONS << "With what biblical text would you like to begin?\n";
@@ -97,9 +100,12 @@ namespace ui {
             
             cout << ACCENT << "\tEnter a book: " << RESET;
             cin >> book;
-            string dump;
-            getline(cin, dump);
-            if ((book) > loadIndex()->size()) {
+
+            clearInputBuffer();
+
+            if (cin.fail() || (book) > loadIndex()->size()) {
+                cin.clear();
+                clearInputBuffer();
                 cout << INSTRUCTIONS << "\nInvalid reference. Please try again: " << RESET << endl;
                 continue;
             }
@@ -109,10 +115,15 @@ namespace ui {
             cout << ACCENT << "\tEnter a chapter: " << loadIndex()->at(book-1) << " ";
             cin >> chapter;
 
+            clearInputBuffer();
+
             clearLine();
 
             cout << ACCENT << "\tEnter a verse: " << loadIndex()->at(book-1) << " " << chapter << ":";
             cin >> verse;
+
+            clearInputBuffer();
+
             cout << endl;
 
             reference.book = book - 1;
@@ -144,6 +155,12 @@ namespace ui {
         }
         return attempt;
 
+    }
+
+    void clearInputBuffer() {
+        //dump rest of input line if any
+        string dump;
+        getline(cin, dump);
     }
 
     void displayMemorizeScreen(Verse* verse) {

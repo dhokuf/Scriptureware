@@ -52,4 +52,5 @@ namespace ui {
     void displayExit();
     void displayIndex();
     vector<string>* getAttempt(Verse* verse);
+    void clearInputBuffer();
 }
