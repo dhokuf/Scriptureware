@@ -80,7 +80,7 @@ bool Verse::obscure() {
 
     string input = obscuredText.at(index);
     string output;
-    for (int i = 0; i < input.length(); i++) output += "X";
+    for (int i = 0; i < input.length(); i++) output += "_";
     obscuredText[index] = output;
     return false;
 

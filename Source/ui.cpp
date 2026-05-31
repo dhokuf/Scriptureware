@@ -91,12 +91,14 @@ namespace ui {
         bool done = false;
         
         displayIndex();
-        cout << INSTRUCTIONS << "What biblical text would you like to begin with?\n";
+        cout << INSTRUCTIONS << "With what biblical text would you like to begin?\n";
 
         while (!done) {
             
             cout << ACCENT << "\tEnter a book: " << RESET;
             cin >> book;
+            string dump;
+            getline(cin, dump);
             if ((book) > loadIndex()->size()) {
                 cout << INSTRUCTIONS << "\nInvalid reference. Please try again: " << RESET << endl;
                 continue;
@@ -150,7 +152,7 @@ namespace ui {
         string book = loadIndex()->at(verse->getReference().book);
         string chapterAndVerse = to_string(verse->getReference().chapter) + ":"
         + to_string(verse->getReference().verse);
-        cout << TITLE << "-------------Memorizing " << book << " " << chapterAndVerse
+        cout << TITLE << "-------------Memorizing" << book << " " << chapterAndVerse
             << "-------------\n";
         cout << ACCENT << "Enter each verse as prompted. Enter <quit> to exit." 
         << RESET << endl;
@@ -170,12 +172,12 @@ namespace ui {
     void displayMemorizeExit(int memorized) {
         cout << TITLE << "---------- Exiting Memorization ----------" << endl;
         cout << ACCENT << "Memorization stats: you memorized " << memorized 
-        << ((memorized == 1) ? "verse " : "verses ") << RESET << endl;
+        << ((memorized == 1) ? " verse " : " verses ") << RESET << endl;
     }
 
     void displayReviewExit(int reviewed, int correct) {
         cout << TITLE << "---------- Exiting Review ----------" << endl;
-        cout << ACCENT << "You reviewed " << reviewed << " " << ((reviewed == 1) ? "verse " : "verses ")
+        cout << ACCENT << "You reviewed " << reviewed << " " << ((reviewed == 1) ? " verse " : " verses ")
         << "with " << correct << "/" << reviewed << " correct" << RESET << endl;
     }
 
