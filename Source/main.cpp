@@ -50,33 +50,11 @@ int main() {
     else if (mode == MEMORIZE) {
         
         memorized = 0;
-        ui::displayMemorizeScreen(currVerse);
         while (!currVerse->endOfBookReached()) {
-
-            //do memorize sequence before obscuring
-            ui::printObscuredVerse(currVerse);
-
-            attempt = ui::getAttempt(currVerse);
-            if (attempt->at(0) == "quit") {
-                ui::displayMemorizeExit(memorized);
-                exit(0);
-            }
-            attemptAccuracy = currVerse->checkAccuracy(*attempt);
-
-            while (attemptAccuracy == 0) {
-                ui::displayTryAgain(currVerse);
-
-                attempt = ui::getAttempt(currVerse);
-                if (attempt->at(0) == "quit") {
-                    ui::displayMemorizeExit(memorized);
-                    exit(0);
-                }
-                attemptAccuracy = currVerse->checkAccuracy(*attempt);
-            }
             
-            while (!currVerse->obscure()) {
-                
-                
+            do {
+                ui::clearScreen();
+                ui::displayMemorizeScreen(currVerse);
                 ui::printObscuredVerse(currVerse);
 
                 attempt = ui::getAttempt(currVerse);
@@ -96,7 +74,7 @@ int main() {
                     }
                     attemptAccuracy = currVerse->checkAccuracy(*attempt);
                 }
-            }
+            } while (!currVerse->obscure());
 
             memorized++;
             ++(*currVerse);
