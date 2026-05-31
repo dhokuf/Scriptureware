@@ -194,7 +194,7 @@ namespace ui {
 
     void displayReviewExit(int reviewed, int correct) {
         cout << TITLE << "---------- Exiting Review ----------" << endl;
-        cout << ACCENT << "You reviewed " << reviewed << " " << ((reviewed == 1) ? " verse " : " verses ")
+        cout << ACCENT << "You reviewed " << reviewed << ((reviewed == 1) ? " verse " : " verses ")
         << "with " << correct << "/" << reviewed << " correct" << RESET << endl;
     }
 
