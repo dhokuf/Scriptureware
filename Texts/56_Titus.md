@@ -5,7 +5,7 @@
 1. Paul, a servant of God and an apostle of Jesus Christ, for the sake of the faith of God’s elect and their knowledge of the truth, which accords with godliness,
 2. in hope of eternal life, which God, who never lies, promised before the ages began
 3. and at the proper time manifested in his word through the preaching with which I have been entrusted by the command of God our Savior;
-4. To Titus, my true child in a common faith : Grace and peace from God the Father and Christ Jesus our Savior.
+4. To Titus, my true child in a common faith: Grace and peace from God the Father and Christ Jesus our Savior.
 5. This is why I left you in Crete, so that you might put what remained into order, and appoint elders in every town as I directed you —
 6. if anyone is above reproach, the husband of one wife, and his children are believers and not open to the charge of debauchery or insubordination.
 7. For an overseer, as God’s steward, must be above reproach. He must not be arrogant or quick-tempered or a drunkard or violent or greedy for gain,

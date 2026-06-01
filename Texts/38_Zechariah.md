@@ -4,7 +4,7 @@
 
 1. In the eighth month, in the second year of Darius, the word of the Lord came to the prophet Zechariah, the son of Berechiah, son of Iddo, saying,
 2. The Lord was very angry with your fathers.
-3. Therefore say to them, Thus declares the Lord of hosts : Return to me, says the Lord of hosts, and I will return to you, says the Lord of hosts.
+3. Therefore say to them, Thus declares the Lord of hosts: Return to me, says the Lord of hosts, and I will return to you, says the Lord of hosts.
 4. Do not be like your fathers, to whom the former prophets cried out, Thus says the Lord of hosts, Return from your evil ways and from your evil deeds. But they did not hear or pay attention to me, declares the Lord.
 5. Your fathers, where are they? And the prophets, do they live forever?
 6. But my words and my statutes, which I commanded my servants the prophets, did they not overtake your fathers? So they repented and said, As the Lord of hosts purposed to deal with us for our ways and deeds, so has he dealt with us.
@@ -15,10 +15,10 @@
 11. And they answered the angel of the Lord who was standing among the myrtle trees, and said, We have patrolled the earth, and behold, all the earth remains at rest.
 12. Then the angel of the Lord said, O Lord of hosts, how long will you have no mercy on Jerusalem and the cities of Judah, against which you have been angry these seventy years?
 13. And the Lord answered gracious and comforting words to the angel who talked with me.
-14. So the angel who talked with me said to me, Cry out, Thus says the Lord of hosts : I am exceedingly jealous for Jerusalem and for Zion.
+14. So the angel who talked with me said to me, Cry out, Thus says the Lord of hosts: I am exceedingly jealous for Jerusalem and for Zion.
 15. And I am exceedingly angry with the nations that are at ease; for while I was angry but a little, they furthered the disaster.
 16. Therefore, thus says the Lord, I have returned to Jerusalem with mercy; my house shall be built in it, declares the Lord of hosts, and the measuring line shall be stretched out over Jerusalem.
-17. Cry out again, Thus says the Lord of hosts : My cities shall again overflow with prosperity, and the Lord will again comfort Zion and again choose Jerusalem.
+17. Cry out again, Thus says the Lord of hosts: My cities shall again overflow with prosperity, and the Lord will again comfort Zion and again choose Jerusalem.
 18. And I lifted my eyes and saw, and behold, four horns!
 19. And I said to the angel who talked with me, What are these? And he said to me, These are the horns that have scattered Judah, Israel, and Jerusalem.
 20. Then the Lord showed me four craftsmen.
@@ -33,7 +33,7 @@
 5. And I will be to her a wall of fire all around, declares the Lord, and I will be the glory in her midst.
 6. Up! Up! Flee from the land of the north, declares the Lord. For I have spread you abroad as the four winds of the heavens, declares the Lord.
 7. Up! Escape to Zion, you who dwell with the daughter of Babylon.
-8. For thus said the Lord of hosts, after his glory sent me to the nations who plundered you, for he who touches you touches the apple of his eye :
+8. For thus said the Lord of hosts, after his glory sent me to the nations who plundered you, for he who touches you touches the apple of his eye:
 9. Behold, I will shake my hand over them, and they shall become plunder for those who served them. Then you will know that the Lord of hosts has sent me.
 10. Sing and rejoice, O daughter of Zion, for behold, I come and I will dwell in your midst, declares the Lord.
 11. And many nations shall join themselves to the Lord in that day, and shall be my people. And I will dwell in your midst, and you shall know that the Lord of hosts has sent me to you.
@@ -48,8 +48,8 @@
 4. And the angel said to those who were standing before him, Remove the filthy garments from him. And to him he said, Behold, I have taken your iniquity away from you, and I will clothe you with pure vestments.
 5. And I said, Let them put a clean turban on his head. So they put a clean turban on his head and clothed him with garments. And the angel of the Lord was standing by.
 6. And the angel of the Lord solemnly assured Joshua,
-7. Thus says the Lord of hosts : If you will walk in my ways and keep my charge, then you shall rule my house and have charge of my courts, and I will give you the right of access among those who are standing here.
-8. Hear now, O Joshua the high priest, you and your friends who sit before you, for they are men who are a sign : behold, I will bring my servant the Branch.
+7. Thus says the Lord of hosts: If you will walk in my ways and keep my charge, then you shall rule my house and have charge of my courts, and I will give you the right of access among those who are standing here.
+8. Hear now, O Joshua the high priest, you and your friends who sit before you, for they are men who are a sign: behold, I will bring my servant the Branch.
 9. For behold, on the stone that I have set before Joshua, on a single stone with seven eyes, I will engrave its inscription, declares the Lord of hosts, and I will remove the iniquity of this land in a single day.
 10. In that day, declares the Lord of hosts, every one of you will invite his neighbor to come under his vine and under his fig tree.
 
@@ -60,7 +60,7 @@
 3. And there are two olive trees by it, one on the right of the bowl and the other on its left.
 4. And I said to the angel who talked with me, What are these, my lord?
 5. Then the angel who talked with me answered and said to me, Do you not know what these are? I said, No, my lord.
-6. Then he said to me, This is the word of the Lord to Zerubbabel : Not by might, nor by power, but by my Spirit, says the Lord of hosts.
+6. Then he said to me, This is the word of the Lord to Zerubbabel: Not by might, nor by power, but by my Spirit, says the Lord of hosts.
 7. Who are you, O great mountain? Before Zerubbabel you shall become a plain. And he shall bring forward the top stone amid shouts of Grace, grace to it!
 8. Then the word of the Lord came to me, saying,
 9. The hands of Zerubbabel have laid the foundation of this house; his hands shall also complete it. Then you will know that the Lord of hosts has sent me to you.
@@ -97,7 +97,7 @@
 9. And the word of the Lord came to me:
 10. Take from the exiles Heldai, Tobijah, and Jedaiah, who have arrived from Babylon, and go the same day to the house of Josiah, the son of Zephaniah.
 11. Take from them silver and gold, and make a crown, and set it on the head of Joshua, the son of Jehozadak, the high priest.
-12. And say to him, Thus says the Lord of hosts, Behold, the man whose name is the Branch : for he shall branch out from his place, and he shall build the temple of the Lord.
+12. And say to him, Thus says the Lord of hosts, Behold, the man whose name is the Branch: for he shall branch out from his place, and he shall build the temple of the Lord.
 13. It is he who shall build the temple of the Lord and shall bear royal honor, and shall sit and rule on his throne. And there shall be a priest on his throne, and the counsel of peace shall be between them both.
 14. And the crown shall be in the temple of the Lord as a reminder to Helem, Tobijah, Jedaiah, and Hen the son of Zephaniah.
 15. And those who are far off shall come and help to build the temple of the Lord. And you shall know that the Lord of hosts has sent me to you. And this shall come to pass, if you will diligently obey the voice of the Lord your God.
@@ -122,28 +122,28 @@
 ## Chapter 8
 
 1. And the word of the Lord of hosts came, saying,
-2. Thus says the Lord of hosts : I am jealous for Zion with great jealousy, and I am jealous for her with great wrath.
-3. Thus says the Lord : I have returned to Zion and will dwell in the midst of Jerusalem, and Jerusalem shall be called the faithful city, and the mountain of the Lord of hosts, the holy mountain.
-4. Thus says the Lord of hosts : Old men and old women shall again sit in the streets of Jerusalem, each with staff in hand because of great age.
+2. Thus says the Lord of hosts: I am jealous for Zion with great jealousy, and I am jealous for her with great wrath.
+3. Thus says the Lord: I have returned to Zion and will dwell in the midst of Jerusalem, and Jerusalem shall be called the faithful city, and the mountain of the Lord of hosts, the holy mountain.
+4. Thus says the Lord of hosts: Old men and old women shall again sit in the streets of Jerusalem, each with staff in hand because of great age.
 5. And the streets of the city shall be full of boys and girls playing in its streets.
-6. Thus says the Lord of hosts : If it is marvelous in the sight of the remnant of this people in those days, should it also be marvelous in my sight, declares the Lord of hosts?
-7. Thus says the Lord of hosts : Behold, I will save my people from the east country and from the west country,
+6. Thus says the Lord of hosts: If it is marvelous in the sight of the remnant of this people in those days, should it also be marvelous in my sight, declares the Lord of hosts?
+7. Thus says the Lord of hosts: Behold, I will save my people from the east country and from the west country,
 8. and I will bring them to dwell in the midst of Jerusalem. And they shall be my people, and I will be their God, in faithfulness and in righteousness.
-9. Thus says the Lord of hosts : Let your hands be strong, you who in these days have been hearing these words from the mouth of the prophets who were present on the day that the foundation of the house of the Lord of hosts was laid, that the temple might be built.
+9. Thus says the Lord of hosts: Let your hands be strong, you who in these days have been hearing these words from the mouth of the prophets who were present on the day that the foundation of the house of the Lord of hosts was laid, that the temple might be built.
 10. For before those days there was no wage for man or any wage for beast, neither was there any safety from the foe for him who went out or came in, for I set every man against his neighbor.
 11. But now I will not deal with the remnant of this people as in the former days, declares the Lord of hosts.
 12. For there shall be a sowing of peace. The vine shall give its fruit, and the ground shall give its produce, and the heavens shall give their dew. And I will cause the remnant of this people to possess all these things.
 13. And as you have been a byword of cursing among the nations, O house of Judah and house of Israel, so will I save you, and you shall be a blessing. Fear not, but let your hands be strong.
-14. For thus says the Lord of hosts : As I purposed to bring disaster to you when your fathers provoked me to wrath, and I did not relent, says the Lord of hosts,
+14. For thus says the Lord of hosts: As I purposed to bring disaster to you when your fathers provoked me to wrath, and I did not relent, says the Lord of hosts,
 15. so again have I purposed in these days to bring good to Jerusalem and to the house of Judah; fear not.
-16. These are the things that you shall do : Speak the truth to one another; render in your gates judgments that are true and make for peace;
+16. These are the things that you shall do: Speak the truth to one another; render in your gates judgments that are true and make for peace;
 17. do not devise evil in your hearts against one another, and love no false oath, for all these things I hate, declares the Lord.
 18. And the word of the Lord of hosts came to me, saying,
-19. Thus says the Lord of hosts : The fast of the fourth month and the fast of the fifth and the fast of the seventh and the fast of the tenth shall be to the house of Judah seasons of joy and gladness and cheerful feasts. Therefore love truth and peace.
-20. Thus says the Lord of hosts : Peoples shall yet come, even the inhabitants of many cities.
+19. Thus says the Lord of hosts: The fast of the fourth month and the fast of the fifth and the fast of the seventh and the fast of the tenth shall be to the house of Judah seasons of joy and gladness and cheerful feasts. Therefore love truth and peace.
+20. Thus says the Lord of hosts: Peoples shall yet come, even the inhabitants of many cities.
 21. The inhabitants of one city shall go to another, saying, Let us go at once to entreat the favor of the Lord and to seek the Lord of hosts; I myself am going.
 22. Many peoples and strong nations shall come to seek the Lord of hosts in Jerusalem and to entreat the favor of the Lord.
-23. Thus says the Lord of hosts : In those days ten men from the nations of every tongue shall take hold of the robe of a Jew, saying, Let us go with you, for we have heard that God is with you.
+23. Thus says the Lord of hosts: In those days ten men from the nations of every tongue shall take hold of the robe of a Jew, saying, Let us go with you, for we have heard that God is with you.
 
 ## Chapter 9
 
@@ -185,7 +185,7 @@
 1. Open your doors, O Lebanon, that the fire may devour your cedars!
 2. Wail, O cypress, for the cedar has fallen, for the glorious trees are ruined! Wail, oaks of Bashan, for the thick forest has been felled!
 3. The sound of the wail of the shepherds, for their glory is ruined! The sound of the roar of the lions, for the thicket of the Jordan is ruined!
-4. Thus said the Lord my God : Become shepherd of the flock doomed to slaughter.
+4. Thus said the Lord my God: Become shepherd of the flock doomed to slaughter.
 5. Those who buy them slaughter them and go unpunished, and those who sell them say, Blessed be the Lord, I have become rich, and their own shepherds have no pity on them.
 6. For I will no longer have pity on the inhabitants of this land, declares the Lord. Behold, I will cause each of them to fall into the hand of his neighbor, and each into the hand of his king, and they shall crush the land, and I will deliver none from their hand.
 7. So I became the shepherd of the flock doomed to be slaughtered by the sheep traders. And I took two staffs, one I named Favor, the other I named Union. And I tended the sheep.
@@ -202,7 +202,7 @@
 
 ## Chapter 12
 
-1. The oracle of the word of the Lord concerning Israel : Thus declares the Lord, who stretched out the heavens and founded the earth and formed the spirit of man within him:
+1. The oracle of the word of the Lord concerning Israel: Thus declares the Lord, who stretched out the heavens and founded the earth and formed the spirit of man within him:
 2. Behold, I am about to make Jerusalem a cup of staggering to all the surrounding peoples. The siege of Jerusalem will also be against Judah.
 3. On that day I will make Jerusalem a heavy stone for all the peoples. All who lift it will surely hurt themselves. And all the nations of the earth will gather against it.
 4. On that day, declares the Lord, I will strike every horse with panic, and its rider with madness. But for the sake of the house of Judah I will keep my eyes open, when I strike every horse of the peoples with blindness.
@@ -213,7 +213,7 @@
 9. And on that day I will seek to destroy all the nations that come against Jerusalem.
 10. And I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and pleas for mercy, so that, when they look on me, on him whom they have pierced, they shall mourn for him, as one mourns for an only child, and weep bitterly over him, as one weeps over a firstborn.
 11. On that day the mourning in Jerusalem will be as great as the mourning for Hadad-rimmon in the plain of Megiddo.
-12. The land shall mourn, each family by itself : the family of the house of David by itself, and their wives by themselves; the family of the house of Nathan by itself, and their wives by themselves;
+12. The land shall mourn, each family by itself: the family of the house of David by itself, and their wives by themselves; the family of the house of Nathan by itself, and their wives by themselves;
 13. the family of the house of Levi by itself, and their wives by themselves; the family of the Shimeites by itself, and their wives by themselves;
 14. and all the families that are left, each by itself, and their wives by themselves.
 
@@ -242,7 +242,7 @@
 9. And the Lord will be king over all the earth. On that day the Lord will be one and his name one.
 10. The whole land shall be turned into a plain from Geba to Rimmon south of Jerusalem. But Jerusalem shall remain aloft on its site from the Gate of Benjamin to the place of the former gate, to the Corner Gate, and from the Tower of Hananel to the king’s winepresses.
 11. And it shall be inhabited, for there shall never again be a decree of utter destruction. Jerusalem shall dwell in security.
-12. And this shall be the plague with which the Lord will strike all the peoples that wage war against Jerusalem : their flesh will rot while they are still standing on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths.
+12. And this shall be the plague with which the Lord will strike all the peoples that wage war against Jerusalem: their flesh will rot while they are still standing on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths.
 13. And on that day a great panic from the Lord shall fall on them, so that each will seize the hand of another, and the hand of the one will be raised against the hand of the other.
 14. Even Judah will fight at Jerusalem. And the wealth of all the surrounding nations shall be collected, gold, silver, and garments in great abundance.
 15. And a plague like this plague shall fall on the horses, the mules, the camels, the donkeys, and whatever beasts may be in those camps.

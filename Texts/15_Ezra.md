@@ -2,8 +2,8 @@
 
 ## Chapter 1
 
-1. In the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing :
-2. Thus says Cyrus king of Persia : The Lord, the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah.
+1. In the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing:
+2. Thus says Cyrus king of Persia: The Lord, the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah.
 3. Whoever is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and rebuild the house of the Lord, the God of Israel — he is the God who is in Jerusalem.
 4. And let each survivor, in whatever place he sojourns, be assisted by the men of his place with silver and gold, with goods and with beasts, besides freewill offerings for the house of God that is in Jerusalem.
 5. Then rose up the heads of the fathers ’ houses of Judah and Benjamin, and the priests and the Levites, everyone whose spirit God had stirred to go up to rebuild the house of the Lord that is in Jerusalem.
@@ -17,7 +17,7 @@
 ## Chapter 2
 
 1. Now these were the people of the province who came up out of the captivity of those exiles whom Nebuchadnezzar the king of Babylon had carried captive to Babylonia. They returned to Jerusalem and Judah, each to his own town.
-2. They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. The number of the men of the people of Israel :
+2. They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. The number of the men of the people of Israel:
 3. the sons of Parosh, 2,172.
 4. The sons of Shephatiah, 372.
 5. The sons of Arah, 775.
@@ -51,14 +51,14 @@
 33. The sons of Lod, Hadid, and Ono, 725.
 34. The sons of Jericho, 345.
 35. The sons of Senaah, 3,630.
-36. The priests : the sons of Jedaiah, of the house of Jeshua, 973.
+36. The priests: the sons of Jedaiah, of the house of Jeshua, 973.
 37. The sons of Immer, 1,052.
 38. The sons of Pashhur, 1,247.
 39. The sons of Harim, 1,017.
-40. The Levites : the sons of Jeshua and Kadmiel, of the sons of Hodaviah, 74.
-41. The singers : the sons of Asaph, 128.
-42. The sons of the gatekeepers : the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, and the sons of Shobai, in all 139.
-43. The temple servants : the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth,
+40. The Levites: the sons of Jeshua and Kadmiel, of the sons of Hodaviah, 74.
+41. The singers: the sons of Asaph, 128.
+42. The sons of the gatekeepers: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, and the sons of Shobai, in all 139.
+43. The temple servants: the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth,
 44. the sons of Keros, the sons of Siaha, the sons of Padon,
 45. the sons of Lebanah, the sons of Hagabah, the sons of Akkub,
 46. the sons of Hagab, the sons of Shamlai, the sons of Hanan,
@@ -70,13 +70,13 @@
 52. the sons of Bazluth, the sons of Mehida, the sons of Harsha,
 53. the sons of Barkos, the sons of Sisera, the sons of Temah,
 54. the sons of Neziah, and the sons of Hatipha.
-55. The sons of Solomon’s servants : the sons of Sotai, the sons of Hassophereth, the sons of Peruda,
+55. The sons of Solomon’s servants: the sons of Sotai, the sons of Hassophereth, the sons of Peruda,
 56. the sons of Jaalah, the sons of Darkon, the sons of Giddel,
 57. the sons of Shephatiah, the sons of Hattil, the sons of Pochereth-hazzebaim, and the sons of Ami.
 58. All the temple servants and the sons of Solomon’s servants were 392.
-59. The following were those who came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, though they could not prove their fathers ’ houses or their descent, whether they belonged to Israel :
+59. The following were those who came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, though they could not prove their fathers ’ houses or their descent, whether they belonged to Israel:
 60. the sons of Delaiah, the sons of Tobiah, and the sons of Nekoda, 652.
-61. Also, of the sons of the priests : the sons of Habaiah, the sons of Hakkoz, and the sons of Barzillai ( who had taken a wife from the daughters of Barzillai the Gileadite, and was called by their name ).
+61. Also, of the sons of the priests: the sons of Habaiah, the sons of Hakkoz, and the sons of Barzillai ( who had taken a wife from the daughters of Barzillai the Gileadite, and was called by their name ).
 62. These sought their registration among those enrolled in the genealogies, but they were not found there, and so they were excluded from the priesthood as unclean.
 63. The governor told them that they were not to partake of the most holy food, until there should be a priest to consult Urim and Thummim.
 64. The whole assembly together was 42,360,
@@ -112,16 +112,16 @@
 5. and bribed counselors against them to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
 6. And in the reign of Ahasuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem.
 7. In the days of Artaxerxes, Bishlam and Mithredath and Tabeel and the rest of their associates wrote to Artaxerxes king of Persia. The letter was written in Aramaic and translated.
-8. Rehum the commander and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king as follows :
+8. Rehum the commander and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king as follows:
 9. Rehum the commander, Shimshai the scribe, and the rest of their associates, the judges, the governors, the officials, the Persians, the men of Erech, the Babylonians, the men of Susa, that is, the Elamites,
 10. and the rest of the nations whom the great and noble Osnappar deported and settled in the cities of Samaria and in the rest of the province Beyond the River.
-11. ( This is a copy of the letter that they sent .) To Artaxerxes the king : Your servants, the men of the province Beyond the River, send greeting. And now
+11. ( This is a copy of the letter that they sent .) To Artaxerxes the king: Your servants, the men of the province Beyond the River, send greeting. And now
 12. be it known to the king that the Jews who came up from you to us have gone to Jerusalem. They are rebuilding that rebellious and wicked city. They are finishing the walls and repairing the foundations.
 13. Now be it known to the king that if this city is rebuilt and the walls finished, they will not pay tribute, custom, or toll, and the royal revenue will be impaired.
 14. Now because we eat the salt of the palace and it is not fitting for us to witness the king’s dishonor, therefore we send and inform the king,
 15. in order that search may be made in the book of the records of your fathers. You will find in the book of the records and learn that this city is a rebellious city, hurtful to kings and provinces, and that sedition was stirred up in it from of old. That was why this city was laid waste.
 16. We make known to the king that if this city is rebuilt and its walls finished, you will then have no possession in the province Beyond the River.
-17. The king sent an answer : To Rehum the commander and Shimshai the scribe and the rest of their associates who live in Samaria and in the rest of the province Beyond the River, greeting. And now
+17. The king sent an answer: To Rehum the commander and Shimshai the scribe and the rest of their associates who live in Samaria and in the rest of the province Beyond the River, greeting. And now
 18. the letter that you sent to us has been plainly read before me.
 19. And I made a decree, and search has been made, and it has been found that this city from of old has risen against kings, and that rebellion and sedition have been made in it.
 20. And mighty kings have been over Jerusalem, who ruled over the whole province Beyond the River, to whom tribute, custom, and toll were paid.
@@ -134,13 +134,13 @@
 
 1. Now the prophets, Haggai and Zechariah the son of Iddo, prophesied to the Jews who were in Judah and Jerusalem, in the name of the God of Israel who was over them.
 2. Then Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak arose and began to rebuild the house of God that is in Jerusalem, and the prophets of God were with them, supporting them.
-3. At the same time Tattenai the governor of the province Beyond the River and Shethar-bozenai and their associates came to them and spoke to them thus : Who gave you a decree to build this house and to finish this structure?
-4. They also asked them this : What are the names of the men who are building this building?
+3. At the same time Tattenai the governor of the province Beyond the River and Shethar-bozenai and their associates came to them and spoke to them thus: Who gave you a decree to build this house and to finish this structure?
+4. They also asked them this: What are the names of the men who are building this building?
 5. But the eye of their God was on the elders of the Jews, and they did not stop them until the report should reach Darius and then an answer be returned by letter concerning it.
 6. This is a copy of the letter that Tattenai the governor of the province Beyond the River and Shethar-bozenai and his associates, the governors who were in the province Beyond the River, sent to Darius the king.
-7. They sent him a report, in which was written as follows : To Darius the king, all peace.
+7. They sent him a report, in which was written as follows: To Darius the king, all peace.
 8. Be it known to the king that we went to the province of Judah, to the house of the great God. It is being built with huge stones, and timber is laid in the walls. This work goes on diligently and prospers in their hands.
-9. Then we asked those elders and spoke to them thus : Who gave you a decree to build this house and to finish this structure?
+9. Then we asked those elders and spoke to them thus: Who gave you a decree to build this house and to finish this structure?
 10. We also asked them their names, for your information, that we might write down the names of their leaders.
 11. And this was their reply to us: We are the servants of the God of heaven and earth, and we are rebuilding the house that was built many years ago, which a great king of Israel built and finished.
 12. But because our fathers had angered the God of heaven, he gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who destroyed this house and carried away the people to Babylonia.
@@ -153,8 +153,8 @@
 ## Chapter 6
 
 1. Then Darius the king made a decree, and search was made in Babylonia, in the house of the archives where the documents were stored.
-2. And in Ecbatana, the citadel that is in the province of Media, a scroll was found on which this was written : A record.
-3. In the first year of Cyrus the king, Cyrus the king issued a decree : Concerning the house of God at Jerusalem, let the house be rebuilt, the place where sacrifices were offered, and let its foundations be retained. Its height shall be sixty cubits and its breadth sixty cubits,
+2. And in Ecbatana, the citadel that is in the province of Media, a scroll was found on which this was written: A record.
+3. In the first year of Cyrus the king, Cyrus the king issued a decree: Concerning the house of God at Jerusalem, let the house be rebuilt, the place where sacrifices were offered, and let its foundations be retained. Its height shall be sixty cubits and its breadth sixty cubits,
 4. with three layers of great stones and one layer of timber. Let the cost be paid from the royal treasury.
 5. And also let the gold and silver vessels of the house of God, which Nebuchadnezzar took out of the temple that is in Jerusalem and brought to Babylon, be restored and brought back to the temple that is in Jerusalem, each to its place. You shall put them in the house of God.
 6. Now therefore, Tattenai, governor of the province Beyond the River, Shethar-bozenai, and your associates the governors who are in the province Beyond the River, keep away.
@@ -187,7 +187,7 @@
 8. And Ezra came to Jerusalem in the fifth month, which was in the seventh year of the king.
 9. For on the first day of the first month he began to go up from Babylonia, and on the first day of the fifth month he came to Jerusalem, for the good hand of his God was on him.
 10. For Ezra had set his heart to study the Law of the Lord, and to do it and to teach his statutes and rules in Israel.
-11. This is a copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, a man learned in matters of the commandments of the Lord and his statutes for Israel :
+11. This is a copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, a man learned in matters of the commandments of the Lord and his statutes for Israel:
 12. Artaxerxes, king of kings, to Ezra the priest, the scribe of the Law of the God of heaven. Peace. And now
 13. I make a decree that anyone of the people of Israel or their priests or Levites in my kingdom, who freely offers to go to Jerusalem, may go with you.
 14. For you are sent by the king and his seven counselors to make inquiries about Judah and Jerusalem according to the Law of your God, which is in your hand,
@@ -197,7 +197,7 @@
 18. Whatever seems good to you and your brothers to do with the rest of the silver and gold, you may do, according to the will of your God.
 19. The vessels that have been given you for the service of the house of your God, you shall deliver before the God of Jerusalem.
 20. And whatever else is required for the house of your God, which it falls to you to provide, you may provide it out of the king’s treasury.
-21. And I, Artaxerxes the king, make a decree to all the treasurers in the province Beyond the River : Whatever Ezra the priest, the scribe of the Law of the God of heaven, requires of you, let it be done with all diligence,
+21. And I, Artaxerxes the king, make a decree to all the treasurers in the province Beyond the River: Whatever Ezra the priest, the scribe of the Law of the God of heaven, requires of you, let it be done with all diligence,
 22. up to 100 talents of silver, 100 cors of wheat, 100 baths of wine, 100 baths of oil, and salt without prescribing how much.
 23. Whatever is decreed by the God of heaven, let it be done in full for the house of the God of heaven, lest his wrath be against the realm of the king and his sons.
 24. We also notify you that it shall not be lawful to impose tribute, custom, or toll on anyone of the priests, the Levites, the singers, the doorkeepers, the temple servants, or other servants of this house of God.
@@ -208,7 +208,7 @@
 
 ## Chapter 8
 
-1. These are the heads of their fathers ’ houses, and this is the genealogy of those who went up with me from Babylonia, in the reign of Artaxerxes the king :
+1. These are the heads of their fathers ’ houses, and this is the genealogy of those who went up with me from Babylonia, in the reign of Artaxerxes the king:
 2. Of the sons of Phinehas, Gershom. Of the sons of Ithamar, Daniel. Of the sons of David, Hattush.
 3. Of the sons of Shecaniah, who was of the sons of Parosh, Zechariah, with whom were registered 150 men.
 4. Of the sons of Pahath-moab, Eliehoenai the son of Zerahiah, and with him 200 men.
@@ -231,7 +231,7 @@
 21. Then I proclaimed a fast there, at the river Ahava, that we might humble ourselves before our God, to seek from him a safe journey for ourselves, our children, and all our goods.
 22. For I was ashamed to ask the king for a band of soldiers and horsemen to protect us against the enemy on our way, since we had told the king, The hand of our God is for good on all who seek him, and the power of his wrath is against all who forsake him.
 23. So we fasted and implored our God for this, and he listened to our entreaty.
-24. Then I set apart twelve of the leading priests : Sherebiah, Hashabiah, and ten of their kinsmen with them.
+24. Then I set apart twelve of the leading priests: Sherebiah, Hashabiah, and ten of their kinsmen with them.
 25. And I weighed out to them the silver and the gold and the vessels, the offering for the house of our God that the king and his counselors and his lords and all Israel there present had offered.
 26. I weighed out into their hand 650 talents of silver, and silver vessels worth 200 talents, and 100 talents of gold,
 27. 20 bowls of gold worth 1,000 darics, and two vessels of fine bright bronze as precious as gold.
@@ -252,7 +252,7 @@
 3. As soon as I heard this, I tore my garment and my cloak and pulled hair from my head and beard and sat appalled.
 4. Then all who trembled at the words of the God of Israel, because of the faithlessness of the returned exiles, gathered around me while I sat appalled until the evening sacrifice.
 5. And at the evening sacrifice I rose from my fasting, with my garment and my cloak torn, and fell upon my knees and spread out my hands to the Lord my God,
-6. saying : O my God, I am ashamed and blush to lift my face to you, my God, for our iniquities have risen higher than our heads, and our guilt has mounted up to the heavens.
+6. saying: O my God, I am ashamed and blush to lift my face to you, my God, for our iniquities have risen higher than our heads, and our guilt has mounted up to the heavens.
 7. From the days of our fathers to this day we have been in great guilt. And for our iniquities we, our kings, and our priests have been given into the hand of the kings of the lands, to the sword, to captivity, to plundering, and to utter shame, as it is today.
 8. But now for a brief moment favor has been shown by the Lord our God, to leave us a remnant and to give us a secure hold within his holy place, that our God may brighten our eyes and grant us a little reviving in our slavery.
 9. For we are slaves. Yet our God has not forsaken us in our slavery, but has extended to us his steadfast love before the kings of Persia, to grant us some reviving to set up the house of our God, to repair its ruins, and to give us protection in Judea and Jerusalem.
@@ -266,7 +266,7 @@
 ## Chapter 10
 
 1. While Ezra prayed and made confession, weeping and casting himself down before the house of God, a very great assembly of men, women, and children, gathered to him out of Israel, for the people wept bitterly.
-2. And Shecaniah the son of Jehiel, of the sons of Elam, addressed Ezra : We have broken faith with our God and have married foreign women from the peoples of the land, but even now there is hope for Israel in spite of this.
+2. And Shecaniah the son of Jehiel, of the sons of Elam, addressed Ezra: We have broken faith with our God and have married foreign women from the peoples of the land, but even now there is hope for Israel in spite of this.
 3. Therefore let us make a covenant with our God to put away all these wives and their children, according to the counsel of my lord and of those who tremble at the commandment of our God, and let it be done according to the Law.
 4. Arise, for it is your task, and we are with you; be strong and do it.
 5. Then Ezra arose and made the leading priests and Levites and all Israel take an oath that they would do as had been said. So they took the oath.
@@ -282,31 +282,31 @@
 15. Only Jonathan the son of Asahel and Jahzeiah the son of Tikvah opposed this, and Meshullam and Shabbethai the Levite supported them.
 16. Then the returned exiles did so. Ezra the priest selected men, heads of fathers ’ houses, according to their fathers ’ houses, each of them designated by name. On the first day of the tenth month they sat down to examine the matter;
 17. and by the first day of the first month they had come to the end of all the men who had married foreign women.
-18. Now there were found some of the sons of the priests who had married foreign women : Maaseiah, Eliezer, Jarib, and Gedaliah, some of the sons of Jeshua the son of Jozadak and his brothers.
+18. Now there were found some of the sons of the priests who had married foreign women: Maaseiah, Eliezer, Jarib, and Gedaliah, some of the sons of Jeshua the son of Jozadak and his brothers.
 19. They pledged themselves to put away their wives, and their guilt offering was a ram of the flock for their guilt.
-20. Of the sons of Immer : Hanani and Zebadiah.
-21. Of the sons of Harim : Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.
-22. Of the sons of Pashhur : Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.
-23. Of the Levites : Jozabad, Shimei, Kelaiah (that is, Kelita ), Pethahiah, Judah, and Eliezer.
-24. Of the singers : Eliashib. Of the gatekeepers : Shallum, Telem, and Uri.
-25. And of Israel : of the sons of Parosh : Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Hashabiah, and Benaiah.
-26. Of the sons of Elam : Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
-27. Of the sons of Zattu : Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
+20. Of the sons of Immer: Hanani and Zebadiah.
+21. Of the sons of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.
+22. Of the sons of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.
+23. Of the Levites: Jozabad, Shimei, Kelaiah (that is, Kelita ), Pethahiah, Judah, and Eliezer.
+24. Of the singers: Eliashib. Of the gatekeepers: Shallum, Telem, and Uri.
+25. And of Israel: of the sons of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Hashabiah, and Benaiah.
+26. Of the sons of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
+27. Of the sons of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
 28. Of the sons of Bebai were Jehohanan, Hananiah, Zabbai, and Athlai.
 29. Of the sons of Bani were Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth.
-30. Of the sons of Pahath-moab : Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.
-31. Of the sons of Harim : Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
+30. Of the sons of Pahath-moab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.
+31. Of the sons of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
 32. Benjamin, Malluch, and Shemariah.
-33. Of the sons of Hashum : Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.
-34. Of the sons of Bani : Maadai, Amram, Uel,
+33. Of the sons of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.
+34. Of the sons of Bani: Maadai, Amram, Uel,
 35. Benaiah, Bedeiah, Cheluhi,
 36. Vaniah, Meremoth, Eliashib,
 37. Mattaniah, Mattenai, Jaasu.
-38. Of the sons of Binnui : Shimei,
+38. Of the sons of Binnui: Shimei,
 39. Shelemiah, Nathan, Adaiah,
 40. Machnadebai, Shashai, Sharai,
 41. Azarel, Shelemiah, Shemariah,
 42. Shallum, Amariah, and Joseph.
-43. Of the sons of Nebo : Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah.
+43. Of the sons of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah.
 44. All these had married foreign women, and some of the women had even borne children.
 

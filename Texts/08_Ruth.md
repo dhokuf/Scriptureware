@@ -80,7 +80,7 @@
 4. So I thought I would tell you of it and say, Buy it in the presence of those sitting here and in the presence of the elders of my people. If you will redeem it, redeem it. But if you will not, tell me, that I may know, for there is no one besides you to redeem it, and I come after you. And he said, I will redeem it.
 5. Then Boaz said, The day you buy the field from the hand of Naomi, you also acquire Ruth the Moabite, the widow of the dead, in order to perpetuate the name of the dead in his inheritance.
 6. Then the redeemer said, I cannot redeem it for myself, lest I impair my own inheritance. Take my right of redemption yourself, for I cannot redeem it.
-7. Now this was the custom in former times in Israel concerning redeeming and exchanging : to confirm a transaction, the one drew off his sandal and gave it to the other, and this was the manner of attesting in Israel.
+7. Now this was the custom in former times in Israel concerning redeeming and exchanging: to confirm a transaction, the one drew off his sandal and gave it to the other, and this was the manner of attesting in Israel.
 8. So when the redeemer said to Boaz, Buy it for yourself, he drew off his sandal.
 9. Then Boaz said to the elders and all the people, You are witnesses this day that I have bought from the hand of Naomi all that belonged to Elimelech and all that belonged to Chilion and to Mahlon.
 10. Also Ruth the Moabite, the widow of Mahlon, I have bought to be my wife, to perpetuate the name of the dead in his inheritance, that the name of the dead may not be cut off from among his brothers and from the gate of his native place. You are witnesses this day.
@@ -91,7 +91,7 @@
 15. He shall be to you a restorer of life and a nourisher of your old age, for your daughter-in-law who loves you, who is more to you than seven sons, has given birth to him.
 16. Then Naomi took the child and laid him on her lap and became his nurse.
 17. And the women of the neighborhood gave him a name, saying, A son has been born to Naomi. They named him Obed. He was the father of Jesse, the father of David.
-18. Now these are the generations of Perez : Perez fathered Hezron,
+18. Now these are the generations of Perez: Perez fathered Hezron,
 19. Hezron fathered Ram, Ram fathered Amminadab,
 20. Amminadab fathered Nahshon, Nahshon fathered Salmon,
 21. Salmon fathered Boaz, Boaz fathered Obed,

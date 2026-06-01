@@ -3,7 +3,7 @@
 ## Chapter 1
 
 1. Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus,
-2. To Timothy, my beloved child : Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+2. To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
 3. I thank God whom I serve, as did my ancestors, with a clear conscience, as I remember you constantly in my prayers night and day.
 4. As I remember your tears, I long to see you, that I may be filled with joy.
 5. I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you as well.
@@ -33,7 +33,7 @@
 8. Remember Jesus Christ, risen from the dead, the offspring of David, as preached in my gospel,
 9. for which I am suffering, bound with chains as a criminal. But the word of God is not bound!
 10. Therefore I endure everything for the sake of the elect, that they also may obtain the salvation that is in Christ Jesus with eternal glory.
-11. The saying is trustworthy, for : If we have died with him, we will also live with him;
+11. The saying is trustworthy, for: If we have died with him, we will also live with him;
 12. if we endure, we will also reign with him; if we deny him, he also will deny us;
 13. if we are faithless, he remains faithful — for he cannot deny himself.
 14. Remind them of these things, and charge them before God not to quarrel about words, which does no good, but only ruins the hearers.
@@ -41,7 +41,7 @@
 16. But avoid irreverent babble, for it will lead people into more and more ungodliness,
 17. and their talk will spread like gangrene. Among them are Hymenaeus and Philetus,
 18. who have swerved from the truth, saying that the resurrection has already happened. They are upsetting the faith of some.
-19. But God’s firm foundation stands, bearing this seal : The Lord knows those who are his, and, Let everyone who names the name of the Lord depart from iniquity.
+19. But God’s firm foundation stands, bearing this seal: The Lord knows those who are his, and, Let everyone who names the name of the Lord depart from iniquity.
 20. Now in a great house there are not only vessels of gold and silver but also of wood and clay, some for honorable use, some for dishonorable.
 21. Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use, set apart as holy, useful to the master of the house, ready for every good work.
 22. So flee youthful passions and pursue righteousness, faith, love, and peace, along with those who call on the Lord from a pure heart.
@@ -72,7 +72,7 @@
 
 ## Chapter 4
 
-1. I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom :
+1. I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom:
 2. preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching.
 3. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions,
 4. and will turn away from listening to the truth and wander off into myths.

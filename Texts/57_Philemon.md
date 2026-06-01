@@ -3,7 +3,7 @@
 ## Chapter 1
 
 1. Paul, a prisoner for Christ Jesus, and Timothy our brother, To Philemon our beloved fellow worker
-2. and Apphia our sister and Archippus our fellow soldier, and the church in your house :
+2. and Apphia our sister and Archippus our fellow soldier, and the church in your house:
 3. Grace to you and peace from God our Father and the Lord Jesus Christ.
 4. I thank my God always when I remember you in my prayers,
 5. because I hear of your love and of the faith that you have toward the Lord Jesus and for all the saints,
@@ -20,7 +20,7 @@
 16. no longer as a bondservant but more than a bondservant, as a beloved brother — especially to me, but how much more to you, both in the flesh and in the Lord.
 17. So if you consider me your partner, receive him as you would receive me.
 18. If he has wronged you at all, or owes you anything, charge that to my account.
-19. I, Paul, write this with my own hand : I will repay it—to say nothing of your owing me even your own self.
+19. I, Paul, write this with my own hand: I will repay it—to say nothing of your owing me even your own self.
 20. Yes, brother, I want some benefit from you in the Lord. Refresh my heart in Christ.
 21. Confident of your obedience, I write to you, knowing that you will do even more than I say.
 22. At the same time, prepare a guest room for me, for I am hoping that through your prayers I will be graciously given to you.

@@ -24,7 +24,7 @@
 
 1. Now Solomon purposed to build a temple for the name of the Lord, and a royal palace for himself.
 2. And Solomon assigned 70,000 men to bear burdens and 80,000 to quarry in the hill country, and 3,600 to oversee them.
-3. And Solomon sent word to Hiram the king of Tyre : As you dealt with David my father and sent him cedar to build himself a house to dwell in, so deal with me.
+3. And Solomon sent word to Hiram the king of Tyre: As you dealt with David my father and sent him cedar to build himself a house to dwell in, so deal with me.
 4. Behold, I am about to build a house for the name of the Lord my God and dedicate it to him for the burning of incense of sweet spices before him, and for the regular arrangement of the showbread, and for burnt offerings morning and evening, on the Sabbaths and the new moons and the appointed feasts of the Lord our God, as ordained forever for Israel.
 5. The house that I am to build will be great, for our God is greater than all gods.
 6. But who is able to build him a house, since heaven, even highest heaven, cannot contain him? Who am I to build a house for him, except as a place to make offerings before him?
@@ -45,7 +45,7 @@
 
 1. Then Solomon began to build the house of the Lord in Jerusalem on Mount Moriah, where the Lord had appeared to David his father, at the place that David had appointed, on the threshing floor of Ornan the Jebusite.
 2. He began to build in the second month of the fourth year of his reign.
-3. These are Solomon’s measurements for building the house of God : the length, in cubits of the old standard, was sixty cubits, and the breadth twenty cubits.
+3. These are Solomon’s measurements for building the house of God: the length, in cubits of the old standard, was sixty cubits, and the breadth twenty cubits.
 4. The vestibule in front of the nave of the house was twenty cubits long, equal to the width of the house, and its height was 120 cubits. He overlaid it on the inside with pure gold.
 5. The nave he lined with cypress and covered it with fine gold and made palms and chains on it.
 6. He adorned the house with settings of precious stones. The gold was gold of Parvaim.
@@ -53,7 +53,7 @@
 8. And he made the Most Holy Place. Its length, corresponding to the breadth of the house, was twenty cubits, and its breadth was twenty cubits. He overlaid it with 600 talents of fine gold.
 9. The weight of gold for the nails was fifty shekels. And he overlaid the upper chambers with gold.
 10. In the Most Holy Place he made two cherubim of wood and overlaid them with gold.
-11. The wings of the cherubim together extended twenty cubits : one wing of the one, of five cubits, touched the wall of the house, and its other wing, of five cubits, touched the wing of the other cherub;
+11. The wings of the cherubim together extended twenty cubits: one wing of the one, of five cubits, touched the wall of the house, and its other wing, of five cubits, touched the wing of the other cherub;
 12. and of this cherub, one wing, of five cubits, touched the wall of the house, and the other wing, also of five cubits, was joined to the wing of the first cherub.
 13. The wings of these cherubim extended twenty cubits. The cherubim stood on their feet, facing the nave.
 14. And he made the veil of blue and purple and crimson fabrics and fine linen, and he worked cherubim on it.
@@ -73,7 +73,7 @@
 8. He also made ten tables and placed them in the temple, five on the south side and five on the north. And he made a hundred basins of gold.
 9. He made the court of the priests and the great court and doors for the court and overlaid their doors with bronze.
 10. And he set the sea at the southeast corner of the house.
-11. , Hiram also made the pots, the shovels, and the basins. So Hiram finished the work that he did for King Solomon on the house of God :
+11. , Hiram also made the pots, the shovels, and the basins. So Hiram finished the work that he did for King Solomon on the house of God:
 12. the two pillars, the bowls, and the two capitals on the top of the pillars; and the two latticeworks to cover the two bowls of the capitals that were on the top of the pillars;
 13. and the 400 pomegranates for the two latticeworks, two rows of pomegranates for each latticework, to cover the two bowls of the capitals that were on the pillars.
 14. He made the stands also, and the basins on the stands,
@@ -81,7 +81,7 @@
 16. The pots, the shovels, the forks, and all the equipment for these, Huram-abi made of burnished bronze for King Solomon for the house of the Lord.
 17. In the plain of the Jordan the king cast them, in the clay ground between Succoth and Zeredah.
 18. Solomon made all these things in great quantities, for the weight of the bronze was not sought.
-19. So Solomon made all the vessels that were in the house of God : the golden altar, the tables for the bread of the Presence,
+19. So Solomon made all the vessels that were in the house of God: the golden altar, the tables for the bread of the Presence,
 20. the lampstands and their lamps of pure gold to burn before the inner sanctuary, as prescribed;
 21. the flowers, the lamps, and the tongs, of purest gold;
 22. the snuffers, basins, dishes for incense, and fire pans, of pure gold, and the sockets of the temple, for the inner doors to the Most Holy Place and for the doors of the nave of the temple were of gold.
@@ -253,7 +253,7 @@
 ## Chapter 11
 
 1. When Rehoboam came to Jerusalem, he assembled the house of Judah and Benjamin, 180,000 chosen warriors, to fight against Israel, to restore the kingdom to Rehoboam.
-2. But the word of the Lord came to Shemaiah the man of God :
+2. But the word of the Lord came to Shemaiah the man of God:
 3. Say to Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin,
 4. Thus says the Lord, You shall not go up or fight against your relatives. Return every man to his home, for this thing is from me. So they listened to the word of the Lord and returned and did not go against Jeroboam.
 5. Rehoboam lived in Jerusalem, and he built cities for defense in Judah.
@@ -284,7 +284,7 @@
 4. And he took the fortified cities of Judah and came as far as Jerusalem.
 5. Then Shemaiah the prophet came to Rehoboam and to the princes of Judah, who had gathered at Jerusalem because of Shishak, and said to them, Thus says the Lord, You abandoned me, so I have abandoned you to the hand of Shishak.
 6. Then the princes of Israel and the king humbled themselves and said, The Lord is righteous.
-7. When the Lord saw that they humbled themselves, the word of the Lord came to Shemaiah : They have humbled themselves. I will not destroy them, but I will grant them some deliverance, and my wrath shall not be poured out on Jerusalem by the hand of Shishak.
+7. When the Lord saw that they humbled themselves, the word of the Lord came to Shemaiah: They have humbled themselves. I will not destroy them, but I will grant them some deliverance, and my wrath shall not be poured out on Jerusalem by the hand of Shishak.
 8. Nevertheless, they shall be servants to him, that they may know my service and the service of the kingdoms of the countries.
 9. So Shishak king of Egypt came up against Jerusalem. He took away the treasures of the house of the Lord and the treasures of the king’s house. He took away everything. He also took away the shields of gold that Solomon had made,
 10. and King Rehoboam made in their place shields of bronze and committed them to the hands of the officers of the guard, who kept the door of the king’s house.
@@ -341,7 +341,7 @@
 ## Chapter 15
 
 1. The Spirit of God came upon Azariah the son of Oded,
-2. and he went out to meet Asa and said to him, Hear me, Asa, and all Judah and Benjamin : The Lord is with you while you are with him. If you seek him, he will be found by you, but if you forsake him, he will forsake you.
+2. and he went out to meet Asa and said to him, Hear me, Asa, and all Judah and Benjamin: The Lord is with you while you are with him. If you seek him, he will be found by you, but if you forsake him, he will forsake you.
 3. For a long time Israel was without the true God, and without a teaching priest and without law,
 4. but when in their distress they turned to the Lord, the God of Israel, and sought him, he was found by them.
 5. In those times there was no peace to him who went out or to him who came in, for great disturbances afflicted all the inhabitants of the lands.
@@ -392,10 +392,10 @@
 11. Some of the Philistines brought Jehoshaphat presents and silver for tribute, and the Arabians also brought him 7,700 rams and 7,700 goats.
 12. And Jehoshaphat grew steadily greater. He built in Judah fortresses and store cities,
 13. and he had large supplies in the cities of Judah. He had soldiers, mighty men of valor, in Jerusalem.
-14. This was the muster of them by fathers ’ houses : Of Judah, the commanders of thousands : Adnah the commander, with 300,000 mighty men of valor;
+14. This was the muster of them by fathers ’ houses: Of Judah, the commanders of thousands: Adnah the commander, with 300,000 mighty men of valor;
 15. and next to him Jehohanan the commander, with 280,000;
 16. and next to him Amasiah the son of Zichri, a volunteer for the service of the Lord, with 200,000 mighty men of valor.
-17. Of Benjamin : Eliada, a mighty man of valor, with 200,000 men armed with bow and shield;
+17. Of Benjamin: Eliada, a mighty man of valor, with 200,000 men armed with bow and shield;
 18. and next to him Jehozabad with 180,000 armed for war.
 19. These were in the service of the king, besides those whom the king had placed in the fortified cities throughout all Judah.
 
@@ -418,7 +418,7 @@
 15. But the king said to him, How many times shall I make you swear that you speak to me nothing but the truth in the name of the Lord?
 16. And he said, I saw all Israel scattered on the mountains, as sheep that have no shepherd. And the Lord said, These have no master; let each return to his home in peace.
 17. And the king of Israel said to Jehoshaphat, Did I not tell you that he would not prophesy good concerning me, but evil?
-18. And Micaiah said, Therefore hear the word of the Lord : I saw the Lord sitting on his throne, and all the host of heaven standing on his right hand and on his left.
+18. And Micaiah said, Therefore hear the word of the Lord: I saw the Lord sitting on his throne, and all the host of heaven standing on his right hand and on his left.
 19. And the Lord said, Who will entice Ahab the king of Israel, that he may go up and fall at Ramoth-gilead? And one said one thing, and another said another.
 20. Then a spirit came forward and stood before the Lord, saying, I will entice him. And the Lord said to him, By what means?
 21. And he said, I will go out, and will be a lying spirit in the mouth of all his prophets. And he said, You are to entice him, and you shall succeed; go out and do so.
@@ -446,7 +446,7 @@
 6. and said to the judges, Consider what you do, for you judge not for man but for the Lord. He is with you in giving judgment.
 7. Now then, let the fear of the Lord be upon you. Be careful what you do, for there is no injustice with the Lord our God, or partiality or taking bribes.
 8. Moreover, in Jerusalem Jehoshaphat appointed certain Levites and priests and heads of families of Israel, to give judgment for the Lord and to decide disputed cases. They had their seat at Jerusalem.
-9. And he charged them: Thus you shall do in the fear of the Lord, in faithfulness, and with your whole heart :
+9. And he charged them: Thus you shall do in the fear of the Lord, in faithfulness, and with your whole heart:
 10. whenever a case comes to you from your brothers who live in their cities, concerning bloodshed, law or commandment, statutes or rules, then you shall warn them, that they may not incur guilt before the Lord and wrath may not come upon you and your brothers. Thus you shall do, and you will not incur guilt.
 11. And behold, Amariah the chief priest is over you in all matters of the Lord; and Zebadiah the son of Ishmael, the governor of the house of Judah, in all the king’s matters, and the Levites will serve you as officers. Deal courageously, and may the Lord be with the upright!
 
@@ -466,7 +466,7 @@
 12. O our God, will you not execute judgment on them? For we are powerless against this great horde that is coming against us. We do not know what to do, but our eyes are on you.
 13. Meanwhile all Judah stood before the Lord, with their little ones, their wives, and their children.
 14. And the Spirit of the Lord came upon Jahaziel the son of Zechariah, son of Benaiah, son of Jeiel, son of Mattaniah, a Levite of the sons of Asaph, in the midst of the assembly.
-15. And he said, Listen, all Judah and inhabitants of Jerusalem and King Jehoshaphat : Thus says the Lord to you, Do not be afraid and do not be dismayed at this great horde, for the battle is not yours but God’s.
+15. And he said, Listen, all Judah and inhabitants of Jerusalem and King Jehoshaphat: Thus says the Lord to you, Do not be afraid and do not be dismayed at this great horde, for the battle is not yours but God’s.
 16. Tomorrow go down against them. Behold, they will come up by the ascent of Ziz. You will find them at the end of the valley, east of the wilderness of Jeruel.
 17. You will not need to fight in this battle. Stand firm, hold your position, and see the salvation of the Lord on your behalf, O Judah and Jerusalem. Do not be afraid and do not be dismayed. Tomorrow go out against them, and the Lord will be with you.
 18. Then Jehoshaphat bowed his head with his face to the ground, and all Judah and the inhabitants of Jerusalem fell down before the Lord, worshiping the Lord.
@@ -493,7 +493,7 @@
 ## Chapter 21
 
 1. Jehoshaphat slept with his fathers and was buried with his fathers in the city of David, and Jehoram his son reigned in his place.
-2. He had brothers, the sons of Jehoshaphat : Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah; all these were the sons of Jehoshaphat king of Israel.
+2. He had brothers, the sons of Jehoshaphat: Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah; all these were the sons of Jehoshaphat king of Israel.
 3. Their father gave them great gifts of silver, gold, and valuable possessions, together with fortified cities in Judah, but he gave the kingdom to Jehoram, because he was the firstborn.
 4. When Jehoram had ascended the throne of his father and was established, he killed all his brothers with the sword, and also some of the princes of Israel.
 5. Jehoram was thirty-two years old when he became king, and he reigned eight years in Jerusalem.
@@ -533,7 +533,7 @@
 1. But in the seventh year Jehoiada took courage and entered into a covenant with the commanders of hundreds, Azariah the son of Jeroham, Ishmael the son of Jehohanan, Azariah the son of Obed, Maaseiah the son of Adaiah, and Elishaphat the son of Zichri.
 2. And they went about through Judah and gathered the Levites from all the cities of Judah, and the heads of fathers ’ houses of Israel, and they came to Jerusalem.
 3. And all the assembly made a covenant with the king in the house of God. And Jehoiada said to them, Behold, the king’s son! Let him reign, as the Lord spoke concerning the sons of David.
-4. This is the thing that you shall do : of you priests and Levites who come off duty on the Sabbath, one third shall be gatekeepers,
+4. This is the thing that you shall do: of you priests and Levites who come off duty on the Sabbath, one third shall be gatekeepers,
 5. and one third shall be at the king’s house and one third at the Gate of the Foundation. And all the people shall be in the courts of the house of the Lord.
 6. Let no one enter the house of the Lord except the priests and ministering Levites. They may enter, for they are holy, but all the people shall keep the charge of the Lord.
 7. The Levites shall surround the king, each with his weapons in his hand. And whoever enters the house shall be put to death. Be with the king when he comes in and when he goes out.
@@ -754,7 +754,7 @@
 
 1. Now when all this was finished, all Israel who were present went out to the cities of Judah and broke in pieces the pillars and cut down the Asherim and broke down the high places and the altars throughout all Judah and Benjamin, and in Ephraim and Manasseh, until they had destroyed them all. Then all the people of Israel returned to their cities, every man to his possession.
 2. And Hezekiah appointed the divisions of the priests and of the Levites, division by division, each according to his service, the priests and the Levites, for burnt offerings and peace offerings, to minister in the gates of the camp of the Lord and to give thanks and praise.
-3. The contribution of the king from his own possessions was for the burnt offerings : the burnt offerings of morning and evening, and the burnt offerings for the Sabbaths, the new moons, and the appointed feasts, as it is written in the Law of the Lord.
+3. The contribution of the king from his own possessions was for the burnt offerings: the burnt offerings of morning and evening, and the burnt offerings for the Sabbaths, the new moons, and the appointed feasts, as it is written in the Law of the Lord.
 4. And he commanded the people who lived in Jerusalem to give the portion due to the priests and the Levites, that they might give themselves to the Law of the Lord.
 5. As soon as the command was spread abroad, the people of Israel gave in abundance the firstfruits of grain, wine, oil, honey, and of all the produce of the field. And they brought in abundantly the tithe of everything.
 6. And the people of Israel and Judah who lived in the cities of Judah also brought in the tithe of cattle and sheep, and the tithe of the dedicated things that had been dedicated to the Lord their God, and laid them in heaps.
@@ -862,10 +862,10 @@
 20. And the king commanded Hilkiah, Ahikam the son of Shaphan, Abdon the son of Micah, Shaphan the secretary, and Asaiah the king’s servant, saying,
 21. Go, inquire of the Lord for me and for those who are left in Israel and in Judah, concerning the words of the book that has been found. For great is the wrath of the Lord that is poured out on us, because our fathers have not kept the word of the Lord, to do according to all that is written in this book.
 22. So Hilkiah and those whom the king had sent went to Huldah the prophetess, the wife of Shallum the son of Tokhath, son of Hasrah, keeper of the wardrobe (now she lived in Jerusalem in the Second Quarter ) and spoke to her to that effect.
-23. And she said to them, Thus says the Lord, the God of Israel : Tell the man who sent you to me,
+23. And she said to them, Thus says the Lord, the God of Israel: Tell the man who sent you to me,
 24. Thus says the Lord, Behold, I will bring disaster upon this place and upon its inhabitants, all the curses that are written in the book that was read before the king of Judah.
 25. Because they have forsaken me and have made offerings to other gods, that they might provoke me to anger with all the works of their hands, therefore my wrath will be poured out on this place and will not be quenched.
-26. But to the king of Judah, who sent you to inquire of the Lord, thus shall you say to him, Thus says the Lord, the God of Israel : Regarding the words that you have heard,
+26. But to the king of Judah, who sent you to inquire of the Lord, thus shall you say to him, Thus says the Lord, the God of Israel: Regarding the words that you have heard,
 27. because your heart was tender and you humbled yourself before God when you heard his words against this place and its inhabitants, and you have humbled yourself before me and have torn your clothes and wept before me, I also have heard you, declares the Lord.
 28. Behold, I will gather you to your fathers, and you shall be gathered to your grave in peace, and your eyes shall not see all the disaster that I will bring upon this place and its inhabitants. And they brought back word to the king.
 29. Then the king sent and gathered together all the elders of Judah and Jerusalem.
@@ -927,6 +927,6 @@
 19. And they burned the house of God and broke down the wall of Jerusalem and burned all its palaces with fire and destroyed all its precious vessels.
 20. He took into exile in Babylon those who had escaped from the sword, and they became servants to him and to his sons until the establishment of the kingdom of Persia,
 21. to fulfill the word of the Lord by the mouth of Jeremiah, until the land had enjoyed its Sabbaths. All the days that it lay desolate it kept Sabbath, to fulfill seventy years.
-22. Now in the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing :
+22. Now in the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing:
 23. Thus says Cyrus king of Persia, The Lord, the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah. Whoever is among you of all his people, may the Lord his God be with him. Let him go up.
 

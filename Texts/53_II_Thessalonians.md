@@ -2,7 +2,7 @@
 
 ## Chapter 1
 
-1. Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ :
+1. Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 2. Grace to you and peace from God our Father and the Lord Jesus Christ.
 3. We ought always to give thanks to God for you, brothers, as is right, because your faith is growing abundantly, and the love of every one of you for one another is increasing.
 4. Therefore we ourselves boast about you in the churches of God for your steadfastness and faith in all your persecutions and in the afflictions that you are enduring.
@@ -46,7 +46,7 @@
 7. For you yourselves know how you ought to imitate us, because we were not idle when we were with you,
 8. nor did we eat anyone’s bread without paying for it, but with toil and labor we worked night and day, that we might not be a burden to any of you.
 9. It was not because we do not have that right, but to give you in ourselves an example to imitate.
-10. For even when we were with you, we would give you this command : If anyone is not willing to work, let him not eat.
+10. For even when we were with you, we would give you this command: If anyone is not willing to work, let him not eat.
 11. For we hear that some among you walk in idleness, not busy at work, but busybodies.
 12. Now such persons we command and encourage in the Lord Jesus Christ to do their work quietly and to earn their own living.
 13. As for you, brothers, do not grow weary in doing good.

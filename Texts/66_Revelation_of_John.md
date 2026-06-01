@@ -5,7 +5,7 @@
 1. The revelation of Jesus Christ, which God gave him to show to his servants the things that must soon take place. He made it known by sending his angel to his servant John,
 2. who bore witness to the word of God and to the testimony of Jesus Christ, even to all that he saw.
 3. Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear, and who keep what is written in it, for the time is near.
-4. John to the seven churches that are in Asia : Grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne,
+4. John to the seven churches that are in Asia: Grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne,
 5. and from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood
 6. and made us a kingdom, priests to his God and Father, to him be glory and dominion forever and ever. Amen.
 7. Behold, he is coming with the clouds, and every eye will see him, even those who pierced him, and all tribes of the earth will wail on account of him. Even so. Amen.
@@ -25,24 +25,24 @@
 
 ## Chapter 2
 
-1. To the angel of the church in Ephesus write : The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands.
+1. To the angel of the church in Ephesus write: The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands.
 2. I know your works, your toil and your patient endurance, and how you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false.
 3. I know you are enduring patiently and bearing up for my name’s sake, and you have not grown weary.
 4. But I have this against you, that you have abandoned the love you had at first.
 5. Remember therefore from where you have fallen; repent, and do the works you did at first. If not, I will come to you and remove your lampstand from its place, unless you repent.
-6. Yet this you have : you hate the works of the Nicolaitans, which I also hate.
+6. Yet this you have: you hate the works of the Nicolaitans, which I also hate.
 7. He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will grant to eat of the tree of life, which is in the paradise of God.
-8. And to the angel of the church in Smyrna write : The words of the first and the last, who died and came to life.
+8. And to the angel of the church in Smyrna write: The words of the first and the last, who died and came to life.
 9. I know your tribulation and your poverty ( but you are rich ) and the slander of those who say that they are Jews and are not, but are a synagogue of Satan.
 10. Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested, and for ten days you will have tribulation. Be faithful unto death, and I will give you the crown of life.
 11. He who has an ear, let him hear what the Spirit says to the churches. The one who conquers will not be hurt by the second death.
-12. And to the angel of the church in Pergamum write : The words of him who has the sharp two-edged sword.
+12. And to the angel of the church in Pergamum write: The words of him who has the sharp two-edged sword.
 13. I know where you dwell, where Satan’s throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.
-14. But I have a few things against you : you have some there who hold the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel, so that they might eat food sacrificed to idols and practice sexual immorality.
+14. But I have a few things against you: you have some there who hold the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel, so that they might eat food sacrificed to idols and practice sexual immorality.
 15. So also you have some who hold the teaching of the Nicolaitans.
 16. Therefore repent. If not, I will come to you soon and war against them with the sword of my mouth.
 17. He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name written on the stone that no one knows except the one who receives it.
-18. And to the angel of the church in Thyatira write : The words of the Son of God, who has eyes like a flame of fire, and whose feet are like burnished bronze.
+18. And to the angel of the church in Thyatira write: The words of the Son of God, who has eyes like a flame of fire, and whose feet are like burnished bronze.
 19. I know your works, your love and faith and service and patient endurance, and that your latter works exceed the first.
 20. But I have this against you, that you tolerate that woman Jezebel, who calls herself a prophetess and is teaching and seducing my servants to practice sexual immorality and to eat food sacrificed to idols.
 21. I gave her time to repent, but she refuses to repent of her sexual immorality.
@@ -57,21 +57,21 @@
 
 ## Chapter 3
 
-1. And to the angel of the church in Sardis write : The words of him who has the seven spirits of God and the seven stars. I know your works. You have the reputation of being alive, but you are dead.
+1. And to the angel of the church in Sardis write: The words of him who has the seven spirits of God and the seven stars. I know your works. You have the reputation of being alive, but you are dead.
 2. Wake up, and strengthen what remains and is about to die, for I have not found your works complete in the sight of my God.
 3. Remember, then, what you received and heard. Keep it, and repent. If you will not wake up, I will come like a thief, and you will not know at what hour I will come against you.
 4. Yet you have still a few names in Sardis, people who have not soiled their garments, and they will walk with me in white, for they are worthy.
 5. The one who conquers will be clothed thus in white garments, and I will never blot his name out of the book of life. I will confess his name before my Father and before his angels.
 6. He who has an ear, let him hear what the Spirit says to the churches.
-7. And to the angel of the church in Philadelphia write : The words of the holy one, the true one, who has the key of David, who opens and no one will shut, who shuts and no one opens.
+7. And to the angel of the church in Philadelphia write: The words of the holy one, the true one, who has the key of David, who opens and no one will shut, who shuts and no one opens.
 8. I know your works. Behold, I have set before you an open door, which no one is able to shut. I know that you have but little power, and yet you have kept my word and have not denied my name.
 9. Behold, I will make those of the synagogue of Satan who say that they are Jews and are not, but lie — behold, I will make them come and bow down before your feet, and they will learn that I have loved you.
 10. Because you have kept my word about patient endurance, I will keep you from the hour of trial that is coming on the whole world, to try those who dwell on the earth.
 11. I am coming soon. Hold fast what you have, so that no one may seize your crown.
 12. The one who conquers, I will make him a pillar in the temple of my God. Never shall he go out of it, and I will write on him the name of my God, and the name of the city of my God, the new Jerusalem, which comes down from my God out of heaven, and my own new name.
 13. He who has an ear, let him hear what the Spirit says to the churches.
-14. And to the angel of the church in Laodicea write : The words of the Amen, the faithful and true witness, the beginning of God’s creation.
-15. I know your works : you are neither cold nor hot. Would that you were either cold or hot!
+14. And to the angel of the church in Laodicea write: The words of the Amen, the faithful and true witness, the beginning of God’s creation.
+15. I know your works: you are neither cold nor hot. Would that you were either cold or hot!
 16. So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth.
 17. For you say, I am rich, I have prospered, and I need nothing, not realizing that you are wretched, pitiable, poor, blind, and naked.
 18. I counsel you to buy from me gold refined by fire, so that you may be rich, and white garments so that you may clothe yourself and the shame of your nakedness may not be seen, and salve to anoint your eyes, so that you may see.
@@ -87,7 +87,7 @@
 3. And he who sat there had the appearance of jasper and carnelian, and around the throne was a rainbow that had the appearance of an emerald.
 4. Around the throne were twenty-four thrones, and seated on the thrones were twenty-four elders, clothed in white garments, with golden crowns on their heads.
 5. From the throne came flashes of lightning, and rumblings and peals of thunder, and before the throne were burning seven torches of fire, which are the seven spirits of God,
-6. and before the throne there was as it were a sea of glass, like crystal. And around the throne, on each side of the throne, are four living creatures, full of eyes in front and behind :
+6. and before the throne there was as it were a sea of glass, like crystal. And around the throne, on each side of the throne, are four living creatures, full of eyes in front and behind:
 7. the first living creature like a lion, the second living creature like an ox, the third living creature with the face of a man, and the fourth living creature like an eagle in flight.
 8. And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to say, Holy, holy, holy, is the Lord God Almighty, who was and is and is to come!
 9. And whenever the living creatures give glory and honor and thanks to him who is seated on the throne, who lives forever and ever,
@@ -136,7 +136,7 @@
 1. After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth, that no wind might blow on earth or sea or against any tree.
 2. Then I saw another angel ascending from the rising of the sun, with the seal of the living God, and he called with a loud voice to the four angels who had been given power to harm earth and sea,
 3. saying, Do not harm the earth or the sea or the trees, until we have sealed the servants of our God on their foreheads.
-4. And I heard the number of the sealed, 144,000, sealed from every tribe of the sons of Israel :
+4. And I heard the number of the sealed, 144,000, sealed from every tribe of the sons of Israel:
 5. 12,000 from the tribe of Judah were sealed, 12,000 from the tribe of Reuben, 12,000 from the tribe of Gad,
 6. 12,000 from the tribe of Asher, 12,000 from the tribe of Naphtali, 12,000 from the tribe of Manasseh,
 7. 12,000 from the tribe of Simeon, 12,000 from the tribe of Levi, 12,000 from the tribe of Issachar,
@@ -175,7 +175,7 @@
 4. They were told not to harm the grass of the earth or any green plant or any tree, but only those people who do not have the seal of God on their foreheads.
 5. They were allowed to torment them for five months, but not to kill them, and their torment was like the torment of a scorpion when it stings someone.
 6. And in those days people will seek death and will not find it. They will long to die, but death will flee from them.
-7. In appearance the locusts were like horses prepared for battle : on their heads were what looked like crowns of gold; their faces were like human faces,
+7. In appearance the locusts were like horses prepared for battle: on their heads were what looked like crowns of gold; their faces were like human faces,
 8. their hair like women’s hair, and their teeth like lions ’ teeth;
 9. they had breastplates like breastplates of iron, and the noise of their wings was like the noise of many chariots with horses rushing into battle.
 10. They have tails and stings like scorpions, and their power to hurt people for five months is in their tails.
@@ -185,7 +185,7 @@
 14. saying to the sixth angel who had the trumpet, Release the four angels who are bound at the great river Euphrates.
 15. So the four angels, who had been prepared for the hour, the day, the month, and the year, were released to kill a third of mankind.
 16. The number of mounted troops was twice ten thousand times ten thousand; I heard their number.
-17. And this is how I saw the horses in my vision and those who rode them : they wore breastplates the color of fire and of sapphire and of sulfur, and the heads of the horses were like lions ’ heads, and fire and smoke and sulfur came out of their mouths.
+17. And this is how I saw the horses in my vision and those who rode them: they wore breastplates the color of fire and of sapphire and of sulfur, and the heads of the horses were like lions ’ heads, and fire and smoke and sulfur came out of their mouths.
 18. By these three plagues a third of mankind was killed, by the fire and smoke and sulfur coming out of their mouths.
 19. For the power of the horses is in their mouths and in their tails, for their tails are like serpents with heads, and by means of them they wound.
 20. The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands nor give up worshiping demons and idols of gold and silver and bronze and stone and wood, which cannot see or hear or walk,
@@ -229,9 +229,9 @@
 
 ## Chapter 12
 
-1. And a great sign appeared in heaven : a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.
+1. And a great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.
 2. She was pregnant and was crying out in birth pains and the agony of giving birth.
-3. And another sign appeared in heaven : behold, a great red dragon, with seven heads and ten horns, and on his heads seven diadems.
+3. And another sign appeared in heaven: behold, a great red dragon, with seven heads and ten horns, and on his heads seven diadems.
 4. His tail swept down a third of the stars of heaven and cast them to the earth. And the dragon stood before the woman who was about to give birth, so that when she bore her child he might devour it.
 5. She gave birth to a male child, one who is to rule all the nations with a rod of iron, but her child was caught up to God and to his throne,
 6. and the woman fled into the wilderness, where she has a place prepared by God, in which she is to be nourished for 1,260 days.
@@ -258,7 +258,7 @@
 6. It opened its mouth to utter blasphemies against God, blaspheming his name and his dwelling, that is, those who dwell in heaven.
 7. Also it was allowed to make war on the saints and to conquer them. And authority was given it over every tribe and people and language and nation,
 8. and all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain.
-9. If anyone has an ear, let him hear :
+9. If anyone has an ear, let him hear:
 10. If anyone is to be taken captive, to captivity he goes; if anyone is to be slain with the sword, with the sword must he be slain. Here is a call for the endurance and faith of the saints.
 11. Then I saw another beast rising out of the earth. It had two horns like a lamb and it spoke like a dragon.
 12. It exercises all the authority of the first beast in its presence, and makes the earth and its inhabitants worship the first beast, whose mortal wound was healed.
@@ -267,7 +267,7 @@
 15. And it was allowed to give breath to the image of the beast, so that the image of the beast might even speak and might cause those who would not worship the image of the beast to be slain.
 16. Also it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead,
 17. so that no one can buy or sell unless he has the mark, that is, the name of the beast or the number of its name.
-18. This calls for wisdom : let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666.
+18. This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666.
 
 ## Chapter 14
 
@@ -333,11 +333,11 @@
 2. with whom the kings of the earth have committed sexual immorality, and with the wine of whose sexual immorality the dwellers on earth have become drunk.
 3. And he carried me away in the Spirit into a wilderness, and I saw a woman sitting on a scarlet beast that was full of blasphemous names, and it had seven heads and ten horns.
 4. The woman was arrayed in purple and scarlet, and adorned with gold and jewels and pearls, holding in her hand a golden cup full of abominations and the impurities of her sexual immorality.
-5. And on her forehead was written a name of mystery : Babylon the great, mother of prostitutes and of earth’s abominations.
+5. And on her forehead was written a name of mystery: Babylon the great, mother of prostitutes and of earth’s abominations.
 6. And I saw the woman, drunk with the blood of the saints, the blood of the martyrs of Jesus. When I saw her, I marveled greatly.
 7. But the angel said to me, Why do you marvel? I will tell you the mystery of the woman, and of the beast with seven heads and ten horns that carries her.
 8. The beast that you saw was, and is not, and is about to rise from the bottomless pit and go to destruction. And the dwellers on earth whose names have not been written in the book of life from the foundation of the world will marvel to see the beast, because it was and is not and is to come.
-9. This calls for a mind with wisdom : the seven heads are seven mountains on which the woman is seated;
+9. This calls for a mind with wisdom: the seven heads are seven mountains on which the woman is seated;
 10. they are also seven kings, five of whom have fallen, one is, the other has not yet come, and when he does come he must remain only a little while.
 11. As for the beast that was and is not, it is an eighth but it belongs to the seven, and it goes to destruction.
 12. And the ten horns that you saw are ten kings who have not yet received royal power, but they are to receive authority as kings for one hour, together with the beast.
@@ -466,7 +466,7 @@
 15. Outside are the dogs and sorcerers and the sexually immoral and murderers and idolaters, and everyone who loves and practices falsehood.
 16. I, Jesus, have sent my angel to testify to you about these things for the churches. I am the root and the descendant of David, the bright morning star.
 17. The Spirit and the Bride say, Come. And let the one who hears say, Come. And let the one who is thirsty come; let the one who desires take the water of life without price.
-18. I warn everyone who hears the words of the prophecy of this book : if anyone adds to them, God will add to him the plagues described in this book,
+18. I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues described in this book,
 19. and if anyone takes away from the words of the book of this prophecy, God will take away his share in the tree of life and in the holy city, which are described in this book.
 20. He who testifies to these things says, Surely I am coming soon. Amen. Come, Lord Jesus!
 21. The grace of the Lord Jesus be with all. Amen.

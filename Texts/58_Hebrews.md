@@ -65,7 +65,7 @@
 1. Therefore, while the promise of entering his rest still stands, let us fear lest any of you should seem to have failed to reach it.
 2. For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened.
 3. For we who have believed enter that rest, as he has said, As I swore in my wrath, They shall not enter my rest, although his works were finished from the foundation of the world.
-4. For he has somewhere spoken of the seventh day in this way : And God rested on the seventh day from all his works.
+4. For he has somewhere spoken of the seventh day in this way: And God rested on the seventh day from all his works.
 5. And again in this passage he said, They shall not enter my rest.
 6. Since therefore it remains for some to enter it, and those who formerly received the good news failed to enter because of disobedience,
 7. again he appoints a certain day, Today, saying through David so long afterward, in the words already quoted, Today, if you hear his voice, do not harden your hearts.
@@ -141,7 +141,7 @@
 18. For on the one hand, a former commandment is set aside because of its weakness and uselessness
 19. ( for the law made nothing perfect ); but on the other hand, a better hope is introduced, through which we draw near to God.
 20. And it was not without an oath. For those who formerly became priests were made such without an oath,
-21. but this one was made a priest with an oath by the one who said to him : The Lord has sworn and will not change his mind, You are a priest forever.
+21. but this one was made a priest with an oath by the one who said to him: The Lord has sworn and will not change his mind, You are a priest forever.
 22. This makes Jesus the guarantor of a better covenant.
 23. The former priests were many in number, because they were prevented by death from continuing in office,
 24. but he holds his priesthood permanently, because he continues forever.
@@ -159,9 +159,9 @@
 5. They serve a copy and shadow of the heavenly things. For when Moses was about to erect the tent, he was instructed by God, saying, See that you make everything according to the pattern that was shown you on the mountain.
 6. But as it is, Christ has obtained a ministry that is as much more excellent than the old as the covenant he mediates is better, since it is enacted on better promises.
 7. For if that first covenant had been faultless, there would have been no occasion to look for a second.
-8. For he finds fault with them when he says : Behold, the days are coming, declares the Lord, when I will establish a new covenant with the house of Israel and with the house of Judah,
+8. For he finds fault with them when he says: Behold, the days are coming, declares the Lord, when I will establish a new covenant with the house of Israel and with the house of Judah,
 9. not like the covenant that I made with their fathers on the day when I took them by the hand to bring them out of the land of Egypt. For they did not continue in my covenant, and so I showed no concern for them, declares the Lord.
-10. For this is the covenant that I will make with the house of Israel after those days, declares the Lord : I will put my laws into their minds, and write them on their hearts, and I will be their God, and they shall be my people.
+10. For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my laws into their minds, and write them on their hearts, and I will be their God, and they shall be my people.
 11. And they shall not teach, each one his neighbor and each one his brother, saying, Know the Lord, for they shall all know me, from the least of them to the greatest.
 12. For I will be merciful toward their iniquities, and I will remember their sins no more.
 13. In speaking of a new covenant, he makes the first one obsolete. And what is becoming obsolete and growing old is ready to vanish away.
@@ -214,7 +214,7 @@
 13. waiting from that time until his enemies should be made a footstool for his feet.
 14. For by a single offering he has perfected for all time those who are being sanctified.
 15. And the Holy Spirit also bears witness to us; for after saying,
-16. This is the covenant that I will make with them after those days, declares the Lord : I will put my laws on their hearts, and write them on their minds,
+16. This is the covenant that I will make with them after those days, declares the Lord: I will put my laws on their hearts, and write them on their minds,
 17. then he adds, I will remember their sins and their lawless deeds no more.
 18. Where there is forgiveness of these, there is no longer any offering for sin.
 19. Therefore, brothers, since we have confidence to enter the holy places by the blood of Jesus,

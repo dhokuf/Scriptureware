@@ -63,5 +63,5 @@
 16. I hear, and my body trembles; my lips quiver at the sound; rottenness enters into my bones; my legs tremble beneath me. Yet I will quietly wait for the day of trouble to come upon people who invade us.
 17. Though the fig tree should not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold and there be no herd in the stalls,
 18. yet I will rejoice in the Lord; I will take joy in the God of my salvation.
-19. God, the Lord, is my strength; he makes my feet like the deer’s; he makes me tread on my high places. To the choirmaster : with stringed instruments.
+19. God, the Lord, is my strength; he makes my feet like the deer’s; he makes me tread on my high places. To the choirmaster: with stringed instruments.
 

@@ -3,7 +3,7 @@
 ## Chapter 1
 
 1. Paul, an apostle of Christ Jesus by command of God our Savior and of Christ Jesus our hope,
-2. To Timothy, my true child in the faith : Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+2. To Timothy, my true child in the faith: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
 3. As I urged you when I was going to Macedonia, remain at Ephesus so that you may charge certain persons not to teach any different doctrine,
 4. nor to devote themselves to myths and endless genealogies, which promote speculations rather than the stewardship from God that is by faith.
 5. The aim of our charge is love that issues from a pure heart and a good conscience and a sincere faith.
@@ -43,7 +43,7 @@
 
 ## Chapter 3
 
-1. The saying is trustworthy : If anyone aspires to the office of overseer, he desires a noble task.
+1. The saying is trustworthy: If anyone aspires to the office of overseer, he desires a noble task.
 2. Therefore an overseer must be above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach,
 3. not a drunkard, not violent but gentle, not quarrelsome, not a lover of money.
 4. He must manage his own household well, with all dignity keeping his children submissive,
@@ -58,7 +58,7 @@
 13. For those who serve well as deacons gain a good standing for themselves and also great confidence in the faith that is in Christ Jesus.
 14. I hope to come to you soon, but I am writing these things to you so that,
 15. if I delay, you may know how one ought to behave in the household of God, which is the church of the living God, a pillar and buttress of the truth.
-16. Great indeed, we confess, is the mystery of godliness : He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory.
+16. Great indeed, we confess, is the mystery of godliness: He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory.
 
 ## Chapter 4
 
@@ -90,7 +90,7 @@
 7. Command these things as well, so that they may be without reproach.
 8. But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever.
 9. Let a widow be enrolled if she is not less than sixty years of age, having been the wife of one husband,
-10. and having a reputation for good works : if she has brought up children, has shown hospitality, has washed the feet of the saints, has cared for the afflicted, and has devoted herself to every good work.
+10. and having a reputation for good works: if she has brought up children, has shown hospitality, has washed the feet of the saints, has cared for the afflicted, and has devoted herself to every good work.
 11. But refuse to enroll younger widows, for when their passions draw them away from Christ, they desire to marry
 12. and so incur condemnation for having abandoned their former faith.
 13. Besides that, they learn to be idlers, going about from house to house, and not only idlers, but also gossips and busybodies, saying what they should not.

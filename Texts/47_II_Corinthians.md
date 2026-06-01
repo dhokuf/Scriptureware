@@ -2,7 +2,7 @@
 
 ## Chapter 1
 
-1. Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God that is at Corinth, with all the saints who are in the whole of Achaia :
+1. Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God that is at Corinth, with all the saints who are in the whole of Achaia:
 2. Grace to you and peace from God our Father and the Lord Jesus Christ.
 3. Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,
 4. who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God.
@@ -104,7 +104,7 @@
 11. Therefore, knowing the fear of the Lord, we persuade others. But what we are is known to God, and I hope it is known also to your conscience.
 12. We are not commending ourselves to you again but giving you cause to boast about us, so that you may be able to answer those who boast about outward appearance and not about what is in the heart.
 13. For if we are beside ourselves, it is for God; if we are in our right mind, it is for you.
-14. For the love of Christ controls us, because we have concluded this : that one has died for all, therefore all have died;
+14. For the love of Christ controls us, because we have concluded this: that one has died for all, therefore all have died;
 15. and he died for all, that those who live might no longer live for themselves but for him who for their sake died and was raised.
 16. From now on, therefore, we regard no one according to the flesh. Even though we once regarded Christ according to the flesh, we regard him thus no longer.
 17. Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.
@@ -118,7 +118,7 @@
 1. Working together with him, then, we appeal to you not to receive the grace of God in vain.
 2. For he says, In a favorable time I listened to you, and in a day of salvation I have helped you. Behold, now is the favorable time; behold, now is the day of salvation.
 3. We put no obstacle in anyone’s way, so that no fault may be found with our ministry,
-4. but as servants of God we commend ourselves in every way : by great endurance, in afflictions, hardships, calamities,
+4. but as servants of God we commend ourselves in every way: by great endurance, in afflictions, hardships, calamities,
 5. beatings, imprisonments, riots, labors, sleepless nights, hunger;
 6. by purity, knowledge, patience, kindness, the Holy Spirit, genuine love;
 7. by truthful speech, and the power of God; with the weapons of righteousness for the right hand and for the left;
@@ -164,7 +164,7 @@
 7. But as you excel in everything —in faith, in speech, in knowledge, in all earnestness, and in our love for you — see that you excel in this act of grace also.
 8. I say this not as a command, but to prove by the earnestness of others that your love also is genuine.
 9. For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich.
-10. And in this matter I give my judgment : this benefits you, who a year ago started not only to do this work but also to desire to do it.
+10. And in this matter I give my judgment: this benefits you, who a year ago started not only to do this work but also to desire to do it.
 11. So now finish doing it as well, so that your readiness in desiring it may be matched by your completing it out of what you have.
 12. For if the readiness is there, it is acceptable according to what a person has, not according to what he does not have.
 13. For I do not mean that others should be eased and you burdened, but that as a matter of fairness
@@ -187,7 +187,7 @@
 3. But I am sending the brothers so that our boasting about you may not prove empty in this matter, so that you may be ready, as I said you would be.
 4. Otherwise, if some Macedonians come with me and find that you are not ready, we would be humiliated —to say nothing of you—for being so confident.
 5. So I thought it necessary to urge the brothers to go on ahead to you and arrange in advance for the gift you have promised, so that it may be ready as a willing gift, not as an exaction.
-6. The point is this : whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully.
+6. The point is this: whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully.
 7. Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.
 8. And God is able to make all grace abound to you, so that having all sufficiency in all things at all times, you may abound in every good work.
 9. As it is written, He has distributed freely, he has given to the poor; his righteousness endures forever.

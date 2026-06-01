@@ -4,7 +4,7 @@
 
 1. The beginning of the gospel of Jesus Christ, the Son of God.
 2. As it is written in Isaiah the prophet, Behold, I send my messenger before your face, who will prepare your way,
-3. the voice of one crying in the wilderness : Prepare the way of the Lord, make his paths straight,
+3. the voice of one crying in the wilderness: Prepare the way of the Lord, make his paths straight,
 4. John appeared, baptizing in the wilderness and proclaiming a baptism of repentance for the forgiveness of sins.
 5. And all the country of Judea and all Jerusalem were going out to him and were being baptized by him in the river Jordan, confessing their sins.
 6. Now John was clothed with camel’s hair and wore a leather belt around his waist and ate locusts and wild honey.
@@ -74,7 +74,7 @@
 22. And no one puts new wine into old wineskins. If he does, the wine will burst the skins — and the wine is destroyed, and so are the skins. But new wine is for fresh wineskins.
 23. One Sabbath he was going through the grainfields, and as they made their way, his disciples began to pluck heads of grain.
 24. And the Pharisees were saying to him, Look, why are they doing what is not lawful on the Sabbath?
-25. And he said to them, Have you never read what David did, when he was in need and was hungry, he and those who were with him :
+25. And he said to them, Have you never read what David did, when he was in need and was hungry, he and those who were with him:
 26. how he entered the house of God, in the time of Abiathar the high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?
 27. And he said to them, The Sabbath was made for man, not man for the Sabbath.
 28. So the Son of Man is lord even of the Sabbath.
@@ -96,7 +96,7 @@
 13. And he went up on the mountain and called to him those whom he desired, and they came to him.
 14. And he appointed twelve ( whom he also named apostles ) so that they might be with him and he might send them out to preach
 15. and have authority to cast out demons.
-16. He appointed the twelve : Simon (to whom he gave the name Peter );
+16. He appointed the twelve: Simon (to whom he gave the name Peter );
 17. James the son of Zebedee and John the brother of James (to whom he gave the name Boanerges, that is, Sons of Thunder );
 18. Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Zealot,
 19. and Judas Iscariot, who betrayed him.
@@ -120,7 +120,7 @@
 ## Chapter 4
 
 1. Again he began to teach beside the sea. And a very large crowd gathered about him, so that he got into a boat and sat in it on the sea, and the whole crowd was beside the sea on the land.
-2. And he was teaching them many things in parables, and in his teaching he said to them :
+2. And he was teaching them many things in parables, and in his teaching he said to them:
 3. Listen! Behold, a sower went out to sow.
 4. And as he sowed, some seed fell along the path, and the birds came and devoured it.
 5. Other seed fell on rocky ground, where it did not have much soil, and immediately it sprang up, since it had no depth of soil.
@@ -133,8 +133,8 @@
 12. so that they may indeed see but not perceive, and may indeed hear but not understand, lest they should turn and be forgiven.
 13. And he said to them, Do you not understand this parable? How then will you understand all the parables?
 14. The sower sows the word.
-15. And these are the ones along the path, where the word is sown : when they hear, Satan immediately comes and takes away the word that is sown in them.
-16. And these are the ones sown on rocky ground : the ones who, when they hear the word, immediately receive it with joy.
+15. And these are the ones along the path, where the word is sown: when they hear, Satan immediately comes and takes away the word that is sown in them.
+16. And these are the ones sown on rocky ground: the ones who, when they hear the word, immediately receive it with joy.
 17. And they have no root in themselves, but endure for a while; then, when tribulation or persecution arises on account of the word, immediately they fall away.
 18. And others are the ones sown among thorns. They are those who hear the word,
 19. but the cares of the world and the deceitfulness of riches and the desires for other things enter in and choke the word, and it proves unfruitful.
@@ -142,7 +142,7 @@
 21. And he said to them, Is a lamp brought in to be put under a basket, or under a bed, and not on a stand?
 22. For nothing is hidden except to be made manifest; nor is anything secret except to come to light.
 23. If anyone has ears to hear, let him hear.
-24. And he said to them, Pay attention to what you hear : with the measure you use, it will be measured to you, and still more will be added to you.
+24. And he said to them, Pay attention to what you hear: with the measure you use, it will be measured to you, and still more will be added to you.
 25. For to the one who has, more will be given, and from the one who has not, even what he has will be taken away.
 26. And he said, The kingdom of God is as if a man should scatter seed on the ground.
 27. He sleeps and rises night and day, and the seed sprouts and grows; he knows not how.
@@ -281,7 +281,7 @@
 11. But you say, If a man tells his father or his mother, Whatever you would have gained from me is Corban (that is, given to God) —
 12. then you no longer permit him to do anything for his father or mother,
 13. thus making void the word of God by your tradition that you have handed down. And many such things you do.
-14. And he called the people to him again and said to them, Hear me, all of you, and understand :
+14. And he called the people to him again and said to them, Hear me, all of you, and understand:
 15. There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him.
 16. There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him.
 17. And when he had entered the house and left the people, his disciples asked him about the parable.
@@ -420,9 +420,9 @@
 16. And he took them in his arms and blessed them, laying his hands on them.
 17. And as he was setting out on his journey, a man ran up and knelt before him and asked him, Good Teacher, what must I do to inherit eternal life?
 18. And Jesus said to him, Why do you call me good? No one is good except God alone.
-19. You know the commandments : Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor your father and mother.
+19. You know the commandments: Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor your father and mother.
 20. And he said to him, Teacher, all these I have kept from my youth.
-21. And Jesus, looking at him, loved him, and said to him, You lack one thing : go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me.
+21. And Jesus, looking at him, loved him, and said to him, You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me.
 22. Disheartened by the saying, he went away sorrowful, for he had great possessions.
 23. And Jesus looked around and said to his disciples, How difficult it will be for those who have wealth to enter the kingdom of God!
 24. And the disciples were amazed at his words. But Jesus said to them again, Children, how difficult it is to enter the kingdom of God!
@@ -497,12 +497,12 @@
 2. When the season came, he sent a servant to the tenants to get from them some of the fruit of the vineyard.
 3. And they took him and beat him and sent him away empty-handed.
 4. Again he sent to them another servant, and they struck him on the head and treated him shamefully.
-5. And he sent another, and him they killed. And so with many others : some they beat, and some they killed.
+5. And he sent another, and him they killed. And so with many others: some they beat, and some they killed.
 6. He had still one other, a beloved son. Finally he sent him to them, saying, They will respect my son.
 7. But those tenants said to one another, This is the heir. Come, let us kill him, and the inheritance will be ours.
 8. And they took him and killed him and threw him out of the vineyard.
 9. What will the owner of the vineyard do? He will come and destroy the tenants and give the vineyard to others.
-10. Have you not read this Scripture : The stone that the builders rejected has become the cornerstone;
+10. Have you not read this Scripture: The stone that the builders rejected has become the cornerstone;
 11. this was the Lord’s doing, and it is marvelous in our eyes?
 12. And they were seeking to arrest him but feared the people, for they perceived that he had told the parable against them. So they left him and went away.
 13. And they sent to him some of the Pharisees and some of the Herodians, to trap him in his talk.
@@ -521,9 +521,9 @@
 26. And as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God spoke to him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?
 27. He is not God of the dead, but of the living. You are quite wrong.
 28. And one of the scribes came up and heard them disputing with one another, and seeing that he answered them well, asked him, Which commandment is the most important of all?
-29. Jesus answered, The most important is, Hear, O Israel : The Lord our God, the Lord is one.
+29. Jesus answered, The most important is, Hear, O Israel: The Lord our God, the Lord is one.
 30. And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.
-31. The second is this : You shall love your neighbor as yourself. There is no other commandment greater than these.
+31. The second is this: You shall love your neighbor as yourself. There is no other commandment greater than these.
 32. And the scribe said to him, You are right, Teacher. You have truly said that he is one, and there is no other besides him.
 33. And to love him with all the heart and with all the understanding and with all the strength, and to love one’s neighbor as oneself, is much more than all whole burnt offerings and sacrifices.
 34. And when Jesus saw that he answered wisely, he said to him, You are not far from the kingdom of God. And after that no one dared to ask him any more questions.
@@ -567,7 +567,7 @@
 25. and the stars will be falling from heaven, and the powers in the heavens will be shaken.
 26. And then they will see the Son of Man coming in clouds with great power and glory.
 27. And then he will send out the angels and gather his elect from the four winds, from the ends of the earth to the ends of heaven.
-28. From the fig tree learn its lesson : as soon as its branch becomes tender and puts out its leaves, you know that summer is near.
+28. From the fig tree learn its lesson: as soon as its branch becomes tender and puts out its leaves, you know that summer is near.
 29. So also, when you see these things taking place, you know that he is near, at the very gates.
 30. Truly, I say to you, this generation will not pass away until all these things take place.
 31. Heaven and earth will pass away, but my words will not pass away.
@@ -576,7 +576,7 @@
 34. It is like a man going on a journey, when he leaves home and puts his servants in charge, each with his work, and commands the doorkeeper to stay awake.
 35. Therefore stay awake — for you do not know when the master of the house will come, in the evening, or at midnight, or when the rooster crows, or in the morning —
 36. lest he come suddenly and find you asleep.
-37. And what I say to you I say to all : Stay awake.
+37. And what I say to you I say to all: Stay awake.
 
 ## Chapter 14
 
@@ -721,7 +721,7 @@
 14. Afterward he appeared to the eleven themselves as they were reclining at table, and he rebuked them for their unbelief and hardness of heart, because they had not believed those who saw him after he had risen.
 15. And he said to them, Go into all the world and proclaim the gospel to the whole creation.
 16. Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.
-17. And these signs will accompany those who believe : in my name they will cast out demons; they will speak in new tongues;
+17. And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues;
 18. they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover.
 19. So then the Lord Jesus, after he had spoken to them, was taken up into heaven and sat down at the right hand of God.
 20. And they went out and preached everywhere, while the Lord worked with them and confirmed the message by accompanying signs .]]

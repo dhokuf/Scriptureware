@@ -128,7 +128,7 @@
 
 ## Chapter 5
 
-1. Then sang Deborah and Barak the son of Abinoam on that day :
+1. Then sang Deborah and Barak the son of Abinoam on that day:
 2. That the leaders took the lead in Israel, that the people offered themselves willingly, bless the Lord!
 3. Hear, O kings; give ear, O princes; to the Lord I will sing; I will make melody to the Lord, the God of Israel.
 4. Lord, when you went out from Seir, when you marched from the region of Edom, the earth trembled and the heavens dropped, yes, the clouds dropped water.
@@ -155,7 +155,7 @@
 25. He asked for water and she gave him milk; she brought him curds in a noble’s bowl.
 26. She sent her hand to the tent peg and her right hand to the workmen’s mallet; she struck Sisera; she crushed his head; she shattered and pierced his temple.
 27. Between her feet he sank, he fell, he lay still; between her feet he sank, he fell; where he sank, there he fell — dead.
-28. Out of the window she peered, the mother of Sisera wailed through the lattice : Why is his chariot so long in coming? Why tarry the hoofbeats of his chariots?
+28. Out of the window she peered, the mother of Sisera wailed through the lattice: Why is his chariot so long in coming? Why tarry the hoofbeats of his chariots?
 29. Her wisest princesses answer, indeed, she answers herself,
 30. Have they not found and divided the spoil ?— A womb or two for every man; spoil of dyed materials for Sisera, spoil of dyed materials embroidered, two pieces of dyed work embroidered for the neck as spoil?
 31. So may all your enemies perish, O Lord! But your friends be like the sun as he rises in his might. And the land had rest for forty years.
@@ -169,7 +169,7 @@
 5. For they would come up with their livestock and their tents; they would come like locusts in number —both they and their camels could not be counted —so that they laid waste the land as they came in.
 6. And Israel was brought very low because of Midian. And the people of Israel cried out for help to the Lord.
 7. When the people of Israel cried out to the Lord on account of the Midianites,
-8. the Lord sent a prophet to the people of Israel. And he said to them, Thus says the Lord, the God of Israel : I led you up from Egypt and brought you out of the house of slavery.
+8. the Lord sent a prophet to the people of Israel. And he said to them, Thus says the Lord, the God of Israel: I led you up from Egypt and brought you out of the house of slavery.
 9. And I delivered you from the hand of the Egyptians and from the hand of all who oppressed you, and drove them out before you and gave you their land.
 10. And I said to you, I am the Lord your God; you shall not fear the gods of the Amorites in whose land you dwell. But you have not obeyed my voice.
 11. Now the angel of the Lord came and sat under the terebinth at Ophrah, which belonged to Joash the Abiezrite, while his son Gideon was beating out wheat in the winepress to hide it from the Midianites.
@@ -366,7 +366,7 @@
 12. Then Jephthah sent messengers to the king of the Ammonites and said, What do you have against me, that you have come to me to fight against my land?
 13. And the king of the Ammonites answered the messengers of Jephthah, Because Israel on coming up from Egypt took away my land, from the Arnon to the Jabbok and to the Jordan; now therefore restore it peaceably.
 14. Jephthah again sent messengers to the king of the Ammonites
-15. and said to him, Thus says Jephthah : Israel did not take away the land of Moab or the land of the Ammonites,
+15. and said to him, Thus says Jephthah: Israel did not take away the land of Moab or the land of the Ammonites,
 16. but when they came up from Egypt, Israel went through the wilderness to the Red Sea and came to Kadesh.
 17. Israel then sent messengers to the king of Edom, saying, Please let us pass through your land, but the king of Edom would not listen. And they sent also to the king of Moab, but he would not consent. So Israel remained at Kadesh.
 18. Then they journeyed through the wilderness and went around the land of Edom and the land of Moab and arrived on the east side of the land of Moab and camped on the other side of the Arnon. But they did not enter the territory of Moab, for the Arnon was the boundary of Moab.
@@ -612,7 +612,7 @@
 6. So I took hold of my concubine and cut her in pieces and sent her throughout all the country of the inheritance of Israel, for they have committed abomination and outrage in Israel.
 7. Behold, you people of Israel, all of you, give your advice and counsel here.
 8. And all the people arose as one man, saying, None of us will go to his tent, and none of us will return to his house.
-9. But now this is what we will do to Gibeah : we will go up against it by lot,
+9. But now this is what we will do to Gibeah: we will go up against it by lot,
 10. and we will take ten men of a hundred throughout all the tribes of Israel, and a hundred of a thousand, and a thousand of ten thousand, to bring provisions for the people, that when they come they may repay Gibeah of Benjamin, for all the outrage that they have committed in Israel.
 11. So all the men of Israel gathered against the city, united as one man.
 12. And the tribes of Israel sent men through all the tribe of Benjamin, saying, What evil is this that has taken place among you?
@@ -665,7 +665,7 @@
 8. And they said, What one is there of the tribes of Israel that did not come up to the Lord to Mizpah? And behold, no one had come to the camp from Jabesh-gilead, to the assembly.
 9. For when the people were mustered, behold, not one of the inhabitants of Jabesh-gilead was there.
 10. So the congregation sent 12,000 of their bravest men there and commanded them, Go and strike the inhabitants of Jabesh-gilead with the edge of the sword; also the women and the little ones.
-11. This is what you shall do : every male and every woman that has lain with a male you shall devote to destruction.
+11. This is what you shall do: every male and every woman that has lain with a male you shall devote to destruction.
 12. And they found among the inhabitants of Jabesh-gilead 400 young virgins who had not known a man by lying with him, and they brought them to the camp at Shiloh, which is in the land of Canaan.
 13. Then the whole congregation sent word to the people of Benjamin who were at the rock of Rimmon and proclaimed peace to them.
 14. And Benjamin returned at that time. And they gave them the women whom they had saved alive of the women of Jabesh-gilead, but they were not enough for them.

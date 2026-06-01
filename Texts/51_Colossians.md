@@ -3,7 +3,7 @@
 ## Chapter 1
 
 1. Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
-2. To the saints and faithful brothers in Christ at Colossae : Grace to you and peace from God our Father.
+2. To the saints and faithful brothers in Christ at Colossae: Grace to you and peace from God our Father.
 3. We always thank God, the Father of our Lord Jesus Christ, when we pray for you,
 4. since we heard of your faith in Christ Jesus and of the love that you have for all the saints,
 5. because of the hope laid up for you in heaven. Of this you have heard before in the word of the truth, the gospel,
@@ -67,7 +67,7 @@
 5. Put to death therefore what is earthly in you: sexual immorality, impurity, passion, evil desire, and covetousness, which is idolatry.
 6. On account of these the wrath of God is coming.
 7. In these you too once walked, when you were living in them.
-8. But now you must put them all away : anger, wrath, malice, slander, and obscene talk from your mouth.
+8. But now you must put them all away: anger, wrath, malice, slander, and obscene talk from your mouth.
 9. Do not lie to one another, seeing that you have put off the old self with its practices
 10. and have put on the new self, which is being renewed in knowledge after the image of its creator.
 11. Here there is not Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave, free; but Christ is all, and in all.

@@ -2,7 +2,7 @@
 
 ## Chapter 1
 
-1. James, a servant of God and of the Lord Jesus Christ, To the twelve tribes in the Dispersion : Greetings.
+1. James, a servant of God and of the Lord Jesus Christ, To the twelve tribes in the Dispersion: Greetings.
 2. Count it all joy, my brothers, when you meet trials of various kinds,
 3. for you know that the testing of your faith produces steadfastness.
 4. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing.
@@ -20,7 +20,7 @@
 16. Do not be deceived, my beloved brothers.
 17. Every good gift and every perfect gift is from above, coming down from the Father of lights with whom there is no variation or shadow due to change.
 18. Of his own will he brought us forth by the word of truth, that we should be a kind of firstfruits of his creatures.
-19. Know this, my beloved brothers : let every person be quick to hear, slow to speak, slow to anger;
+19. Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger;
 20. for the anger of man does not produce the righteousness of God.
 21. Therefore put away all filthiness and rampant wickedness and receive with meekness the implanted word, which is able to save your souls.
 22. But be doers of the word, and not hearers only, deceiving yourselves.
@@ -28,7 +28,7 @@
 24. For he looks at himself and goes away and at once forgets what he was like.
 25. But the one who looks into the perfect law, the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, he will be blessed in his doing.
 26. If anyone thinks he is religious and does not bridle his tongue but deceives his heart, this person’s religion is worthless.
-27. Religion that is pure and undefiled before God, the Father, is this : to visit orphans and widows in their affliction, and to keep oneself unstained from the world.
+27. Religion that is pure and undefiled before God, the Father, is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world.
 
 ## Chapter 2
 
@@ -64,7 +64,7 @@
 1. Not many of you should become teachers, my brothers, for you know that we who teach will be judged with greater strictness.
 2. For we all stumble in many ways. And if anyone does not stumble in what he says, he is a perfect man, able also to bridle his whole body.
 3. If we put bits into the mouths of horses so that they obey us, we guide their whole bodies as well.
-4. Look at the ships also : though they are so large and are driven by strong winds, they are guided by a very small rudder wherever the will of the pilot directs.
+4. Look at the ships also: though they are so large and are driven by strong winds, they are guided by a very small rudder wherever the will of the pilot directs.
 5. So also the tongue is a small member, yet it boasts of great things. How great a forest is set ablaze by such a small fire!
 6. And the tongue is a fire, a world of unrighteousness. The tongue is set among our members, staining the whole body, setting on fire the entire course of life, and set on fire by hell.
 7. For every kind of beast and bird, of reptile and sea creature, can be tamed and has been tamed by mankind,

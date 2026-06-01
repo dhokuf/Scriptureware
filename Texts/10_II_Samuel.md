@@ -68,7 +68,7 @@
 ## Chapter 3
 
 1. There was a long war between the house of Saul and the house of David. And David grew stronger and stronger, while the house of Saul became weaker and weaker.
-2. And sons were born to David at Hebron : his firstborn was Amnon, of Ahinoam of Jezreel;
+2. And sons were born to David at Hebron: his firstborn was Amnon, of Ahinoam of Jezreel;
 3. and his second, Chileab, of Abigail the widow of Nabal of Carmel; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;
 4. and the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of Abital;
 5. and the sixth, Ithream, of Eglah, David’s wife. These were born to David in Hebron.
@@ -137,7 +137,7 @@
 11. And Hiram king of Tyre sent messengers to David, and cedar trees, also carpenters and masons who built David a house.
 12. And David knew that the Lord had established him king over Israel, and that he had exalted his kingdom for the sake of his people Israel.
 13. And David took more concubines and wives from Jerusalem, after he came from Hebron, and more sons and daughters were born to David.
-14. And these are the names of those who were born to him in Jerusalem : Shammua, Shobab, Nathan, Solomon,
+14. And these are the names of those who were born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,
 15. Ibhar, Elishua, Nepheg, Japhia,
 16. Elishama, Eliada, and Eliphelet.
 17. When the Philistines heard that David had been anointed king over Israel, all the Philistines went up to search for David. But David heard of it and went down to the stronghold.
@@ -182,7 +182,7 @@
 2. the king said to Nathan the prophet, See now, I dwell in a house of cedar, but the ark of God dwells in a tent.
 3. And Nathan said to the king, Go, do all that is in your heart, for the Lord is with you.
 4. But that same night the word of the Lord came to Nathan,
-5. Go and tell my servant David, Thus says the Lord : Would you build me a house to dwell in?
+5. Go and tell my servant David, Thus says the Lord: Would you build me a house to dwell in?
 6. I have not lived in a house since the day I brought up the people of Israel from Egypt to this day, but I have been moving about in a tent for my dwelling.
 7. In all places where I have moved with all the people of Israel, did I speak a word with any of the judges of Israel, whom I commanded to shepherd my people Israel, saying, Why have you not built me a house of cedar?
 8. Now, therefore, thus you shall say to my servant David, Thus says the Lord of hosts, I took you from the pasture, from following the sheep, that you should be prince over my people Israel.
@@ -555,7 +555,7 @@
 8. Then the king arose and took his seat in the gate. And the people were all told, Behold, the king is sitting in the gate. And all the people came before the king. Now Israel had fled every man to his own home.
 9. And all the people were arguing throughout all the tribes of Israel, saying, The king delivered us from the hand of our enemies and saved us from the hand of the Philistines, and now he has fled out of the land from Absalom.
 10. But Absalom, whom we anointed over us, is dead in battle. Now therefore why do you say nothing about bringing the king back?
-11. And King David sent this message to Zadok and Abiathar the priests : Say to the elders of Judah, Why should you be the last to bring the king back to his house, when the word of all Israel has come to the king?
+11. And King David sent this message to Zadok and Abiathar the priests: Say to the elders of Judah, Why should you be the last to bring the king back to his house, when the word of all Israel has come to the king?
 12. You are my brothers; you are my bone and my flesh. Why then should you be the last to bring back the king?
 13. And say to Amasa, Are you not my bone and my flesh? God do so to me and more also, if you are not commander of my army from now on in place of Joab.
 14. And he swayed the heart of all the men of Judah as one man, so that they sent word to the king, Return, both you and all your servants.
@@ -573,7 +573,7 @@
 26. He answered, My lord, O king, my servant deceived me, for your servant said to him, I will saddle a donkey for myself, that I may ride on it and go with the king. For your servant is lame.
 27. He has slandered your servant to my lord the king. But my lord the king is like the angel of God; do therefore what seems good to you.
 28. For all my father’s house were but men doomed to death before my lord the king, but you set your servant among those who eat at your table. What further right have I, then, to cry to the king?
-29. And the king said to him, Why speak any more of your affairs? I have decided : you and Ziba shall divide the land.
+29. And the king said to him, Why speak any more of your affairs? I have decided: you and Ziba shall divide the land.
 30. And Mephibosheth said to the king, Oh, let him take it all, since my lord the king has come safely home.
 31. Now Barzillai the Gileadite had come down from Rogelim, and he went on with the king to the Jordan, to escort him over the Jordan.
 32. Barzillai was a very aged man, eighty years old. He had provided the king with food while he stayed at Mahanaim, for he was a very wealthy man.
@@ -699,7 +699,7 @@
 
 ## Chapter 23
 
-1. Now these are the last words of David : The oracle of David, the son of Jesse, the oracle of the man who was raised on high, the anointed of the God of Jacob, the sweet psalmist of Israel :
+1. Now these are the last words of David: The oracle of David, the son of Jesse, the oracle of the man who was raised on high, the anointed of the God of Jacob, the sweet psalmist of Israel:
 2. The Spirit of the Lord speaks by me; his word is on my tongue.
 3. The God of Israel has spoken; the Rock of Israel has said to me: When one rules justly over men, ruling in the fear of God,
 4. he dawns on them like the morning light, like the sun shining forth on a cloudless morning, like rain that makes grass to sprout from the earth.
@@ -737,7 +737,7 @@
 36. Igal the son of Nathan of Zobah, Bani the Gadite,
 37. Zelek the Ammonite, Naharai of Beeroth, the armor-bearer of Joab the son of Zeruiah,
 38. Ira the Ithrite, Gareb the Ithrite,
-39. Uriah the Hittite : thirty- seven in all.
+39. Uriah the Hittite: thirty- seven in all.
 
 ## Chapter 24
 
@@ -749,7 +749,7 @@
 6. Then they came to Gilead, and to Kadesh in the land of the Hittites; and they came to Dan, and from Dan they went around to Sidon,
 7. and came to the fortress of Tyre and to all the cities of the Hivites and Canaanites; and they went out to the Negeb of Judah at Beersheba.
 8. So when they had gone through all the land, they came to Jerusalem at the end of nine months and twenty days.
-9. And Joab gave the sum of the numbering of the people to the king : in Israel there were 800,000 valiant men who drew the sword, and the men of Judah were 500,000.
+9. And Joab gave the sum of the numbering of the people to the king: in Israel there were 800,000 valiant men who drew the sword, and the men of Judah were 500,000.
 10. But David’s heart struck him after he had numbered the people. And David said to the Lord, I have sinned greatly in what I have done. But now, O Lord, please take away the iniquity of your servant, for I have done very foolishly.
 11. And when David arose in the morning, the word of the Lord came to the prophet Gad, David’s seer, saying,
 12. Go and say to David, Thus says the Lord, Three things I offer you. Choose one of them, that I may do it to you.

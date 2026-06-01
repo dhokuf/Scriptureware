@@ -2,7 +2,7 @@
 
 ## Chapter 1
 
-1. Simeon Peter, a servant and apostle of Jesus Christ, To those who have obtained a faith of equal standing with ours by the righteousness of our God and Savior Jesus Christ :
+1. Simeon Peter, a servant and apostle of Jesus Christ, To those who have obtained a faith of equal standing with ours by the righteousness of our God and Savior Jesus Christ:
 2. May grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord.
 3. His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence,
 4. by which he has granted to us his precious and very great promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of sinful desire.
@@ -47,7 +47,7 @@
 19. They promise them freedom, but they themselves are slaves of corruption. For whatever overcomes a person, to that he is enslaved.
 20. For if, after they have escaped the defilements of the world through the knowledge of our Lord and Savior Jesus Christ, they are again entangled in them and overcome, the last state has become worse for them than the first.
 21. For it would have been better for them never to have known the way of righteousness than after knowing it to turn back from the holy commandment delivered to them.
-22. What the true proverb says has happened to them : The dog returns to its own vomit, and the sow, after washing herself, returns to wallow in the mire.
+22. What the true proverb says has happened to them: The dog returns to its own vomit, and the sow, after washing herself, returns to wallow in the mire.
 
 ## Chapter 3
 

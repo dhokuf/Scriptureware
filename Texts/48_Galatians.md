@@ -3,14 +3,14 @@
 ## Chapter 1
 
 1. Paul, an apostle — not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead —
-2. and all the brothers who are with me, To the churches of Galatia :
+2. and all the brothers who are with me, To the churches of Galatia:
 3. Grace to you and peace from God our Father and the Lord Jesus Christ,
 4. who gave himself for our sins to deliver us from the present evil age, according to the will of our God and Father,
 5. to whom be the glory forever and ever. Amen.
 6. I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel —
 7. not that there is another one, but there are some who trouble you and want to distort the gospel of Christ.
 8. But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed.
-9. As we have said before, so now I say again : If anyone is preaching to you a gospel contrary to the one you received, let him be accursed.
+9. As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed.
 10. For am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ.
 11. For I would have you know, brothers, that the gospel that was preached by me is not man’s gospel.
 12. For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ.
@@ -54,7 +54,7 @@
 ## Chapter 3
 
 1. O foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly portrayed as crucified.
-2. Let me ask you only this : Did you receive the Spirit by works of the law or by hearing with faith?
+2. Let me ask you only this: Did you receive the Spirit by works of the law or by hearing with faith?
 3. Are you so foolish? Having begun by the Spirit, are you now being perfected by the flesh?
 4. Did you suffer so many things in vain — if indeed it was in vain?
 5. Does he who supplies the Spirit to you and works miracles among you do so by works of the law, or by hearing with faith —
@@ -67,9 +67,9 @@
 12. But the law is not of faith, rather The one who does them shall live by them.
 13. Christ redeemed us from the curse of the law by becoming a curse for us — for it is written, Cursed is everyone who is hanged on a tree —
 14. so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promised Spirit through faith.
-15. To give a human example, brothers : even with a man-made covenant, no one annuls it or adds to it once it has been ratified.
+15. To give a human example, brothers: even with a man-made covenant, no one annuls it or adds to it once it has been ratified.
 16. Now the promises were made to Abraham and to his offspring. It does not say, And to offsprings, referring to many, but referring to one, And to your offspring, who is Christ.
-17. This is what I mean : the law, which came 430 years afterward, does not annul a covenant previously ratified by God, so as to make the promise void.
+17. This is what I mean: the law, which came 430 years afterward, does not annul a covenant previously ratified by God, so as to make the promise void.
 18. For if the inheritance comes by the law, it no longer comes by promise; but God gave it to Abraham by a promise.
 19. Why then the law? It was added because of transgressions, until the offspring should come to whom the promise had been made, and it was put in place through angels by an intermediary.
 20. Now an intermediary implies more than one, but God is one.
@@ -108,7 +108,7 @@
 21. Tell me, you who desire to be under the law, do you not listen to the law?
 22. For it is written that Abraham had two sons, one by a slave woman and one by a free woman.
 23. But the son of the slave was born according to the flesh, while the son of the free woman was born through promise.
-24. Now this may be interpreted allegorically : these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar.
+24. Now this may be interpreted allegorically: these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar.
 25. Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children.
 26. But the Jerusalem above is free, and she is our mother.
 27. For it is written, Rejoice, O barren one who does not bear; break forth and cry aloud, you who are not in labor! For the children of the desolate one will be more than those of the one who has a husband.
@@ -120,7 +120,7 @@
 ## Chapter 5
 
 1. For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery.
-2. Look : I, Paul, say to you that if you accept circumcision, Christ will be of no advantage to you.
+2. Look: I, Paul, say to you that if you accept circumcision, Christ will be of no advantage to you.
 3. I testify again to every man who accepts circumcision that he is obligated to keep the whole law.
 4. You are severed from Christ, you who would be justified by the law; you have fallen away from grace.
 5. For through the Spirit, by faith, we ourselves eagerly wait for the hope of righteousness.
@@ -132,12 +132,12 @@
 11. But if I, brothers, still preach circumcision, why am I still being persecuted? In that case the offense of the cross has been removed.
 12. I wish those who unsettle you would emasculate themselves!
 13. For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another.
-14. For the whole law is fulfilled in one word : You shall love your neighbor as yourself.
+14. For the whole law is fulfilled in one word: You shall love your neighbor as yourself.
 15. But if you bite and devour one another, watch out that you are not consumed by one another.
 16. But I say, walk by the Spirit, and you will not gratify the desires of the flesh.
 17. For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do.
 18. But if you are led by the Spirit, you are not under the law.
-19. Now the works of the flesh are evident : sexual immorality, impurity, sensuality,
+19. Now the works of the flesh are evident: sexual immorality, impurity, sensuality,
 20. idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions,
 21. envy, drunkenness, orgies, and things like these. I warn you, as I warned you before, that those who do such things will not inherit the kingdom of God.
 22. But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
@@ -154,7 +154,7 @@
 4. But let each one test his own work, and then his reason to boast will be in himself alone and not in his neighbor.
 5. For each will have to bear his own load.
 6. Let the one who is taught the word share all good things with the one who teaches.
-7. Do not be deceived : God is not mocked, for whatever one sows, that will he also reap.
+7. Do not be deceived: God is not mocked, for whatever one sows, that will he also reap.
 8. For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life.
 9. And let us not grow weary of doing good, for in due season we will reap, if we do not give up.
 10. So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith.

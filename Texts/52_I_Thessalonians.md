@@ -2,7 +2,7 @@
 
 ## Chapter 1
 
-1. Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ : Grace to you and peace.
+1. Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace.
 2. We give thanks to God always for all of you, constantly mentioning you in our prayers,
 3. remembering before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ.
 4. For we know, brothers loved by God, that he has chosen you,
@@ -23,7 +23,7 @@
 6. Nor did we seek glory from people, whether from you or from others, though we could have made demands as apostles of Christ.
 7. But we were gentle among you, like a nursing mother taking care of her own children.
 8. So, being affectionately desirous of you, we were ready to share with you not only the gospel of God but also our own selves, because you had become very dear to us.
-9. For you remember, brothers, our labor and toil : we worked night and day, that we might not be a burden to any of you, while we proclaimed to you the gospel of God.
+9. For you remember, brothers, our labor and toil: we worked night and day, that we might not be a burden to any of you, while we proclaimed to you the gospel of God.
 10. You are witnesses, and God also, how holy and righteous and blameless was our conduct toward you believers.
 11. For you know how, like a father with his children,
 12. we exhorted each one of you and encouraged you and charged you to walk in a manner worthy of God, who calls you into his own kingdom and glory.
@@ -56,7 +56,7 @@
 
 1. Finally, then, brothers, we ask and urge you in the Lord Jesus, that as you received from us how you ought to walk and to please God, just as you are doing, that you do so more and more.
 2. For you know what instructions we gave you through the Lord Jesus.
-3. For this is the will of God, your sanctification : that you abstain from sexual immorality;
+3. For this is the will of God, your sanctification: that you abstain from sexual immorality;
 4. that each one of you know how to control his own body in holiness and honor,
 5. not in the passion of lust like the Gentiles who do not know God;
 6. that no one transgress and wrong his brother in this matter, because the Lord is an avenger in all these things, as we told you beforehand and solemnly warned you.

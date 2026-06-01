@@ -2,7 +2,7 @@
 
 ## Chapter 1
 
-1. The proverbs of Solomon, son of David, king of Israel :
+1. The proverbs of Solomon, son of David, king of Israel:
 2. To know wisdom and instruction, to understand words of insight,
 3. to receive instruction in wise dealing, in righteousness, justice, and equity;
 4. to give prudence to the simple, knowledge and discretion to the youth —
@@ -22,7 +22,7 @@
 18. but these men lie in wait for their own blood; they set an ambush for their own lives.
 19. Such are the ways of everyone who is greedy for unjust gain; it takes away the life of its possessors.
 20. Wisdom cries aloud in the street, in the markets she raises her voice;
-21. at the head of the noisy streets she cries out; at the entrance of the city gates she speaks :
+21. at the head of the noisy streets she cries out; at the entrance of the city gates she speaks:
 22. How long, O simple ones, will you love being simple? How long will scoffers delight in their scoffing and fools hate knowledge?
 23. If you turn at my reproof, behold, I will pour out my spirit to you; I will make my words known to you.
 24. Because I have called and you refused to listen, have stretched out my hand and no one has heeded,
@@ -159,7 +159,7 @@
 
 1. My son, if you have put up security for your neighbor, have given your pledge for a stranger,
 2. if you are snared in the words of your mouth, caught in the words of your mouth,
-3. then do this, my son, and save yourself, for you have come into the hand of your neighbor : go, hasten, and plead urgently with your neighbor.
+3. then do this, my son, and save yourself, for you have come into the hand of your neighbor: go, hasten, and plead urgently with your neighbor.
 4. Give your eyes no sleep and your eyelids no slumber;
 5. save yourself like a gazelle from the hand of the hunter, like a bird from the hand of the fowler.
 6. Go to the ant, O sluggard; consider her ways, and be wise.
@@ -172,7 +172,7 @@
 13. winks with his eyes, signals with his feet, points with his finger,
 14. with perverted heart devises evil, continually sowing discord;
 15. therefore calamity will come upon him suddenly; in a moment he will be broken beyond healing.
-16. There are six things that the Lord hates, seven that are an abomination to him :
+16. There are six things that the Lord hates, seven that are an abomination to him:
 17. haughty eyes, a lying tongue, and hands that shed innocent blood,
 18. a heart that devises wicked plans, feet that make haste to run to evil,
 19. a false witness who breathes out lies, and one who sows discord among brothers.
@@ -227,7 +227,7 @@
 
 1. Does not wisdom call? Does not understanding raise her voice?
 2. On the heights beside the way, at the crossroads she takes her stand;
-3. beside the gates in front of the town, at the entrance of the portals she cries aloud :
+3. beside the gates in front of the town, at the entrance of the portals she cries aloud:
 4. To you, O men, I call, and my cry is to the children of man.
 5. O simple ones, learn prudence; O fools, learn sense.
 6. Hear, for I will speak noble things, and from my lips will come what is right,
@@ -946,7 +946,7 @@
 4. Who has ascended to heaven and come down? Who has gathered the wind in his fists? Who has wrapped up the waters in a garment? Who has established all the ends of the earth? What is his name, and what is his son’s name? Surely you know!
 5. Every word of God proves true; he is a shield to those who take refuge in him.
 6. Do not add to his words, lest he rebuke you and you be found a liar.
-7. Two things I ask of you; deny them not to me before I die :
+7. Two things I ask of you; deny them not to me before I die:
 8. Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me,
 9. lest I be full and deny you and say, Who is the Lord? or lest I be poor and steal and profane the name of my God.
 10. Do not slander a servant to his master, lest he curse you, and you be held guilty.
@@ -954,21 +954,21 @@
 12. There are those who are clean in their own eyes but are not washed of their filth.
 13. There are those — how lofty are their eyes, how high their eyelids lift!
 14. There are those whose teeth are swords, whose fangs are knives, to devour the poor from off the earth, the needy from among mankind.
-15. The leech has two daughters : Give and Give. Three things are never satisfied; four never say, Enough :
+15. The leech has two daughters: Give and Give. Three things are never satisfied; four never say, Enough:
 16. Sheol, the barren womb, the land never satisfied with water, and the fire that never says, Enough.
 17. The eye that mocks a father and scorns to obey a mother will be picked out by the ravens of the valley and eaten by the vultures.
-18. Three things are too wonderful for me; four I do not understand :
+18. Three things are too wonderful for me; four I do not understand:
 19. the way of an eagle in the sky, the way of a serpent on a rock, the way of a ship on the high seas, and the way of a man with a virgin.
-20. This is the way of an adulteress : she eats and wipes her mouth and says, I have done no wrong.
-21. Under three things the earth trembles; under four it cannot bear up :
+20. This is the way of an adulteress: she eats and wipes her mouth and says, I have done no wrong.
+21. Under three things the earth trembles; under four it cannot bear up:
 22. a slave when he becomes king, and a fool when he is filled with food;
 23. an unloved woman when she gets a husband, and a maidservant when she displaces her mistress.
-24. Four things on earth are small, but they are exceedingly wise :
+24. Four things on earth are small, but they are exceedingly wise:
 25. the ants are a people not strong, yet they provide their food in the summer;
 26. the rock badgers are a people not mighty, yet they make their homes in the cliffs;
 27. the locusts have no king, yet all of them march in rank;
 28. the lizard you can take in your hands, yet it is in kings ’ palaces.
-29. Three things are stately in their tread; four are stately in their stride :
+29. Three things are stately in their tread; four are stately in their stride:
 30. the lion, which is mightiest among beasts and does not turn back before any;
 31. the strutting rooster, the he-goat, and a king whose army is with him.
 32. If you have been foolish, exalting yourself, or if you have been devising evil, put your hand on your mouth.

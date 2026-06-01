@@ -148,7 +148,7 @@
 6. For behold, they are going away from destruction; but Egypt shall gather them; Memphis shall bury them. Nettles shall possess their precious things of silver; thorns shall be in their tents.
 7. The days of punishment have come; the days of recompense have come; Israel shall know it. The prophet is a fool; the man of the spirit is mad, because of your great iniquity and great hatred.
 8. The prophet is the watchman of Ephraim with my God; yet a fowler’s snare is on all his ways, and hatred in the house of his God.
-9. They have deeply corrupted themselves as in the days of Gibeah : he will remember their iniquity; he will punish their sins.
+9. They have deeply corrupted themselves as in the days of Gibeah: he will remember their iniquity; he will punish their sins.
 10. Like grapes in the wilderness, I found Israel. Like the first fruit on the fig tree in its first season, I saw your fathers. But they came to Baal-peor and consecrated themselves to the thing of shame, and became detestable like the thing they loved.
 11. Ephraim’s glory shall fly away like a bird — no birth, no pregnancy, no conception!
 12. Even if they bring up children, I will bereave them till none is left. Woe to them when I depart from them!
@@ -162,7 +162,7 @@
 
 1. Israel is a luxuriant vine that yields its fruit. The more his fruit increased, the more altars he built; as his country improved, he improved his pillars.
 2. Their heart is false; now they must bear their guilt. The Lord will break down their altars and destroy their pillars.
-3. For now they will say : We have no king, for we do not fear the Lord; and a king — what could he do for us?
+3. For now they will say: We have no king, for we do not fear the Lord; and a king — what could he do for us?
 4. They utter mere words; with empty oaths they make covenants; so judgment springs up like poisonous weeds in the furrows of the field.
 5. The inhabitants of Samaria tremble for the calf of Beth-aven. Its people mourn for it, and so do its idolatrous priests — those who rejoiced over it and over its glory — for it has departed from them.
 6. The thing itself shall be carried to Assyria as tribute to the great king. Ephraim shall be put to shame, and Israel shall be ashamed of his idol.
@@ -203,7 +203,7 @@
 8. Ephraim has said, Ah, but I am rich; I have found wealth for myself; in all my labors they cannot find in me iniquity or sin.
 9. I am the Lord your God from the land of Egypt; I will again make you dwell in tents, as in the days of the appointed feast.
 10. I spoke to the prophets; it was I who multiplied visions, and through the prophets gave parables.
-11. If there is iniquity in Gilead, they shall surely come to nothing : in Gilgal they sacrifice bulls; their altars also are like stone heaps on the furrows of the field.
+11. If there is iniquity in Gilead, they shall surely come to nothing: in Gilgal they sacrifice bulls; their altars also are like stone heaps on the furrows of the field.
 12. Jacob fled to the land of Aram; there Israel served for a wife, and for a wife he guarded sheep.
 13. By a prophet the Lord brought Israel up from Egypt, and by a prophet he was guarded.
 14. Ephraim has given bitter provocation; so his Lord will leave his bloodguilt on him and will repay him for his disgraceful deeds.

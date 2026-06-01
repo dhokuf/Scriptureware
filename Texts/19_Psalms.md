@@ -17,7 +17,7 @@
 4. He who sits in the heavens laughs; the Lord holds them in derision.
 5. Then he will speak to them in his wrath, and terrify them in his fury, saying,
 6. As for me, I have set my King on Zion, my holy hill.
-7. I will tell of the decree : The Lord said to me, You are my Son; today I have begotten you.
+7. I will tell of the decree: The Lord said to me, You are my Son; today I have begotten you.
 8. Ask of me, and I will make the nations your heritage, and the ends of the earth your possession.
 9. You shall break them with a rod of iron and dash them in pieces like a potter’s vessel.
 10. Now therefore, O kings, be wise; be warned, O rulers of the earth.
@@ -37,7 +37,7 @@
 
 ## Chapter 4
 
-1. Answer Me When I Call To the choirmaster : with stringed instruments. A Psalm of David. Answer me when I call, O God of my righteousness! You have given me relief when I was in distress. Be gracious to me and hear my prayer!
+1. Answer Me When I Call To the choirmaster: with stringed instruments. A Psalm of David. Answer me when I call, O God of my righteousness! You have given me relief when I was in distress. Be gracious to me and hear my prayer!
 2. O men, how long shall my honor be turned into shame? How long will you love vain words and seek after lies?
 3. But know that the Lord has set apart the godly for himself; the Lord hears when I call to him.
 4. Be angry, and do not sin; ponder in your own hearts on your beds, and be silent.
@@ -48,7 +48,7 @@
 
 ## Chapter 5
 
-1. Lead Me in Your Righteousness To the choirmaster : for the flutes. A Psalm of David. Give ear to my words, O Lord; consider my groaning.
+1. Lead Me in Your Righteousness To the choirmaster: for the flutes. A Psalm of David. Give ear to my words, O Lord; consider my groaning.
 2. Give attention to the sound of my cry, my King and my God, for to you do I pray.
 3. O Lord, in the morning you hear my voice; in the morning I prepare a sacrifice for you and watch.
 4. For you are not a God who delights in wickedness; evil may not dwell with you.
@@ -63,7 +63,7 @@
 
 ## Chapter 6
 
-1. O Lord, Deliver My Life To the choirmaster : with stringed instruments; according to The Sheminith. A Psalm of David. O Lord, rebuke me not in your anger, nor discipline me in your wrath.
+1. O Lord, Deliver My Life To the choirmaster: with stringed instruments; according to The Sheminith. A Psalm of David. O Lord, rebuke me not in your anger, nor discipline me in your wrath.
 2. Be gracious to me, O Lord, for I am languishing; heal me, O Lord, for my bones are troubled.
 3. My soul also is greatly troubled. But you, O Lord — how long?
 4. Turn, O Lord, deliver my life; save me for the sake of your steadfast love.
@@ -96,7 +96,7 @@
 
 ## Chapter 8
 
-1. How Majestic Is Your Name To the choirmaster : according to The Gittith. A Psalm of David. O Lord, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens.
+1. How Majestic Is Your Name To the choirmaster: according to The Gittith. A Psalm of David. O Lord, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens.
 2. Out of the mouth of babies and infants, you have established strength because of your foes, to still the enemy and the avenger.
 3. When I look at your heavens, the work of your fingers, the moon and the stars, which you have set in place,
 4. what is man that you are mindful of him, and the son of man that you care for him?
@@ -108,7 +108,7 @@
 
 ## Chapter 9
 
-1. I Will Recount Your Wonderful Deeds To the choirmaster : according to Muth-labben. A Psalm of David. I will give thanks to the Lord with my whole heart; I will recount all of your wonderful deeds.
+1. I Will Recount Your Wonderful Deeds To the choirmaster: according to Muth-labben. A Psalm of David. I will give thanks to the Lord with my whole heart; I will recount all of your wonderful deeds.
 2. I will be glad and exult in you; I will sing praise to your name, O Most High.
 3. When my enemies turn back, they stumble and perish before your presence.
 4. For you have maintained my just cause; you have sat on the throne, giving righteous judgment.
@@ -162,7 +162,7 @@
 
 ## Chapter 12
 
-1. The Faithful Have Vanished To the choirmaster : according to The Sheminith. A Psalm of David. Save, O Lord, for the godly one is gone; for the faithful have vanished from among the children of man.
+1. The Faithful Have Vanished To the choirmaster: according to The Sheminith. A Psalm of David. Save, O Lord, for the godly one is gone; for the faithful have vanished from among the children of man.
 2. Everyone utters lies to his neighbor; with flattering lips and a double heart they speak.
 3. May the Lord cut off all flattering lips, the tongue that makes great boasts,
 4. those who say, With our tongue we will prevail, our lips are with us; who is master over us?
@@ -232,7 +232,7 @@
 
 ## Chapter 18
 
-1. The Lord Is My Rock and My Fortress To the choirmaster. A Psalm of David, the servant of the Lord, who addressed the words of this song to the Lord on the day when the Lord rescued him from the hand of all his enemies, and from the hand of Saul. He said : I love you, O Lord, my strength.
+1. The Lord Is My Rock and My Fortress To the choirmaster. A Psalm of David, the servant of the Lord, who addressed the words of this song to the Lord on the day when the Lord rescued him from the hand of all his enemies, and from the hand of Saul. He said: I love you, O Lord, my strength.
 2. The Lord is my rock and my fortress and my deliverer, my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold.
 3. I call upon the Lord, who is worthy to be praised, and I am saved from my enemies.
 4. The cords of death encompassed me; the torrents of destruction assailed me;
@@ -330,7 +330,7 @@
 
 ## Chapter 22
 
-1. Why Have You Forsaken Me? To the choirmaster : according to The Doe of the Dawn. A Psalm of David. My God, my God, why have you forsaken me? Why are you so far from saving me, from the words of my groaning?
+1. Why Have You Forsaken Me? To the choirmaster: according to The Doe of the Dawn. A Psalm of David. My God, my God, why have you forsaken me? Why are you so far from saving me, from the words of my groaning?
 2. O my God, I cry by day, but you do not answer, and by night, but I find no rest.
 3. Yet you are holy, enthroned on the praises of Israel.
 4. In you our fathers trusted; they trusted, and you delivered them.
@@ -689,9 +689,9 @@
 
 ## Chapter 39
 
-1. What Is the Measure of My Days? To the choirmaster : to Jeduthun. A Psalm of David. I said, I will guard my ways, that I may not sin with my tongue; I will guard my mouth with a muzzle, so long as the wicked are in my presence.
+1. What Is the Measure of My Days? To the choirmaster: to Jeduthun. A Psalm of David. I said, I will guard my ways, that I may not sin with my tongue; I will guard my mouth with a muzzle, so long as the wicked are in my presence.
 2. I was mute and silent; I held my peace to no avail, and my distress grew worse.
-3. My heart became hot within me. As I mused, the fire burned; then I spoke with my tongue :
+3. My heart became hot within me. As I mused, the fire burned; then I spoke with my tongue:
 4. O Lord, make me know my end and what is the measure of my days; let me know how fleeting I am!
 5. Behold, you have made my days a few handbreadths, and my lifetime is as nothing before you. Surely all mankind stands as a mere breath!
 6. Surely a man goes about as a shadow! Surely for nothing they are in turmoil; man heaps up wealth and does not know who will gather!
@@ -744,12 +744,12 @@
 1. Why Are You Cast Down, O My Soul? To the choirmaster. A Maskil of the Sons of Korah. As a deer pants for flowing streams, so pants my soul for you, O God.
 2. My soul thirsts for God, for the living God. When shall I come and appear before God?
 3. My tears have been my food day and night, while they say to me all the day long, Where is your God?
-4. These things I remember, as I pour out my soul : how I would go with the throng and lead them in procession to the house of God with glad shouts and songs of praise, a multitude keeping festival.
+4. These things I remember, as I pour out my soul: how I would go with the throng and lead them in procession to the house of God with glad shouts and songs of praise, a multitude keeping festival.
 5. Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation
 6. and my God. My soul is cast down within me; therefore I remember you from the land of Jordan and of Hermon, from Mount Mizar.
 7. Deep calls to deep at the roar of your waterfalls; all your breakers and your waves have gone over me.
 8. By day the Lord commands his steadfast love, and at night his song is with me, a prayer to the God of my life.
-9. I say to God, my rock : Why have you forgotten me? Why do I go mourning because of the oppression of the enemy?
+9. I say to God, my rock: Why have you forgotten me? Why do I go mourning because of the oppression of the enemy?
 10. As with a deadly wound in my bones, my adversaries taunt me, while they say to me all the day long, Where is your God?
 11. Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation and my God.
 
@@ -763,7 +763,7 @@
 
 ## Chapter 44
 
-1. Come to Our Help To the choirmaster. A Maskil of the Sons of Korah. O God, we have heard with our ears, our fathers have told us, what deeds you performed in their days, in the days of old :
+1. Come to Our Help To the choirmaster. A Maskil of the Sons of Korah. O God, we have heard with our ears, our fathers have told us, what deeds you performed in their days, in the days of old:
 2. you with your own hand drove out the nations, but them you planted; you afflicted the peoples, but them you set free;
 3. for not by their own sword did they win the land, nor did their own arm save them, but your right hand and your arm, and the light of your face, for you delighted in them.
 4. You are my King, O God; ordain salvation for Jacob!
@@ -792,7 +792,7 @@
 
 ## Chapter 45
 
-1. Your Throne, O God, Is Forever To the choirmaster : according to Lilies. A Maskil of the Sons of Korah; a love song. My heart overflows with a pleasing theme; I address my verses to the king; my tongue is like the pen of a ready scribe.
+1. Your Throne, O God, Is Forever To the choirmaster: according to Lilies. A Maskil of the Sons of Korah; a love song. My heart overflows with a pleasing theme; I address my verses to the king; my tongue is like the pen of a ready scribe.
 2. You are the most handsome of the sons of men; grace is poured upon your lips; therefore God has blessed you forever.
 3. Gird your sword on your thigh, O mighty one, in your splendor and majesty!
 4. In your majesty ride out victoriously for the cause of truth and meekness and righteousness; let your right hand teach you awesome deeds!
@@ -801,7 +801,7 @@
 7. you have loved righteousness and hated wickedness. Therefore God, your God, has anointed you with the oil of gladness beyond your companions;
 8. your robes are all fragrant with myrrh and aloes and cassia. From ivory palaces stringed instruments make you glad;
 9. daughters of kings are among your ladies of honor; at your right hand stands the queen in gold of Ophir.
-10. Hear, O daughter, and consider, and incline your ear : forget your people and your father’s house,
+10. Hear, O daughter, and consider, and incline your ear: forget your people and your father’s house,
 11. and the king will desire your beauty. Since he is your lord, bow to him.
 12. The people of Tyre will seek your favor with gifts, the richest of the people.
 13. All glorious is the princess in her chamber, with robes interwoven with gold.
@@ -881,7 +881,7 @@
 1. God Himself Is Judge A Psalm of Asaph. The Mighty One, God the Lord, speaks and summons the earth from the rising of the sun to its setting.
 2. Out of Zion, the perfection of beauty, God shines forth.
 3. Our God comes; he does not keep silence; before him is a devouring fire, around him a mighty tempest.
-4. He calls to the heavens above and to the earth, that he may judge his people :
+4. He calls to the heavens above and to the earth, that he may judge his people:
 5. Gather to me my faithful ones, who made a covenant with me by sacrifice!
 6. The heavens declare his righteousness, for God himself is judge!
 7. Hear, O my people, and I will speak; O Israel, I will testify against you. I am God, your God.
@@ -893,7 +893,7 @@
 13. Do I eat the flesh of bulls or drink the blood of goats?
 14. Offer to God a sacrifice of thanksgiving, and perform your vows to the Most High,
 15. and call upon me in the day of trouble; I will deliver you, and you shall glorify me.
-16. But to the wicked God says : What right have you to recite my statutes or take my covenant on your lips?
+16. But to the wicked God says: What right have you to recite my statutes or take my covenant on your lips?
 17. For you hate discipline, and you cast my words behind you.
 18. If you see a thief, you are pleased with him, and you keep company with adulterers.
 19. You give your mouth free rein for evil, and your tongue frames deceit.
@@ -938,7 +938,7 @@
 
 ## Chapter 53
 
-1. There Is None Who Does Good To the choirmaster : according to Mahalath. A Maskil of David. The fool says in his heart, There is no God. They are corrupt, doing abominable iniquity; there is none who does good.
+1. There Is None Who Does Good To the choirmaster: according to Mahalath. A Maskil of David. The fool says in his heart, There is no God. They are corrupt, doing abominable iniquity; there is none who does good.
 2. God looks down from heaven on the children of man to see if there are any who understand, who seek after God.
 3. They have all fallen away; together they have become corrupt; there is none who does good, not even one.
 4. Have those who work evil no knowledge, who eat up my people as they eat bread, and do not call upon God?
@@ -947,7 +947,7 @@
 
 ## Chapter 54
 
-1. The Lord Upholds My Life To the choirmaster : with stringed instruments. A Maskil of David, when the Ziphites went and told Saul, Is not David hiding among us? O God, save me by your name, and vindicate me by your might.
+1. The Lord Upholds My Life To the choirmaster: with stringed instruments. A Maskil of David, when the Ziphites went and told Saul, Is not David hiding among us? O God, save me by your name, and vindicate me by your might.
 2. O God, hear my prayer; give ear to the words of my mouth.
 3. For strangers have risen against me; ruthless men seek my life; they do not set God before themselves.
 4. Behold, God is my helper; the Lord is the upholder of my life.
@@ -957,7 +957,7 @@
 
 ## Chapter 55
 
-1. Cast Your Burden on the Lord To the choirmaster : with stringed instruments. A Maskil of David. Give ear to my prayer, O God, and hide not yourself from my plea for mercy!
+1. Cast Your Burden on the Lord To the choirmaster: with stringed instruments. A Maskil of David. Give ear to my prayer, O God, and hide not yourself from my plea for mercy!
 2. Attend to me, and answer me; I am restless in my complaint and I moan,
 3. because of the noise of the enemy, because of the oppression of the wicked. For they drop trouble upon me, and in anger they bear a grudge against me.
 4. My heart is in anguish within me; the terrors of death have fallen upon me.
@@ -983,7 +983,7 @@
 
 ## Chapter 56
 
-1. In God I Trust To the choirmaster : according to The Dove on Far-off Terebinths. A Miktam of David, when the Philistines seized him in Gath. Be gracious to me, O God, for man tramples on me; all day long an attacker oppresses me;
+1. In God I Trust To the choirmaster: according to The Dove on Far-off Terebinths. A Miktam of David, when the Philistines seized him in Gath. Be gracious to me, O God, for man tramples on me; all day long an attacker oppresses me;
 2. my enemies trample on me all day long, for many attack me proudly.
 3. When I am afraid, I put my trust in you.
 4. In God, whose word I praise, in God I trust; I shall not be afraid. What can flesh do to me?
@@ -999,7 +999,7 @@
 
 ## Chapter 57
 
-1. Let Your Glory Be over All the Earth To the choirmaster : according to Do Not Destroy. A Miktam of David, when he fled from Saul, in the cave. Be merciful to me, O God, be merciful to me, for in you my soul takes refuge; in the shadow of your wings I will take refuge, till the storms of destruction pass by.
+1. Let Your Glory Be over All the Earth To the choirmaster: according to Do Not Destroy. A Miktam of David, when he fled from Saul, in the cave. Be merciful to me, O God, be merciful to me, for in you my soul takes refuge; in the shadow of your wings I will take refuge, till the storms of destruction pass by.
 2. I cry out to God Most High, to God who fulfills his purpose for me.
 3. He will send from heaven and save me; he will put to shame him who tramples on me. God will send out his steadfast love and his faithfulness!
 4. My soul is in the midst of lions; I lie down amid fiery beasts — the children of man, whose teeth are spears and arrows, whose tongues are sharp swords.
@@ -1013,7 +1013,7 @@
 
 ## Chapter 58
 
-1. God Who Judges the Earth To the choirmaster : according to Do Not Destroy. A Miktam of David. Do you indeed decree what is right, you gods? Do you judge the children of man uprightly?
+1. God Who Judges the Earth To the choirmaster: according to Do Not Destroy. A Miktam of David. Do you indeed decree what is right, you gods? Do you judge the children of man uprightly?
 2. No, in your hearts you devise wrongs; your hands deal out violence on earth.
 3. The wicked are estranged from the womb; they go astray from birth, speaking lies.
 4. They have venom like the venom of a serpent, like the deaf adder that stops its ear,
@@ -1027,7 +1027,7 @@
 
 ## Chapter 59
 
-1. Deliver Me from My Enemies To the choirmaster : according to Do Not Destroy. A Miktam of David, when Saul sent men to watch his house in order to kill him. Deliver me from my enemies, O my God; protect me from those who rise up against me;
+1. Deliver Me from My Enemies To the choirmaster: according to Do Not Destroy. A Miktam of David, when Saul sent men to watch his house in order to kill him. Deliver me from my enemies, O my God; protect me from those who rise up against me;
 2. deliver me from those who work evil, and save me from bloodthirsty men.
 3. For behold, they lie in wait for my life; fierce men stir up strife against me. For no transgression or sin of mine, O Lord,
 4. for no fault of mine, they run and make ready. Awake, come to meet me, and see!
@@ -1047,12 +1047,12 @@
 
 ## Chapter 60
 
-1. He Will Tread Down Our Foes To the choirmaster : according to Shushan Eduth. A Miktam of David; for instruction; when he strove with Aram-naharaim and with Aram-zobah, and when Joab on his return struck down twelve thousand of Edom in the Valley of Salt. O God, you have rejected us, broken our defenses; you have been angry; oh, restore us.
+1. He Will Tread Down Our Foes To the choirmaster: according to Shushan Eduth. A Miktam of David; for instruction; when he strove with Aram-naharaim and with Aram-zobah, and when Joab on his return struck down twelve thousand of Edom in the Valley of Salt. O God, you have rejected us, broken our defenses; you have been angry; oh, restore us.
 2. You have made the land to quake; you have torn it open; repair its breaches, for it totters.
 3. You have made your people see hard things; you have given us wine to drink that made us stagger.
 4. You have set up a banner for those who fear you, that they may flee to it from the bow.
 5. That your beloved ones may be delivered, give salvation by your right hand and answer us!
-6. God has spoken in his holiness : With exultation I will divide up Shechem and portion out the Vale of Succoth.
+6. God has spoken in his holiness: With exultation I will divide up Shechem and portion out the Vale of Succoth.
 7. Gilead is mine; Manasseh is mine; Ephraim is my helmet; Judah is my scepter.
 8. Moab is my washbasin; upon Edom I cast my shoe; over Philistia I shout in triumph.
 9. Who will bring me to the fortified city? Who will lead me to Edom?
@@ -1062,7 +1062,7 @@
 
 ## Chapter 61
 
-1. Lead Me to the Rock To the choirmaster : with stringed instruments. Of David. Hear my cry, O God, listen to my prayer;
+1. Lead Me to the Rock To the choirmaster: with stringed instruments. Of David. Hear my cry, O God, listen to my prayer;
 2. from the end of the earth I call to you when my heart is faint. Lead me to the rock that is higher than I,
 3. for you have been my refuge, a strong tower against the enemy.
 4. Let me dwell in your tent forever! Let me take refuge under the shelter of your wings!
@@ -1073,7 +1073,7 @@
 
 ## Chapter 62
 
-1. My Soul Waits for God Alone To the choirmaster : according to Jeduthun. A Psalm of David. For God alone my soul waits in silence; from him comes my salvation.
+1. My Soul Waits for God Alone To the choirmaster: according to Jeduthun. A Psalm of David. For God alone my soul waits in silence; from him comes my salvation.
 2. He alone is my rock and my salvation, my fortress; I shall not be greatly shaken.
 3. How long will all of you attack a man to batter him, like a leaning wall, a tottering fence?
 4. They only plan to thrust him down from his high position. They take pleasure in falsehood. They bless with their mouths, but inwardly they curse.
@@ -1083,7 +1083,7 @@
 8. Trust in him at all times, O people; pour out your heart before him; God is a refuge for us.
 9. Those of low estate are but a breath; those of high estate are a delusion; in the balances they go up; they are together lighter than a breath.
 10. Put no trust in extortion; set no vain hopes on robbery; if riches increase, set not your heart on them.
-11. Once God has spoken; twice have I heard this : that power belongs to God,
+11. Once God has spoken; twice have I heard this: that power belongs to God,
 12. and that to you, O Lord, belongs steadfast love. For you will render to a man according to his work.
 
 ## Chapter 63
@@ -1154,7 +1154,7 @@
 
 ## Chapter 67
 
-1. Make Your Face Shine upon Us To the choirmaster : with stringed instruments. A Psalm. A Song. May God be gracious to us and bless us and make his face to shine upon us,
+1. Make Your Face Shine upon Us To the choirmaster: with stringed instruments. A Psalm. A Song. May God be gracious to us and bless us and make his face to shine upon us,
 2. that your way may be known on earth, your saving power among all nations.
 3. Let the peoples praise you, O God; let all the peoples praise you!
 4. Let the nations be glad and sing for joy, for you judge the peoples with equity and guide the nations upon earth.
@@ -1174,7 +1174,7 @@
 8. the earth quaked, the heavens poured down rain, before God, the One of Sinai, before God, the God of Israel.
 9. Rain in abundance, O God, you shed abroad; you restored your inheritance as it languished;
 10. your flock found a dwelling in it; in your goodness, O God, you provided for the needy.
-11. The Lord gives the word; the women who announce the news are a great host :
+11. The Lord gives the word; the women who announce the news are a great host:
 12. The kings of the armies —they flee, they flee! The women at home divide the spoil —
 13. though you men lie among the sheepfolds — the wings of a dove covered with silver, its pinions with shimmering gold.
 14. When the Almighty scatters kings there, let snow fall on Zalmon.
@@ -1188,7 +1188,7 @@
 22. The Lord said, I will bring them back from Bashan, I will bring them back from the depths of the sea,
 23. that you may strike your feet in their blood, that the tongues of your dogs may have their portion from the foe.
 24. Your procession is seen, O God, the procession of my God, my King, into the sanctuary —
-25. the singers in front, the musicians last, between them virgins playing tambourines :
+25. the singers in front, the musicians last, between them virgins playing tambourines:
 26. Bless God in the great congregation, the Lord, O you who are of Israel’s fountain!
 27. There is Benjamin, the least of them, in the lead, the princes of Judah in their throng, the princes of Zebulun, the princes of Naphtali.
 28. Summon your power, O God, the power, O God, by which you have worked for us.
@@ -1202,7 +1202,7 @@
 
 ## Chapter 69
 
-1. Save Me, O God To the choirmaster : according to Lilies. Of David. Save me, O God! For the waters have come up to my neck.
+1. Save Me, O God To the choirmaster: according to Lilies. Of David. Save me, O God! For the waters have come up to my neck.
 2. I sink in deep mire, where there is no foothold; I have come into deep waters, and the flood sweeps over me.
 3. I am weary with my crying out; my throat is parched. My eyes grow dim with waiting for my God.
 4. More in number than the hairs of my head are those who hate me without cause; mighty are those who would destroy me, those who attack me with lies. What I did not steal must I now restore?
@@ -1356,7 +1356,7 @@
 
 ## Chapter 75
 
-1. God Will Judge with Equity To the choirmaster : according to Do Not Destroy. A Psalm of Asaph. A Song. We give thanks to you, O God; we give thanks, for your name is near. We recount your wondrous deeds.
+1. God Will Judge with Equity To the choirmaster: according to Do Not Destroy. A Psalm of Asaph. A Song. We give thanks to you, O God; we give thanks, for your name is near. We recount your wondrous deeds.
 2. At the set time that I appoint I will judge with equity.
 3. When the earth totters, and all its inhabitants, it is I who keep steady its pillars.
 4. I say to the boastful, Do not boast, and to the wicked, Do not lift up your horn;
@@ -1369,7 +1369,7 @@
 
 ## Chapter 76
 
-1. Who Can Stand Before You? To the choirmaster : with stringed instruments. A Psalm of Asaph. A Song. In Judah God is known; his name is great in Israel.
+1. Who Can Stand Before You? To the choirmaster: with stringed instruments. A Psalm of Asaph. A Song. In Judah God is known; his name is great in Israel.
 2. His abode has been established in Salem, his dwelling place in Zion.
 3. There he broke the flashing arrows, the shield, the sword, and the weapons of war.
 4. Glorious are you, more majestic than the mountains full of prey.
@@ -1384,12 +1384,12 @@
 
 ## Chapter 77
 
-1. In the Day of Trouble I Seek the Lord To the choirmaster : according to Jeduthun. A Psalm of Asaph. I cry aloud to God, aloud to God, and he will hear me.
+1. In the Day of Trouble I Seek the Lord To the choirmaster: according to Jeduthun. A Psalm of Asaph. I cry aloud to God, aloud to God, and he will hear me.
 2. In the day of my trouble I seek the Lord; in the night my hand is stretched out without wearying; my soul refuses to be comforted.
 3. When I remember God, I moan; when I meditate, my spirit faints.
 4. You hold my eyelids open; I am so troubled that I cannot speak.
 5. I consider the days of old, the years long ago.
-6. I said, Let me remember my song in the night; let me meditate in my heart. Then my spirit made a diligent search :
+6. I said, Let me remember my song in the night; let me meditate in my heart. Then my spirit made a diligent search:
 7. Will the Lord spurn forever, and never again be favorable?
 8. Has his steadfast love forever ceased? Are his promises at an end for all time?
 9. Has God forgotten to be gracious? Has he in anger shut up his compassion?
@@ -1498,7 +1498,7 @@
 
 ## Chapter 80
 
-1. Restore Us, O God To the choirmaster : according to Lilies. A Testimony. Of Asaph, a Psalm. Give ear, O Shepherd of Israel, you who lead Joseph like a flock. You who are enthroned upon the cherubim, shine forth.
+1. Restore Us, O God To the choirmaster: according to Lilies. A Testimony. Of Asaph, a Psalm. Give ear, O Shepherd of Israel, you who lead Joseph like a flock. You who are enthroned upon the cherubim, shine forth.
 2. Before Ephraim and Benjamin and Manasseh, stir up your might and come to save us!
 3. Restore us, O God; let your face shine, that we may be saved!
 4. O Lord God of hosts, how long will you be angry with your people’s prayers?
@@ -1520,11 +1520,11 @@
 
 ## Chapter 81
 
-1. Oh, That My People Would Listen to Me To the choirmaster : according to The Gittith. Of Asaph. Sing aloud to God our strength; shout for joy to the God of Jacob!
+1. Oh, That My People Would Listen to Me To the choirmaster: according to The Gittith. Of Asaph. Sing aloud to God our strength; shout for joy to the God of Jacob!
 2. Raise a song; sound the tambourine, the sweet lyre with the harp.
 3. Blow the trumpet at the new moon, at the full moon, on our feast day.
 4. For it is a statute for Israel, a rule of the God of Jacob.
-5. He made it a decree in Joseph when he went out over the land of Egypt. I hear a language I had not known :
+5. He made it a decree in Joseph when he went out over the land of Egypt. I hear a language I had not known:
 6. I relieved your shoulder of the burden; your hands were freed from the basket.
 7. In distress you called, and I delivered you; I answered you in the secret place of thunder; I tested you at the waters of Meribah.
 8. Hear, O my people, while I admonish you! O Israel, if you would but listen to me!
@@ -1539,7 +1539,7 @@
 
 ## Chapter 82
 
-1. Rescue the Weak and Needy A Psalm of Asaph. God has taken his place in the divine council; in the midst of the gods he holds judgment :
+1. Rescue the Weak and Needy A Psalm of Asaph. God has taken his place in the divine council; in the midst of the gods he holds judgment:
 2. How long will you judge unjustly and show partiality to the wicked?
 3. Give justice to the weak and the fatherless; maintain the right of the afflicted and the destitute.
 4. Rescue the weak and the needy; deliver them from the hand of the wicked.
@@ -1571,7 +1571,7 @@
 
 ## Chapter 84
 
-1. My Soul Longs for the Courts of the Lord To the choirmaster : according to The Gittith. A Psalm of the Sons of Korah. How lovely is your dwelling place, O Lord of hosts!
+1. My Soul Longs for the Courts of the Lord To the choirmaster: according to The Gittith. A Psalm of the Sons of Korah. How lovely is your dwelling place, O Lord of hosts!
 2. My soul longs, yes, faints for the courts of the Lord; my heart and flesh sing for joy to the living God.
 3. Even the sparrow finds a home, and the swallow a nest for herself, where she may lay her young, at your altars, O Lord of hosts, my King and my God.
 4. Blessed are those who dwell in your house, ever singing your praise!
@@ -1632,7 +1632,7 @@
 
 ## Chapter 88
 
-1. I Cry Out Day and Night Before You A Song. A Psalm of the Sons of Korah. To the choirmaster : according to Mahalath Leannoth. A Maskil of Heman the Ezrahite. O Lord, God of my salvation; I cry out day and night before you.
+1. I Cry Out Day and Night Before You A Song. A Psalm of the Sons of Korah. To the choirmaster: according to Mahalath Leannoth. A Maskil of Heman the Ezrahite. O Lord, God of my salvation; I cry out day and night before you.
 2. Let my prayer come before you; incline your ear to my cry!
 3. For my soul is full of troubles, and my life draws near to Sheol.
 4. I am counted among those who go down to the pit; I am a man who has no strength,
@@ -1655,7 +1655,7 @@
 
 1. I Will Sing of the Steadfast Love of the Lord A Maskil of Ethan the Ezrahite. I will sing of the steadfast love of the Lord, forever; with my mouth I will make known your faithfulness to all generations.
 2. For I said, Steadfast love will be built up forever; in the heavens you will establish your faithfulness.
-3. You have said, I have made a covenant with my chosen one; I have sworn to David my servant :
+3. You have said, I have made a covenant with my chosen one; I have sworn to David my servant:
 4. I will establish your offspring forever, and build your throne for all generations.
 5. Let the heavens praise your wonders, O Lord, your faithfulness in the assembly of the holy ones!
 6. For who in the skies can be compared to the Lord? Who among the heavenly beings is like the Lord,
@@ -1671,7 +1671,7 @@
 16. who exult in your name all the day and in your righteousness are exalted.
 17. For you are the glory of their strength; by your favor our horn is exalted.
 18. For our shield belongs to the Lord, our king to the Holy One of Israel.
-19. Of old you spoke in a vision to your godly one, and said : I have granted help to one who is mighty; I have exalted one chosen from the people.
+19. Of old you spoke in a vision to your godly one, and said: I have granted help to one who is mighty; I have exalted one chosen from the people.
 20. I have found David, my servant; with my holy oil I have anointed him,
 21. so that my hand shall be established with him; my arm also shall strengthen him.
 22. The enemy shall not outwit him; the wicked shall not humble him.
@@ -1712,7 +1712,7 @@
 2. Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God.
 3. You return man to dust and say, Return, O children of man!
 4. For a thousand years in your sight are but as yesterday when it is past, or as a watch in the night.
-5. You sweep them away as with a flood; they are like a dream, like grass that is renewed in the morning :
+5. You sweep them away as with a flood; they are like a dream, like grass that is renewed in the morning:
 6. in the morning it flourishes and is renewed; in the evening it fades and withers.
 7. For we are brought to an end by your anger; by your wrath we are dismayed.
 8. You have set our iniquities before you, our secret sins in the light of your presence.
@@ -1752,7 +1752,7 @@
 3. to the music of the lute and the harp, to the melody of the lyre.
 4. For you, O Lord, have made me glad by your work; at the works of your hands I sing for joy.
 5. How great are your works, O Lord! Your thoughts are very deep!
-6. The stupid man cannot know; the fool cannot understand this :
+6. The stupid man cannot know; the fool cannot understand this:
 7. that though the wicked sprout like grass and all evildoers flourish, they are doomed to destruction forever;
 8. but you, O Lord, are on high forever.
 9. For behold, your enemies, O Lord, for behold, your enemies shall perish; all evildoers shall be scattered.
@@ -1904,7 +1904,7 @@
 15. Nations will fear the name of the Lord, and all the kings of the earth will fear your glory.
 16. For the Lord builds up Zion; he appears in his glory;
 17. he regards the prayer of the destitute and does not despise their prayer.
-18. Let this be recorded for a generation to come, so that a people yet to be created may praise the Lord :
+18. Let this be recorded for a generation to come, so that a people yet to be created may praise the Lord:
 19. that he looked down from his holy height; from heaven the Lord looked at the earth,
 20. to hear the groans of the prisoners, to set free those who were doomed to die,
 21. that they may declare in Zion the name of the Lord, and in Jerusalem his praise,
@@ -2132,7 +2132,7 @@
 4. For your steadfast love is great above the heavens; your faithfulness reaches to the clouds.
 5. Be exalted, O God, above the heavens! Let your glory be over all the earth!
 6. That your beloved ones may be delivered, give salvation by your right hand and answer me!
-7. God has promised in his holiness : With exultation I will divide up Shechem and portion out the Valley of Succoth.
+7. God has promised in his holiness: With exultation I will divide up Shechem and portion out the Valley of Succoth.
 8. Gilead is mine; Manasseh is mine; Ephraim is my helmet, Judah my scepter.
 9. Moab is my washbasin; upon Edom I cast my shoe; over Philistia I shout in triumph.
 10. Who will bring me to the fortified city? Who will lead me to Edom?
@@ -2176,7 +2176,7 @@
 
 ## Chapter 110
 
-1. Sit at My Right Hand A Psalm of David. The Lord says to my Lord : Sit at my right hand, until I make your enemies your footstool.
+1. Sit at My Right Hand A Psalm of David. The Lord says to my Lord: Sit at my right hand, until I make your enemies your footstool.
 2. The Lord sends forth from Zion your mighty scepter. Rule in the midst of your enemies!
 3. Your people will offer themselves freely on the day of your power, in holy garments; from the womb of the morning, the dew of your youth will be yours.
 4. The Lord has sworn and will not change his mind, You are a priest forever after the order of Melchizedek.
@@ -2259,13 +2259,13 @@
 1. I Love the Lord I love the Lord, because he has heard my voice and my pleas for mercy.
 2. Because he inclined his ear to me, therefore I will call on him as long as I live.
 3. The snares of death encompassed me; the pangs of Sheol laid hold on me; I suffered distress and anguish.
-4. Then I called on the name of the Lord : O Lord, I pray, deliver my soul!
+4. Then I called on the name of the Lord: O Lord, I pray, deliver my soul!
 5. Gracious is the Lord, and righteous; our God is merciful.
 6. The Lord preserves the simple; when I was brought low, he saved me.
 7. Return, O my soul, to your rest; for the Lord has dealt bountifully with you.
 8. For you have delivered my soul from death, my eyes from tears, my feet from stumbling;
 9. I will walk before the Lord in the land of the living.
-10. I believed, even when I spoke : I am greatly afflicted;
+10. I believed, even when I spoke: I am greatly afflicted;
 11. I said in my alarm, All mankind are liars.
 12. What shall I render to the Lord for all his benefits to me?
 13. I will lift up the cup of salvation and call on the name of the Lord,
@@ -2297,7 +2297,7 @@
 12. They surrounded me like bees; they went out like a fire among thorns; in the name of the Lord I cut them off!
 13. I was pushed hard, so that I was falling, but the Lord helped me.
 14. The Lord is my strength and my song; he has become my salvation.
-15. Glad songs of salvation are in the tents of the righteous : The right hand of the Lord does valiantly,
+15. Glad songs of salvation are in the tents of the righteous: The right hand of the Lord does valiantly,
 16. the right hand of the Lord exalts, the right hand of the Lord does valiantly!
 17. I shall not die, but I shall live, and recount the deeds of the Lord.
 18. The Lord has disciplined me severely, but he has not given me over to death.
@@ -2617,9 +2617,9 @@
 8. Arise, O Lord, and go to your resting place, you and the ark of your might.
 9. Let your priests be clothed with righteousness, and let your saints shout for joy.
 10. For the sake of your servant David, do not turn away the face of your anointed one.
-11. The Lord swore to David a sure oath from which he will not turn back : One of the sons of your body I will set on your throne.
+11. The Lord swore to David a sure oath from which he will not turn back: One of the sons of your body I will set on your throne.
 12. If your sons keep my covenant and my testimonies that I shall teach them, their sons also forever shall sit on your throne.
-13. For the Lord has chosen Zion; he has desired it for his dwelling place :
+13. For the Lord has chosen Zion; he has desired it for his dwelling place:
 14. This is my resting place forever; here I will dwell, for I have desired it.
 15. I will abundantly bless her provisions; I will satisfy her poor with bread.
 16. Her priests I will clothe with salvation, and her saints will shout for joy.
@@ -2775,7 +2775,7 @@
 1. You Are My Refuge A Maskil of David, when he was in the cave. A Prayer. With my voice I cry out to the Lord; with my voice I plead for mercy to the Lord.
 2. I pour out my complaint before him; I tell my trouble before him.
 3. When my spirit faints within me, you know my way! In the path where I walk they have hidden a trap for me.
-4. Look to the right and see : there is none who takes notice of me; no refuge remains to me; no one cares for my soul.
+4. Look to the right and see: there is none who takes notice of me; no refuge remains to me; no one cares for my soul.
 5. I cry to you, O Lord; I say, You are my refuge, my portion in the land of the living.
 6. Attend to my cry, for I am brought very low! Deliver me from my persecutors, for they are too strong for me!
 7. Bring me out of prison, that I may give thanks to your name! The righteous will surround me, for you will deal bountifully with me.

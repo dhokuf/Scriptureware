@@ -6,11 +6,11 @@
 2. Kenan, Mahalalel, Jared;
 3. Enoch, Methuselah, Lamech;
 4. Noah, Shem, Ham, and Japheth.
-5. The sons of Japheth : Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
-6. The sons of Gomer : Ashkenaz, Riphath, and Togarmah.
-7. The sons of Javan : Elishah, Tarshish, Kittim, and Rodanim.
-8. The sons of Ham : Cush, Egypt, Put, and Canaan.
-9. The sons of Cush : Seba, Havilah, Sabta, Raama, and Sabteca. The sons of Raamah : Sheba and Dedan.
+5. The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+6. The sons of Gomer: Ashkenaz, Riphath, and Togarmah.
+7. The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim.
+8. The sons of Ham: Cush, Egypt, Put, and Canaan.
+9. The sons of Cush: Seba, Havilah, Sabta, Raama, and Sabteca. The sons of Raamah: Sheba and Dedan.
 10. Cush fathered Nimrod. He was the first on earth to be a mighty man.
 11. Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim,
 12. Pathrusim, Casluhim (from whom the Philistines came ), and Caphtorim.
@@ -18,9 +18,9 @@
 14. and the Jebusites, the Amorites, the Girgashites,
 15. the Hivites, the Arkites, the Sinites,
 16. the Arvadites, the Zemarites, and the Hamathites.
-17. The sons of Shem : Elam, Asshur, Arpachshad, Lud, and Aram. And the sons of Aram: Uz, Hul, Gether, and Meshech.
+17. The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram. And the sons of Aram: Uz, Hul, Gether, and Meshech.
 18. Arpachshad fathered Shelah, and Shelah fathered Eber.
-19. To Eber were born two sons : the name of the one was Peleg (for in his days the earth was divided ), and his brother’s name was Joktan.
+19. To Eber were born two sons: the name of the one was Peleg (for in his days the earth was divided ), and his brother’s name was Joktan.
 20. Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,
 21. Hadoram, Uzal, Diklah,
 22. Obal, Abimael, Sheba,
@@ -29,22 +29,22 @@
 25. Eber, Peleg, Reu;
 26. Serug, Nahor, Terah;
 27. Abram, that is, Abraham.
-28. The sons of Abraham : Isaac and Ishmael.
-29. These are their genealogies : the firstborn of Ishmael, Nebaioth, and Kedar, Adbeel, Mibsam,
+28. The sons of Abraham: Isaac and Ishmael.
+29. These are their genealogies: the firstborn of Ishmael, Nebaioth, and Kedar, Adbeel, Mibsam,
 30. Mishma, Dumah, Massa, Hadad, Tema,
 31. Jetur, Naphish, and Kedemah. These are the sons of Ishmael.
-32. The sons of Keturah, Abraham’s concubine : she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan : Sheba and Dedan.
-33. The sons of Midian : Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the descendants of Keturah.
-34. Abraham fathered Isaac. The sons of Isaac : Esau and Israel.
-35. The sons of Esau : Eliphaz, Reuel, Jeush, Jalam, and Korah.
-36. The sons of Eliphaz : Teman, Omar, Zepho, Gatam, Kenaz, and of Timna, Amalek.
-37. The sons of Reuel : Nahath, Zerah, Shammah, and Mizzah.
-38. The sons of Seir : Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.
-39. The sons of Lotan : Hori and Hemam; and Lotan’s sister was Timna.
-40. The sons of Shobal : Alvan, Manahath, Ebal, Shepho, and Onam. The sons of Zibeon : Aiah and Anah.
-41. The son of Anah : Dishon. The sons of Dishon : Hemdan, Eshban, Ithran, and Cheran.
-42. The sons of Ezer : Bilhan, Zaavan, and Akan. The sons of Dishan : Uz and Aran.
-43. These are the kings who reigned in the land of Edom before any king reigned over the people of Israel : Bela the son of Beor, the name of his city being Dinhabah.
+32. The sons of Keturah, Abraham’s concubine: she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.
+33. The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the descendants of Keturah.
+34. Abraham fathered Isaac. The sons of Isaac: Esau and Israel.
+35. The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah.
+36. The sons of Eliphaz: Teman, Omar, Zepho, Gatam, Kenaz, and of Timna, Amalek.
+37. The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.
+38. The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.
+39. The sons of Lotan: Hori and Hemam; and Lotan’s sister was Timna.
+40. The sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam. The sons of Zibeon: Aiah and Anah.
+41. The son of Anah: Dishon. The sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.
+42. The sons of Ezer: Bilhan, Zaavan, and Akan. The sons of Dishan: Uz and Aran.
+43. These are the kings who reigned in the land of Edom before any king reigned over the people of Israel: Bela the son of Beor, the name of his city being Dinhabah.
 44. Bela died, and Jobab the son of Zerah of Bozrah reigned in his place.
 45. Jobab died, and Husham of the land of the Temanites reigned in his place.
 46. Husham died, and Hadad the son of Bedad, who defeated Midian in the country of Moab, reigned in his place, the name of his city being Avith.
@@ -59,13 +59,13 @@
 
 ## Chapter 2
 
-1. These are the sons of Israel : Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
+1. These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
 2. Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.
-3. The sons of Judah : Er, Onan and Shelah; these three Bath-shua the Canaanite bore to him. Now Er, Judah’s firstborn, was evil in the sight of the Lord, and he put him to death.
+3. The sons of Judah: Er, Onan and Shelah; these three Bath-shua the Canaanite bore to him. Now Er, Judah’s firstborn, was evil in the sight of the Lord, and he put him to death.
 4. His daughter-in-law Tamar also bore him Perez and Zerah. Judah had five sons in all.
-5. The sons of Perez : Hezron and Hamul.
-6. The sons of Zerah : Zimri, Ethan, Heman, Calcol, and Dara, five in all.
-7. The son of Carmi : Achan, the troubler of Israel, who broke faith in the matter of the devoted thing;
+5. The sons of Perez: Hezron and Hamul.
+6. The sons of Zerah: Zimri, Ethan, Heman, Calcol, and Dara, five in all.
+7. The son of Carmi: Achan, the troubler of Israel, who broke faith in the matter of the devoted thing;
 8. and Ethan’s son was Azariah.
 9. The sons of Hezron that were born to him: Jerahmeel, Ram, and Chelubai.
 10. Ram fathered Amminadab, and Amminadab fathered Nahshon, prince of the sons of Judah.
@@ -74,24 +74,24 @@
 13. Jesse fathered Eliab his firstborn, Abinadab the second, Shimea the third,
 14. Nethanel the fourth, Raddai the fifth,
 15. Ozem the sixth, David the seventh.
-16. And their sisters were Zeruiah and Abigail. The sons of Zeruiah : Abishai, Joab, and Asahel, three.
+16. And their sisters were Zeruiah and Abigail. The sons of Zeruiah: Abishai, Joab, and Asahel, three.
 17. Abigail bore Amasa, and the father of Amasa was Jether the Ishmaelite.
-18. Caleb the son of Hezron fathered children by his wife Azubah, and by Jerioth; and these were her sons : Jesher, Shobab, and Ardon.
+18. Caleb the son of Hezron fathered children by his wife Azubah, and by Jerioth; and these were her sons: Jesher, Shobab, and Ardon.
 19. When Azubah died, Caleb married Ephrath, who bore him Hur.
 20. Hur fathered Uri, and Uri fathered Bezalel.
 21. Afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was sixty years old, and she bore him Segub.
 22. And Segub fathered Jair, who had twenty-three cities in the land of Gilead.
 23. But Geshur and Aram took from them Havvoth-jair, Kenath, and its villages, sixty towns. All these were descendants of Machir, the father of Gilead.
 24. After the death of Hezron, Caleb went in to Ephrathah, the wife of Hezron his father, and she bore him Ashhur, the father of Tekoa.
-25. The sons of Jerahmeel, the firstborn of Hezron : Ram, his firstborn, Bunah, Oren, Ozem, and Ahijah.
+25. The sons of Jerahmeel, the firstborn of Hezron: Ram, his firstborn, Bunah, Oren, Ozem, and Ahijah.
 26. Jerahmeel also had another wife, whose name was Atarah; she was the mother of Onam.
-27. The sons of Ram, the firstborn of Jerahmeel : Maaz, Jamin, and Eker.
-28. The sons of Onam : Shammai and Jada. The sons of Shammai : Nadab and Abishur.
+27. The sons of Ram, the firstborn of Jerahmeel: Maaz, Jamin, and Eker.
+28. The sons of Onam: Shammai and Jada. The sons of Shammai: Nadab and Abishur.
 29. The name of Abishur’s wife was Abihail, and she bore him Ahban and Molid.
-30. The sons of Nadab : Seled and Appaim; and Seled died childless.
-31. The son of Appaim : Ishi. The son of Ishi : Sheshan. The son of Sheshan : Ahlai.
-32. The sons of Jada, Shammai’s brother : Jether and Jonathan; and Jether died childless.
-33. The sons of Jonathan : Peleth and Zaza. These were the descendants of Jerahmeel.
+30. The sons of Nadab: Seled and Appaim; and Seled died childless.
+31. The son of Appaim: Ishi. The son of Ishi: Sheshan. The son of Sheshan: Ahlai.
+32. The sons of Jada, Shammai’s brother: Jether and Jonathan; and Jether died childless.
+33. The sons of Jonathan: Peleth and Zaza. These were the descendants of Jerahmeel.
 34. Now Sheshan had no sons, only daughters, but Sheshan had an Egyptian slave whose name was Jarha.
 35. So Sheshan gave his daughter in marriage to Jarha his slave, and she bore him Attai.
 36. Attai fathered Nathan, and Nathan fathered Zabad.
@@ -100,28 +100,28 @@
 39. Azariah fathered Helez, and Helez fathered Eleasah.
 40. Eleasah fathered Sismai, and Sismai fathered Shallum.
 41. Shallum fathered Jekamiah, and Jekamiah fathered Elishama.
-42. The sons of Caleb the brother of Jerahmeel : Mareshah his firstborn, who fathered Ziph. The son of Mareshah : Hebron.
-43. The sons of Hebron : Korah, Tappuah, Rekem and Shema.
+42. The sons of Caleb the brother of Jerahmeel: Mareshah his firstborn, who fathered Ziph. The son of Mareshah: Hebron.
+43. The sons of Hebron: Korah, Tappuah, Rekem and Shema.
 44. Shema fathered Raham, the father of Jorkeam; and Rekem fathered Shammai.
-45. The son of Shammai : Maon; and Maon fathered Beth-zur.
+45. The son of Shammai: Maon; and Maon fathered Beth-zur.
 46. Ephah also, Caleb’s concubine, bore Haran, Moza, and Gazez; and Haran fathered Gazez.
-47. The sons of Jahdai : Regem, Jotham, Geshan, Pelet, Ephah, and Shaaph.
+47. The sons of Jahdai: Regem, Jotham, Geshan, Pelet, Ephah, and Shaaph.
 48. Maacah, Caleb’s concubine, bore Sheber and Tirhanah.
 49. She also bore Shaaph the father of Madmannah, Sheva the father of Machbenah and the father of Gibea; and the daughter of Caleb was Achsah.
-50. These were the descendants of Caleb. The sons of Hur the firstborn of Ephrathah : Shobal the father of Kiriath-jearim,
+50. These were the descendants of Caleb. The sons of Hur the firstborn of Ephrathah: Shobal the father of Kiriath-jearim,
 51. Salma, the father of Bethlehem, and Hareph the father of Beth-gader.
-52. Shobal the father of Kiriath-jearim had other sons : Haroeh, half of the Menuhoth.
-53. And the clans of Kiriath-jearim : the Ithrites, the Puthites, the Shumathites, and the Mishraites; from these came the Zorathites and the Eshtaolites.
-54. The sons of Salma : Bethlehem, the Netophathites, Atroth-beth-joab and half of the Manahathites, the Zorites.
-55. The clans also of the scribes who lived at Jabez : the Tirathites, the Shimeathites and the Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab.
+52. Shobal the father of Kiriath-jearim had other sons: Haroeh, half of the Menuhoth.
+53. And the clans of Kiriath-jearim: the Ithrites, the Puthites, the Shumathites, and the Mishraites; from these came the Zorathites and the Eshtaolites.
+54. The sons of Salma: Bethlehem, the Netophathites, Atroth-beth-joab and half of the Manahathites, the Zorites.
+55. The clans also of the scribes who lived at Jabez: the Tirathites, the Shimeathites and the Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab.
 
 ## Chapter 3
 
-1. These are the sons of David who were born to him in Hebron : the firstborn, Amnon, by Ahinoam the Jezreelite; the second, Daniel, by Abigail the Carmelite,
+1. These are the sons of David who were born to him in Hebron: the firstborn, Amnon, by Ahinoam the Jezreelite; the second, Daniel, by Abigail the Carmelite,
 2. the third, Absalom, whose mother was Maacah, the daughter of Talmai, king of Geshur; the fourth, Adonijah, whose mother was Haggith;
 3. the fifth, Shephatiah, by Abital; the sixth, Ithream, by his wife Eglah;
 4. six were born to him in Hebron, where he reigned for seven years and six months. And he reigned thirty-three years in Jerusalem.
-5. These were born to him in Jerusalem : Shimea, Shobab, Nathan and Solomon, four by Bath-shua, the daughter of Ammiel;
+5. These were born to him in Jerusalem: Shimea, Shobab, Nathan and Solomon, four by Bath-shua, the daughter of Ammiel;
 6. then Ibhar, Elishama, Eliphelet,
 7. Nogah, Nepheg, Japhia,
 8. Elishama, Eliada, and Eliphelet, nine.
@@ -131,45 +131,45 @@
 12. Amaziah his son, Azariah his son, Jotham his son,
 13. Ahaz his son, Hezekiah his son, Manasseh his son,
 14. Amon his son, Josiah his son.
-15. The sons of Josiah : Johanan the firstborn, the second Jehoiakim, the third Zedekiah, the fourth Shallum.
-16. The descendants of Jehoiakim : Jeconiah his son, Zedekiah his son;
-17. and the sons of Jeconiah, the captive : Shealtiel his son,
+15. The sons of Josiah: Johanan the firstborn, the second Jehoiakim, the third Zedekiah, the fourth Shallum.
+16. The descendants of Jehoiakim: Jeconiah his son, Zedekiah his son;
+17. and the sons of Jeconiah, the captive: Shealtiel his son,
 18. Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama and Nedabiah;
-19. and the sons of Pedaiah : Zerubbabel and Shimei; and the sons of Zerubbabel : Meshullam and Hananiah, and Shelomith was their sister;
+19. and the sons of Pedaiah: Zerubbabel and Shimei; and the sons of Zerubbabel: Meshullam and Hananiah, and Shelomith was their sister;
 20. and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-hesed, five.
-21. The sons of Hananiah : Pelatiah and Jeshaiah, his son Rephaiah, his son Arnan, his son Obadiah, his son Shecaniah.
-22. The son of Shecaniah : Shemaiah. And the sons of Shemaiah : Hattush, Igal, Bariah, Neariah, and Shaphat, six.
-23. The sons of Neariah : Elioenai, Hizkiah, and Azrikam, three.
-24. The sons of Elioenai : Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven.
+21. The sons of Hananiah: Pelatiah and Jeshaiah, his son Rephaiah, his son Arnan, his son Obadiah, his son Shecaniah.
+22. The son of Shecaniah: Shemaiah. And the sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat, six.
+23. The sons of Neariah: Elioenai, Hizkiah, and Azrikam, three.
+24. The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven.
 
 ## Chapter 4
 
-1. The sons of Judah : Perez, Hezron, Carmi, Hur, and Shobal.
+1. The sons of Judah: Perez, Hezron, Carmi, Hur, and Shobal.
 2. Reaiah the son of Shobal fathered Jahath, and Jahath fathered Ahumai and Lahad. These were the clans of the Zorathites.
-3. These were the sons of Etam : Jezreel, Ishma, and Idbash; and the name of their sister was Hazzelelponi,
+3. These were the sons of Etam: Jezreel, Ishma, and Idbash; and the name of their sister was Hazzelelponi,
 4. and Penuel fathered Gedor, and Ezer fathered Hushah. These were the sons of Hur, the firstborn of Ephrathah, the father of Bethlehem.
 5. Ashhur, the father of Tekoa, had two wives, Helah and Naarah;
 6. Naarah bore him Ahuzzam, Hepher, Temeni, and Haahashtari. These were the sons of Naarah.
-7. The sons of Helah : Zereth, Izhar, and Ethnan.
+7. The sons of Helah: Zereth, Izhar, and Ethnan.
 8. Koz fathered Anub, Zobebah, and the clans of Aharhel, the son of Harum.
 9. Jabez was more honorable than his brothers; and his mother called his name Jabez, saying, Because I bore him in pain.
 10. Jabez called upon the God of Israel, saying, Oh that you would bless me and enlarge my border, and that your hand might be with me, and that you would keep me from harm so that it might not bring me pain! And God granted what he asked.
 11. Chelub, the brother of Shuhah, fathered Mehir, who fathered Eshton.
 12. Eshton fathered Beth-rapha, Paseah, and Tehinnah, the father of Ir-nahash. These are the men of Recah.
-13. The sons of Kenaz : Othniel and Seraiah; and the sons of Othniel : Hathath and Meonothai.
+13. The sons of Kenaz: Othniel and Seraiah; and the sons of Othniel: Hathath and Meonothai.
 14. Meonothai fathered Ophrah; and Seraiah fathered Joab, the father of Ge-harashim, so-called because they were craftsmen.
-15. The sons of Caleb the son of Jephunneh : Iru, Elah, and Naam; and the son of Elah : Kenaz.
-16. The sons of Jehallelel : Ziph, Ziphah, Tiria, and Asarel.
-17. The sons of Ezrah : Jether, Mered, Epher, and Jalon. These are the sons of Bithiah, the daughter of Pharaoh, whom Mered married; and she conceived and bore Miriam, Shammai, and Ishbah, the father of Eshtemoa.
+15. The sons of Caleb the son of Jephunneh: Iru, Elah, and Naam; and the son of Elah: Kenaz.
+16. The sons of Jehallelel: Ziph, Ziphah, Tiria, and Asarel.
+17. The sons of Ezrah: Jether, Mered, Epher, and Jalon. These are the sons of Bithiah, the daughter of Pharaoh, whom Mered married; and she conceived and bore Miriam, Shammai, and Ishbah, the father of Eshtemoa.
 18. And his Judahite wife bore Jered the father of Gedor, Heber the father of Soco, and Jekuthiel the father of Zanoah.
 19. The sons of the wife of Hodiah, the sister of Naham, were the fathers of Keilah the Garmite and Eshtemoa the Maacathite.
-20. The sons of Shimon : Amnon, Rinnah, Ben-hanan, and Tilon. The sons of Ishi : Zoheth and Ben-zoheth.
-21. The sons of Shelah the son of Judah : Er the father of Lecah, Laadah the father of Mareshah, and the clans of the house of linen workers at Beth-ashbea;
+20. The sons of Shimon: Amnon, Rinnah, Ben-hanan, and Tilon. The sons of Ishi: Zoheth and Ben-zoheth.
+21. The sons of Shelah the son of Judah: Er the father of Lecah, Laadah the father of Mareshah, and the clans of the house of linen workers at Beth-ashbea;
 22. and Jokim, and the men of Cozeba, and Joash, and Saraph, who ruled in Moab and returned to Lehem (now the records are ancient ).
 23. These were the potters who were inhabitants of Netaim and Gederah. They lived there in the king’s service.
-24. The sons of Simeon : Nemuel, Jamin, Jarib, Zerah, Shaul;
+24. The sons of Simeon: Nemuel, Jamin, Jarib, Zerah, Shaul;
 25. Shallum was his son, Mibsam his son, Mishma his son.
-26. The sons of Mishma : Hammuel his son, Zaccur his son, Shimei his son.
+26. The sons of Mishma: Hammuel his son, Zaccur his son, Shimei his son.
 27. Shimei had sixteen sons and six daughters; but his brothers did not have many children, nor did all their clan multiply like the men of Judah.
 28. They lived in Beersheba, Moladah, Hazar-shual,
 29. Bilhah, Ezem, Tolad,
@@ -192,17 +192,17 @@
 
 1. The sons of Reuben the firstborn of Israel ( for he was the firstborn, but because he defiled his father’s couch, his birthright was given to the sons of Joseph the son of Israel, so that he could not be enrolled as the oldest son;
 2. though Judah became strong among his brothers and a chief came from him, yet the birthright belonged to Joseph ),
-3. the sons of Reuben, the firstborn of Israel : Hanoch, Pallu, Hezron, and Carmi.
-4. The sons of Joel : Shemaiah his son, Gog his son, Shimei his son,
+3. the sons of Reuben, the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi.
+4. The sons of Joel: Shemaiah his son, Gog his son, Shimei his son,
 5. Micah his son, Reaiah his son, Baal his son,
 6. Beerah his son, whom Tiglath-pileser king of Assyria carried away into exile; he was a chief of the Reubenites.
-7. And his kinsmen by their clans, when the genealogy of their generations was recorded : the chief, Jeiel, and Zechariah,
+7. And his kinsmen by their clans, when the genealogy of their generations was recorded: the chief, Jeiel, and Zechariah,
 8. and Bela the son of Azaz, son of Shema, son of Joel, who lived in Aroer, as far as Nebo and Baal-meon.
 9. He also lived to the east as far as the entrance of the desert this side of the Euphrates, because their livestock had multiplied in the land of Gilead.
 10. And in the days of Saul they waged war against the Hagrites, who fell into their hand. And they lived in their tents throughout all the region east of Gilead.
-11. The sons of Gad lived over against them in the land of Bashan as far as Salecah :
+11. The sons of Gad lived over against them in the land of Bashan as far as Salecah:
 12. Joel the chief, Shapham the second, Janai, and Shaphat in Bashan.
-13. And their kinsmen according to their fathers ’ houses : Michael, Meshullam, Sheba, Jorai, Jacan, Zia and Eber, seven.
+13. And their kinsmen according to their fathers ’ houses: Michael, Meshullam, Sheba, Jorai, Jacan, Zia and Eber, seven.
 14. These were the sons of Abihail the son of Huri, son of Jaroah, son of Gilead, son of Michael, son of Jeshishai, son of Jahdo, son of Buz.
 15. Ahi the son of Abdiel, son of Guni, was chief in their fathers ’ houses,
 16. and they lived in Gilead, in Bashan and in its towns, and in all the pasturelands of Sharon to their limits.
@@ -210,18 +210,18 @@
 18. The Reubenites, the Gadites, and the half-tribe of Manasseh had valiant men who carried shield and sword, and drew the bow, expert in war, 44,760, able to go to war.
 19. They waged war against the Hagrites, Jetur, Naphish, and Nodab.
 20. And when they prevailed over them, the Hagrites and all who were with them were given into their hands, for they cried out to God in the battle, and he granted their urgent plea because they trusted in him.
-21. They carried off their livestock : 50,000 of their camels, 250,000 sheep, 2,000 donkeys, and 100,000 men alive.
+21. They carried off their livestock: 50,000 of their camels, 250,000 sheep, 2,000 donkeys, and 100,000 men alive.
 22. For many fell, because the war was of God. And they lived in their place until the exile.
 23. The members of the half-tribe of Manasseh lived in the land. They were very numerous from Bashan to Baal-hermon, Senir, and Mount Hermon.
-24. These were the heads of their fathers ’ houses : Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel, mighty warriors, famous men, heads of their fathers ’ houses.
+24. These were the heads of their fathers ’ houses: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel, mighty warriors, famous men, heads of their fathers ’ houses.
 25. But they broke faith with the God of their fathers, and whored after the gods of the peoples of the land, whom God had destroyed before them.
 26. So the God of Israel stirred up the spirit of Pul king of Assyria, the spirit of Tiglath-pileser king of Assyria, and he took them into exile, namely, the Reubenites, the Gadites, and the half-tribe of Manasseh, and brought them to Halah, Habor, Hara, and the river Gozan, to this day.
 
 ## Chapter 6
 
-1. The sons of Levi : Gershon, Kohath, and Merari.
-2. The sons of Kohath : Amram, Izhar, Hebron, and Uzziel.
-3. The children of Amram : Aaron, Moses, and Miriam. The sons of Aaron : Nadab, Abihu, Eleazar, and Ithamar.
+1. The sons of Levi: Gershon, Kohath, and Merari.
+2. The sons of Kohath: Amram, Izhar, Hebron, and Uzziel.
+3. The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar.
 4. , Eleazar fathered Phinehas, Phinehas fathered Abishua,
 5. Abishua fathered Bukki, Bukki fathered Uzzi,
 6. Uzzi fathered Zerahiah, Zerahiah fathered Meraioth,
@@ -234,24 +234,24 @@
 13. Shallum fathered Hilkiah, Hilkiah fathered Azariah,
 14. Azariah fathered Seraiah, Seraiah fathered Jehozadak;
 15. and Jehozadak went into exile when the Lord sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar.
-16. The sons of Levi : Gershom, Kohath, and Merari.
-17. And these are the names of the sons of Gershom : Libni and Shimei.
-18. The sons of Kohath : Amram, Izhar, Hebron and Uzziel.
-19. The sons of Merari : Mahli and Mushi. These are the clans of the Levites according to their fathers.
-20. Of Gershom : Libni his son, Jahath his son, Zimmah his son,
+16. The sons of Levi: Gershom, Kohath, and Merari.
+17. And these are the names of the sons of Gershom: Libni and Shimei.
+18. The sons of Kohath: Amram, Izhar, Hebron and Uzziel.
+19. The sons of Merari: Mahli and Mushi. These are the clans of the Levites according to their fathers.
+20. Of Gershom: Libni his son, Jahath his son, Zimmah his son,
 21. Joah his son, Iddo his son, Zerah his son, Jeatherai his son.
-22. The sons of Kohath : Amminadab his son, Korah his son, Assir his son,
+22. The sons of Kohath: Amminadab his son, Korah his son, Assir his son,
 23. Elkanah his son, Ebiasaph his son, Assir his son,
 24. Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.
-25. The sons of Elkanah : Amasai and Ahimoth,
+25. The sons of Elkanah: Amasai and Ahimoth,
 26. Elkanah his son, Zophai his son, Nahath his son,
 27. Eliab his son, Jeroham his son, Elkanah his son.
-28. The sons of Samuel : Joel his firstborn, the second Abijah.
-29. The sons of Merari : Mahli, Libni his son, Shimei his son, Uzzah his son,
+28. The sons of Samuel: Joel his firstborn, the second Abijah.
+29. The sons of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son,
 30. Shimea his son, Haggiah his son, and Asaiah his son.
 31. These are the men whom David put in charge of the service of song in the house of the Lord after the ark rested there.
 32. They ministered with song before the tabernacle of the tent of meeting until Solomon built the house of the Lord in Jerusalem, and they performed their service according to their order.
-33. These are the men who served and their sons. Of the sons of the Kohathites : Heman the singer the son of Joel, son of Samuel,
+33. These are the men who served and their sons. Of the sons of the Kohathites: Heman the singer the son of Joel, son of Samuel,
 34. son of Elkanah, son of Jeroham, son of Eliel, son of Toah,
 35. son of Zuph, son of Elkanah, son of Mahath, son of Amasai,
 36. son of Elkanah, son of Joel, son of Azariah, son of Zephaniah,
@@ -262,20 +262,20 @@
 41. son of Ethni, son of Zerah, son of Adaiah,
 42. son of Ethan, son of Zimmah, son of Shimei,
 43. son of Jahath, son of Gershom, son of Levi.
-44. On the left hand were their brothers, the sons of Merari : Ethan the son of Kishi, son of Abdi, son of Malluch,
+44. On the left hand were their brothers, the sons of Merari: Ethan the son of Kishi, son of Abdi, son of Malluch,
 45. son of Hashabiah, son of Amaziah, son of Hilkiah,
 46. son of Amzi, son of Bani, son of Shemer,
 47. son of Mahli, son of Mushi, son of Merari, son of Levi.
 48. And their brothers the Levites were appointed for all the service of the tabernacle of the house of God.
 49. But Aaron and his sons made offerings on the altar of burnt offering and on the altar of incense for all the work of the Most Holy Place, and to make atonement for Israel, according to all that Moses the servant of God had commanded.
-50. These are the sons of Aaron : Eleazar his son, Phinehas his son, Abishua his son,
+50. These are the sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son,
 51. Bukki his son, Uzzi his son, Zerahiah his son,
 52. Meraioth his son, Amariah his son, Ahitub his son,
 53. Zadok his son, Ahimaaz his son.
-54. These are their dwelling places according to their settlements within their borders : to the sons of Aaron of the clans of Kohathites, for theirs was the first lot,
+54. These are their dwelling places according to their settlements within their borders: to the sons of Aaron of the clans of Kohathites, for theirs was the first lot,
 55. to them they gave Hebron in the land of Judah and its surrounding pasturelands,
 56. but the fields of the city and its villages they gave to Caleb the son of Jephunneh.
-57. To the sons of Aaron they gave the cities of refuge : Hebron, Libnah with its pasturelands, Jattir, Eshtemoa with its pasturelands,
+57. To the sons of Aaron they gave the cities of refuge: Hebron, Libnah with its pasturelands, Jattir, Eshtemoa with its pasturelands,
 58. Hilen with its pasturelands, Debir with its pasturelands,
 59. Ashan with its pasturelands, and Beth-shemesh with its pasturelands;
 60. and from the tribe of Benjamin, Gibeon, Geba with its pasturelands, Alemeth with its pasturelands, and Anathoth with its pasturelands. All their cities throughout their clans were thirteen.
@@ -285,44 +285,44 @@
 64. So the people of Israel gave the Levites the cities with their pasturelands.
 65. They gave by lot out of the tribes of Judah, Simeon, and Benjamin these cities that are mentioned by name.
 66. And some of the clans of the sons of Kohath had cities of their territory out of the tribe of Ephraim.
-67. They were given the cities of refuge : Shechem with its pasturelands in the hill country of Ephraim, Gezer with its pasturelands,
+67. They were given the cities of refuge: Shechem with its pasturelands in the hill country of Ephraim, Gezer with its pasturelands,
 68. Jokmeam with its pasturelands, Beth-horon with its pasturelands,
 69. Aijalon with its pasturelands, Gath-rimmon with its pasturelands,
 70. and out of the half-tribe of Manasseh, Aner with its pasturelands, and Bileam with its pasturelands, for the rest of the clans of the Kohathites.
-71. To the Gershomites were given out of the clan of the half-tribe of Manasseh : Golan in Bashan with its pasturelands and Ashtaroth with its pasturelands;
-72. and out of the tribe of Issachar : Kedesh with its pasturelands, Daberath with its pasturelands,
+71. To the Gershomites were given out of the clan of the half-tribe of Manasseh: Golan in Bashan with its pasturelands and Ashtaroth with its pasturelands;
+72. and out of the tribe of Issachar: Kedesh with its pasturelands, Daberath with its pasturelands,
 73. Ramoth with its pasturelands, and Anem with its pasturelands;
-74. out of the tribe of Asher : Mashal with its pasturelands, Abdon with its pasturelands,
+74. out of the tribe of Asher: Mashal with its pasturelands, Abdon with its pasturelands,
 75. Hukok with its pasturelands, and Rehob with its pasturelands;
-76. and out of the tribe of Naphtali : Kedesh in Galilee with its pasturelands, Hammon with its pasturelands, and Kiriathaim with its pasturelands.
-77. To the rest of the Merarites were allotted out of the tribe of Zebulun : Rimmono with its pasturelands, Tabor with its pasturelands,
-78. and beyond the Jordan at Jericho, on the east side of the Jordan, out of the tribe of Reuben : Bezer in the wilderness with its pasturelands, Jahzah with its pasturelands,
+76. and out of the tribe of Naphtali: Kedesh in Galilee with its pasturelands, Hammon with its pasturelands, and Kiriathaim with its pasturelands.
+77. To the rest of the Merarites were allotted out of the tribe of Zebulun: Rimmono with its pasturelands, Tabor with its pasturelands,
+78. and beyond the Jordan at Jericho, on the east side of the Jordan, out of the tribe of Reuben: Bezer in the wilderness with its pasturelands, Jahzah with its pasturelands,
 79. Kedemoth with its pasturelands, and Mephaath with its pasturelands;
-80. and out of the tribe of Gad : Ramoth in Gilead with its pasturelands, Mahanaim with its pasturelands,
+80. and out of the tribe of Gad: Ramoth in Gilead with its pasturelands, Mahanaim with its pasturelands,
 81. Heshbon with its pasturelands, and Jazer with its pasturelands.
 
 ## Chapter 7
 
-1. The sons of Issachar : Tola, Puah, Jashub, and Shimron, four.
-2. The sons of Tola : Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, heads of their fathers ’ houses, namely of Tola, mighty warriors of their generations, their number in the days of David being 22,600.
-3. The son of Uzzi : Izrahiah. And the sons of Izrahiah : Michael, Obadiah, Joel, and Isshiah, all five of them were chief men.
+1. The sons of Issachar: Tola, Puah, Jashub, and Shimron, four.
+2. The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, heads of their fathers ’ houses, namely of Tola, mighty warriors of their generations, their number in the days of David being 22,600.
+3. The son of Uzzi: Izrahiah. And the sons of Izrahiah: Michael, Obadiah, Joel, and Isshiah, all five of them were chief men.
 4. And along with them, by their generations, according to their fathers ’ houses, were units of the army for war, 36,000, for they had many wives and sons.
 5. Their kinsmen belonging to all the clans of Issachar were in all 87,000 mighty warriors, enrolled by genealogy.
-6. The sons of Benjamin : Bela, Becher, and Jediael, three.
-7. The sons of Bela : Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, five, heads of fathers ’ houses, mighty warriors. And their enrollment by genealogies was 22,034.
-8. The sons of Becher : Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth. All these were the sons of Becher.
+6. The sons of Benjamin: Bela, Becher, and Jediael, three.
+7. The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, five, heads of fathers ’ houses, mighty warriors. And their enrollment by genealogies was 22,034.
+8. The sons of Becher: Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth. All these were the sons of Becher.
 9. And their enrollment by genealogies, according to their generations, as heads of their fathers ’ houses, mighty warriors, was 20,200.
-10. The son of Jediael : Bilhan. And the sons of Bilhan : Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, and Ahishahar.
+10. The son of Jediael: Bilhan. And the sons of Bilhan: Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, and Ahishahar.
 11. All these were the sons of Jediael according to the heads of their fathers’ houses, mighty warriors, 17,200, able to go to war.
 12. And Shuppim and Huppim were the sons of Ir, Hushim the son of Aher.
-13. The sons of Naphtali : Jahziel, Guni, Jezer and Shallum, the descendants of Bilhah.
-14. The sons of Manasseh : Asriel, whom his Aramean concubine bore; she bore Machir the father of Gilead.
+13. The sons of Naphtali: Jahziel, Guni, Jezer and Shallum, the descendants of Bilhah.
+14. The sons of Manasseh: Asriel, whom his Aramean concubine bore; she bore Machir the father of Gilead.
 15. And Machir took a wife for Huppim and for Shuppim. The name of his sister was Maacah. And the name of the second was Zelophehad, and Zelophehad had daughters.
 16. And Maacah the wife of Machir bore a son, and she called his name Peresh; and the name of his brother was Sheresh; and his sons were Ulam and Rakem.
-17. The son of Ulam : Bedan. These were the sons of Gilead the son of Machir, son of Manasseh.
+17. The son of Ulam: Bedan. These were the sons of Gilead the son of Machir, son of Manasseh.
 18. And his sister Hammolecheth bore Ishhod, Abiezer and Mahlah.
 19. The sons of Shemida were Ahian, Shechem, Likhi, and Aniam.
-20. The sons of Ephraim : Shuthelah, and Bered his son, Tahath his son, Eleadah his son, Tahath his son,
+20. The sons of Ephraim: Shuthelah, and Bered his son, Tahath his son, Eleadah his son, Tahath his son,
 21. Zabad his son, Shuthelah his son, and Ezer and Elead, whom the men of Gath who were born in the land killed, because they came down to raid their livestock.
 22. And Ephraim their father mourned many days, and his brothers came to comfort him.
 23. And Ephraim went in to his wife, and she conceived and bore a son. And he called his name Beriah, because disaster had befallen his house.
@@ -332,32 +332,32 @@
 27. Nun his son, Joshua his son.
 28. Their possessions and settlements were Bethel and its towns, and to the east Naaran, and to the west Gezer and its towns, Shechem and its towns, and Ayyah and its towns;
 29. also in possession of the Manassites, Beth-shean and its towns, Taanach and its towns, Megiddo and its towns, Dor and its towns. In these lived the sons of Joseph the son of Israel.
-30. The sons of Asher : Imnah, Ishvah, Ishvi, Beriah, and their sister Serah.
-31. The sons of Beriah : Heber, and Malchiel, who fathered Birzaith.
+30. The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, and their sister Serah.
+31. The sons of Beriah: Heber, and Malchiel, who fathered Birzaith.
 32. Heber fathered Japhlet, Shomer, Hotham, and their sister Shua.
-33. The sons of Japhlet : Pasach, Bimhal, and Ashvath. These are the sons of Japhlet.
-34. The sons of Shemer his brother : Rohgah, Jehubbah, and Aram.
-35. The sons of Helem his brother : Zophah, Imna, Shelesh, and Amal.
-36. The sons of Zophah : Suah, Harnepher, Shual, Beri, Imrah.
+33. The sons of Japhlet: Pasach, Bimhal, and Ashvath. These are the sons of Japhlet.
+34. The sons of Shemer his brother: Rohgah, Jehubbah, and Aram.
+35. The sons of Helem his brother: Zophah, Imna, Shelesh, and Amal.
+36. The sons of Zophah: Suah, Harnepher, Shual, Beri, Imrah.
 37. Bezer, Hod, Shamma, Shilshah, Ithran, and Beera.
-38. The sons of Jether : Jephunneh, Pispa, and Ara.
-39. The sons of Ulla : Arah, Hanniel, and Rizia.
+38. The sons of Jether: Jephunneh, Pispa, and Ara.
+39. The sons of Ulla: Arah, Hanniel, and Rizia.
 40. All of these were men of Asher, heads of fathers ’ houses, approved, mighty warriors, chiefs of the princes. Their number enrolled by genealogies, for service in war, was 26,000 men.
 
 ## Chapter 8
 
 1. Benjamin fathered Bela his firstborn, Ashbel the second, Aharah the third,
 2. Nohah the fourth, and Rapha the fifth.
-3. And Bela had sons : Addar, Gera, Abihud,
+3. And Bela had sons: Addar, Gera, Abihud,
 4. Abishua, Naaman, Ahoah,
 5. Gera, Shephuphan, and Huram.
 6. These are the sons of Ehud (they were heads of fathers ’ houses of the inhabitants of Geba, and they were carried into exile to Manahath ):
 7. Naaman, Ahijah, and Gera, that is, Heglam, who fathered Uzza and Ahihud.
 8. And Shaharaim fathered sons in the country of Moab after he had sent away Hushim and Baara his wives.
-9. He fathered sons by Hodesh his wife : Jobab, Zibia, Mesha, Malcam,
+9. He fathered sons by Hodesh his wife: Jobab, Zibia, Mesha, Malcam,
 10. Jeuz, Sachia, and Mirmah. These were his sons, heads of fathers ’ houses.
-11. He also fathered sons by Hushim : Abitub and Elpaal.
-12. The sons of Elpaal : Eber, Misham, and Shemed, who built Ono and Lod with its towns,
+11. He also fathered sons by Hushim: Abitub and Elpaal.
+12. The sons of Elpaal: Eber, Misham, and Shemed, who built Ono and Lod with its towns,
 13. and Beriah and Shema ( they were heads of fathers ’ houses of the inhabitants of Aijalon, who caused the inhabitants of Gath to flee );
 14. and Ahio, Shashak, and Jeremoth.
 15. Zebadiah, Arad, Eder,
@@ -375,34 +375,34 @@
 27. Jaareshiah, Elijah, and Zichri were the sons of Jeroham.
 28. These were the heads of fathers ’ houses, according to their generations, chief men. These lived in Jerusalem.
 29. , Jeiel the father of Gibeon lived in Gibeon, and the name of his wife was Maacah.
-30. His firstborn son : Abdon, then Zur, Kish, Baal, Nadab,
+30. His firstborn son: Abdon, then Zur, Kish, Baal, Nadab,
 31. Gedor, Ahio, Zecher,
 32. and Mikloth (he fathered Shimeah ). Now these also lived opposite their kinsmen in Jerusalem, with their kinsmen.
 33. Ner was the father of Kish, Kish of Saul, Saul of Jonathan, Malchi-shua, Abinadab and Eshbaal;
 34. and the son of Jonathan was Merib-baal; and Merib-baal was the father of Micah.
-35. The sons of Micah : Pithon, Melech, Tarea, and Ahaz.
+35. The sons of Micah: Pithon, Melech, Tarea, and Ahaz.
 36. Ahaz fathered Jehoaddah, and Jehoaddah fathered Alemeth, Azmaveth, and Zimri. Zimri fathered Moza.
 37. Moza fathered Binea; Raphah was his son, Eleasah his son, Azel his son.
-38. Azel had six sons, and these are their names : Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.
-39. The sons of Eshek his brother : Ulam his firstborn, Jeush the second, and Eliphelet the third.
+38. Azel had six sons, and these are their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.
+39. The sons of Eshek his brother: Ulam his firstborn, Jeush the second, and Eliphelet the third.
 40. The sons of Ulam were men who were mighty warriors, bowmen, having many sons and grandsons, 150. All these were Benjaminites.
 
 ## Chapter 9
 
 1. So all Israel was recorded in genealogies, and these are written in the Book of the Kings of Israel. And Judah was taken into exile in Babylon because of their breach of faith.
 2. Now the first to dwell again in their possessions in their cities were Israel, the priests, the Levites, and the temple servants.
-3. And some of the people of Judah, Benjamin, Ephraim, and Manasseh lived in Jerusalem :
+3. And some of the people of Judah, Benjamin, Ephraim, and Manasseh lived in Jerusalem:
 4. Uthai the son of Ammihud, son of Omri, son of Imri, son of Bani, from the sons of Perez the son of Judah.
-5. And of the Shilonites : Asaiah the firstborn, and his sons.
-6. Of the sons of Zerah : Jeuel and their kinsmen, 690.
-7. Of the Benjaminites : Sallu the son of Meshullam, son of Hodaviah, son of Hassenuah,
+5. And of the Shilonites: Asaiah the firstborn, and his sons.
+6. Of the sons of Zerah: Jeuel and their kinsmen, 690.
+7. Of the Benjaminites: Sallu the son of Meshullam, son of Hodaviah, son of Hassenuah,
 8. Ibneiah the son of Jeroham, Elah the son of Uzzi, son of Michri, and Meshullam the son of Shephatiah, son of Reuel, son of Ibnijah;
 9. and their kinsmen according to their generations, 956. All these were heads of fathers ’ houses according to their fathers ’ houses.
-10. Of the priests : Jedaiah, Jehoiarib, Jachin,
+10. Of the priests: Jedaiah, Jehoiarib, Jachin,
 11. and Azariah the son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, the chief officer of the house of God;
 12. and Adaiah the son of Jeroham, son of Pashhur, son of Malchijah, and Maasai the son of Adiel, son of Jahzerah, son of Meshullam, son of Meshillemith, son of Immer;
 13. besides their kinsmen, heads of their fathers ’ houses, 1,760, mighty men for the work of the service of the house of God.
-14. Of the Levites : Shemaiah the son of Hasshub, son of Azrikam, son of Hashabiah, of the sons of Merari;
+14. Of the Levites: Shemaiah the son of Hasshub, son of Azrikam, son of Hashabiah, of the sons of Merari;
 15. and Bakbakkar, Heresh, Galal and Mattaniah the son of Mica, son of Zichri, son of Asaph;
 16. and Obadiah the son of Shemaiah, son of Galal, son of Jeduthun, and Berechiah the son of Asa, son of Elkanah, who lived in the villages of the Netophathites.
 17. The gatekeepers were Shallum, Akkub, Talmon, Ahiman, and their kinsmen ( Shallum was the chief );
@@ -429,10 +429,10 @@
 38. and Mikloth was the father of Shimeam; and these also lived opposite their kinsmen in Jerusalem, with their kinsmen.
 39. Ner fathered Kish, Kish fathered Saul, Saul fathered Jonathan, Malchi-shua, Abinadab, and Eshbaal.
 40. And the son of Jonathan was Merib-baal, and Merib-baal fathered Micah.
-41. The sons of Micah : Pithon, Melech, Tahrea, and Ahaz.
+41. The sons of Micah: Pithon, Melech, Tahrea, and Ahaz.
 42. And Ahaz fathered Jarah, and Jarah fathered Alemeth, Azmaveth, and Zimri. And Zimri fathered Moza.
 43. Moza fathered Binea, and Rephaiah was his son, Eleasah his son, Azel his son.
-44. Azel had six sons and these are their names : Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan; these were the sons of Azel.
+44. Azel had six sons and these are their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan; these were the sons of Azel.
 
 ## Chapter 10
 
@@ -463,7 +463,7 @@
 8. And he built the city all around from the Millo in complete circuit, and Joab repaired the rest of the city.
 9. And David became greater and greater, for the Lord of hosts was with him.
 10. Now these are the chiefs of David’s mighty men, who gave him strong support in his kingdom, together with all Israel, to make him king, according to the word of the Lord concerning Israel.
-11. This is an account of David’s mighty men : Jashobeam, a Hachmonite, was chief of the three. He wielded his spear against 300 whom he killed at one time.
+11. This is an account of David’s mighty men: Jashobeam, a Hachmonite, was chief of the three. He wielded his spear against 300 whom he killed at one time.
 12. And next to him among the three mighty men was Eleazar the son of Dodo, the Ahohite.
 13. He was with David at Pas-dammim when the Philistines were gathered there for battle. There was a plot of ground full of barley, and the men fled from the Philistines.
 14. But he took his stand in the midst of the plot and defended it and killed the Philistines. And the Lord saved them by a great victory.
@@ -510,7 +510,7 @@
 5. Eluzai, Jerimoth, Bealiah, Shemariah, Shephatiah the Haruphite;
 6. Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, the Korahites;
 7. And Joelah and Zebadiah, the sons of Jeroham of Gedor.
-8. From the Gadites there went over to David at the stronghold in the wilderness mighty and experienced warriors, expert with shield and spear, whose faces were like the faces of lions and who were swift as gazelles upon the mountains :
+8. From the Gadites there went over to David at the stronghold in the wilderness mighty and experienced warriors, expert with shield and spear, whose faces were like the faces of lions and who were swift as gazelles upon the mountains:
 9. Ezer the chief, Obadiah second, Eliab third,
 10. Mishmannah fourth, Jeremiah fifth,
 11. Attai sixth, Eliel seventh,
@@ -566,7 +566,7 @@
 1. And Hiram king of Tyre sent messengers to David, and cedar trees, also masons and carpenters to build a house for him.
 2. And David knew that the Lord had established him as king over Israel, and that his kingdom was highly exalted for the sake of his people Israel.
 3. And David took more wives in Jerusalem, and David fathered more sons and daughters.
-4. These are the names of the children born to him in Jerusalem : Shammua, Shobab, Nathan, Solomon,
+4. These are the names of the children born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,
 5. Ibhar, Elishua, Elpelet,
 6. Nogah, Nepheg, Japhia,
 7. Elishama, Beeliada and Eliphelet.
@@ -586,7 +586,7 @@
 1. David built houses for himself in the city of David. And he prepared a place for the ark of God and pitched a tent for it.
 2. Then David said that no one but the Levites may carry the ark of God, for the Lord had chosen them to carry the ark of the Lord and to minister to him forever.
 3. And David assembled all Israel at Jerusalem to bring up the ark of the Lord to its place, which he had prepared for it.
-4. And David gathered together the sons of Aaron and the Levites :
+4. And David gathered together the sons of Aaron and the Levites:
 5. of the sons of Kohath, Uriel the chief, with 120 of his brothers;
 6. of the sons of Merari, Asaiah the chief, with 220 of his brothers;
 7. of the sons of Gershom, Joel the chief, with 130 of his brothers;
@@ -664,7 +664,7 @@
 1. Now when David lived in his house, David said to Nathan the prophet, Behold, I dwell in a house of cedar, but the ark of the covenant of the Lord is under a tent.
 2. And Nathan said to David, Do all that is in your heart, for God is with you.
 3. But that same night the word of the Lord came to Nathan,
-4. Go and tell my servant David, Thus says the Lord : It is not you who will build me a house to dwell in.
+4. Go and tell my servant David, Thus says the Lord: It is not you who will build me a house to dwell in.
 5. For I have not lived in a house since the day I brought up Israel to this day, but I have gone from tent to tent and from dwelling to dwelling.
 6. In all places where I have moved with all Israel, did I speak a word with any of the judges of Israel, whom I commanded to shepherd my people, saying, Why have you not built me a house of cedar?
 7. Now, therefore, thus shall you say to my servant David, Thus says the Lord of hosts, I took you from the pasture, from following the sheep, to be prince over my people Israel,
@@ -791,7 +791,7 @@
 12. Only, may the Lord grant you discretion and understanding, that when he gives you charge over Israel you may keep the law of the Lord your God.
 13. Then you will prosper if you are careful to observe the statutes and the rules that the Lord commanded Moses for Israel. Be strong and courageous. Fear not; do not be dismayed.
 14. With great pains I have provided for the house of the Lord 100,000 talents of gold, a million talents of silver, and bronze and iron beyond weighing, for there is so much of it; timber and stone, too, I have provided. To these you must add.
-15. You have an abundance of workmen : stonecutters, masons, carpenters, and all kinds of craftsmen without number, skilled in working
+15. You have an abundance of workmen: stonecutters, masons, carpenters, and all kinds of craftsmen without number, skilled in working
 16. gold, silver, bronze, and iron. Arise and work! The Lord be with you!
 17. David also commanded all the leaders of Israel to help Solomon his son, saying,
 18. Is not the Lord your God with you? And has he not given you peace on every side? For he has delivered the inhabitants of the land into my hand, and the land is subdued before the Lord and his people.
@@ -804,24 +804,24 @@
 3. The Levites, thirty years old and upward, were numbered, and the total was 38,000 men.
 4. Twenty-four thousand of these, David said, shall have charge of the work in the house of the Lord, 6,000 shall be officers and judges,
 5. 4,000 gatekeepers, and 4,000 shall offer praises to the Lord with the instruments that I have made for praise.
-6. And David organized them in divisions corresponding to the sons of Levi : Gershon, Kohath, and Merari.
+6. And David organized them in divisions corresponding to the sons of Levi: Gershon, Kohath, and Merari.
 7. The sons of Gershon were Ladan and Shimei.
-8. The sons of Ladan : Jehiel the chief, and Zetham, and Joel, three.
-9. The sons of Shimei : Shelomoth, Haziel, and Haran, three. These were the heads of the fathers ’ houses of Ladan.
-10. And the sons of Shimei : Jahath, Zina, and Jeush and Beriah. These four were the sons of Shimei.
+8. The sons of Ladan: Jehiel the chief, and Zetham, and Joel, three.
+9. The sons of Shimei: Shelomoth, Haziel, and Haran, three. These were the heads of the fathers ’ houses of Ladan.
+10. And the sons of Shimei: Jahath, Zina, and Jeush and Beriah. These four were the sons of Shimei.
 11. Jahath was the chief, and Zizah the second; but Jeush and Beriah did not have many sons, therefore they became counted as a single father’s house.
-12. The sons of Kohath : Amram, Izhar, Hebron, and Uzziel, four.
-13. The sons of Amram : Aaron and Moses. Aaron was set apart to dedicate the most holy things, that he and his sons forever should make offerings before the Lord and minister to him and pronounce blessings in his name forever.
+12. The sons of Kohath: Amram, Izhar, Hebron, and Uzziel, four.
+13. The sons of Amram: Aaron and Moses. Aaron was set apart to dedicate the most holy things, that he and his sons forever should make offerings before the Lord and minister to him and pronounce blessings in his name forever.
 14. But the sons of Moses the man of God were named among the tribe of Levi.
-15. The sons of Moses : Gershom and Eliezer.
-16. The sons of Gershom : Shebuel the chief.
-17. The sons of Eliezer : Rehabiah the chief. Eliezer had no other sons, but the sons of Rehabiah were very many.
-18. The sons of Izhar : Shelomith the chief.
-19. The sons of Hebron : Jeriah the chief, Amariah the second, Jahaziel the third, and Jekameam the fourth.
-20. The sons of Uzziel : Micah the chief and Isshiah the second.
-21. The sons of Merari : Mahli and Mushi. The sons of Mahli : Eleazar and Kish.
+15. The sons of Moses: Gershom and Eliezer.
+16. The sons of Gershom: Shebuel the chief.
+17. The sons of Eliezer: Rehabiah the chief. Eliezer had no other sons, but the sons of Rehabiah were very many.
+18. The sons of Izhar: Shelomith the chief.
+19. The sons of Hebron: Jeriah the chief, Amariah the second, Jahaziel the third, and Jekameam the fourth.
+20. The sons of Uzziel: Micah the chief and Isshiah the second.
+21. The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish.
 22. Eleazar died having no sons, but only daughters; their kinsmen, the sons of Kish, married them.
-23. The sons of Mushi : Mahli, Eder, and Jeremoth, three.
+23. The sons of Mushi: Mahli, Eder, and Jeremoth, three.
 24. These were the sons of Levi by their fathers ’ houses, the heads of fathers ’ houses as they were listed according to the number of the names of the individuals from twenty years old and upward who were to do the work for the service of the house of the Lord.
 25. For David said, The Lord, the God of Israel, has given rest to his people, and he dwells in Jerusalem forever.
 26. And so the Levites no longer need to carry the tabernacle or any of the things for its service.
@@ -834,7 +834,7 @@
 
 ## Chapter 24
 
-1. The divisions of the sons of Aaron were these. The sons of Aaron : Nadab, Abihu, Eleazar, and Ithamar.
+1. The divisions of the sons of Aaron were these. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar.
 2. But Nadab and Abihu died before their father and had no children, so Eleazar and Ithamar became the priests.
 3. With the help of Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, David organized them according to the appointed duties in their service.
 4. Since more chief men were found among the sons of Eleazar than among the sons of Ithamar, they organized them under sixteen heads of fathers ’ houses of the sons of Eleazar, and eight of the sons of Ithamar.
@@ -853,25 +853,25 @@
 17. the twenty-first to Jachin, the twenty-second to Gamul,
 18. the twenty-third to Delaiah, the twenty-fourth to Maaziah.
 19. These had as their appointed duty in their service to come into the house of the Lord according to the procedure established for them by Aaron their father, as the Lord God of Israel had commanded him.
-20. And of the rest of the sons of Levi : of the sons of Amram, Shubael; of the sons of Shubael, Jehdeiah.
-21. Of Rehabiah : of the sons of Rehabiah, Isshiah the chief.
+20. And of the rest of the sons of Levi: of the sons of Amram, Shubael; of the sons of Shubael, Jehdeiah.
+21. Of Rehabiah: of the sons of Rehabiah, Isshiah the chief.
 22. Of the Izharites, Shelomoth; of the sons of Shelomoth, Jahath.
 23. The sons of Hebron: Jeriah the chief, Amariah the second, Jahaziel the third, Jekameam the fourth.
 24. The sons of Uzziel, Micah; of the sons of Micah, Shamir.
 25. The brother of Micah, Isshiah; of the sons of Isshiah, Zechariah.
-26. The sons of Merari : Mahli and Mushi. The sons of Jaaziah : Beno.
-27. The sons of Merari : of Jaaziah, Beno, Shoham, Zaccur, and Ibri.
-28. Of Mahli : Eleazar, who had no sons.
-29. Of Kish, the sons of Kish : Jerahmeel.
-30. The sons of Mushi : Mahli, Eder, and Jerimoth. These were the sons of the Levites according to their fathers ’ houses.
+26. The sons of Merari: Mahli and Mushi. The sons of Jaaziah: Beno.
+27. The sons of Merari: of Jaaziah, Beno, Shoham, Zaccur, and Ibri.
+28. Of Mahli: Eleazar, who had no sons.
+29. Of Kish, the sons of Kish: Jerahmeel.
+30. The sons of Mushi: Mahli, Eder, and Jerimoth. These were the sons of the Levites according to their fathers ’ houses.
 31. These also, the head of each father’s house and his younger brother alike, cast lots, just as their brothers the sons of Aaron, in the presence of King David, Zadok, Ahimelech, and the heads of fathers ’ houses of the priests and of the Levites.
 
 ## Chapter 25
 
 1. David and the chiefs of the service also set apart for the service the sons of Asaph, and of Heman, and of Jeduthun, who prophesied with lyres, with harps, and with cymbals. The list of those who did the work and of their duties was:
-2. Of the sons of Asaph : Zaccur, Joseph, Nethaniah, and Asharelah, sons of Asaph, under the direction of Asaph, who prophesied under the direction of the king.
-3. Of Jeduthun, the sons of Jeduthun : Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah, six, under the direction of their father Jeduthun, who prophesied with the lyre in thanksgiving and praise to the Lord.
-4. Of Heman, the sons of Heman : Bukkiah, Mattaniah, Uzziel, Shebuel and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamti-ezer, Joshbekashah, Mallothi, Hothir, Mahazioth.
+2. Of the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah, sons of Asaph, under the direction of Asaph, who prophesied under the direction of the king.
+3. Of Jeduthun, the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah, six, under the direction of their father Jeduthun, who prophesied with the lyre in thanksgiving and praise to the Lord.
+4. Of Heman, the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamti-ezer, Joshbekashah, Mallothi, Hothir, Mahazioth.
 5. All these were the sons of Heman the king’s seer, according to the promise of God to exalt him, for God had given Heman fourteen sons and three daughters.
 6. They were all under the direction of their father in the music in the house of the Lord with cymbals, harps, and lyres for the service of the house of God. Asaph, Jeduthun, and Heman were under the order of the king.
 7. The number of them along with their brothers, who were trained in singing to the Lord, all who were skillful, was 288.
@@ -902,17 +902,17 @@
 
 ## Chapter 26
 
-1. As for the divisions of the gatekeepers : of the Korahites, Meshelemiah the son of Kore, of the sons of Asaph.
-2. And Meshelemiah had sons : Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
+1. As for the divisions of the gatekeepers: of the Korahites, Meshelemiah the son of Kore, of the sons of Asaph.
+2. And Meshelemiah had sons: Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
 3. Elam the fifth, Jehohanan the sixth, Eliehoenai the seventh.
-4. And Obed-edom had sons : Shemaiah the firstborn, Jehozabad the second, Joah the third, Sachar the fourth, Nethanel the fifth,
+4. And Obed-edom had sons: Shemaiah the firstborn, Jehozabad the second, Joah the third, Sachar the fourth, Nethanel the fifth,
 5. Ammiel the sixth, Issachar the seventh, Peullethai the eighth, for God blessed him.
 6. Also to his son Shemaiah were sons born who were rulers in their fathers ’ houses, for they were men of great ability.
-7. The sons of Shemaiah : Othni, Rephael, Obed and Elzabad, whose brothers were able men, Elihu and Semachiah.
+7. The sons of Shemaiah: Othni, Rephael, Obed and Elzabad, whose brothers were able men, Elihu and Semachiah.
 8. All these were of the sons of Obed-edom with their sons and brothers, able men qualified for the service; sixty-two of Obed-edom.
 9. And Meshelemiah had sons and brothers, able men, eighteen.
-10. And Hosah, of the sons of Merari, had sons : Shimri the chief (for though he was not the firstborn, his father made him chief ),
-11. Hilkiah the second, Tebaliah the third, Zechariah the fourth : all the sons and brothers of Hosah were thirteen.
+10. And Hosah, of the sons of Merari, had sons: Shimri the chief (for though he was not the firstborn, his father made him chief ),
+11. Hilkiah the second, Tebaliah the third, Zechariah the fourth: all the sons and brothers of Hosah were thirteen.
 12. These divisions of the gatekeepers, corresponding to their chief men, had duties, just as their brothers did, ministering in the house of the Lord.
 13. And they cast lots by fathers ’ houses, small and great alike, for their gates.
 14. The lot for the east fell to Shelemiah. They cast lots also for his son Zechariah, a shrewd counselor, and his lot came out for the north.
@@ -922,11 +922,11 @@
 18. And for the colonnade on the west there were four at the road and two at the colonnade.
 19. These were the divisions of the gatekeepers among the Korahites and the sons of Merari.
 20. And of the Levites, Ahijah had charge of the treasuries of the house of God and the treasuries of the dedicated gifts.
-21. The sons of Ladan, the sons of the Gershonites belonging to Ladan, the heads of the fathers ’ houses belonging to Ladan the Gershonite : Jehieli.
+21. The sons of Ladan, the sons of the Gershonites belonging to Ladan, the heads of the fathers ’ houses belonging to Ladan the Gershonite: Jehieli.
 22. The sons of Jehieli, Zetham, and Joel his brother, were in charge of the treasuries of the house of the Lord.
 23. Of the Amramites, the Izharites, the Hebronites, and the Uzzielites —
 24. and Shebuel the son of Gershom, son of Moses, was chief officer in charge of the treasuries.
-25. His brothers : from Eliezer were his son Rehabiah, and his son Jeshaiah, and his son Joram, and his son Zichri, and his son Shelomoth.
+25. His brothers: from Eliezer were his son Rehabiah, and his son Jeshaiah, and his son Joram, and his son Zichri, and his son Shelomoth.
 26. This Shelomoth and his brothers were in charge of all the treasuries of the dedicated gifts that David the king and the heads of the fathers ’ houses and the officers of the thousands and the hundreds and the commanders of the army had dedicated.
 27. From spoil won in battles they dedicated gifts for the maintenance of the house of the Lord.
 28. Also all that Samuel the seer and Saul the son of Kish and Abner the son of Ner and Joab the son of Zeruiah had dedicated — all dedicated gifts were in the care of Shelomoth and his brothers.
@@ -937,7 +937,7 @@
 
 ## Chapter 27
 
-1. This is the number of the people of Israel, the heads of fathers ’ houses, the commanders of thousands and hundreds, and their officers who served the king in all matters concerning the divisions that came and went, month after month throughout the year, each division numbering 24,000 :
+1. This is the number of the people of Israel, the heads of fathers ’ houses, the commanders of thousands and hundreds, and their officers who served the king in all matters concerning the divisions that came and went, month after month throughout the year, each division numbering 24,000:
 2. Jashobeam the son of Zabdiel was in charge of the first division in the first month; in his division were 24,000.
 3. He was a descendant of Perez and was chief of all the commanders. He served for the first month.
 4. Dodai the Ahohite was in charge of the division of the second month; in his division were 24,000.
@@ -975,7 +975,7 @@
 ## Chapter 28
 
 1. David assembled at Jerusalem all the officials of Israel, the officials of the tribes, the officers of the divisions that served the king, the commanders of thousands, the commanders of hundreds, the stewards of all the property and livestock of the king and his sons, together with the palace officials, the mighty men and all the seasoned warriors.
-2. Then King David rose to his feet and said : Hear me, my brothers and my people. I had it in my heart to build a house of rest for the ark of the covenant of the Lord and for the footstool of our God, and I made preparations for building.
+2. Then King David rose to his feet and said: Hear me, my brothers and my people. I had it in my heart to build a house of rest for the ark of the covenant of the Lord and for the footstool of our God, and I made preparations for building.
 3. But God said to me, You may not build a house for my name, for you are a man of war and have shed blood.
 4. Yet the Lord God of Israel chose me from all my father’s house to be king over Israel forever. For he chose Judah as leader, and in the house of Judah my father’s house, and among my father’s sons he took pleasure in me to make me king over all Israel.
 5. And of all my sons (for the Lord has given me many sons ) he has chosen Solomon my son to sit on the throne of the kingdom of the Lord over Israel.
@@ -1000,14 +1000,14 @@
 
 1. And David the king said to all the assembly, Solomon my son, whom alone God has chosen, is young and inexperienced, and the work is great, for the palace will not be for man but for the Lord God.
 2. So I have provided for the house of my God, so far as I was able, the gold for the things of gold, the silver for the things of silver, and the bronze for the things of bronze, the iron for the things of iron, and wood for the things of wood, besides great quantities of onyx and stones for setting, antimony, colored stones, all sorts of precious stones and marble.
-3. Moreover, in addition to all that I have provided for the holy house, I have a treasure of my own of gold and silver, and because of my devotion to the house of my God I give it to the house of my God :
+3. Moreover, in addition to all that I have provided for the holy house, I have a treasure of my own of gold and silver, and because of my devotion to the house of my God I give it to the house of my God:
 4. 3,000 talents of gold, of the gold of Ophir, and 7,000 talents of refined silver, for overlaying the walls of the house,
 5. and for all the work to be done by craftsmen, gold for the things of gold and silver for the things of silver. Who then will offer willingly, consecrating himself today to the Lord?
 6. Then the leaders of fathers ’ houses made their freewill offerings, as did also the leaders of the tribes, the commanders of thousands and of hundreds, and the officers over the king’s work.
 7. They gave for the service of the house of God 5,000 talents and 10,000 darics of gold, 10,000 talents of silver, 18,000 talents of bronze and 100,000 talents of iron.
 8. And whoever had precious stones gave them to the treasury of the house of the Lord, in the care of Jehiel the Gershonite.
 9. Then the people rejoiced because they had given willingly, for with a whole heart they had offered freely to the Lord. David the king also rejoiced greatly.
-10. Therefore David blessed the Lord in the presence of all the assembly. And David said : Blessed are you, O Lord, the God of Israel our father, forever and ever.
+10. Therefore David blessed the Lord in the presence of all the assembly. And David said: Blessed are you, O Lord, the God of Israel our father, forever and ever.
 11. Yours, O Lord, is the greatness and the power and the glory and the victory and the majesty, for all that is in the heavens and in the earth is yours. Yours is the kingdom, O Lord, and you are exalted as head above all.
 12. Both riches and honor come from you, and you rule over all. In your hand are power and might, and in your hand it is to make great and to give strength to all.
 13. And now we thank you, our God, and praise your glorious name.

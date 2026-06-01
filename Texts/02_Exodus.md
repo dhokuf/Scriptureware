@@ -2,7 +2,7 @@
 
 ## Chapter 1
 
-1. These are the names of the sons of Israel who came to Egypt with Jacob, each with his household :
+1. These are the names of the sons of Israel who came to Egypt with Jacob, each with his household:
 2. Reuben, Simeon, Levi, and Judah,
 3. Issachar, Zebulun, and Benjamin,
 4. Dan and Naphtali, Gad and Asher.
@@ -152,20 +152,20 @@
 10. So the Lord said to Moses,
 11. Go in, tell Pharaoh king of Egypt to let the people of Israel go out of his land.
 12. But Moses said to the Lord, Behold, the people of Israel have not listened to me. How then shall Pharaoh listen to me, for I am of uncircumcised lips?
-13. But the Lord spoke to Moses and Aaron and gave them a charge about the people of Israel and about Pharaoh king of Egypt : to bring the people of Israel out of the land of Egypt.
-14. These are the heads of their fathers ’ houses : the sons of Reuben, the firstborn of Israel : Hanoch, Pallu, Hezron, and Carmi; these are the clans of Reuben.
-15. The sons of Simeon : Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman; these are the clans of Simeon.
-16. These are the names of the sons of Levi according to their generations : Gershon, Kohath, and Merari, the years of the life of Levi being 137 years.
-17. The sons of Gershon : Libni and Shimei, by their clans.
-18. The sons of Kohath : Amram, Izhar, Hebron, and Uzziel, the years of the life of Kohath being 133 years.
-19. The sons of Merari : Mahli and Mushi. These are the clans of the Levites according to their generations.
+13. But the Lord spoke to Moses and Aaron and gave them a charge about the people of Israel and about Pharaoh king of Egypt: to bring the people of Israel out of the land of Egypt.
+14. These are the heads of their fathers ’ houses: the sons of Reuben, the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi; these are the clans of Reuben.
+15. The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman; these are the clans of Simeon.
+16. These are the names of the sons of Levi according to their generations: Gershon, Kohath, and Merari, the years of the life of Levi being 137 years.
+17. The sons of Gershon: Libni and Shimei, by their clans.
+18. The sons of Kohath: Amram, Izhar, Hebron, and Uzziel, the years of the life of Kohath being 133 years.
+19. The sons of Merari: Mahli and Mushi. These are the clans of the Levites according to their generations.
 20. Amram took as his wife Jochebed his father’s sister, and she bore him Aaron and Moses, the years of the life of Amram being 137 years.
-21. The sons of Izhar : Korah, Nepheg, and Zichri.
-22. The sons of Uzziel : Mishael, Elzaphan, and Sithri.
+21. The sons of Izhar: Korah, Nepheg, and Zichri.
+22. The sons of Uzziel: Mishael, Elzaphan, and Sithri.
 23. Aaron took as his wife Elisheba, the daughter of Amminadab and the sister of Nahshon, and she bore him Nadab, Abihu, Eleazar, and Ithamar.
-24. The sons of Korah : Assir, Elkanah, and Abiasaph; these are the clans of the Korahites.
+24. The sons of Korah: Assir, Elkanah, and Abiasaph; these are the clans of the Korahites.
 25. Eleazar, Aaron’s son, took as his wife one of the daughters of Putiel, and she bore him Phinehas. These are the heads of the fathers’ houses of the Levites by their clans.
-26. These are the Aaron and Moses to whom the Lord said : Bring out the people of Israel from the land of Egypt by their hosts.
+26. These are the Aaron and Moses to whom the Lord said: Bring out the people of Israel from the land of Egypt by their hosts.
 27. It was they who spoke to Pharaoh king of Egypt about bringing out the people of Israel from Egypt, this Moses and this Aaron.
 28. On the day when the Lord spoke to Moses in the land of Egypt,
 29. the Lord said to Moses, I am the Lord; tell Pharaoh king of Egypt all that I say to you.
@@ -189,7 +189,7 @@
 14. Then the Lord said to Moses, Pharaoh’s heart is hardened; he refuses to let the people go.
 15. Go to Pharaoh in the morning, as he is going out to the water. Stand on the bank of the Nile to meet him, and take in your hand the staff that turned into a serpent.
 16. And you shall say to him, The Lord, the God of the Hebrews, sent me to you, saying, Let my people go, that they may serve me in the wilderness. But so far, you have not obeyed.
-17. Thus says the Lord, By this you shall know that I am the Lord : behold, with the staff that is in my hand I will strike the water that is in the Nile, and it shall turn into blood.
+17. Thus says the Lord, By this you shall know that I am the Lord: behold, with the staff that is in my hand I will strike the water that is in the Nile, and it shall turn into blood.
 18. The fish in the Nile shall die, and the Nile will stink, and the Egyptians will grow weary of drinking water from the Nile.
 19. And the Lord said to Moses, Say to Aaron, Take your staff and stretch out your hand over the waters of Egypt, over their rivers, their canals, and their ponds, and all their pools of water, so that they may become blood, and there shall be blood throughout all the land of Egypt, even in vessels of wood and in vessels of stone.
 20. Moses and Aaron did as the Lord commanded. In the sight of Pharaoh and in the sight of his servants he lifted up the staff and struck the water in the Nile, and all the water in the Nile turned into blood.
@@ -309,7 +309,7 @@
 1. The Lord said to Moses, Yet one plague more I will bring upon Pharaoh and upon Egypt. Afterward he will let you go from here. When he lets you go, he will drive you away completely.
 2. Speak now in the hearing of the people, that they ask, every man of his neighbor and every woman of her neighbor, for silver and gold jewelry.
 3. And the Lord gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh’s servants and in the sight of the people.
-4. So Moses said, Thus says the Lord : About midnight I will go out in the midst of Egypt,
+4. So Moses said, Thus says the Lord: About midnight I will go out in the midst of Egypt,
 5. and every firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the slave girl who is behind the handmill, and all the firstborn of the cattle.
 6. There shall be a great cry throughout all the land of Egypt, such as there has never been, nor ever will be again.
 7. But not a dog shall growl against any of the people of Israel, either man or beast, that you may know that the Lord makes a distinction between Egypt and Israel.
@@ -330,7 +330,7 @@
 9. Do not eat any of it raw or boiled in water, but roasted, its head with its legs and its inner parts.
 10. And you shall let none of it remain until the morning; anything that remains until the morning you shall burn.
 11. In this manner you shall eat it: with your belt fastened, your sandals on your feet, and your staff in your hand. And you shall eat it in haste. It is the Lord ’s Passover.
-12. For I will pass through the land of Egypt that night, and I will strike all the firstborn in the land of Egypt, both man and beast; and on all the gods of Egypt I will execute judgments : I am the Lord.
+12. For I will pass through the land of Egypt that night, and I will strike all the firstborn in the land of Egypt, both man and beast; and on all the gods of Egypt I will execute judgments: I am the Lord.
 13. The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt.
 14. This day shall be for you a memorial day, and you shall keep it as a feast to the Lord; throughout your generations, as a statute forever, you shall keep it as a feast.
 15. Seven days you shall eat unleavened bread. On the first day you shall remove leaven out of your houses, for if anyone eats what is leavened, from the first day until the seventh day, that person shall be cut off from Israel.
@@ -361,7 +361,7 @@
 40. The time that the people of Israel lived in Egypt was 430 years.
 41. At the end of 430 years, on that very day, all the hosts of the Lord went out from the land of Egypt.
 42. It was a night of watching by the Lord, to bring them out of the land of Egypt; so this same night is a night of watching kept to the Lord by all the people of Israel throughout their generations.
-43. And the Lord said to Moses and Aaron, This is the statute of the Passover : no foreigner shall eat of it,
+43. And the Lord said to Moses and Aaron, This is the statute of the Passover: no foreigner shall eat of it,
 44. but every slave that is bought for money may eat of it after you have circumcised him.
 45. No foreigner or hired worker may eat of it.
 46. It shall be eaten in one house; you shall not take any of the flesh outside the house, and you shall not break any of its bones.
@@ -409,7 +409,7 @@
 9. The Egyptians pursued them, all Pharaoh’s horses and chariots and his horsemen and his army, and overtook them encamped at the sea, by Pi-hahiroth, in front of Baal-zephon.
 10. When Pharaoh drew near, the people of Israel lifted up their eyes, and behold, the Egyptians were marching after them, and they feared greatly. And the people of Israel cried out to the Lord.
 11. They said to Moses, Is it because there are no graves in Egypt that you have taken us away to die in the wilderness? What have you done to us in bringing us out of Egypt?
-12. Is not this what we said to you in Egypt : Leave us alone that we may serve the Egyptians? For it would have been better for us to serve the Egyptians than to die in the wilderness.
+12. Is not this what we said to you in Egypt: Leave us alone that we may serve the Egyptians? For it would have been better for us to serve the Egyptians than to die in the wilderness.
 13. And Moses said to the people, Fear not, stand firm, and see the salvation of the Lord, which he will work for you today. For the Egyptians whom you see today, you shall never see again.
 14. The Lord will fight for you, and you have only to be silent.
 15. The Lord said to Moses, Why do you cry to me? Tell the people of Israel to go forward.
@@ -477,14 +477,14 @@
 13. In the evening quail came up and covered the camp, and in the morning dew lay around the camp.
 14. And when the dew had gone up, there was on the face of the wilderness a fine, flake-like thing, fine as frost on the ground.
 15. When the people of Israel saw it, they said to one another, What is it? For they did not know what it was. And Moses said to them, It is the bread that the Lord has given you to eat.
-16. This is what the Lord has commanded : Gather of it, each one of you, as much as he can eat. You shall each take an omer, according to the number of the persons that each of you has in his tent.
+16. This is what the Lord has commanded: Gather of it, each one of you, as much as he can eat. You shall each take an omer, according to the number of the persons that each of you has in his tent.
 17. And the people of Israel did so. They gathered, some more, some less.
 18. But when they measured it with an omer, whoever gathered much had nothing left over, and whoever gathered little had no lack. Each of them gathered as much as he could eat.
 19. And Moses said to them, Let no one leave any of it over till the morning.
 20. But they did not listen to Moses. Some left part of it till the morning, and it bred worms and stank. And Moses was angry with them.
 21. Morning by morning they gathered it, each as much as he could eat; but when the sun grew hot, it melted.
 22. On the sixth day they gathered twice as much bread, two omers each. And when all the leaders of the congregation came and told Moses,
-23. he said to them, This is what the Lord has commanded : Tomorrow is a day of solemn rest, a holy Sabbath to the Lord; bake what you will bake and boil what you will boil, and all that is left over lay aside to be kept till the morning.
+23. he said to them, This is what the Lord has commanded: Tomorrow is a day of solemn rest, a holy Sabbath to the Lord; bake what you will bake and boil what you will boil, and all that is left over lay aside to be kept till the morning.
 24. So they laid it aside till the morning, as Moses commanded them, and it did not stink, and there were no worms in it.
 25. Moses said, Eat it today, for today is a Sabbath to the Lord; today you will not find it in the field.
 26. Six days you shall gather it, but on the seventh day, which is a Sabbath, there will be none.
@@ -493,7 +493,7 @@
 29. See! The Lord has given you the Sabbath; therefore on the sixth day he gives you bread for two days. Remain each of you in his place; let no one go out of his place on the seventh day.
 30. So the people rested on the seventh day.
 31. Now the house of Israel called its name manna. It was like coriander seed, white, and the taste of it was like wafers made with honey.
-32. Moses said, This is what the Lord has commanded : Let an omer of it be kept throughout your generations, so that they may see the bread with which I fed you in the wilderness, when I brought you out of the land of Egypt.
+32. Moses said, This is what the Lord has commanded: Let an omer of it be kept throughout your generations, so that they may see the bread with which I fed you in the wilderness, when I brought you out of the land of Egypt.
 33. And Moses said to Aaron, Take a jar, and put an omer of manna in it, and place it before the Lord to be kept throughout your generations.
 34. As the Lord commanded Moses, so Aaron placed it before the testimony to be kept.
 35. The people of Israel ate the manna forty years, till they came to a habitable land. They ate the manna till they came to the border of the land of Canaan.
@@ -552,7 +552,7 @@
 
 1. On the third new moon after the people of Israel had gone out of the land of Egypt, on that day they came into the wilderness of Sinai.
 2. They set out from Rephidim and came into the wilderness of Sinai, and they encamped in the wilderness. There Israel encamped before the mountain,
-3. while Moses went up to God. The Lord called to him out of the mountain, saying, Thus you shall say to the house of Jacob, and tell the people of Israel :
+3. while Moses went up to God. The Lord called to him out of the mountain, saying, Thus you shall say to the house of Jacob, and tell the people of Israel:
 4. You yourselves have seen what I did to the Egyptians, and how I bore you on eagles ’ wings and brought you to myself.
 5. Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine;
 6. and you shall be to me a kingdom of priests and a holy nation. These are the words that you shall speak to the people of Israel.
@@ -599,7 +599,7 @@
 19. and said to Moses, You speak to us, and we will listen; but do not let God speak to us, lest we die.
 20. Moses said to the people, Do not fear, for God has come to test you, that the fear of him may be before you, that you may not sin.
 21. The people stood far off, while Moses drew near to the thick darkness where God was.
-22. And the Lord said to Moses, Thus you shall say to the people of Israel : You have seen for yourselves that I have talked with you from heaven.
+22. And the Lord said to Moses, Thus you shall say to the people of Israel: You have seen for yourselves that I have talked with you from heaven.
 23. You shall not make gods of silver to be with me, nor shall you make for yourselves gods of gold.
 24. An altar of earth you shall make for me and sacrifice on it your burnt offerings and your peace offerings, your sheep and your oxen. In every place where I cause my name to be remembered I will come to you and bless you.
 25. If you make me an altar of stone, you shall not build it of hewn stones, for if you wield your tool on it you profane it.
@@ -675,7 +675,7 @@
 27. for that is his only covering, and it is his cloak for his body; in what else shall he sleep? And if he cries to me, I will hear, for I am compassionate.
 28. You shall not revile God, nor curse a ruler of your people.
 29. You shall not delay to offer from the fullness of your harvest and from the outflow of your presses. The firstborn of your sons you shall give to me.
-30. You shall do the same with your oxen and with your sheep : seven days it shall be with its mother; on the eighth day you shall give it to me.
+30. You shall do the same with your oxen and with your sheep: seven days it shall be with its mother; on the eighth day you shall give it to me.
 31. You shall be consecrated to me. Therefore you shall not eat any flesh that is torn by beasts in the field; you shall throw it to the dogs.
 
 ## Chapter 23
@@ -767,7 +767,7 @@
 28. You shall make the poles of acacia wood, and overlay them with gold, and the table shall be carried with these.
 29. And you shall make its plates and dishes for incense, and its flagons and bowls with which to pour drink offerings; you shall make them of pure gold.
 30. And you shall set the bread of the Presence on the table before me regularly.
-31. You shall make a lampstand of pure gold. The lampstand shall be made of hammered work : its base, its stem, its cups, its calyxes, and its flowers shall be of one piece with it.
+31. You shall make a lampstand of pure gold. The lampstand shall be made of hammered work: its base, its stem, its cups, its calyxes, and its flowers shall be of one piece with it.
 32. And there shall be six branches going out of its sides, three branches of the lampstand out of one side of it and three branches of the lampstand out of the other side of it;
 33. three cups made like almond blossoms, each with calyx and flower, on one branch, and three cups made like almond blossoms, each with calyx and flower, on the other branch —so for the six branches going out of the lampstand.
 34. And on the lampstand itself there shall be four cups made like almond blossoms, with their calyxes and flowers,
@@ -797,7 +797,7 @@
 15. You shall make upright frames for the tabernacle of acacia wood.
 16. Ten cubits shall be the length of a frame, and a cubit and a half the breadth of each frame.
 17. There shall be two tenons in each frame, for fitting together. So shall you do for all the frames of the tabernacle.
-18. You shall make the frames for the tabernacle : twenty frames for the south side;
+18. You shall make the frames for the tabernacle: twenty frames for the south side;
 19. and forty bases of silver you shall make under the twenty frames, two bases under one frame for its two tenons, and two bases under the next frame for its two tenons;
 20. and for the second side of the tabernacle, on the north side twenty frames,
 21. and their forty bases of silver, two bases under one frame, and two bases under the next frame.
@@ -847,7 +847,7 @@
 1. Then bring near to you Aaron your brother, and his sons with him, from among the people of Israel, to serve me as priests — Aaron and Aaron’s sons, Nadab and Abihu, Eleazar and Ithamar.
 2. And you shall make holy garments for Aaron your brother, for glory and for beauty.
 3. You shall speak to all the skillful, whom I have filled with a spirit of skill, that they make Aaron’s garments to consecrate him for my priesthood.
-4. These are the garments that they shall make : a breastpiece, an ephod, a robe, a coat of checker work, a turban, and a sash. They shall make holy garments for Aaron your brother and his sons to serve me as priests.
+4. These are the garments that they shall make: a breastpiece, an ephod, a robe, a coat of checker work, a turban, and a sash. They shall make holy garments for Aaron your brother and his sons to serve me as priests.
 5. They shall receive gold, blue and purple and scarlet yarns, and fine twined linen.
 6. And they shall make the ephod of gold, of blue and purple and scarlet yarns, and of fine twined linen, skillfully worked.
 7. It shall have two shoulder pieces attached to its two edges, so that it may be joined together.
@@ -927,7 +927,7 @@
 35. Thus you shall do to Aaron and to his sons, according to all that I have commanded you. Through seven days shall you ordain them,
 36. and every day you shall offer a bull as a sin offering for atonement. Also you shall purify the altar, when you make atonement for it, and shall anoint it to consecrate it.
 37. Seven days you shall make atonement for the altar and consecrate it, and the altar shall be most holy. Whatever touches the altar shall become holy.
-38. Now this is what you shall offer on the altar : two lambs a year old day by day regularly.
+38. Now this is what you shall offer on the altar: two lambs a year old day by day regularly.
 39. One lamb you shall offer in the morning, and the other lamb you shall offer at twilight.
 40. And with the first lamb a tenth measure of fine flour mingled with a fourth of a hin of beaten oil, and a fourth of a hin of wine for a drink offering.
 41. The other lamb you shall offer at twilight, and shall offer with it a grain offering and its drink offering, as in the morning, for a pleasing aroma, a food offering to the Lord.
@@ -951,7 +951,7 @@
 10. Aaron shall make atonement on its horns once a year. With the blood of the sin offering of atonement he shall make atonement for it once in the year throughout your generations. It is most holy to the Lord.
 11. The Lord said to Moses,
 12. When you take the census of the people of Israel, then each shall give a ransom for his life to the Lord when you number them, that there be no plague among them when you number them.
-13. Each one who is numbered in the census shall give this : half a shekel according to the shekel of the sanctuary (the shekel is twenty gerahs ), half a shekel as an offering to the Lord.
+13. Each one who is numbered in the census shall give this: half a shekel according to the shekel of the sanctuary (the shekel is twenty gerahs ), half a shekel as an offering to the Lord.
 14. Everyone who is numbered in the census, from twenty years old and upward, shall give the Lord ’s offering.
 15. The rich shall not give more, and the poor shall not give less, than the half shekel, when you give the Lord ’s offering to make atonement for your lives.
 16. You shall take the atonement money from the people of Israel and shall give it for the service of the tent of meeting, that it may bring the people of Israel to remembrance before the Lord, so as to make atonement for your lives.
@@ -961,7 +961,7 @@
 20. When they go into the tent of meeting, or when they come near the altar to minister, to burn a food offering to the Lord, they shall wash with water, so that they may not die.
 21. They shall wash their hands and their feet, so that they may not die. It shall be a statute forever to them, even to him and to his offspring throughout their generations.
 22. The Lord said to Moses,
-23. Take the finest spices : of liquid myrrh 500 shekels, and of sweet-smelling cinnamon half as much, that is, 250, and 250 of aromatic cane,
+23. Take the finest spices: of liquid myrrh 500 shekels, and of sweet-smelling cinnamon half as much, that is, 250, and 250 of aromatic cane,
 24. and 500 of cassia, according to the shekel of the sanctuary, and a hin of olive oil.
 25. And you shall make of these a sacred anointing oil blended as by the perfumer; it shall be a holy anointing oil.
 26. With it you shall anoint the tent of meeting and the ark of the testimony,
@@ -1107,12 +1107,12 @@
 2. Six days work shall be done, but on the seventh day you shall have a Sabbath of solemn rest, holy to the Lord. Whoever does any work on it shall be put to death.
 3. You shall kindle no fire in all your dwelling places on the Sabbath day.
 4. Moses said to all the congregation of the people of Israel, This is the thing that the Lord has commanded.
-5. Take from among you a contribution to the Lord. Whoever is of a generous heart, let him bring the Lord ’s contribution : gold, silver, and bronze;
+5. Take from among you a contribution to the Lord. Whoever is of a generous heart, let him bring the Lord ’s contribution: gold, silver, and bronze;
 6. blue and purple and scarlet yarns and fine twined linen; goats’ hair,
 7. tanned rams ’ skins, and goatskins; acacia wood,
 8. oil for the light, spices for the anointing oil and for the fragrant incense,
 9. and onyx stones and stones for setting, for the ephod and for the breastpiece.
-10. Let every skillful craftsman among you come and make all that the Lord has commanded :
+10. Let every skillful craftsman among you come and make all that the Lord has commanded:
 11. the tabernacle, its tent and its covering, its hooks and its frames, its bars, its pillars, and its bases;
 12. the ark with its poles, the mercy seat, and the veil of the screen;
 13. the table with its poles and all its utensils, and the bread of the Presence;
@@ -1170,7 +1170,7 @@
 27. For the rear of the tabernacle westward he made six frames.
 28. He made two frames for corners of the tabernacle in the rear.
 29. And they were separate beneath but joined at the top, at the first ring. He made two of them this way for the two corners.
-30. There were eight frames with their bases of silver : sixteen bases, under every frame two bases.
+30. There were eight frames with their bases of silver: sixteen bases, under every frame two bases.
 31. He made bars of acacia wood, five for the frames of the one side of the tabernacle,
 32. and five bars for the frames of the other side of the tabernacle, and five bars for the frames of the tabernacle at the rear westward.
 33. And he made the middle bar to run from end to end halfway up the frames.
@@ -1238,7 +1238,7 @@
 22. Bezalel the son of Uri, son of Hur, of the tribe of Judah, made all that the Lord commanded Moses;
 23. and with him was Oholiab the son of Ahisamach, of the tribe of Dan, an engraver and designer and embroiderer in blue and purple and scarlet yarns and fine twined linen.
 24. All the gold that was used for the work, in all the construction of the sanctuary, the gold from the offering, was twenty-nine talents and 730 shekels, by the shekel of the sanctuary.
-25. The silver from those of the congregation who were recorded was a hundred talents and 1,775 shekels, by the shekel of the sanctuary :
+25. The silver from those of the congregation who were recorded was a hundred talents and 1,775 shekels, by the shekel of the sanctuary:
 26. a beka a head (that is, half a shekel, by the shekel of the sanctuary ), for everyone who was listed in the records, from twenty years old and upward, for 603,550 men.
 27. The hundred talents of silver were for casting the bases of the sanctuary and the bases of the veil; a hundred bases for the hundred talents, a talent a base.
 28. And of the 1,775 shekels he made hooks for the pillars and overlaid their capitals and made fillets for them.

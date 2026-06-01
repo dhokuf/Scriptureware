@@ -41,8 +41,8 @@
 12. They cry to their mothers, Where is bread and wine? as they faint like a wounded man in the streets of the city, as their life is poured out on their mothers ’ bosom.
 13. What can I say for you, to what compare you, O daughter of Jerusalem? What can I liken to you, that I may comfort you, O virgin daughter of Zion? For your ruin is vast as the sea; who can heal you?
 14. Your prophets have seen for you false and deceptive visions; they have not exposed your iniquity to restore your fortunes, but have seen for you oracles that are false and misleading.
-15. All who pass along the way clap their hands at you; they hiss and wag their heads at the daughter of Jerusalem : Is this the city that was called the perfection of beauty, the joy of all the earth?
-16. All your enemies rail against you; they hiss, they gnash their teeth, they cry : We have swallowed her! Ah, this is the day we longed for; now we have it; we see it!
+15. All who pass along the way clap their hands at you; they hiss and wag their heads at the daughter of Jerusalem: Is this the city that was called the perfection of beauty, the joy of all the earth?
+16. All your enemies rail against you; they hiss, they gnash their teeth, they cry: We have swallowed her! Ah, this is the day we longed for; now we have it; we see it!
 17. The Lord has done what he purposed; he has carried out his word, which he commanded long ago; he has thrown down without pity; he has made the enemy rejoice over you and exalted the might of your foes.
 18. Their heart cried to the Lord. O wall of the daughter of Zion, let tears stream down like a torrent day and night! Give yourself no rest, your eyes no respite!
 19. Arise, cry out in the night, at the beginning of the night watches! Pour out your heart like water before the presence of the Lord! Lift your hands to him for the lives of your children, who faint for hunger at the head of every street.
@@ -72,7 +72,7 @@
 18. so I say, My endurance has perished; so has my hope from the Lord.
 19. Remember my affliction and my wanderings, the wormwood and the gall!
 20. My soul continually remembers it and is bowed down within me.
-21. But this I call to mind, and therefore I have hope :
+21. But this I call to mind, and therefore I have hope:
 22. The steadfast love of the Lord never ceases; his mercies never come to an end;
 23. they are new every morning; great is your faithfulness.
 24. The Lord is my portion, says my soul, therefore I will hope in him.
@@ -92,7 +92,7 @@
 38. Is it not from the mouth of the Most High that good and bad come?
 39. Why should a living man complain, a man, about the punishment of his sins?
 40. Let us test and examine our ways, and return to the Lord!
-41. Let us lift up our hearts and hands to God in heaven :
+41. Let us lift up our hearts and hands to God in heaven:
 42. We have transgressed and rebelled, and you have not forgiven.
 43. You have wrapped yourself with anger and pursued us, killing without pity;
 44. you have wrapped yourself with a cloud so that no prayer can pass through.

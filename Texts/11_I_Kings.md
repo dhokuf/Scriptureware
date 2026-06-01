@@ -139,13 +139,13 @@
 ## Chapter 4
 
 1. King Solomon was king over all Israel,
-2. and these were his high officials : Azariah the son of Zadok was the priest;
+2. and these were his high officials: Azariah the son of Zadok was the priest;
 3. Elihoreph and Ahijah the sons of Shisha were secretaries; Jehoshaphat the son of Ahilud was recorder;
 4. Benaiah the son of Jehoiada was in command of the army; Zadok and Abiathar were priests;
 5. Azariah the son of Nathan was over the officers; Zabud the son of Nathan was priest and king’s friend;
 6. Ahishar was in charge of the palace; and Adoniram the son of Abda was in charge of the forced labor.
 7. Solomon had twelve officers over all Israel, who provided food for the king and his household. Each man had to make provision for one month in the year.
-8. These were their names : Ben-hur, in the hill country of Ephraim;
+8. These were their names: Ben-hur, in the hill country of Ephraim;
 9. Ben-deker, in Makaz, Shaalbim, Beth-shemesh, and Elonbeth-hanan;
 10. Ben-hesed, in Arubboth (to him belonged Socoh and all the land of Hepher );
 11. Ben-abinadab, in all Naphath-dor ( he had Taphath the daughter of Solomon as his wife );
@@ -264,7 +264,7 @@
 25. It stood on twelve oxen, three facing north, three facing west, three facing south, and three facing east. The sea was set on them, and all their rear parts were inward.
 26. Its thickness was a handbreadth, and its brim was made like the brim of a cup, like the flower of a lily. It held two thousand baths.
 27. He also made the ten stands of bronze. Each stand was four cubits long, four cubits wide, and three cubits high.
-28. This was the construction of the stands : they had panels, and the panels were set in the frames,
+28. This was the construction of the stands: they had panels, and the panels were set in the frames,
 29. and on the panels that were set in the frames were lions, oxen, and cherubim. On the frames, both above and below the lions and oxen, there were wreaths of beveled work.
 30. Moreover, each stand had four bronze wheels and axles of bronze, and at the four corners were supports for a basin. The supports were cast with wreaths at the side of each.
 31. Its opening was within a crown that projected upward one cubit. Its opening was round, as a pedestal is made, a cubit and a half deep. At its opening there were carvings, and its panels were square, not round.
@@ -276,7 +276,7 @@
 37. After this manner he made the ten stands. All of them were cast alike, of the same measure and the same form.
 38. And he made ten basins of bronze. Each basin held forty baths, each basin measured four cubits, and there was a basin for each of the ten stands.
 39. And he set the stands, five on the south side of the house, and five on the north side of the house. And he set the sea at the southeast corner of the house.
-40. Hiram also made the pots, the shovels, and the basins. So Hiram finished all the work that he did for King Solomon on the house of the Lord :
+40. Hiram also made the pots, the shovels, and the basins. So Hiram finished all the work that he did for King Solomon on the house of the Lord:
 41. the two pillars, the two bowls of the capitals that were on the tops of the pillars, and the two latticeworks to cover the two bowls of the capitals that were on the tops of the pillars;
 42. and the four hundred pomegranates for the two latticeworks, two rows of pomegranates for each latticework, to cover the two bowls of the capitals that were on the pillars;
 43. the ten stands, and the ten basins on the stands;
@@ -284,7 +284,7 @@
 45. Now the pots, the shovels, and the basins, all these vessels in the house of the Lord, which Hiram made for King Solomon, were of burnished bronze.
 46. In the plain of the Jordan the king cast them, in the clay ground between Succoth and Zarethan.
 47. And Solomon left all the vessels unweighed, because there were so many of them; the weight of the bronze was not ascertained.
-48. So Solomon made all the vessels that were in the house of the Lord : the golden altar, the golden table for the bread of the Presence,
+48. So Solomon made all the vessels that were in the house of the Lord: the golden altar, the golden table for the bread of the Presence,
 49. the lampstands of pure gold, five on the south side and five on the north, before the inner sanctuary; the flowers, the lamps, and the tongs, of gold;
 50. the cups, snuffers, basins, dishes for incense, and fire pans, of pure gold; and the sockets of gold, for the doors of the innermost part of the house, the Most Holy Place, and for the doors of the nave of the temple.
 51. Thus all the work that King Solomon did on the house of the Lord was finished. And Solomon brought in the things that David his father had dedicated, the silver, the gold, and the vessels, and stored them in the treasuries of the house of the Lord.
@@ -382,7 +382,7 @@
 20. All the people who were left of the Amorites, the Hittites, the Perizzites, the Hivites, and the Jebusites, who were not of the people of Israel —
 21. their descendants who were left after them in the land, whom the people of Israel were unable to devote to destruction — these Solomon drafted to be slaves, and so they are to this day.
 22. But of the people of Israel Solomon made no slaves. They were the soldiers, they were his officials, his commanders, his captains, his chariot commanders and his horsemen.
-23. These were the chief officers who were over Solomon’s work : 550 who had charge of the people who carried on the work.
+23. These were the chief officers who were over Solomon’s work: 550 who had charge of the people who carried on the work.
 24. But Pharaoh’s daughter went up from the city of David to her own house that Solomon had built for her. Then he built the Millo.
 25. Three times a year Solomon used to offer up burnt offerings and peace offerings on the altar that he built to the Lord, making offerings with it before the Lord. So he finished the house.
 26. King Solomon built a fleet of ships at Ezion-geber, which is near Eloth on the shore of the Red Sea, in the land of Edom.
@@ -423,7 +423,7 @@
 
 ## Chapter 11
 
-1. Now King Solomon loved many foreign women, along with the daughter of Pharaoh : Moabite, Ammonite, Edomite, Sidonian, and Hittite women,
+1. Now King Solomon loved many foreign women, along with the daughter of Pharaoh: Moabite, Ammonite, Edomite, Sidonian, and Hittite women,
 2. from the nations concerning which the Lord had said to the people of Israel, You shall not enter into marriage with them, neither shall they with you, for surely they will turn away your heart after their gods. Solomon clung to these in love.
 3. He had 700 wives, who were princesses, and 300 concubines. And his wives turned away his heart.
 4. For when Solomon was old his wives turned away his heart after other gods, and his heart was not wholly true to the Lord his God, as was the heart of David his father.
@@ -490,7 +490,7 @@
 19. So Israel has been in rebellion against the house of David to this day.
 20. And when all Israel heard that Jeroboam had returned, they sent and called him to the assembly and made him king over all Israel. There was none that followed the house of David but the tribe of Judah only.
 21. When Rehoboam came to Jerusalem, he assembled all the house of Judah and the tribe of Benjamin, 180,000 chosen warriors, to fight against the house of Israel, to restore the kingdom to Rehoboam the son of Solomon.
-22. But the word of God came to Shemaiah the man of God :
+22. But the word of God came to Shemaiah the man of God:
 23. Say to Rehoboam the son of Solomon, king of Judah, and to all the house of Judah and Benjamin, and to the rest of the people,
 24. Thus says the Lord, You shall not go up or fight against your relatives the people of Israel. Every man return to his home, for this thing is from me. So they listened to the word of the Lord and went home again, according to the word of the Lord.
 25. Then Jeroboam built Shechem in the hill country of Ephraim and lived there. And he went out from there and built Penuel.
@@ -506,8 +506,8 @@
 ## Chapter 13
 
 1. And behold, a man of God came out of Judah by the word of the Lord to Bethel. Jeroboam was standing by the altar to make offerings.
-2. And the man cried against the altar by the word of the Lord and said, O altar, altar, thus says the Lord : Behold, a son shall be born to the house of David, Josiah by name, and he shall sacrifice on you the priests of the high places who make offerings on you, and human bones shall be burned on you.
-3. And he gave a sign the same day, saying, This is the sign that the Lord has spoken : Behold, the altar shall be torn down, and the ashes that are on it shall be poured out.
+2. And the man cried against the altar by the word of the Lord and said, O altar, altar, thus says the Lord: Behold, a son shall be born to the house of David, Josiah by name, and he shall sacrifice on you the priests of the high places who make offerings on you, and human bones shall be burned on you.
+3. And he gave a sign the same day, saying, This is the sign that the Lord has spoken: Behold, the altar shall be torn down, and the ashes that are on it shall be poured out.
 4. And when the king heard the saying of the man of God, which he cried against the altar at Bethel, Jeroboam stretched out his hand from the altar, saying, Seize him. And his hand, which he stretched out against him, dried up, so that he could not draw it back to himself.
 5. The altar also was torn down, and the ashes poured out from the altar, according to the sign that the man of God had given by the word of the Lord.
 6. And the king said to the man of God, Entreat now the favor of the Lord your God, and pray for me, that my hand may be restored to me. And the man of God entreated the Lord, and the king’s hand was restored to him and became as it was before.
@@ -548,7 +548,7 @@
 4. Jeroboam’s wife did so. She arose and went to Shiloh and came to the house of Ahijah. Now Ahijah could not see, for his eyes were dim because of his age.
 5. And the Lord said to Ahijah, Behold, the wife of Jeroboam is coming to inquire of you concerning her son, for he is sick. Thus and thus shall you say to her. When she came, she pretended to be another woman.
 6. But when Ahijah heard the sound of her feet, as she came in at the door, he said, Come in, wife of Jeroboam. Why do you pretend to be another? For I am charged with unbearable news for you.
-7. Go, tell Jeroboam, Thus says the Lord, the God of Israel : Because I exalted you from among the people and made you leader over my people Israel
+7. Go, tell Jeroboam, Thus says the Lord, the God of Israel: Because I exalted you from among the people and made you leader over my people Israel
 8. and tore the kingdom away from the house of David and gave it to you, and yet you have not been like my servant David, who kept my commandments and followed me with all his heart, doing only that which was right in my eyes,
 9. but you have done evil above all who were before you and have gone and made for yourself other gods and metal images, provoking me to anger, and have cast me behind your back,
 10. therefore behold, I will bring harm upon the house of Jeroboam and will cut off from Jeroboam every male, both bond and free in Israel, and will burn up the house of Jeroboam, as a man burns up dung until it is all gone.
@@ -751,10 +751,10 @@
 ## Chapter 20
 
 1. Ben-hadad the king of Syria gathered all his army together. Thirty-two kings were with him, and horses and chariots. And he went up and closed in on Samaria and fought against it.
-2. And he sent messengers into the city to Ahab king of Israel and said to him, Thus says Ben-hadad :
+2. And he sent messengers into the city to Ahab king of Israel and said to him, Thus says Ben-hadad:
 3. Your silver and your gold are mine; your best wives and children also are mine.
 4. And the king of Israel answered, As you say, my lord, O king, I am yours, and all that I have.
-5. The messengers came again and said, Thus says Ben-hadad : I sent to you, saying, Deliver to me your silver and your gold, your wives and your children.
+5. The messengers came again and said, Thus says Ben-hadad: I sent to you, saying, Deliver to me your silver and your gold, your wives and your children.
 6. Nevertheless I will send my servants to you tomorrow about this time, and they shall search your house and the houses of your servants and lay hands on whatever pleases you and take it away.
 7. Then the king of Israel called all the elders of the land and said, Mark, now, and see how this man is seeking trouble, for he sent to me for my wives and my children, and for my silver and my gold, and I did not refuse him.
 8. And all the elders and all the people said to him, Do not listen or consent.
@@ -773,7 +773,7 @@
 21. And the king of Israel went out and struck the horses and chariots, and struck the Syrians with a great blow.
 22. Then the prophet came near to the king of Israel and said to him, Come, strengthen yourself, and consider well what you have to do, for in the spring the king of Syria will come up against you.
 23. And the servants of the king of Syria said to him, Their gods are gods of the hills, and so they were stronger than we. But let us fight against them in the plain, and surely we shall be stronger than they.
-24. And do this : remove the kings, each from his post, and put commanders in their places,
+24. And do this: remove the kings, each from his post, and put commanders in their places,
 25. and muster an army like the army that you have lost, horse for horse, and chariot for chariot. Then we will fight against them in the plain, and surely we shall be stronger than they. And he listened to their voice and did so.
 26. In the spring, Ben-hadad mustered the Syrians and went up to Aphek to fight against Israel.
 27. And the people of Israel were mustered and were provisioned and went against them. The people of Israel encamped before them like two little flocks of goats, but the Syrians filled the country.
@@ -814,7 +814,7 @@
 16. And as soon as Ahab heard that Naboth was dead, Ahab arose to go down to the vineyard of Naboth the Jezreelite, to take possession of it.
 17. Then the word of the Lord came to Elijah the Tishbite, saying,
 18. Arise, go down to meet Ahab king of Israel, who is in Samaria; behold, he is in the vineyard of Naboth, where he has gone to take possession.
-19. And you shall say to him, Thus says the Lord, Have you killed and also taken possession? And you shall say to him, Thus says the Lord : In the place where dogs licked up the blood of Naboth shall dogs lick your own blood.
+19. And you shall say to him, Thus says the Lord, Have you killed and also taken possession? And you shall say to him, Thus says the Lord: In the place where dogs licked up the blood of Naboth shall dogs lick your own blood.
 20. Ahab said to Elijah, Have you found me, O my enemy? He answered, I have found you, because you have sold yourself to do what is evil in the sight of the Lord.
 21. Behold, I will bring disaster upon you. I will utterly burn you up, and will cut off from Ahab every male, bond or free, in Israel.
 22. And I will make your house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the anger to which you have provoked me, and because you have made Israel to sin.
@@ -846,7 +846,7 @@
 16. But the king said to him, How many times shall I make you swear that you speak to me nothing but the truth in the name of the Lord?
 17. And he said, I saw all Israel scattered on the mountains, as sheep that have no shepherd. And the Lord said, These have no master; let each return to his home in peace.
 18. And the king of Israel said to Jehoshaphat, Did I not tell you that he would not prophesy good concerning me, but evil?
-19. And Micaiah said, Therefore hear the word of the Lord : I saw the Lord sitting on his throne, and all the host of heaven standing beside him on his right hand and on his left;
+19. And Micaiah said, Therefore hear the word of the Lord: I saw the Lord sitting on his throne, and all the host of heaven standing beside him on his right hand and on his left;
 20. and the Lord said, Who will entice Ahab, that he may go up and fall at Ramoth-gilead? And one said one thing, and another said another.
 21. Then a spirit came forward and stood before the Lord, saying, I will entice him.
 22. And the Lord said to him, By what means? And he said, I will go out, and will be a lying spirit in the mouth of all his prophets. And he said, You are to entice him, and you shall succeed; go out and do so.

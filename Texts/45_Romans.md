@@ -8,7 +8,7 @@
 4. and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord,
 5. through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations,
 6. including you who are called to belong to Jesus Christ,
-7. To all those in Rome who are loved by God and called to be saints : Grace to you and peace from God our Father and the Lord Jesus Christ.
+7. To all those in Rome who are loved by God and called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.
 8. First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in all the world.
 9. For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I mention you
 10. always in my prayers, asking that somehow by God’s will I may now at last succeed in coming to you.
@@ -42,7 +42,7 @@
 3. Do you suppose, O man —you who judge those who practice such things and yet do them yourself — that you will escape the judgment of God?
 4. Or do you presume on the riches of his kindness and forbearance and patience, not knowing that God’s kindness is meant to lead you to repentance?
 5. But because of your hard and impenitent heart you are storing up wrath for yourself on the day of wrath when God’s righteous judgment will be revealed.
-6. He will render to each one according to his works :
+6. He will render to each one according to his works:
 7. to those who by patience in well- doing seek for glory and honor and immortality, he will give eternal life;
 8. but for those who are self-seeking and do not obey the truth, but obey unrighteousness, there will be wrath and fury.
 9. There will be tribulation and distress for every human being who does evil, the Jew first and also the Greek,
@@ -78,7 +78,7 @@
 7. But if through my lie God’s truth abounds to his glory, why am I still being condemned as a sinner?
 8. And why not do evil that good may come ?— as some people slanderously charge us with saying. Their condemnation is just.
 9. What then? Are we Jews any better off? No, not at all. For we have already charged that all, both Jews and Greeks, are under sin,
-10. as it is written : None is righteous, no, not one;
+10. as it is written: None is righteous, no, not one;
 11. no one understands; no one seeks for God.
 12. All have turned aside; together they have become worthless; no one does good, not even one.
 13. Their throat is an open grave; they use their tongues to deceive. The venom of asps is under their lips.
@@ -90,7 +90,7 @@
 19. Now we know that whatever the law says it speaks to those who are under the law, so that every mouth may be stopped, and the whole world may be held accountable to God.
 20. For by works of the law no human being will be justified in his sight, since through the law comes knowledge of sin.
 21. But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it—
-22. the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction :
+22. the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction:
 23. for all have sinned and fall short of the glory of God,
 24. and are justified by his grace as a gift, through the redemption that is in Christ Jesus,
 25. whom God put forward as a propitiation by his blood, to be received by faith. This was to show God’s righteousness, because in his divine forbearance he had passed over former sins.
@@ -108,7 +108,7 @@
 3. For what does the Scripture say? Abraham believed God, and it was counted to him as righteousness.
 4. Now to the one who works, his wages are not counted as a gift but as his due.
 5. And to the one who does not work but believes in him who justifies the ungodly, his faith is counted as righteousness,
-6. just as David also speaks of the blessing of the one to whom God counts righteousness apart from works :
+6. just as David also speaks of the blessing of the one to whom God counts righteousness apart from works:
 7. Blessed are those whose lawless deeds are forgiven, and whose sins are covered;
 8. blessed is the man against whom the Lord will not count his sin.
 9. Is this blessing then only for the circumcised, or also for the uncircumcised? For we say that faith was counted to Abraham as righteousness.
@@ -259,7 +259,7 @@
 6. But it is not as though the word of God has failed. For not all who are descended from Israel belong to Israel,
 7. and not all are children of Abraham because they are his offspring, but Through Isaac shall your offspring be named.
 8. This means that it is not the children of the flesh who are the children of God, but the children of the promise are counted as offspring.
-9. For this is what the promise said : About this time next year I will return, and Sarah shall have a son.
+9. For this is what the promise said: About this time next year I will return, and Sarah shall have a son.
 10. And not only so, but also when Rebekah had conceived children by one man, our forefather Isaac,
 11. though they were not yet born and had done nothing either good or bad —in order that God’s purpose of election might continue, not because of works but because of him who calls —
 12. she was told, The older will serve the younger.
@@ -277,7 +277,7 @@
 24. even us whom he has called, not from the Jews only but also from the Gentiles?
 25. As indeed he says in Hosea, Those who were not my people I will call my people, and her who was not beloved I will call beloved.
 26. And in the very place where it was said to them, You are not my people, there they will be called sons of the living God.
-27. And Isaiah cries out concerning Israel : Though the number of the sons of Israel be as the sand of the sea, only a remnant of them will be saved,
+27. And Isaiah cries out concerning Israel: Though the number of the sons of Israel be as the sand of the sea, only a remnant of them will be saved,
 28. for the Lord will carry out his sentence upon the earth fully and without delay.
 29. And as Isaiah predicted, , If the Lord of hosts had not left us offspring, we would have been like Sodom and become like Gomorrah.
 30. What shall we say, then? That Gentiles who did not pursue righteousness have attained it, that is, a righteousness that is by faith;
@@ -332,10 +332,10 @@
 19. Then you will say, Branches were broken off so that I might be grafted in.
 20. That is true. They were broken off because of their unbelief, but you stand fast through faith. So do not become proud, but fear.
 21. For if God did not spare the natural branches, neither will he spare you.
-22. Note then the kindness and the severity of God : severity toward those who have fallen, but God’s kindness to you, provided you continue in his kindness. Otherwise you too will be cut off.
+22. Note then the kindness and the severity of God: severity toward those who have fallen, but God’s kindness to you, provided you continue in his kindness. Otherwise you too will be cut off.
 23. And even they, if they do not continue in their unbelief, will be grafted in, for God has the power to graft them in again.
 24. For if you were cut from what is by nature a wild olive tree, and grafted, contrary to nature, into a cultivated olive tree, how much more will these, the natural branches, be grafted back into their own olive tree.
-25. Lest you be wise in your own sight, I do not want you to be unaware of this mystery, brothers : a partial hardening has come upon Israel, until the fullness of the Gentiles has come in.
+25. Lest you be wise in your own sight, I do not want you to be unaware of this mystery, brothers: a partial hardening has come upon Israel, until the fullness of the Gentiles has come in.
 26. And in this way all Israel will be saved, as it is written, The Deliverer will come from Zion, he will banish ungodliness from Jacob;
 27. and this will be my covenant with them when I take away their sins.
 28. As regards the gospel, they are enemies for your sake. But as regards election, they are beloved for the sake of their forefathers.
@@ -380,9 +380,9 @@
 4. for he is God’s servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain. For he is the servant of God, an avenger who carries out God’s wrath on the wrongdoer.
 5. Therefore one must be in subjection, not only to avoid God’s wrath but also for the sake of conscience.
 6. For because of this you also pay taxes, for the authorities are ministers of God, attending to this very thing.
-7. Pay to all what is owed to them : taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.
+7. Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.
 8. Owe no one anything, except to love each other, for the one who loves another has fulfilled the law.
-9. For the commandments, You shall not commit adultery, You shall not murder, You shall not steal, You shall not covet, and any other commandment, are summed up in this word : You shall love your neighbor as yourself.
+9. For the commandments, You shall not commit adultery, You shall not murder, You shall not steal, You shall not covet, and any other commandment, are summed up in this word: You shall love your neighbor as yourself.
 10. Love does no wrong to a neighbor; therefore love is the fulfilling of the law.
 11. Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed.
 12. The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light.

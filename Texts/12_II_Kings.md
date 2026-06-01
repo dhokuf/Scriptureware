@@ -145,7 +145,7 @@
 15. Then he returned to the man of God, he and all his company, and he came and stood before him. And he said, Behold, I know that there is no God in all the earth but in Israel; so accept now a present from your servant.
 16. But he said, As the Lord lives, before whom I stand, I will receive none. And he urged him to take it, but he refused.
 17. Then Naaman said, If not, please let there be given to your servant two mule loads of earth, for from now on your servant will not offer burnt offering or sacrifice to any god but the Lord.
-18. In this matter may the Lord pardon your servant : when my master goes into the house of Rimmon to worship there, leaning on my arm, and I bow myself in the house of Rimmon, when I bow myself in the house of Rimmon, the Lord pardon your servant in this matter.
+18. In this matter may the Lord pardon your servant: when my master goes into the house of Rimmon to worship there, leaning on my arm, and I bow myself in the house of Rimmon, when I bow myself in the house of Rimmon, the Lord pardon your servant in this matter.
 19. He said to him, Go in peace. But when Naaman had gone from him a short distance,
 20. Gehazi, the servant of Elisha the man of God, said, See, my master has spared this Naaman the Syrian, in not accepting from his hand what he brought. As the Lord lives, I will run after him and get something from him.
 21. So Gehazi followed Naaman. And when Naaman saw someone running after him, he got down from the chariot to meet him and said, Is all well?
@@ -194,7 +194,7 @@
 
 ## Chapter 7
 
-1. But Elisha said, Hear the word of the Lord : thus says the Lord, Tomorrow about this time a seah of fine flour shall be sold for a shekel, and two seahs of barley for a shekel, at the gate of Samaria.
+1. But Elisha said, Hear the word of the Lord: thus says the Lord, Tomorrow about this time a seah of fine flour shall be sold for a shekel, and two seahs of barley for a shekel, at the gate of Samaria.
 2. Then the captain on whose hand the king leaned said to the man of God, If the Lord himself should make windows in heaven, could this thing be? But he said, You shall see it with your own eyes, but you shall not eat of it.
 3. Now there were four men who were lepers at the entrance to the gate. And they said to one another, Why are we sitting here until we die?
 4. If we say, Let us enter the city, the famine is in the city, and we shall die there. And if we sit here, we die also. So now come, let us go over to the camp of the Syrians. If they spare our lives we shall live, and if they kill us we shall but die.
@@ -284,7 +284,7 @@
 33. He said, Throw her down. So they threw her down. And some of her blood spattered on the wall and on the horses, and they trampled on her.
 34. Then he went in and ate and drank. And he said, See now to this cursed woman and bury her, for she is a king’s daughter.
 35. But when they went to bury her, they found no more of her than the skull and the feet and the palms of her hands.
-36. When they came back and told him, he said, This is the word of the Lord, which he spoke by his servant Elijah the Tishbite : In the territory of Jezreel the dogs shall eat the flesh of Jezebel,
+36. When they came back and told him, he said, This is the word of the Lord, which he spoke by his servant Elijah the Tishbite: In the territory of Jezreel the dogs shall eat the flesh of Jezebel,
 37. and the corpse of Jezebel shall be as dung on the face of the field in the territory of Jezreel, so that no one can say, This is Jezebel.
 
 ## Chapter 10
@@ -320,7 +320,7 @@
 29. But Jehu did not turn aside from the sins of Jeroboam the son of Nebat, which he made Israel to sin —that is, the golden calves that were in Bethel and in Dan.
 30. And the Lord said to Jehu, Because you have done well in carrying out what is right in my eyes, and have done to the house of Ahab according to all that was in my heart, your sons of the fourth generation shall sit on the throne of Israel.
 31. But Jehu was not careful to walk in the law of the Lord, the God of Israel, with all his heart. He did not turn from the sins of Jeroboam, which he made Israel to sin.
-32. In those days the Lord began to cut off parts of Israel. Hazael defeated them throughout the territory of Israel :
+32. In those days the Lord began to cut off parts of Israel. Hazael defeated them throughout the territory of Israel:
 33. from the Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which is by the Valley of the Arnon, that is, Gilead and Bashan.
 34. Now the rest of the acts of Jehu and all that he did, and all his might, are they not written in the Book of the Chronicles of the Kings of Israel?
 35. So Jehu slept with his fathers, and they buried him in Samaria. And Jehoahaz his son reigned in his place.
@@ -332,7 +332,7 @@
 2. But Jehosheba, the daughter of King Joram, sister of Ahaziah, took Joash the son of Ahaziah and stole him away from among the king’s sons who were being put to death, and she put him and his nurse in a bedroom. Thus they hid him from Athaliah, so that he was not put to death.
 3. And he remained with her six years, hidden in the house of the Lord, while Athaliah reigned over the land.
 4. But in the seventh year Jehoiada sent and brought the captains of the Carites and of the guards, and had them come to him in the house of the Lord. And he made a covenant with them and put them under oath in the house of the Lord, and he showed them the king’s son.
-5. And he commanded them, This is the thing that you shall do : one third of you, those who come off duty on the Sabbath and guard the king’s house
+5. And he commanded them, This is the thing that you shall do: one third of you, those who come off duty on the Sabbath and guard the king’s house
 6. ( another third being at the gate Sur and a third at the gate behind the guards ) shall guard the palace.
 7. And the two divisions of you, which come on duty in force on the Sabbath and guard the house of the Lord on behalf of the king,
 8. shall surround the king, each with his weapons in his hand. And whoever approaches the ranks is to be put to death. Be with the king when he goes out and when he comes in.
@@ -562,19 +562,19 @@
 16. At that time Hezekiah stripped the gold from the doors of the temple of the Lord and from the doorposts that Hezekiah king of Judah had overlaid and gave it to the king of Assyria.
 17. And the king of Assyria sent the Tartan, the Rab-saris, and the Rabshakeh with a great army from Lachish to King Hezekiah at Jerusalem. And they went up and came to Jerusalem. When they arrived, they came and stood by the conduit of the upper pool, which is on the highway to the Washer’s Field.
 18. And when they called for the king, there came out to them Eliakim the son of Hilkiah, who was over the household, and Shebnah the secretary, and Joah the son of Asaph, the recorder.
-19. And the Rabshakeh said to them, Say to Hezekiah, Thus says the great king, the king of Assyria : On what do you rest this trust of yours?
+19. And the Rabshakeh said to them, Say to Hezekiah, Thus says the great king, the king of Assyria: On what do you rest this trust of yours?
 20. Do you think that mere words are strategy and power for war? In whom do you now trust, that you have rebelled against me?
 21. Behold, you are trusting now in Egypt, that broken reed of a staff, which will pierce the hand of any man who leans on it. Such is Pharaoh king of Egypt to all who trust in him.
 22. But if you say to me, We trust in the Lord our God, is it not he whose high places and altars Hezekiah has removed, saying to Judah and to Jerusalem, You shall worship before this altar in Jerusalem?
-23. Come now, make a wager with my master the king of Assyria : I will give you two thousand horses, if you are able on your part to set riders on them.
+23. Come now, make a wager with my master the king of Assyria: I will give you two thousand horses, if you are able on your part to set riders on them.
 24. How then can you repulse a single captain among the least of my master’s servants, when you trust in Egypt for chariots and for horsemen?
 25. Moreover, is it without the Lord that I have come up against this place to destroy it? The Lord said to me, Go up against this land, and destroy it.
 26. Then Eliakim the son of Hilkiah, and Shebnah, and Joah, said to the Rabshakeh, Please speak to your servants in Aramaic, for we understand it. Do not speak to us in the language of Judah within the hearing of the people who are on the wall.
 27. But the Rabshakeh said to them, Has my master sent me to speak these words to your master and to you, and not to the men sitting on the wall, who are doomed with you to eat their own dung and to drink their own urine?
-28. Then the Rabshakeh stood and called out in a loud voice in the language of Judah : Hear the word of the great king, the king of Assyria!
-29. Thus says the king : Do not let Hezekiah deceive you, for he will not be able to deliver you out of my hand.
+28. Then the Rabshakeh stood and called out in a loud voice in the language of Judah: Hear the word of the great king, the king of Assyria!
+29. Thus says the king: Do not let Hezekiah deceive you, for he will not be able to deliver you out of my hand.
 30. Do not let Hezekiah make you trust in the Lord by saying, The Lord will surely deliver us, and this city will not be given into the hand of the king of Assyria.
-31. Do not listen to Hezekiah, for thus says the king of Assyria : Make your peace with me and come out to me. Then each one of you will eat of his own vine, and each one of his own fig tree, and each one of you will drink the water of his own cistern,
+31. Do not listen to Hezekiah, for thus says the king of Assyria: Make your peace with me and come out to me. Then each one of you will eat of his own vine, and each one of his own fig tree, and each one of you will drink the water of his own cistern,
 32. until I come and take you away to a land like your own land, a land of grain and wine, a land of bread and vineyards, a land of olive trees and honey, that you may live, and not die. And do not listen to Hezekiah when he misleads you by saying, The Lord will deliver us.
 33. Has any of the gods of the nations ever delivered his land out of the hand of the king of Assyria?
 34. Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim, Hena, and Ivvah? Have they delivered Samaria out of my hand?
@@ -589,21 +589,21 @@
 3. They said to him, Thus says Hezekiah, This day is a day of distress, of rebuke, and of disgrace; children have come to the point of birth, and there is no strength to bring them forth.
 4. It may be that the Lord your God heard all the words of the Rabshakeh, whom his master the king of Assyria has sent to mock the living God, and will rebuke the words that the Lord your God has heard; therefore lift up your prayer for the remnant that is left.
 5. When the servants of King Hezekiah came to Isaiah,
-6. Isaiah said to them, Say to your master, Thus says the Lord : Do not be afraid because of the words that you have heard, with which the servants of the king of Assyria have reviled me.
+6. Isaiah said to them, Say to your master, Thus says the Lord: Do not be afraid because of the words that you have heard, with which the servants of the king of Assyria have reviled me.
 7. Behold, I will put a spirit in him, so that he shall hear a rumor and return to his own land, and I will make him fall by the sword in his own land.
 8. The Rabshakeh returned, and found the king of Assyria fighting against Libnah, for he heard that the king had left Lachish.
 9. Now the king heard concerning Tirhakah king of Cush, Behold, he has set out to fight against you. So he sent messengers again to Hezekiah, saying,
-10. Thus shall you speak to Hezekiah king of Judah : Do not let your God in whom you trust deceive you by promising that Jerusalem will not be given into the hand of the king of Assyria.
+10. Thus shall you speak to Hezekiah king of Judah: Do not let your God in whom you trust deceive you by promising that Jerusalem will not be given into the hand of the king of Assyria.
 11. Behold, you have heard what the kings of Assyria have done to all lands, devoting them to destruction. And shall you be delivered?
 12. Have the gods of the nations delivered them, the nations that my fathers destroyed, Gozan, Haran, Rezeph, and the people of Eden who were in Telassar?
 13. Where is the king of Hamath, the king of Arpad, the king of the city of Sepharvaim, the king of Hena, or the king of Ivvah?
 14. Hezekiah received the letter from the hand of the messengers and read it; and Hezekiah went up to the house of the Lord and spread it before the Lord.
-15. And Hezekiah prayed before the Lord and said : O Lord, the God of Israel, enthroned above the cherubim, you are the God, you alone, of all the kingdoms of the earth; you have made heaven and earth.
+15. And Hezekiah prayed before the Lord and said: O Lord, the God of Israel, enthroned above the cherubim, you are the God, you alone, of all the kingdoms of the earth; you have made heaven and earth.
 16. Incline your ear, O Lord, and hear; open your eyes, O Lord, and see; and hear the words of Sennacherib, which he has sent to mock the living God.
 17. Truly, O Lord, the kings of Assyria have laid waste the nations and their lands
 18. and have cast their gods into the fire, for they were not gods, but the work of men’s hands, wood and stone. Therefore they were destroyed.
 19. So now, O Lord our God, save us, please, from his hand, that all the kingdoms of the earth may know that you, O Lord, are God alone.
-20. Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus says the Lord, the God of Israel : Your prayer to me about Sennacherib king of Assyria I have heard.
+20. Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus says the Lord, the God of Israel: Your prayer to me about Sennacherib king of Assyria I have heard.
 21. This is the word that the Lord has spoken concerning him: She despises you, she scorns you— the virgin daughter of Zion; she wags her head behind you— the daughter of Jerusalem.
 22. Whom have you mocked and reviled? Against whom have you raised your voice and lifted your eyes to the heights? Against the Holy One of Israel!
 23. By your messengers you have mocked the Lord, and you have said, With my many chariots I have gone up the heights of the mountains, to the far recesses of Lebanon; I felled its tallest cedars, its choicest cypresses; I entered its farthest lodging place, its most fruitful forest.
@@ -615,7 +615,7 @@
 29. And this shall be the sign for you: this year eat what grows of itself, and in the second year what springs of the same. Then in the third year sow and reap and plant vineyards, and eat their fruit.
 30. And the surviving remnant of the house of Judah shall again take root downward and bear fruit upward.
 31. For out of Jerusalem shall go a remnant, and out of Mount Zion a band of survivors. The zeal of the Lord will do this.
-32. Therefore thus says the Lord concerning the king of Assyria : He shall not come into this city or shoot an arrow there, or come before it with a shield or cast up a siege mound against it.
+32. Therefore thus says the Lord concerning the king of Assyria: He shall not come into this city or shoot an arrow there, or come before it with a shield or cast up a siege mound against it.
 33. By the way that he came, by the same he shall return, and he shall not come into this city, declares the Lord.
 34. For I will defend this city to save it, for my own sake and for the sake of my servant David.
 35. And that night the angel of the Lord went out and struck down 185,000 in the camp of the Assyrians. And when people arose early in the morning, behold, these were all dead bodies.
@@ -628,18 +628,18 @@
 2. Then Hezekiah turned his face to the wall and prayed to the Lord, saying,
 3. Now, O Lord, please remember how I have walked before you in faithfulness and with a whole heart, and have done what is good in your sight. And Hezekiah wept bitterly.
 4. And before Isaiah had gone out of the middle court, the word of the Lord came to him:
-5. Turn back, and say to Hezekiah the leader of my people, Thus says the Lord, the God of David your father : I have heard your prayer; I have seen your tears. Behold, I will heal you. On the third day you shall go up to the house of the Lord,
+5. Turn back, and say to Hezekiah the leader of my people, Thus says the Lord, the God of David your father: I have heard your prayer; I have seen your tears. Behold, I will heal you. On the third day you shall go up to the house of the Lord,
 6. and I will add fifteen years to your life. I will deliver you and this city out of the hand of the king of Assyria, and I will defend this city for my own sake and for my servant David’s sake.
 7. And Isaiah said, Bring a cake of figs. And let them take and lay it on the boil, that he may recover.
 8. And Hezekiah said to Isaiah, What shall be the sign that the Lord will heal me, and that I shall go up to the house of the Lord on the third day?
-9. And Isaiah said, This shall be the sign to you from the Lord, that the Lord will do the thing that he has promised : shall the shadow go forward ten steps, or go back ten steps?
+9. And Isaiah said, This shall be the sign to you from the Lord, that the Lord will do the thing that he has promised: shall the shadow go forward ten steps, or go back ten steps?
 10. And Hezekiah answered, It is an easy thing for the shadow to lengthen ten steps. Rather let the shadow go back ten steps.
 11. And Isaiah the prophet called to the Lord, and he brought the shadow back ten steps, by which it had gone down on the steps of Ahaz.
 12. At that time Merodach-baladan the son of Baladan, king of Babylon, sent envoys with letters and a present to Hezekiah, for he heard that Hezekiah had been sick.
 13. And Hezekiah welcomed them, and he showed them all his treasure house, the silver, the gold, the spices, the precious oil, his armory, all that was found in his storehouses. There was nothing in his house or in all his realm that Hezekiah did not show them.
 14. Then Isaiah the prophet came to King Hezekiah, and said to him, What did these men say? And from where did they come to you? And Hezekiah said, They have come from a far country, from Babylon.
 15. He said, What have they seen in your house? And Hezekiah answered, They have seen all that is in my house; there is nothing in my storehouses that I did not show them.
-16. Then Isaiah said to Hezekiah, Hear the word of the Lord :
+16. Then Isaiah said to Hezekiah, Hear the word of the Lord:
 17. Behold, the days are coming, when all that is in your house, and that which your fathers have stored up till this day, shall be carried to Babylon. Nothing shall be left, says the Lord.
 18. And some of your own sons, who shall be born to you, shall be taken away, and they shall be eunuchs in the palace of the king of Babylon.
 19. Then Hezekiah said to Isaiah, The word of the Lord that you have spoken is good. For he thought, Why not, if there will be peace and security in my days?
@@ -659,7 +659,7 @@
 9. But they did not listen, and Manasseh led them astray to do more evil than the nations had done whom the Lord destroyed before the people of Israel.
 10. And the Lord said by his servants the prophets,
 11. Because Manasseh king of Judah has committed these abominations and has done things more evil than all that the Amorites did, who were before him, and has made Judah also to sin with his idols,
-12. therefore thus says the Lord, the God of Israel : Behold, I am bringing upon Jerusalem and Judah such disaster that the ears of everyone who hears of it will tingle.
+12. therefore thus says the Lord, the God of Israel: Behold, I am bringing upon Jerusalem and Judah such disaster that the ears of everyone who hears of it will tingle.
 13. And I will stretch over Jerusalem the measuring line of Samaria, and the plumb line of the house of Ahab, and I will wipe Jerusalem as one wipes a dish, wiping it and turning it upside down.
 14. And I will forsake the remnant of my heritage and give them into the hand of their enemies, and they shall become a prey and a spoil to all their enemies,
 15. because they have done what is evil in my sight and have provoked me to anger, since the day their fathers came out of Egypt, even to this day.
@@ -691,10 +691,10 @@
 12. And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Micaiah, and Shaphan the secretary, and Asaiah the king’s servant, saying,
 13. Go, inquire of the Lord for me, and for the people, and for all Judah, concerning the words of this book that has been found. For great is the wrath of the Lord that is kindled against us, because our fathers have not obeyed the words of this book, to do according to all that is written concerning us.
 14. So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asaiah went to Huldah the prophetess, the wife of Shallum the son of Tikvah, son of Harhas, keeper of the wardrobe (now she lived in Jerusalem in the Second Quarter ), and they talked with her.
-15. And she said to them, Thus says the Lord, the God of Israel : Tell the man who sent you to me,
+15. And she said to them, Thus says the Lord, the God of Israel: Tell the man who sent you to me,
 16. Thus says the Lord, Behold, I will bring disaster upon this place and upon its inhabitants, all the words of the book that the king of Judah has read.
 17. Because they have forsaken me and have made offerings to other gods, that they might provoke me to anger with all the work of their hands, therefore my wrath will be kindled against this place, and it will not be quenched.
-18. But to the king of Judah, who sent you to inquire of the Lord, thus shall you say to him, Thus says the Lord, the God of Israel : Regarding the words that you have heard,
+18. But to the king of Judah, who sent you to inquire of the Lord, thus shall you say to him, Thus says the Lord, the God of Israel: Regarding the words that you have heard,
 19. because your heart was penitent, and you humbled yourself before the Lord, when you heard how I spoke against this place and against its inhabitants, that they should become a desolation and a curse, and you have torn your clothes and wept before me, I also have heard you, declares the Lord.
 20. Therefore, behold, I will gather you to your fathers, and you shall be gathered to your grave in peace, and your eyes shall not see all the disaster that I will bring upon this place. And they brought back word to the king.
 

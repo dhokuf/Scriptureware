@@ -3,7 +3,7 @@
 ## Chapter 1
 
 1. Peter, an apostle of Jesus Christ, To those who are elect exiles of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
-2. according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood : May grace and peace be multiplied to you.
+2. according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood: May grace and peace be multiplied to you.
 3. Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,
 4. to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you,
 5. who by God’s power are being guarded through faith for a salvation ready to be revealed in the last time.
@@ -35,7 +35,7 @@
 3. if indeed you have tasted that the Lord is good.
 4. As you come to him, a living stone rejected by men but in the sight of God chosen and precious,
 5. you yourselves like living stones are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.
-6. For it stands in Scripture : Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and whoever believes in him will not be put to shame.
+6. For it stands in Scripture: Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and whoever believes in him will not be put to shame.
 7. So the honor is for you who believe, but for those who do not believe, The stone that the builders rejected has become the cornerstone,
 8. and A stone of stumbling, and a rock of offense. They stumble because they disobey the word, as they were destined to do.
 9. But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.
@@ -92,7 +92,7 @@
 7. The end of all things is at hand; therefore be self-controlled and sober-minded for the sake of your prayers.
 8. Above all, keep loving one another earnestly, since love covers a multitude of sins.
 9. Show hospitality to one another without grumbling.
-10. As each has received a gift, use it to serve one another, as good stewards of God’s varied grace :
+10. As each has received a gift, use it to serve one another, as good stewards of God’s varied grace:
 11. whoever speaks, as one who speaks oracles of God; whoever serves, as one who serves by the strength that God supplies —in order that in everything God may be glorified through Jesus Christ. To him belong glory and dominion forever and ever. Amen.
 12. Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you.
 13. But rejoice insofar as you share Christ’s sufferings, that you may also rejoice and be glad when his glory is revealed.
@@ -105,7 +105,7 @@
 
 ## Chapter 5
 
-1. So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, as well as a partaker in the glory that is going to be revealed :
+1. So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, as well as a partaker in the glory that is going to be revealed:
 2. shepherd the flock of God that is among you, exercising oversight, not under compulsion, but willingly, as God would have you; not for shameful gain, but eagerly;
 3. not domineering over those in your charge, but being examples to the flock.
 4. And when the chief Shepherd appears, you will receive the unfading crown of glory.

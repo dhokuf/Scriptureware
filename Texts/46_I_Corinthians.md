@@ -3,7 +3,7 @@
 ## Chapter 1
 
 1. Paul, called by the will of God to be an apostle of Christ Jesus, and our brother Sosthenes,
-2. To the church of God that is in Corinth, to those sanctified in Christ Jesus, called to be saints together with all those who in every place call upon the name of our Lord Jesus Christ, both their Lord and ours :
+2. To the church of God that is in Corinth, to those sanctified in Christ Jesus, called to be saints together with all those who in every place call upon the name of our Lord Jesus Christ, both their Lord and ours:
 3. Grace to you and peace from God our Father and the Lord Jesus Christ.
 4. I give thanks to my God always for you because of the grace of God that was given you in Christ Jesus,
 5. that in every way you were enriched in him in all speech and all knowledge —
@@ -27,7 +27,7 @@
 23. but we preach Christ crucified, a stumbling block to Jews and folly to Gentiles,
 24. but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God.
 25. For the foolishness of God is wiser than men, and the weakness of God is stronger than men.
-26. For consider your calling, brothers : not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth.
+26. For consider your calling, brothers: not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth.
 27. But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong;
 28. God chose what is low and despised in the world, even things that are not, to bring to nothing things that are,
 29. so that no human being might boast in the presence of God.
@@ -129,7 +129,7 @@
 6. but brother goes to law against brother, and that before unbelievers?
 7. To have lawsuits at all with one another is already a defeat for you. Why not rather suffer wrong? Why not rather be defrauded?
 8. But you yourselves wrong and defraud — even your own brothers!
-9. Or do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived : neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality,
+9. Or do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality,
 10. nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers will inherit the kingdom of God.
 11. And such were some of you. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God.
 12. All things are lawful for me, but not all things are helpful. All things are lawful for me, but I will not be dominated by anything.
@@ -144,7 +144,7 @@
 
 ## Chapter 7
 
-1. Now concerning the matters about which you wrote : It is good for a man not to have sexual relations with a woman.
+1. Now concerning the matters about which you wrote: It is good for a man not to have sexual relations with a woman.
 2. But because of the temptation to sexual immorality, each man should have his own wife and each woman her own husband.
 3. The husband should give to his wife her conjugal rights, and likewise the wife to her husband.
 4. For the wife does not have authority over her own body, but the husband does. Likewise the husband does not have authority over his own body, but the wife does.
@@ -172,14 +172,14 @@
 26. I think that in view of the present distress it is good for a person to remain as he is.
 27. Are you bound to a wife? Do not seek to be free. Are you free from a wife? Do not seek a wife.
 28. But if you do marry, you have not sinned, and if a betrothed woman marries, she has not sinned. Yet those who marry will have worldly troubles, and I would spare you that.
-29. This is what I mean, brothers : the appointed time has grown very short. From now on, let those who have wives live as though they had none,
+29. This is what I mean, brothers: the appointed time has grown very short. From now on, let those who have wives live as though they had none,
 30. and those who mourn as though they were not mourning, and those who rejoice as though they were not rejoicing, and those who buy as though they had no goods,
 31. and those who deal with the world as though they had no dealings with it. For the present form of this world is passing away.
 32. I want you to be free from anxieties. The unmarried man is anxious about the things of the Lord, how to please the Lord.
 33. But the married man is anxious about worldly things, how to please his wife,
 34. and his interests are divided. And the unmarried or betrothed woman is anxious about the things of the Lord, how to be holy in body and spirit. But the married woman is anxious about worldly things, how to please her husband.
 35. I say this for your own benefit, not to lay any restraint upon you, but to promote good order and to secure your undivided devotion to the Lord.
-36. If anyone thinks that he is not behaving properly toward his betrothed, if his passions are strong, and it has to be, let him do as he wishes : let them marry —it is no sin.
+36. If anyone thinks that he is not behaving properly toward his betrothed, if his passions are strong, and it has to be, let him do as he wishes: let them marry —it is no sin.
 37. But whoever is firmly established in his heart, being under no necessity but having his desire under control, and has determined this in his heart, to keep her as his betrothed, he will do well.
 38. So then he who marries his betrothed does well, and he who refrains from marriage will do even better.
 39. A wife is bound to her husband as long as he lives. But if her husband dies, she is free to be married to whom she wishes, only in the Lord.
@@ -187,7 +187,7 @@
 
 ## Chapter 8
 
-1. Now concerning food offered to idols : we know that all of us possess knowledge. This knowledge puffs up, but love builds up.
+1. Now concerning food offered to idols: we know that all of us possess knowledge. This knowledge puffs up, but love builds up.
 2. If anyone imagines that he knows something, he does not yet know as he ought to know.
 3. But if anyone loves God, he is known by God.
 4. Therefore, as to the eating of food offered to idols, we know that an idol has no real existence, and that there is no God but one.
@@ -250,7 +250,7 @@
 15. I speak as to sensible people; judge for yourselves what I say.
 16. The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?
 17. Because there is one bread, we who are many are one body, for we all partake of the one bread.
-18. Consider the people of Israel : are not those who eat the sacrifices participants in the altar?
+18. Consider the people of Israel: are not those who eat the sacrifices participants in the altar?
 19. What do I imply then? That food offered to idols is anything, or that an idol is anything?
 20. No, I imply that what pagans sacrifice they offer to demons and not to God. I do not want you to be participants with demons.
 21. You cannot drink the cup of the Lord and the cup of demons. You cannot partake of the table of the Lord and the table of demons.
@@ -281,7 +281,7 @@
 10. That is why a wife ought to have a symbol of authority on her head, because of the angels.
 11. Nevertheless, in the Lord woman is not independent of man nor man of woman;
 12. for as woman was made from man, so man is now born of woman. And all things are from God.
-13. Judge for yourselves : is it proper for a wife to pray to God with her head uncovered?
+13. Judge for yourselves: is it proper for a wife to pray to God with her head uncovered?
 14. Does not nature itself teach you that if a man wears long hair it is a disgrace for him,
 15. but if a woman has long hair, it is her glory? For her hair is given to her for a covering.
 16. If anyone is inclined to be contentious, we have no such practice, nor do the churches of God.
@@ -401,7 +401,7 @@
 
 1. Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand,
 2. and by which you are being saved, if you hold fast to the word I preached to you — unless you believed in vain.
-3. For I delivered to you as of first importance what I also received : that Christ died for our sins in accordance with the Scriptures,
+3. For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures,
 4. that he was buried, that he was raised on the third day in accordance with the Scriptures,
 5. and that he appeared to Cephas, then to the twelve.
 6. Then he appeared to more than five hundred brothers at one time, most of whom are still alive, though some have fallen asleep.
@@ -421,7 +421,7 @@
 20. But in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep.
 21. For as by a man came death, by a man has come also the resurrection of the dead.
 22. For as in Adam all die, so also in Christ shall all be made alive.
-23. But each in his own order : Christ the firstfruits, then at his coming those who belong to Christ.
+23. But each in his own order: Christ the firstfruits, then at his coming those who belong to Christ.
 24. Then comes the end, when he delivers the kingdom to God the Father after destroying every rule and every authority and power.
 25. For he must reign until he has put all his enemies under his feet.
 26. The last enemy to be destroyed is death.
@@ -431,7 +431,7 @@
 30. Why are we in danger every hour?
 31. I protest, brothers, by my pride in you, which I have in Christ Jesus our Lord, I die every day!
 32. What do I gain if, humanly speaking, I fought with beasts at Ephesus? If the dead are not raised, Let us eat and drink, for tomorrow we die.
-33. Do not be deceived : Bad company ruins good morals.
+33. Do not be deceived: Bad company ruins good morals.
 34. Wake up from your drunken stupor, as is right, and do not go on sinning. For some have no knowledge of God. I say this to your shame.
 35. But someone will ask, How are the dead raised? With what kind of body do they come?
 36. You foolish person! What you sow does not come to life unless it dies.
@@ -448,11 +448,11 @@
 47. The first man was from the earth, a man of dust; the second man is from heaven.
 48. As was the man of dust, so also are those who are of the dust, and as is the man of heaven, so also are those who are of heaven.
 49. Just as we have borne the image of the man of dust, we shall also bear the image of the man of heaven.
-50. I tell you this, brothers : flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.
+50. I tell you this, brothers: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.
 51. Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed,
 52. in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed.
 53. For this perishable body must put on the imperishable, and this mortal body must put on immortality.
-54. When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written : Death is swallowed up in victory.
+54. When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: Death is swallowed up in victory.
 55. O death, where is your victory? O death, where is your sting?
 56. The sting of death is sin, and the power of sin is the law.
 57. But thanks be to God, who gives us the victory through our Lord Jesus Christ.
@@ -460,7 +460,7 @@
 
 ## Chapter 16
 
-1. Now concerning the collection for the saints : as I directed the churches of Galatia, so you also are to do.
+1. Now concerning the collection for the saints: as I directed the churches of Galatia, so you also are to do.
 2. On the first day of every week, each of you is to put something aside and store it up, as he may prosper, so that there will be no collecting when I come.
 3. And when I arrive, I will send those whom you accredit by letter to carry your gift to Jerusalem.
 4. If it seems advisable that I should go also, they will accompany me.

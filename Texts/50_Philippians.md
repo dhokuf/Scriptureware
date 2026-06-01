@@ -2,7 +2,7 @@
 
 ## Chapter 1
 
-1. Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus who are at Philippi, with the overseers and deacons :
+1. Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus who are at Philippi, with the overseers and deacons:
 2. Grace to you and peace from God our Father and the Lord Jesus Christ.
 3. I thank my God in all my remembrance of you,
 4. always in every prayer of mine for you all making my prayer with joy,
@@ -71,7 +71,7 @@
 1. Finally, my brothers, rejoice in the Lord. To write the same things to you is no trouble to me and is safe for you.
 2. Look out for the dogs, look out for the evildoers, look out for those who mutilate the flesh.
 3. For we are the circumcision, who worship by the Spirit of God and glory in Christ Jesus and put no confidence in the flesh —
-4. though I myself have reason for confidence in the flesh also. If anyone else thinks he has reason for confidence in the flesh, I have more :
+4. though I myself have reason for confidence in the flesh also. If anyone else thinks he has reason for confidence in the flesh, I have more:
 5. circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee;
 6. as to zeal, a persecutor of the church; as to righteousness under the law, blameless.
 7. But whatever gain I had, I counted as loss for the sake of Christ.

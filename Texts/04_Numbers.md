@@ -21,29 +21,29 @@
 17. Moses and Aaron took these men who had been named,
 18. and on the first day of the second month, they assembled the whole congregation together, who registered themselves by clans, by fathers ’ houses, according to the number of names from twenty years old and upward, head by head,
 19. as the Lord commanded Moses. So he listed them in the wilderness of Sinai.
-20. The people of Reuben, Israel’s firstborn, their generations, by their clans, by their fathers ’ houses, according to the number of names, head by head, every male from twenty years old and upward, all who were able to go to war :
+20. The people of Reuben, Israel’s firstborn, their generations, by their clans, by their fathers ’ houses, according to the number of names, head by head, every male from twenty years old and upward, all who were able to go to war:
 21. those listed of the tribe of Reuben were 46,500.
-22. Of the people of Simeon, their generations, by their clans, by their fathers ’ houses, those of them who were listed, according to the number of names, head by head, every male from twenty years old and upward, all who were able to go to war :
+22. Of the people of Simeon, their generations, by their clans, by their fathers ’ houses, those of them who were listed, according to the number of names, head by head, every male from twenty years old and upward, all who were able to go to war:
 23. those listed of the tribe of Simeon were 59,300.
-24. Of the people of Gad, their generations, by their clans, by their fathers ’ houses, according to the number of the names, from twenty years old and upward, all who were able to go to war :
+24. Of the people of Gad, their generations, by their clans, by their fathers ’ houses, according to the number of the names, from twenty years old and upward, all who were able to go to war:
 25. those listed of the tribe of Gad were 45,650.
-26. Of the people of Judah, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war :
+26. Of the people of Judah, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
 27. those listed of the tribe of Judah were 74,600.
-28. Of the people of Issachar, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war :
+28. Of the people of Issachar, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
 29. those listed of the tribe of Issachar were 54,400.
-30. Of the people of Zebulun, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war :
+30. Of the people of Zebulun, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
 31. those listed of the tribe of Zebulun were 57,400.
-32. Of the people of Joseph, namely, of the people of Ephraim, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war :
+32. Of the people of Joseph, namely, of the people of Ephraim, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
 33. those listed of the tribe of Ephraim were 40,500.
-34. Of the people of Manasseh, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war :
+34. Of the people of Manasseh, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
 35. those listed of the tribe of Manasseh were 32,200.
-36. Of the people of Benjamin, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war :
+36. Of the people of Benjamin, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
 37. those listed of the tribe of Benjamin were 35,400.
-38. Of the people of Dan, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war :
+38. Of the people of Dan, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
 39. those listed of the tribe of Dan were 62,700.
-40. Of the people of Asher, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war :
+40. Of the people of Asher, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
 41. those listed of the tribe of Asher were 41,500.
-42. Of the people of Naphtali, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war :
+42. Of the people of Naphtali, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
 43. those listed of the tribe of Naphtali were 53,400.
 44. These are those who were listed, whom Moses and Aaron listed with the help of the chiefs of Israel, twelve men, each representing his fathers ’ house.
 45. So all those listed of the people of Israel, by their fathers ’ houses, from twenty years old and upward, every man able to go to war in Israel —
@@ -97,7 +97,7 @@
 ## Chapter 3
 
 1. These are the generations of Aaron and Moses at the time when the Lord spoke with Moses on Mount Sinai.
-2. These are the names of the sons of Aaron : Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
+2. These are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
 3. These are the names of the sons of Aaron, the anointed priests, whom he ordained to serve as priests.
 4. But Nadab and Abihu died before the Lord when they offered unauthorized fire before the Lord in the wilderness of Sinai, and they had no children. So Eleazar and Ithamar served as priests in the lifetime of Aaron their father.
 5. And the Lord spoke to Moses, saying,
@@ -112,10 +112,10 @@
 14. And the Lord spoke to Moses in the wilderness of Sinai, saying,
 15. List the sons of Levi, by fathers ’ houses and by clans; every male from a month old and upward you shall list.
 16. So Moses listed them according to the word of the Lord, as he was commanded.
-17. And these were the sons of Levi by their names : Gershon and Kohath and Merari.
-18. And these are the names of the sons of Gershon by their clans : Libni and Shimei.
-19. And the sons of Kohath by their clans : Amram, Izhar, Hebron, and Uzziel.
-20. And the sons of Merari by their clans : Mahli and Mushi. These are the clans of the Levites, by their fathers ’ houses.
+17. And these were the sons of Levi by their names: Gershon and Kohath and Merari.
+18. And these are the names of the sons of Gershon by their clans: Libni and Shimei.
+19. And the sons of Kohath by their clans: Amram, Izhar, Hebron, and Uzziel.
+20. And the sons of Merari by their clans: Mahli and Mushi. These are the clans of the Levites, by their fathers ’ houses.
 21. To Gershon belonged the clan of the Libnites and the clan of the Shimeites; these were the clans of the Gershonites.
 22. Their listing according to the number of all the males from a month old and upward was 7,500.
 23. The clans of the Gershonites were to camp behind the tabernacle on the west,
@@ -128,7 +128,7 @@
 30. with Elizaphan the son of Uzziel as chief of the fathers ’ house of the clans of the Kohathites.
 31. And their guard duty involved the ark, the table, the lampstand, the altars, the vessels of the sanctuary with which the priests minister, and the screen; all the service connected with these.
 32. And Eleazar the son of Aaron the priest was to be chief over the chiefs of the Levites, and to have oversight of those who kept guard over the sanctuary.
-33. To Merari belonged the clan of the Mahlites and the clan of the Mushites : these are the clans of Merari.
+33. To Merari belonged the clan of the Mahlites and the clan of the Mushites: these are the clans of Merari.
 34. Their listing according to the number of all the males from a month old and upward was 6,200.
 35. And the chief of the fathers ’ house of the clans of Merari was Zuriel the son of Abihail. They were to camp on the north side of the tabernacle.
 36. And the appointed guard duty of the sons of Merari involved the frames of the tabernacle, the bars, the pillars, the bases, and all their accessories; all the service connected with these;
@@ -153,7 +153,7 @@
 1. The Lord spoke to Moses and Aaron, saying,
 2. Take a census of the sons of Kohath from among the sons of Levi, by their clans and their fathers ’ houses,
 3. from thirty years old up to fifty years old, all who can come on duty, to do the work in the tent of meeting.
-4. This is the service of the sons of Kohath in the tent of meeting : the most holy things.
+4. This is the service of the sons of Kohath in the tent of meeting: the most holy things.
 5. When the camp is to set out, Aaron and his sons shall go in and take down the veil of the screen and cover the ark of the testimony with it.
 6. Then they shall put on it a covering of goatskin and spread on top of that a cloth all of blue, and shall put in its poles.
 7. And over the table of the bread of the Presence they shall spread a cloth of blue and put on it the plates, the dishes for incense, the bowls, and the flagons for the drink offering; the regular showbread also shall be on it.
@@ -168,19 +168,19 @@
 16. And Eleazar the son of Aaron the priest shall have charge of the oil for the light, the fragrant incense, the regular grain offering, and the anointing oil, with the oversight of the whole tabernacle and all that is in it, of the sanctuary and its vessels.
 17. The Lord spoke to Moses and Aaron, saying,
 18. Let not the tribe of the clans of the Kohathites be destroyed from among the Levites,
-19. but deal thus with them, that they may live and not die when they come near to the most holy things : Aaron and his sons shall go in and appoint them each to his task and to his burden,
+19. but deal thus with them, that they may live and not die when they come near to the most holy things: Aaron and his sons shall go in and appoint them each to his task and to his burden,
 20. but they shall not go in to look on the holy things even for a moment, lest they die.
 21. The Lord spoke to Moses, saying,
 22. Take a census of the sons of Gershon also, by their fathers ’ houses and by their clans.
 23. From thirty years old up to fifty years old, you shall list them, all who can come to do duty, to do service in the tent of meeting.
-24. This is the service of the clans of the Gershonites, in serving and bearing burdens :
+24. This is the service of the clans of the Gershonites, in serving and bearing burdens:
 25. they shall carry the curtains of the tabernacle and the tent of meeting with its covering and the covering of goatskin that is on top of it and the screen for the entrance of the tent of meeting
 26. and the hangings of the court and the screen for the entrance of the gate of the court that is around the tabernacle and the altar, and their cords and all the equipment for their service. And they shall do all that needs to be done with regard to them.
 27. All the service of the sons of the Gershonites shall be at the command of Aaron and his sons, in all that they are to carry and in all that they have to do. And you shall assign to their charge all that they are to carry.
 28. This is the service of the clans of the sons of the Gershonites in the tent of meeting, and their guard duty is to be under the direction of Ithamar the son of Aaron the priest.
 29. As for the sons of Merari, you shall list them by their clans and their fathers ’ houses.
 30. From thirty years old up to fifty years old, you shall list them, everyone who can come on duty, to do the service of the tent of meeting.
-31. And this is what they are charged to carry, as the whole of their service in the tent of meeting : the frames of the tabernacle, with its bars, pillars, and bases,
+31. And this is what they are charged to carry, as the whole of their service in the tent of meeting: the frames of the tabernacle, with its bars, pillars, and bases,
 32. and the pillars around the court with their bases, pegs, and cords, with all their equipment and all their accessories. And you shall list by name the objects that they are required to carry.
 33. This is the service of the clans of the sons of Merari, the whole of their service in the tent of meeting, under the direction of Ithamar the son of Aaron the priest.
 34. And Moses and Aaron and the chiefs of the congregation listed the sons of the Kohathites, by their clans and their fathers ’ houses,
@@ -211,7 +211,7 @@
 7. he shall confess his sin that he has committed. And he shall make full restitution for his wrong, adding a fifth to it and giving it to him to whom he did the wrong.
 8. But if the man has no next of kin to whom restitution may be made for the wrong, the restitution for wrong shall go to the Lord for the priest, in addition to the ram of atonement with which atonement is made for him.
 9. And every contribution, all the holy donations of the people of Israel, which they bring to the priest, shall be his.
-10. Each one shall keep his holy donations : whatever anyone gives to the priest shall be his.
+10. Each one shall keep his holy donations: whatever anyone gives to the priest shall be his.
 11. And the Lord spoke to Moses, saying,
 12. Speak to the people of Israel, If any man’s wife goes astray and breaks faith with him,
 13. if a man lies with her sexually, and it is hidden from the eyes of her husband, and she is undetected though she has defiled herself, and there is no witness against her, since she was not taken in the act,
@@ -248,7 +248,7 @@
 10. On the eighth day he shall bring two turtledoves or two pigeons to the priest to the entrance of the tent of meeting,
 11. and the priest shall offer one for a sin offering and the other for a burnt offering, and make atonement for him, because he sinned by reason of the dead body. And he shall consecrate his head that same day
 12. and separate himself to the Lord for the days of his separation and bring a male lamb a year old for a guilt offering. But the previous period shall be void, because his separation was defiled.
-13. And this is the law for the Nazirite, when the time of his separation has been completed : he shall be brought to the entrance of the tent of meeting,
+13. And this is the law for the Nazirite, when the time of his separation has been completed: he shall be brought to the entrance of the tent of meeting,
 14. and he shall bring his gift to the Lord, one male lamb a year old without blemish for a burnt offering, and one ewe lamb a year old without blemish as a sin offering, and one ram without blemish as a peace offering,
 15. and a basket of unleavened bread, loaves of fine flour mixed with oil, and unleavened wafers smeared with oil, and their grain offering and their drink offerings.
 16. And the priest shall bring them before the Lord and offer his sin offering and his burnt offering,
@@ -258,7 +258,7 @@
 20. and the priest shall wave them for a wave offering before the Lord. They are a holy portion for the priest, together with the breast that is waved and the thigh that is contributed. And after that the Nazirite may drink wine.
 21. This is the law of the Nazirite. But if he vows an offering to the Lord above his Nazirite vow, as he can afford, in exact accordance with the vow that he takes, then he shall do in addition to the law of the Nazirite.
 22. The Lord spoke to Moses, saying,
-23. Speak to Aaron and his sons, saying, Thus you shall bless the people of Israel : you shall say to them,
+23. Speak to Aaron and his sons, saying, Thus you shall bless the people of Israel: you shall say to them,
 24. The Lord bless you and keep you;
 25. the Lord make his face to shine upon you and be gracious to you;
 26. the Lord lift up his countenance upon you and give you peace.
@@ -289,67 +289,67 @@
 21. one bull from the herd, one ram, one male lamb a year old, for a burnt offering;
 22. one male goat for a sin offering;
 23. and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nethanel the son of Zuar.
-24. On the third day Eliab the son of Helon, the chief of the people of Zebulun :
+24. On the third day Eliab the son of Helon, the chief of the people of Zebulun:
 25. his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;
 26. one golden dish of 10 shekels, full of incense;
 27. one bull from the herd, one ram, one male lamb a year old, for a burnt offering;
 28. one male goat for a sin offering;
 29. and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliab the son of Helon.
-30. On the fourth day Elizur the son of Shedeur, the chief of the people of Reuben :
+30. On the fourth day Elizur the son of Shedeur, the chief of the people of Reuben:
 31. his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;
 32. one golden dish of 10 shekels, full of incense;
 33. one bull from the herd, one ram, one male lamb a year old, for a burnt offering;
 34. one male goat for a sin offering;
 35. and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elizur the son of Shedeur.
-36. On the fifth day Shelumiel the son of Zurishaddai, the chief of the people of Simeon :
+36. On the fifth day Shelumiel the son of Zurishaddai, the chief of the people of Simeon:
 37. his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;
 38. one golden dish of 10 shekels, full of incense;
 39. one bull from the herd, one ram, one male lamb a year old, for a burnt offering;
 40. one male goat for a sin offering;
 41. and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Shelumiel the son of Zurishaddai.
-42. On the sixth day Eliasaph the son of Deuel, the chief of the people of Gad :
+42. On the sixth day Eliasaph the son of Deuel, the chief of the people of Gad:
 43. his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;
 44. one golden dish of 10 shekels, full of incense;
 45. one bull from the herd, one ram, one male lamb a year old, for a burnt offering;
 46. one male goat for a sin offering;
 47. and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliasaph the son of Deuel.
-48. On the seventh day Elishama the son of Ammihud, the chief of the people of Ephraim :
+48. On the seventh day Elishama the son of Ammihud, the chief of the people of Ephraim:
 49. his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;
 50. one golden dish of 10 shekels, full of incense;
 51. one bull from the herd, one ram, one male lamb a year old, for a burnt offering;
 52. one male goat for a sin offering;
 53. and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elishama the son of Ammihud.
-54. On the eighth day Gamaliel the son of Pedahzur, the chief of the people of Manasseh :
+54. On the eighth day Gamaliel the son of Pedahzur, the chief of the people of Manasseh:
 55. his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;
 56. one golden dish of 10 shekels, full of incense;
 57. one bull from the herd, one ram, one male lamb a year old, for a burnt offering;
 58. one male goat for a sin offering;
 59. and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Gamaliel the son of Pedahzur.
-60. On the ninth day Abidan the son of Gideoni, the chief of the people of Benjamin :
+60. On the ninth day Abidan the son of Gideoni, the chief of the people of Benjamin:
 61. his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;
 62. one golden dish of 10 shekels, full of incense;
 63. one bull from the herd, one ram, one male lamb a year old, for a burnt offering;
 64. one male goat for a sin offering;
 65. and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Abidan the son of Gideoni.
-66. On the tenth day Ahiezer the son of Ammishaddai, the chief of the people of Dan :
+66. On the tenth day Ahiezer the son of Ammishaddai, the chief of the people of Dan:
 67. his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;
 68. one golden dish of 10 shekels, full of incense;
 69. one bull from the herd, one ram, one male lamb a year old, for a burnt offering;
 70. one male goat for a sin offering;
 71. and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahiezer the son of Ammishaddai.
-72. On the eleventh day Pagiel the son of Ochran, the chief of the people of Asher :
+72. On the eleventh day Pagiel the son of Ochran, the chief of the people of Asher:
 73. his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;
 74. one golden dish of 10 shekels, full of incense;
 75. one bull from the herd, one ram, one male lamb a year old, for a burnt offering;
 76. one male goat for a sin offering;
 77. and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Pagiel the son of Ochran.
-78. On the twelfth day Ahira the son of Enan, the chief of the people of Naphtali :
+78. On the twelfth day Ahira the son of Enan, the chief of the people of Naphtali:
 79. his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering;
 80. one golden dish of 10 shekels, full of incense;
 81. one bull from the herd, one ram, one male lamb a year old, for a burnt offering;
 82. one male goat for a sin offering;
 83. and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahira the son of Enan.
-84. This was the dedication offering for the altar on the day when it was anointed, from the chiefs of Israel : twelve silver plates, twelve silver basins, twelve golden dishes,
+84. This was the dedication offering for the altar on the day when it was anointed, from the chiefs of Israel: twelve silver plates, twelve silver basins, twelve golden dishes,
 85. each silver plate weighing 130 shekels and each basin 70, all the silver of the vessels 2,400 shekels according to the shekel of the sanctuary,
 86. the twelve golden dishes, full of incense, weighing 10 shekels apiece according to the shekel of the sanctuary, all the gold of the dishes being 120 shekels;
 87. all the cattle for the burnt offering twelve bulls, twelve rams, twelve male lambs a year old, with their grain offering; and twelve male goats for a sin offering;
@@ -360,11 +360,11 @@
 
 1. Now the Lord spoke to Moses, saying,
 2. Speak to Aaron and say to him, When you set up the lamps, the seven lamps shall give light in front of the lampstand.
-3. And Aaron did so : he set up its lamps in front of the lampstand, as the Lord commanded Moses.
+3. And Aaron did so: he set up its lamps in front of the lampstand, as the Lord commanded Moses.
 4. And this was the workmanship of the lampstand, hammered work of gold. From its base to its flowers, it was hammered work; according to the pattern that the Lord had shown Moses, so he made the lampstand.
 5. And the Lord spoke to Moses, saying,
 6. Take the Levites from among the people of Israel and cleanse them.
-7. Thus you shall do to them to cleanse them : sprinkle the water of purification upon them, and let them go with a razor over all their body, and wash their clothes and cleanse themselves.
+7. Thus you shall do to them to cleanse them: sprinkle the water of purification upon them, and let them go with a razor over all their body, and wash their clothes and cleanse themselves.
 8. Then let them take a bull from the herd and its grain offering of fine flour mixed with oil, and you shall take another bull from the herd for a sin offering.
 9. And you shall bring the Levites before the tent of meeting and assemble the whole congregation of the people of Israel.
 10. When you bring the Levites before the Lord, the people of Israel shall lay their hands on the Levites,
@@ -381,7 +381,7 @@
 21. And the Levites purified themselves from sin and washed their clothes, and Aaron offered them as a wave offering before the Lord, and Aaron made atonement for them to cleanse them.
 22. And after that the Levites went in to do their service in the tent of meeting before Aaron and his sons; as the Lord had commanded Moses concerning the Levites, so they did to them.
 23. And the Lord spoke to Moses, saying,
-24. This applies to the Levites : from twenty-five years old and upward they shall come to do duty in the service of the tent of meeting.
+24. This applies to the Levites: from twenty-five years old and upward they shall come to do duty in the service of the tent of meeting.
 25. And from the age of fifty years they shall withdraw from the duty of the service and serve no more.
 26. They minister to their brothers in the tent of meeting by keeping guard, but they shall do no service. Thus shall you do to the Levites in assigning their duties.
 
@@ -402,7 +402,7 @@
 13. But if anyone who is clean and is not on a journey fails to keep the Passover, that person shall be cut off from his people because he did not bring the Lord ’s offering at its appointed time; that man shall bear his sin.
 14. And if a stranger sojourns among you and would keep the Passover to the Lord, according to the statute of the Passover and according to its rule, so shall he do. You shall have one statute, both for the sojourner and for the native.
 15. On the day that the tabernacle was set up, the cloud covered the tabernacle, the tent of the testimony. And at evening it was over the tabernacle like the appearance of fire until morning.
-16. So it was always : the cloud covered it by day and the appearance of fire by night.
+16. So it was always: the cloud covered it by day and the appearance of fire by night.
 17. And whenever the cloud lifted from over the tent, after that the people of Israel set out, and in the place where the cloud settled down, there the people of Israel camped.
 18. At the command of the Lord the people of Israel set out, and at the command of the Lord they camped. As long as the cloud rested over the tabernacle, they remained in camp.
 19. Even when the cloud continued over the tabernacle many days, the people of Israel kept the charge of the Lord and did not set out.
@@ -422,7 +422,7 @@
 7. But when the assembly is to be gathered together, you shall blow a long blast, but you shall not sound an alarm.
 8. And the sons of Aaron, the priests, shall blow the trumpets. The trumpets shall be to you for a perpetual statute throughout your generations.
 9. And when you go to war in your land against the adversary who oppresses you, then you shall sound an alarm with the trumpets, that you may be remembered before the Lord your God, and you shall be saved from your enemies.
-10. On the day of your gladness also, and at your appointed feasts and at the beginnings of your months, you shall blow the trumpets over your burnt offerings and over the sacrifices of your peace offerings. They shall be a reminder of you before your God : I am the Lord your God.
+10. On the day of your gladness also, and at your appointed feasts and at the beginnings of your months, you shall blow the trumpets over your burnt offerings and over the sacrifices of your peace offerings. They shall be a reminder of you before your God: I am the Lord your God.
 11. In the second year, in the second month, on the twentieth day of the month, the cloud lifted from over the tabernacle of the testimony,
 12. and the people of Israel set out by stages from the wilderness of Sinai. And the cloud settled down in the wilderness of Paran.
 13. They set out for the first time at the command of the Lord by Moses.
@@ -495,7 +495,7 @@
 3. Now the man Moses was very meek, more than all people who were on the face of the earth.
 4. And suddenly the Lord said to Moses and to Aaron and Miriam, Come out, you three, to the tent of meeting. And the three of them came out.
 5. And the Lord came down in a pillar of cloud and stood at the entrance of the tent and called Aaron and Miriam, and they both came forward.
-6. And he said, Hear my words : If there is a prophet among you, I the Lord make myself known to him in a vision; I speak with him in a dream.
+6. And he said, Hear my words: If there is a prophet among you, I the Lord make myself known to him in a vision; I speak with him in a dream.
 7. Not so with my servant Moses. He is faithful in all my house.
 8. With him I speak mouth to mouth, clearly, and not in riddles, and he beholds the form of the Lord. Why then were you not afraid to speak against my servant Moses?
 9. And the anger of the Lord was kindled against them, and he departed.
@@ -512,7 +512,7 @@
 1. The Lord spoke to Moses, saying,
 2. Send men to spy out the land of Canaan, which I am giving to the people of Israel. From each tribe of their fathers you shall send a man, every one a chief among them.
 3. So Moses sent them from the wilderness of Paran, according to the command of the Lord, all of them men who were heads of the people of Israel.
-4. And these were their names : From the tribe of Reuben, Shammua the son of Zaccur;
+4. And these were their names: From the tribe of Reuben, Shammua the son of Zaccur;
 5. from the tribe of Simeon, Shaphat the son of Hori;
 6. from the tribe of Judah, Caleb the son of Jephunneh;
 7. from the tribe of Issachar, Igal the son of Joseph;
@@ -633,7 +633,7 @@
 38. Speak to the people of Israel, and tell them to make tassels on the corners of their garments throughout their generations, and to put a cord of blue on the tassel of each corner.
 39. And it shall be a tassel for you to look at and remember all the commandments of the Lord, to do them, not to follow after your own heart and your own eyes, which you are inclined to whore after.
 40. So you shall remember and do all my commandments, and be holy to your God.
-41. I am the Lord your God, who brought you out of the land of Egypt to be your God : I am the Lord your God.
+41. I am the Lord your God, who brought you out of the land of Egypt to be your God: I am the Lord your God.
 
 ## Chapter 16
 
@@ -642,9 +642,9 @@
 3. They assembled themselves together against Moses and against Aaron and said to them, You have gone too far! For all in the congregation are holy, every one of them, and the Lord is among them. Why then do you exalt yourselves above the assembly of the Lord?
 4. When Moses heard it, he fell on his face,
 5. and he said to Korah and all his company, In the morning the Lord will show who is his, and who is holy, and will bring him near to him. The one whom he chooses he will bring near to him.
-6. Do this : take censers, Korah and all his company;
+6. Do this: take censers, Korah and all his company;
 7. put fire in them and put incense on them before the Lord tomorrow, and the man whom the Lord chooses shall be the holy one. You have gone too far, sons of Levi!
-8. And Moses said to Korah, Hear now, you sons of Levi :
+8. And Moses said to Korah, Hear now, you sons of Levi:
 9. is it too small a thing for you that the God of Israel has separated you from the congregation of Israel, to bring you near to himself, to do service in the tabernacle of the Lord and to stand before the congregation to minister to them,
 10. and that he has brought you near him, and all your brothers the sons of Levi with you? And would you seek the priesthood also?
 11. Therefore it is against the Lord that you and all your company have gathered together. What is Aaron that you grumble against him?
@@ -714,7 +714,7 @@
 6. And behold, I have taken your brothers the Levites from among the people of Israel. They are a gift to you, given to the Lord, to do the service of the tent of meeting.
 7. And you and your sons with you shall guard your priesthood for all that concerns the altar and that is within the veil; and you shall serve. I give your priesthood as a gift, and any outsider who comes near shall be put to death.
 8. Then the Lord spoke to Aaron, Behold, I have given you charge of the contributions made to me, all the consecrated things of the people of Israel. I have given them to you as a portion and to your sons as a perpetual due.
-9. This shall be yours of the most holy things, reserved from the fire : every offering of theirs, every grain offering of theirs and every sin offering of theirs and every guilt offering of theirs, which they render to me, shall be most holy to you and to your sons.
+9. This shall be yours of the most holy things, reserved from the fire: every offering of theirs, every grain offering of theirs and every sin offering of theirs and every guilt offering of theirs, which they render to me, shall be most holy to you and to your sons.
 10. In a most holy place shall you eat it. Every male may eat it; it is holy to you.
 11. This also is yours: the contribution of their gift, all the wave offerings of the people of Israel. I have given them to you, and to your sons and daughters with you, as a perpetual due. Everyone who is clean in your house may eat it.
 12. All the best of the oil and all the best of the wine and of the grain, the firstfruits of what they give to the Lord, I give to you.
@@ -742,7 +742,7 @@
 ## Chapter 19
 
 1. Now the Lord spoke to Moses and to Aaron, saying,
-2. This is the statute of the law that the Lord has commanded : Tell the people of Israel to bring you a red heifer without defect, in which there is no blemish, and on which a yoke has never come.
+2. This is the statute of the law that the Lord has commanded: Tell the people of Israel to bring you a red heifer without defect, in which there is no blemish, and on which a yoke has never come.
 3. And you shall give it to Eleazar the priest, and it shall be taken outside the camp and slaughtered before him.
 4. And Eleazar the priest shall take some of its blood with his finger, and sprinkle some of its blood toward the front of the tent of meeting seven times.
 5. And the heifer shall be burned in his sight. Its skin, its flesh, and its blood, with its dung, shall be burned.
@@ -754,7 +754,7 @@
 11. Whoever touches the dead body of any person shall be unclean seven days.
 12. He shall cleanse himself with the water on the third day and on the seventh day, and so be clean. But if he does not cleanse himself on the third day and on the seventh day, he will not become clean.
 13. Whoever touches a dead person, the body of anyone who has died, and does not cleanse himself, defiles the tabernacle of the Lord, and that person shall be cut off from Israel; because the water for impurity was not thrown on him, he shall be unclean. His uncleanness is still on him.
-14. This is the law when someone dies in a tent : everyone who comes into the tent and everyone who is in the tent shall be unclean seven days.
+14. This is the law when someone dies in a tent: everyone who comes into the tent and everyone who is in the tent shall be unclean seven days.
 15. And every open vessel that has no cover fastened on it is unclean.
 16. Whoever in the open field touches someone who was killed with a sword or who died naturally, or touches a human bone or a grave, shall be unclean seven days.
 17. For the unclean they shall take some ashes of the burnt sin offering, and fresh water shall be added in a vessel.
@@ -775,11 +775,11 @@
 7. and the Lord spoke to Moses, saying,
 8. Take the staff, and assemble the congregation, you and Aaron your brother, and tell the rock before their eyes to yield its water. So you shall bring water out of the rock for them and give drink to the congregation and their cattle.
 9. And Moses took the staff from before the Lord, as he commanded him.
-10. Then Moses and Aaron gathered the assembly together before the rock, and he said to them, Hear now, you rebels : shall we bring water for you out of this rock?
+10. Then Moses and Aaron gathered the assembly together before the rock, and he said to them, Hear now, you rebels: shall we bring water for you out of this rock?
 11. And Moses lifted up his hand and struck the rock with his staff twice, and water came out abundantly, and the congregation drank, and their livestock.
 12. And the Lord said to Moses and Aaron, Because you did not believe in me, to uphold me as holy in the eyes of the people of Israel, therefore you shall not bring this assembly into the land that I have given them.
 13. These are the waters of Meribah, where the people of Israel quarreled with the Lord, and through them he showed himself holy.
-14. Moses sent messengers from Kadesh to the king of Edom : Thus says your brother Israel : You know all the hardship that we have met :
+14. Moses sent messengers from Kadesh to the king of Edom: Thus says your brother Israel: You know all the hardship that we have met:
 15. how our fathers went down to Egypt, and we lived in Egypt a long time. And the Egyptians dealt harshly with us and our fathers.
 16. And when we cried to the Lord, he heard our voice and sent an angel and brought us out of Egypt. And here we are in Kadesh, a city on the edge of your territory.
 17. Please let us pass through your land. We will not pass through field or vineyard, or drink water from a well. We will go along the King’s Highway. We will not turn aside to the right hand or to the left until we have passed through your territory.
@@ -814,7 +814,7 @@
 14. Therefore it is said in the Book of the Wars of the Lord, Waheb in Suphah, and the valleys of the Arnon,
 15. and the slope of the valleys that extends to the seat of Ar, and leans to the border of Moab.
 16. And from there they continued to Beer; that is the well of which the Lord said to Moses, Gather the people together, so that I may give them water.
-17. Then Israel sang this song : Spring up, O well !— Sing to it!—
+17. Then Israel sang this song: Spring up, O well !— Sing to it!—
 18. the well that the princes made, that the nobles of the people dug, with the scepter and with their staffs. And from the wilderness they went on to Mattanah,
 19. and from Mattanah to Nahaliel, and from Nahaliel to Bamoth,
 20. and from Bamoth to the valley lying in the region of Moab by the top of Pisgah that looks down on the desert.
@@ -851,7 +851,7 @@
 13. So Balaam rose in the morning and said to the princes of Balak, Go to your own land, for the Lord has refused to let me go with you.
 14. So the princes of Moab rose and went to Balak and said, Balaam refuses to come with us.
 15. Once again Balak sent princes, more in number and more honorable than these.
-16. And they came to Balaam and said to him, Thus says Balak the son of Zippor : Let nothing hinder you from coming to me,
+16. And they came to Balaam and said to him, Thus says Balak the son of Zippor: Let nothing hinder you from coming to me,
 17. for I will surely do you great honor, and whatever you say to me I will do. Come, curse this people for me.
 18. But Balaam answered and said to the servants of Balak, Though Balak were to give me his house full of silver and gold, I could not go beyond the command of the Lord my God to do less or more.
 19. So you, too, please stay here tonight, that I may know what more the Lord will say to me.
@@ -886,7 +886,7 @@
 4. and God met Balaam. And Balaam said to him, I have arranged the seven altars and I have offered on each altar a bull and a ram.
 5. And the Lord put a word in Balaam’s mouth and said, Return to Balak, and thus you shall speak.
 6. And he returned to him, and behold, he and all the princes of Moab were standing beside his burnt offering.
-7. And Balaam took up his discourse and said, From Aram Balak has brought me, the king of Moab from the eastern mountains : Come, curse Jacob for me, and come, denounce Israel!
+7. And Balaam took up his discourse and said, From Aram Balak has brought me, the king of Moab from the eastern mountains: Come, curse Jacob for me, and come, denounce Israel!
 8. How can I curse whom God has not cursed? How can I denounce whom the Lord has not denounced?
 9. For from the top of the crags I see him, from the hills I behold him; behold, a people dwelling alone, and not counting itself among the nations!
 10. Who can count the dust of Jacob or number the fourth part of Israel? Let me die the death of the upright, and let my end be like his!
@@ -897,9 +897,9 @@
 15. Balaam said to Balak, Stand here beside your burnt offering, while I meet the Lord over there.
 16. And the Lord met Balaam and put a word in his mouth and said, Return to Balak, and thus shall you speak.
 17. And he came to him, and behold, he was standing beside his burnt offering, and the princes of Moab with him. And Balak said to him, What has the Lord spoken?
-18. And Balaam took up his discourse and said, Rise, Balak, and hear; give ear to me, O son of Zippor :
+18. And Balaam took up his discourse and said, Rise, Balak, and hear; give ear to me, O son of Zippor:
 19. God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?
-20. Behold, I received a command to bless : he has blessed, and I cannot revoke it.
+20. Behold, I received a command to bless: he has blessed, and I cannot revoke it.
 21. He has not beheld misfortune in Jacob, nor has he seen trouble in Israel. The Lord their God is with them, and the shout of a king is among them.
 22. God brings them out of Egypt and is for them like the horns of the wild ox.
 23. For there is no enchantment against Jacob, no divination against Israel; now it shall be said of Jacob and Israel, What has God wrought!
@@ -916,7 +916,7 @@
 1. When Balaam saw that it pleased the Lord to bless Israel, he did not go, as at other times, to look for omens, but set his face toward the wilderness.
 2. And Balaam lifted up his eyes and saw Israel camping tribe by tribe. And the Spirit of God came upon him,
 3. and he took up his discourse and said, The oracle of Balaam the son of Beor, the oracle of the man whose eye is opened,
-4. the oracle of him who hears the words of God, who sees the vision of the Almighty, falling down with his eyes uncovered :
+4. the oracle of him who hears the words of God, who sees the vision of the Almighty, falling down with his eyes uncovered:
 5. How lovely are your tents, O Jacob, your encampments, O Israel!
 6. Like palm groves that stretch afar, like gardens beside a river, like aloes that the Lord has planted, like cedar trees beside the waters.
 7. Water shall flow from his buckets, and his seed shall be in many waters; his king shall be higher than Agag, and his kingdom shall be exalted.
@@ -928,8 +928,8 @@
 13. If Balak should give me his house full of silver and gold, I would not be able to go beyond the word of the Lord, to do either good or bad of my own will. What the Lord speaks, that will I speak?
 14. And now, behold, I am going to my people. Come, I will let you know what this people will do to your people in the latter days.
 15. And he took up his discourse and said, The oracle of Balaam the son of Beor, the oracle of the man whose eye is opened,
-16. the oracle of him who hears the words of God, and knows the knowledge of the Most High, who sees the vision of the Almighty, falling down with his eyes uncovered :
-17. I see him, but not now; I behold him, but not near : a star shall come out of Jacob, and a scepter shall rise out of Israel; it shall crush the forehead of Moab and break down all the sons of Sheth.
+16. the oracle of him who hears the words of God, and knows the knowledge of the Most High, who sees the vision of the Almighty, falling down with his eyes uncovered:
+17. I see him, but not now; I behold him, but not near: a star shall come out of Jacob, and a scepter shall rise out of Israel; it shall crush the forehead of Moab and break down all the sons of Sheth.
 18. Edom shall be dispossessed; Seir also, his enemies, shall be dispossessed. Israel is doing valiantly.
 19. And one from Jacob shall exercise dominion and destroy the survivors of cities!
 20. Then he looked on Amalek and took up his discourse and said, Amalek was the first among the nations, but its end is utter destruction.
@@ -966,17 +966,17 @@
 2. Take a census of all the congregation of the people of Israel, from twenty years old and upward, by their fathers ’ houses, all in Israel who are able to go to war.
 3. And Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan at Jericho, saying,
 4. Take a census of the people, from twenty years old and upward, as the Lord commanded Moses. The people of Israel who came out of the land of Egypt were:
-5. Reuben, the firstborn of Israel; the sons of Reuben : of Hanoch, the clan of the Hanochites; of Pallu, the clan of the Palluites;
+5. Reuben, the firstborn of Israel; the sons of Reuben: of Hanoch, the clan of the Hanochites; of Pallu, the clan of the Palluites;
 6. of Hezron, the clan of the Hezronites; of Carmi, the clan of the Carmites.
 7. These are the clans of the Reubenites, and those listed were 43,730.
-8. And the sons of Pallu : Eliab.
-9. The sons of Eliab : Nemuel, Dathan, and Abiram. These are the Dathan and Abiram, chosen from the congregation, who contended against Moses and Aaron in the company of Korah, when they contended against the Lord
+8. And the sons of Pallu: Eliab.
+9. The sons of Eliab: Nemuel, Dathan, and Abiram. These are the Dathan and Abiram, chosen from the congregation, who contended against Moses and Aaron in the company of Korah, when they contended against the Lord
 10. and the earth opened its mouth and swallowed them up together with Korah, when that company died, when the fire devoured 250 men, and they became a warning.
 11. But the sons of Korah did not die.
-12. The sons of Simeon according to their clans : of Nemuel, the clan of the Nemuelites; of Jamin, the clan of the Jaminites; of Jachin, the clan of the Jachinites;
+12. The sons of Simeon according to their clans: of Nemuel, the clan of the Nemuelites; of Jamin, the clan of the Jaminites; of Jachin, the clan of the Jachinites;
 13. of Zerah, the clan of the Zerahites; of Shaul, the clan of the Shaulites.
 14. These are the clans of the Simeonites, 22,200.
-15. The sons of Gad according to their clans : of Zephon, the clan of the Zephonites; of Haggi, the clan of the Haggites; of Shuni, the clan of the Shunites;
+15. The sons of Gad according to their clans: of Zephon, the clan of the Zephonites; of Haggi, the clan of the Haggites; of Shuni, the clan of the Shunites;
 16. of Ozni, the clan of the Oznites; of Eri, the clan of the Erites;
 17. of Arod, the clan of the Arodites; of Areli, the clan of the Arelites.
 18. These are the clans of the sons of Gad as they were listed, 40,500.
@@ -984,32 +984,32 @@
 20. And the sons of Judah according to their clans were: of Shelah, the clan of the Shelanites; of Perez, the clan of the Perezites; of Zerah, the clan of the Zerahites.
 21. And the sons of Perez were: of Hezron, the clan of the Hezronites; of Hamul, the clan of the Hamulites.
 22. These are the clans of Judah as they were listed, 76,500.
-23. The sons of Issachar according to their clans : of Tola, the clan of the Tolaites; of Puvah, the clan of the Punites;
+23. The sons of Issachar according to their clans: of Tola, the clan of the Tolaites; of Puvah, the clan of the Punites;
 24. of Jashub, the clan of the Jashubites; of Shimron, the clan of the Shimronites.
 25. These are the clans of Issachar as they were listed, 64,300.
-26. The sons of Zebulun, according to their clans : of Sered, the clan of the Seredites; of Elon, the clan of the Elonites; of Jahleel, the clan of the Jahleelites.
+26. The sons of Zebulun, according to their clans: of Sered, the clan of the Seredites; of Elon, the clan of the Elonites; of Jahleel, the clan of the Jahleelites.
 27. These are the clans of the Zebulunites as they were listed, 60,500.
-28. The sons of Joseph according to their clans : Manasseh and Ephraim.
-29. The sons of Manasseh : of Machir, the clan of the Machirites; and Machir was the father of Gilead; of Gilead, the clan of the Gileadites.
-30. These are the sons of Gilead : of Iezer, the clan of the Iezerites; of Helek, the clan of the Helekites;
+28. The sons of Joseph according to their clans: Manasseh and Ephraim.
+29. The sons of Manasseh: of Machir, the clan of the Machirites; and Machir was the father of Gilead; of Gilead, the clan of the Gileadites.
+30. These are the sons of Gilead: of Iezer, the clan of the Iezerites; of Helek, the clan of the Helekites;
 31. and of Asriel, the clan of the Asrielites; and of Shechem, the clan of the Shechemites;
 32. and of Shemida, the clan of the Shemidaites; and of Hepher, the clan of the Hepherites.
 33. Now Zelophehad the son of Hepher had no sons, but daughters. And the names of the daughters of Zelophehad were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
 34. These are the clans of Manasseh, and those listed were 52,700.
-35. These are the sons of Ephraim according to their clans : of Shuthelah, the clan of the Shuthelahites; of Becher, the clan of the Becherites; of Tahan, the clan of the Tahanites.
-36. And these are the sons of Shuthelah : of Eran, the clan of the Eranites.
+35. These are the sons of Ephraim according to their clans: of Shuthelah, the clan of the Shuthelahites; of Becher, the clan of the Becherites; of Tahan, the clan of the Tahanites.
+36. And these are the sons of Shuthelah: of Eran, the clan of the Eranites.
 37. These are the clans of the sons of Ephraim as they were listed, 32,500. These are the sons of Joseph according to their clans.
-38. The sons of Benjamin according to their clans : of Bela, the clan of the Belaites; of Ashbel, the clan of the Ashbelites; of Ahiram, the clan of the Ahiramites;
+38. The sons of Benjamin according to their clans: of Bela, the clan of the Belaites; of Ashbel, the clan of the Ashbelites; of Ahiram, the clan of the Ahiramites;
 39. of Shephupham, the clan of the Shuphamites; of Hupham, the clan of the Huphamites.
-40. And the sons of Bela were Ard and Naaman : of Ard, the clan of the Ardites; of Naaman, the clan of the Naamites.
+40. And the sons of Bela were Ard and Naaman: of Ard, the clan of the Ardites; of Naaman, the clan of the Naamites.
 41. These are the sons of Benjamin according to their clans, and those listed were 45,600.
-42. These are the sons of Dan according to their clans : of Shuham, the clan of the Shuhamites. These are the clans of Dan according to their clans.
+42. These are the sons of Dan according to their clans: of Shuham, the clan of the Shuhamites. These are the clans of Dan according to their clans.
 43. All the clans of the Shuhamites, as they were listed, were 64,400.
-44. The sons of Asher according to their clans : of Imnah, the clan of the Imnites; of Ishvi, the clan of the Ishvites; of Beriah, the clan of the Beriites.
-45. Of the sons of Beriah : of Heber, the clan of the Heberites; of Malchiel, the clan of the Malchielites.
+44. The sons of Asher according to their clans: of Imnah, the clan of the Imnites; of Ishvi, the clan of the Ishvites; of Beriah, the clan of the Beriites.
+45. Of the sons of Beriah: of Heber, the clan of the Heberites; of Malchiel, the clan of the Malchielites.
 46. And the name of the daughter of Asher was Serah.
 47. These are the clans of the sons of Asher as they were listed, 53,400.
-48. The sons of Naphtali according to their clans : of Jahzeel, the clan of the Jahzeelites; of Guni, the clan of the Gunites;
+48. The sons of Naphtali according to their clans: of Jahzeel, the clan of the Jahzeelites; of Guni, the clan of the Gunites;
 49. of Jezer, the clan of the Jezerites; of Shillem, the clan of the Shillemites.
 50. These are the clans of Naphtali according to their clans, and those listed were 45,400.
 51. This was the list of the people of Israel, 601,730.
@@ -1018,8 +1018,8 @@
 54. To a large tribe you shall give a large inheritance, and to a small tribe you shall give a small inheritance; every tribe shall be given its inheritance in proportion to its list.
 55. But the land shall be divided by lot. According to the names of the tribes of their fathers they shall inherit.
 56. Their inheritance shall be divided according to lot between the larger and the smaller.
-57. This was the list of the Levites according to their clans : of Gershon, the clan of the Gershonites; of Kohath, the clan of the Kohathites; of Merari, the clan of the Merarites.
-58. These are the clans of Levi : the clan of the Libnites, the clan of the Hebronites, the clan of the Mahlites, the clan of the Mushites, the clan of the Korahites. And Kohath was the father of Amram.
+57. This was the list of the Levites according to their clans: of Gershon, the clan of the Gershonites; of Kohath, the clan of the Kohathites; of Merari, the clan of the Merarites.
+58. These are the clans of Levi: the clan of the Libnites, the clan of the Hebronites, the clan of the Mahlites, the clan of the Mushites, the clan of the Korahites. And Kohath was the father of Amram.
 59. The name of Amram’s wife was Jochebed the daughter of Levi, who was born to Levi in Egypt. And she bore to Amram Aaron and Moses and Miriam their sister.
 60. And to Aaron were born Nadab, Abihu, Eleazar, and Ithamar.
 61. But Nadab and Abihu died when they offered unauthorized fire before the Lord.
@@ -1058,15 +1058,15 @@
 
 1. The Lord spoke to Moses, saying,
 2. Command the people of Israel and say to them, My offering, my food for my food offerings, my pleasing aroma, you shall be careful to offer to me at its appointed time.
-3. And you shall say to them, This is the food offering that you shall offer to the Lord : two male lambs a year old without blemish, day by day, as a regular offering.
+3. And you shall say to them, This is the food offering that you shall offer to the Lord: two male lambs a year old without blemish, day by day, as a regular offering.
 4. The one lamb you shall offer in the morning, and the other lamb you shall offer at twilight;
 5. also a tenth of an ephah of fine flour for a grain offering, mixed with a quarter of a hin of beaten oil.
 6. It is a regular burnt offering, which was ordained at Mount Sinai for a pleasing aroma, a food offering to the Lord.
 7. Its drink offering shall be a quarter of a hin for each lamb. In the Holy Place you shall pour out a drink offering of strong drink to the Lord.
 8. The other lamb you shall offer at twilight. Like the grain offering of the morning, and like its drink offering, you shall offer it as a food offering, with a pleasing aroma to the Lord.
-9. On the Sabbath day, two male lambs a year old without blemish, and two tenths of an ephah of fine flour for a grain offering, mixed with oil, and its drink offering :
+9. On the Sabbath day, two male lambs a year old without blemish, and two tenths of an ephah of fine flour for a grain offering, mixed with oil, and its drink offering:
 10. this is the burnt offering of every Sabbath, besides the regular burnt offering and its drink offering.
-11. At the beginnings of your months, you shall offer a burnt offering to the Lord : two bulls from the herd, one ram, seven male lambs a year old without blemish;
+11. At the beginnings of your months, you shall offer a burnt offering to the Lord: two bulls from the herd, one ram, seven male lambs a year old without blemish;
 12. also three tenths of an ephah of fine flour for a grain offering, mixed with oil, for each bull, and two tenths of fine flour for a grain offering, mixed with oil, for the one ram;
 13. and a tenth of fine flour mixed with oil as a grain offering for every lamb; for a burnt offering with a pleasing aroma, a food offering to the Lord.
 14. Their drink offerings shall be half a hin of wine for a bull, a third of a hin for a ram, and a quarter of a hin for a lamb. This is the burnt offering of each month throughout the months of the year.
@@ -1074,7 +1074,7 @@
 16. On the fourteenth day of the first month is the Lord ’s Passover,
 17. and on the fifteenth day of this month is a feast. Seven days shall unleavened bread be eaten.
 18. On the first day there shall be a holy convocation. You shall not do any ordinary work,
-19. but offer a food offering, a burnt offering to the Lord : two bulls from the herd, one ram, and seven male lambs a year old; see that they are without blemish;
+19. but offer a food offering, a burnt offering to the Lord: two bulls from the herd, one ram, and seven male lambs a year old; see that they are without blemish;
 20. also their grain offering of fine flour mixed with oil; three tenths of an ephah shall you offer for a bull, and two tenths for a ram;
 21. a tenth shall you offer for each of the seven lambs;
 22. also one male goat for a sin offering, to make atonement for you.
@@ -1082,7 +1082,7 @@
 24. In the same way you shall offer daily, for seven days, the food of a food offering, with a pleasing aroma to the Lord. It shall be offered besides the regular burnt offering and its drink offering.
 25. And on the seventh day you shall have a holy convocation. You shall not do any ordinary work.
 26. On the day of the firstfruits, when you offer a grain offering of new grain to the Lord at your Feast of Weeks, you shall have a holy convocation. You shall not do any ordinary work,
-27. but offer a burnt offering, with a pleasing aroma to the Lord : two bulls from the herd, one ram, seven male lambs a year old;
+27. but offer a burnt offering, with a pleasing aroma to the Lord: two bulls from the herd, one ram, seven male lambs a year old;
 28. also their grain offering of fine flour mixed with oil, three tenths of an ephah for each bull, two tenths for one ram,
 29. a tenth for each of the seven lambs;
 30. with one male goat, to make atonement for you.
@@ -1091,15 +1091,15 @@
 ## Chapter 29
 
 1. On the first day of the seventh month you shall have a holy convocation. You shall not do any ordinary work. It is a day for you to blow the trumpets,
-2. and you shall offer a burnt offering, for a pleasing aroma to the Lord : one bull from the herd, one ram, seven male lambs a year old without blemish;
+2. and you shall offer a burnt offering, for a pleasing aroma to the Lord: one bull from the herd, one ram, seven male lambs a year old without blemish;
 3. also their grain offering of fine flour mixed with oil, three tenths of an ephah for the bull, two tenths for the ram,
 4. and one tenth for each of the seven lambs;
 5. with one male goat for a sin offering, to make atonement for you;
 6. besides the burnt offering of the new moon, and its grain offering, and the regular burnt offering and its grain offering, and their drink offering, according to the rule for them, for a pleasing aroma, a food offering to the Lord.
 7. On the tenth day of this seventh month you shall have a holy convocation and afflict yourselves. You shall do no work,
-8. but you shall offer a burnt offering to the Lord, a pleasing aroma : one bull from the herd, one ram, seven male lambs a year old : see that they are without blemish.
+8. but you shall offer a burnt offering to the Lord, a pleasing aroma: one bull from the herd, one ram, seven male lambs a year old: see that they are without blemish.
 9. And their grain offering shall be of fine flour mixed with oil, three tenths of an ephah for the bull, two tenths for the one ram,
-10. a tenth for each of the seven lambs :
+10. a tenth for each of the seven lambs:
 11. also one male goat for a sin offering, besides the sin offering of atonement, and the regular burnt offering and its grain offering, and their drink offerings.
 12. On the fifteenth day of the seventh month you shall have a holy convocation. You shall not do any ordinary work, and you shall keep a feast to the Lord seven days.
 13. And you shall offer a burnt offering, a food offering, with a pleasing aroma to the Lord, thirteen bulls from the herd, two rams, fourteen male lambs a year old; they shall be without blemish;
@@ -1125,7 +1125,7 @@
 33. with the grain offering and the drink offerings for the bulls, for the rams, and for the lambs, in the prescribed quantities;
 34. also one male goat for a sin offering; besides the regular burnt offering, its grain offering, and its drink offering.
 35. On the eighth day you shall have a solemn assembly. You shall not do any ordinary work,
-36. but you shall offer a burnt offering, a food offering, with a pleasing aroma to the Lord : one bull, one ram, seven male lambs a year old without blemish,
+36. but you shall offer a burnt offering, a food offering, with a pleasing aroma to the Lord: one bull, one ram, seven male lambs a year old without blemish,
 37. and the grain offering and the drink offerings for the bull, for the ram, and for the lambs, in the prescribed quantities;
 38. also one male goat for a sin offering; besides the regular burnt offering and its grain offering and its drink offering.
 39. These you shall offer to the Lord at your appointed feasts, in addition to your vow offerings and your freewill offerings, for your burnt offerings, and for your grain offerings, and for your drink offerings, and for your peace offerings.
@@ -1172,7 +1172,7 @@
 18. But all the young girls who have not known man by lying with him keep alive for yourselves.
 19. Encamp outside the camp seven days. Whoever of you has killed any person and whoever has touched any slain, purify yourselves and your captives on the third day and on the seventh day.
 20. You shall purify every garment, every article of skin, all work of goats’ hair, and every article of wood.
-21. Then Eleazar the priest said to the men in the army who had gone to battle : This is the statute of the law that the Lord has commanded Moses :
+21. Then Eleazar the priest said to the men in the army who had gone to battle: This is the statute of the law that the Lord has commanded Moses:
 22. only the gold, the silver, the bronze, the iron, the tin, and the lead,
 23. everything that can stand the fire, you shall pass through the fire, and it shall be clean. Nevertheless, it shall also be purified with the water for impurity. And whatever cannot stand the fire, you shall pass through the water.
 24. You must wash your clothes on the seventh day, and you shall be clean. And afterward you may come into the camp.
@@ -1319,7 +1319,7 @@
 4. And your border shall turn south of the ascent of Akrabbim, and cross to Zin, and its limit shall be south of Kadesh-barnea. Then it shall go on to Hazar-addar, and pass along to Azmon.
 5. And the border shall turn from Azmon to the Brook of Egypt, and its limit shall be at the sea.
 6. For the western border, you shall have the Great Sea and its coast. This shall be your western border.
-7. This shall be your northern border : from the Great Sea you shall draw a line to Mount Hor.
+7. This shall be your northern border: from the Great Sea you shall draw a line to Mount Hor.
 8. From Mount Hor you shall draw a line to Lebo- hamath, and the limit of the border shall be at Zedad.
 9. Then the border shall extend to Ziphron, and its limit shall be at Hazar-enan. This shall be your northern border.
 10. You shall draw a line for your eastern border from Hazar-enan to Shepham.
@@ -1329,13 +1329,13 @@
 14. For the tribe of the people of Reuben by fathers ’ houses and the tribe of the people of Gad by their fathers ’ houses have received their inheritance, and also the half-tribe of Manasseh.
 15. The two tribes and the half-tribe have received their inheritance beyond the Jordan east of Jericho, toward the sunrise.
 16. The Lord spoke to Moses, saying,
-17. These are the names of the men who shall divide the land to you for inheritance : Eleazar the priest and Joshua the son of Nun.
+17. These are the names of the men who shall divide the land to you for inheritance: Eleazar the priest and Joshua the son of Nun.
 18. You shall take one chief from every tribe to divide the land for inheritance.
-19. These are the names of the men : Of the tribe of Judah, Caleb the son of Jephunneh.
+19. These are the names of the men: Of the tribe of Judah, Caleb the son of Jephunneh.
 20. Of the tribe of the people of Simeon, Shemuel the son of Ammihud.
 21. Of the tribe of Benjamin, Elidad the son of Chislon.
 22. Of the tribe of the people of Dan a chief, Bukki the son of Jogli.
-23. Of the people of Joseph : of the tribe of the people of Manasseh a chief, Hanniel the son of Ephod.
+23. Of the people of Joseph: of the tribe of the people of Manasseh a chief, Hanniel the son of Ephod.
 24. And of the tribe of the people of Ephraim a chief, Kemuel the son of Shiphtan.
 25. Of the tribe of the people of Zebulun a chief, Elizaphan the son of Parnach.
 26. Of the tribe of the people of Issachar a chief, Paltiel the son of Azzan.
@@ -1387,7 +1387,7 @@
 3. But if they are married to any of the sons of the other tribes of the people of Israel, then their inheritance will be taken from the inheritance of our fathers and added to the inheritance of the tribe into which they marry. So it will be taken away from the lot of our inheritance.
 4. And when the jubilee of the people of Israel comes, then their inheritance will be added to the inheritance of the tribe into which they marry, and their inheritance will be taken from the inheritance of the tribe of our fathers.
 5. And Moses commanded the people of Israel according to the word of the Lord, saying, The tribe of the people of Joseph is right.
-6. This is what the Lord commands concerning the daughters of Zelophehad : Let them marry whom they think best, only they shall marry within the clan of the tribe of their father.
+6. This is what the Lord commands concerning the daughters of Zelophehad: Let them marry whom they think best, only they shall marry within the clan of the tribe of their father.
 7. The inheritance of the people of Israel shall not be transferred from one tribe to another, for every one of the people of Israel shall hold on to the inheritance of the tribe of his fathers.
 8. And every daughter who possesses an inheritance in any tribe of the people of Israel shall be wife to one of the clan of the tribe of her father, so that every one of the people of Israel may possess the inheritance of his fathers.
 9. So no inheritance shall be transferred from one tribe to another, for each of the tribes of the people of Israel shall hold on to its own inheritance.

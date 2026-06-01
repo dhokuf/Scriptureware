@@ -164,7 +164,7 @@
 17. And he brought near the clans of Judah, and the clan of the Zerahites was taken. And he brought near the clan of the Zerahites man by man, and Zabdi was taken.
 18. And he brought near his household man by man, and Achan the son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, was taken.
 19. Then Joshua said to Achan, My son, give glory to the Lord God of Israel and give praise to him. And tell me now what you have done; do not hide it from me.
-20. And Achan answered Joshua, Truly I have sinned against the Lord God of Israel, and this is what I did :
+20. And Achan answered Joshua, Truly I have sinned against the Lord God of Israel, and this is what I did:
 21. when I saw among the spoil a beautiful cloak from Shinar, and 200 shekels of silver, and a bar of gold weighing 50 shekels, then I coveted them and took them. And see, they are hidden in the earth inside my tent, with the silver underneath.
 22. So Joshua sent messengers, and they ran to the tent; and behold, it was hidden in his tent with the silver underneath.
 23. And they took them out of the tent and brought them to Joshua and to all the people of Israel. And they laid them down before the Lord.
@@ -314,7 +314,7 @@
 
 ## Chapter 12
 
-1. Now these are the kings of the land whom the people of Israel defeated and took possession of their land beyond the Jordan toward the sunrise, from the Valley of the Arnon to Mount Hermon, with all the Arabah eastward :
+1. Now these are the kings of the land whom the people of Israel defeated and took possession of their land beyond the Jordan toward the sunrise, from the Valley of the Arnon to Mount Hermon, with all the Arabah eastward:
 2. Sihon king of the Amorites who lived at Heshbon and ruled from Aroer, which is on the edge of the Valley of the Arnon, and from the middle of the valley as far as the river Jabbok, the boundary of the Ammonites, that is, half of Gilead,
 3. and the Arabah to the Sea of Chinneroth eastward, and in the direction of Beth-jeshimoth, to the Sea of the Arabah, the Salt Sea, southward to the foot of the slopes of Pisgah;
 4. and Og king of Bashan, one of the remnant of the Rephaim, who lived at Ashtaroth and at Edrei
@@ -337,12 +337,12 @@
 21. the king of Taanach, one; the king of Megiddo, one;
 22. the king of Kedesh, one; the king of Jokneam in Carmel, one;
 23. the king of Dor in Naphath-dor, one; the king of Goiim in Galilee, one;
-24. the king of Tirzah, one : in all, thirty-one kings.
+24. the king of Tirzah, one: in all, thirty-one kings.
 
 ## Chapter 13
 
 1. Now Joshua was old and advanced in years, and the Lord said to him, You are old and advanced in years, and there remains yet very much land to possess.
-2. This is the land that yet remains : all the regions of the Philistines, and all those of the Geshurites
+2. This is the land that yet remains: all the regions of the Philistines, and all those of the Geshurites
 3. (from the Shihor, which is east of Egypt, northward to the boundary of Ekron, it is counted as Canaanite; there are five rulers of the Philistines, those of Gaza, Ashdod, Ashkelon, Gath, and Ekron ), and those of the Avvim,
 4. in the south, all the land of the Canaanites, and Mearah that belongs to the Sidonians, to Aphek, to the boundary of the Amorites,
 5. and the land of the Gebalites, and all Lebanon, toward the sunrise, from Baal-gad below Mount Hermon to Lebo-hamath,
@@ -426,37 +426,37 @@
 29. Baalah, Iim, Ezem,
 30. Eltolad, Chesil, Hormah,
 31. Ziklag, Madmannah, Sansannah,
-32. Lebaoth, Shilhim, Ain, and Rimmon : in all, twenty-nine cities with their villages.
+32. Lebaoth, Shilhim, Ain, and Rimmon: in all, twenty-nine cities with their villages.
 33. And in the lowland, Eshtaol, Zorah, Ashnah,
 34. Zanoah, En-gannim, Tappuah, Enam,
 35. Jarmuth, Adullam, Socoh, Azekah,
-36. Shaaraim, Adithaim, Gederah, Gederothaim : fourteen cities with their villages.
+36. Shaaraim, Adithaim, Gederah, Gederothaim: fourteen cities with their villages.
 37. Zenan, Hadashah, Migdal-gad,
 38. Dilean, Mizpeh, Joktheel,
 39. Lachish, Bozkath, Eglon,
 40. Cabbon, Lahmam, Chitlish,
-41. Gederoth, Beth-dagon, Naamah, and Makkedah : sixteen cities with their villages.
+41. Gederoth, Beth-dagon, Naamah, and Makkedah: sixteen cities with their villages.
 42. Libnah, Ether, Ashan,
 43. Iphtah, Ashnah, Nezib,
-44. Keilah, Achzib, and Mareshah : nine cities with their villages.
+44. Keilah, Achzib, and Mareshah: nine cities with their villages.
 45. Ekron, with its towns and its villages;
 46. from Ekron to the sea, all that were by the side of Ashdod, with their villages.
 47. Ashdod, its towns and its villages; Gaza, its towns and its villages; to the Brook of Egypt, and the Great Sea with its coastline.
 48. And in the hill country, Shamir, Jattir, Socoh,
 49. Dannah, Kiriath-sannah ( that is, Debir ),
 50. Anab, Eshtemoh, Anim,
-51. Goshen, Holon, and Giloh : eleven cities with their villages.
+51. Goshen, Holon, and Giloh: eleven cities with their villages.
 52. Arab, Dumah, Eshan,
 53. Janim, Beth-tappuah, Aphekah,
-54. Humtah, Kiriath-arba (that is, Hebron ), and Zior : nine cities with their villages.
+54. Humtah, Kiriath-arba (that is, Hebron ), and Zior: nine cities with their villages.
 55. Maon, Carmel, Ziph, Juttah,
 56. Jezreel, Jokdeam, Zanoah,
-57. Kain, Gibeah, and Timnah : ten cities with their villages.
+57. Kain, Gibeah, and Timnah: ten cities with their villages.
 58. Halhul, Beth-zur, Gedor,
-59. Maarath, Beth-anoth, and Eltekon : six cities with their villages.
-60. Kiriath-baal (that is, Kiriath-jearim ), and Rabbah : two cities with their villages.
+59. Maarath, Beth-anoth, and Eltekon: six cities with their villages.
+60. Kiriath-baal (that is, Kiriath-jearim ), and Rabbah: two cities with their villages.
 61. In the wilderness, Beth-arabah, Middin, Secacah,
-62. Nibshan, the City of Salt, and Engedi : six cities with their villages.
+62. Nibshan, the City of Salt, and Engedi: six cities with their villages.
 63. But the Jebusites, the inhabitants of Jerusalem, the people of Judah could not drive out, so the Jebusites dwell with the people of Judah at Jerusalem to this day.
 
 ## Chapter 16
@@ -476,7 +476,7 @@
 
 1. Then allotment was made to the people of Manasseh, for he was the firstborn of Joseph. To Machir the firstborn of Manasseh, the father of Gilead, were allotted Gilead and Bashan, because he was a man of war.
 2. And allotments were made to the rest of the people of Manasseh by their clans, Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. These were the male descendants of Manasseh the son of Joseph, by their clans.
-3. Now Zelophehad the son of Hepher, son of Gilead, son of Machir, son of Manasseh, had no sons, but only daughters, and these are the names of his daughters : Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+3. Now Zelophehad the son of Hepher, son of Gilead, son of Machir, son of Manasseh, had no sons, but only daughters, and these are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.
 4. They approached Eleazar the priest and Joshua the son of Nun and the leaders and said, The Lord commanded Moses to give us an inheritance along with our brothers. So according to the mouth of the Lord he gave them an inheritance among the brothers of their father.
 5. Thus there fell to Manasseh ten portions, besides the land of Gilead and Bashan, which is on the other side of the Jordan,
 6. because the daughters of Manasseh received an inheritance along with his sons. The land of Gilead was allotted to the rest of the people of Manasseh.
@@ -513,12 +513,12 @@
 16. Then the boundary goes down to the border of the mountain that overlooks the Valley of the Son of Hinnom, which is at the north end of the Valley of Rephaim. And it then goes down the Valley of Hinnom, south of the shoulder of the Jebusites, and downward to En-rogel.
 17. Then it bends in a northerly direction going on to En-shemesh, and from there goes to Geliloth, which is opposite the ascent of Adummim. Then it goes down to the stone of Bohan the son of Reuben,
 18. and passing on to the north of the shoulder of Beth-arabah it goes down to the Arabah.
-19. Then the boundary passes on to the north of the shoulder of Beth-hoglah. And the boundary ends at the northern bay of the Salt Sea, at the south end of the Jordan : this is the southern border.
+19. Then the boundary passes on to the north of the shoulder of Beth-hoglah. And the boundary ends at the northern bay of the Salt Sea, at the south end of the Jordan: this is the southern border.
 20. The Jordan forms its boundary on the eastern side. This is the inheritance of the people of Benjamin, according to their clans, boundary by boundary all around.
 21. Now the cities of the tribe of the people of Benjamin according to their clans were Jericho, Beth-hoglah, Emek-keziz,
 22. Beth-arabah, Zemaraim, Bethel,
 23. Avvim, Parah, Ophrah,
-24. Chephar-ammoni, Ophni, Geba — twelve cities with their villages :
+24. Chephar-ammoni, Ophni, Geba — twelve cities with their villages:
 25. Gibeon, Ramah, Beeroth,
 26. Mizpeh, Chephirah, Mozah,
 27. Rekem, Irpeel, Taralah,

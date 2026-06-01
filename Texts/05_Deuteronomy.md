@@ -164,7 +164,7 @@
 39. know therefore today, and lay it to your heart, that the Lord is God in heaven above and on the earth beneath; there is no other.
 40. Therefore you shall keep his statutes and his commandments, which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land that the Lord your God is giving you for all time.
 41. Then Moses set apart three cities in the east beyond the Jordan,
-42. that the manslayer might flee there, anyone who kills his neighbor unintentionally, without being at enmity with him in time past; he may flee to one of these cities and save his life :
+42. that the manslayer might flee there, anyone who kills his neighbor unintentionally, without being at enmity with him in time past; he may flee to one of these cities and save his life:
 43. Bezer in the wilderness on the tableland for the Reubenites, Ramoth in Gilead for the Gadites, and Golan in Bashan for the Manassites.
 44. This is the law that Moses set before the people of Israel.
 45. These are the testimonies, the statutes, and the rules, which Moses spoke to the people of Israel when they came out of Egypt,
@@ -179,7 +179,7 @@
 2. The Lord our God made a covenant with us in Horeb.
 3. Not with our fathers did the Lord make this covenant, but with us, who are all of us here alive today.
 4. The Lord spoke with you face to face at the mountain, out of the midst of the fire,
-5. while I stood between the Lord and you at that time, to declare to you the word of the Lord. For you were afraid because of the fire, and you did not go up into the mountain. He said :
+5. while I stood between the Lord and you at that time, to declare to you the word of the Lord. For you were afraid because of the fire, and you did not go up into the mountain. He said:
 6. I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery.
 7. You shall have no other gods before me.
 8. You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is on the earth beneath, or that is in the water under the earth.
@@ -214,7 +214,7 @@
 1. Now this is the commandment —the statutes and the rules — that the Lord your God commanded me to teach you, that you may do them in the land to which you are going over, to possess it,
 2. that you may fear the Lord your God, you and your son and your son’s son, by keeping all his statutes and his commandments, which I command you, all the days of your life, and that your days may be long.
 3. Hear therefore, O Israel, and be careful to do them, that it may go well with you, and that you may multiply greatly, as the Lord, the God of your fathers, has promised you, in a land flowing with milk and honey.
-4. Hear, O Israel : The Lord our God, the Lord is one.
+4. Hear, O Israel: The Lord our God, the Lord is one.
 5. You shall love the Lord your God with all your heart and with all your soul and with all your might.
 6. And these words that I command you today shall be on your heart.
 7. You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise.
@@ -291,7 +291,7 @@
 
 ## Chapter 9
 
-1. Hear, O Israel : you are to cross over the Jordan today, to go in to dispossess nations greater and mightier than you, cities great and fortified up to heaven,
+1. Hear, O Israel: you are to cross over the Jordan today, to go in to dispossess nations greater and mightier than you, cities great and fortified up to heaven,
 2. a people great and tall, the sons of the Anakim, whom you know, and of whom you have heard it said, Who can stand before the sons of Anak?
 3. Know therefore today that he who goes over before you as a consuming fire is the Lord your God. He will destroy them and subdue them before you. So you shall drive them out and make them perish quickly, as the Lord has promised you.
 4. Do not say in your heart, after the Lord your God has thrust them out before you, It is because of my righteousness that the Lord has brought me in to possess this land, whereas it is because of the wickedness of these nations that the Lord is driving them out before you.
@@ -373,7 +373,7 @@
 23. then the Lord will drive out all these nations before you, and you will dispossess nations greater and mightier than you.
 24. Every place on which the sole of your foot treads shall be yours. Your territory shall be from the wilderness to the Lebanon and from the River, the river Euphrates, to the western sea.
 25. No one shall be able to stand against you. The Lord your God will lay the fear of you and the dread of you on all the land that you shall tread, as he promised you.
-26. See, I am setting before you today a blessing and a curse :
+26. See, I am setting before you today a blessing and a curse:
 27. the blessing, if you obey the commandments of the Lord your God, which I command you today,
 28. and the curse, if you do not obey the commandments of the Lord your God, but turn aside from the way that I am commanding you today, to go after other gods that you have not known.
 29. And when the Lord your God brings you into the land that you are entering to take possession of it, you shall set the blessing on Mount Gerizim and the curse on Mount Ebal.
@@ -442,15 +442,15 @@
 1. You are the sons of the Lord your God. You shall not cut yourselves or make any baldness on your foreheads for the dead.
 2. For you are a people holy to the Lord your God, and the Lord has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth.
 3. You shall not eat any abomination.
-4. These are the animals you may eat : the ox, the sheep, the goat,
+4. These are the animals you may eat: the ox, the sheep, the goat,
 5. the deer, the gazelle, the roebuck, the wild goat, the ibex, the antelope, and the mountain sheep.
 6. Every animal that parts the hoof and has the hoof cloven in two and chews the cud, among the animals, you may eat.
 7. Yet of those that chew the cud or have the hoof cloven you shall not eat these: the camel, the hare, and the rock badger, because they chew the cud but do not part the hoof, are unclean for you.
 8. And the pig, because it parts the hoof but does not chew the cud, is unclean for you. Their flesh you shall not eat, and their carcasses you shall not touch.
-9. Of all that are in the waters you may eat these : whatever has fins and scales you may eat.
+9. Of all that are in the waters you may eat these: whatever has fins and scales you may eat.
 10. And whatever does not have fins and scales you shall not eat; it is unclean for you.
 11. You may eat all clean birds.
-12. But these are the ones that you shall not eat : the eagle, the bearded vulture, the black vulture,
+12. But these are the ones that you shall not eat: the eagle, the bearded vulture, the black vulture,
 13. the kite, the falcon of any kind;
 14. every raven of any kind;
 15. the ostrich, the nighthawk, the sea gull, the hawk of any kind;
@@ -472,7 +472,7 @@
 ## Chapter 15
 
 1. At the end of every seven years you shall grant a release.
-2. And this is the manner of the release : every creditor shall release what he has lent to his neighbor. He shall not exact it of his neighbor, his brother, because the Lord ’s release has been proclaimed.
+2. And this is the manner of the release: every creditor shall release what he has lent to his neighbor. He shall not exact it of his neighbor, his brother, because the Lord ’s release has been proclaimed.
 3. Of a foreigner you may exact it, but whatever of yours is with your brother your hand shall release.
 4. But there will be no poor among you; for the Lord will bless you in the land that the Lord your God is giving you for an inheritance to possess —
 5. if only you will strictly obey the voice of the Lord your God, being careful to do all this commandment that I command you today.
@@ -512,7 +512,7 @@
 13. You shall keep the Feast of Booths seven days, when you have gathered in the produce from your threshing floor and your winepress.
 14. You shall rejoice in your feast, you and your son and your daughter, your male servant and your female servant, the Levite, the sojourner, the fatherless, and the widow who are within your towns.
 15. For seven days you shall keep the feast to the Lord your God at the place that the Lord will choose, because the Lord your God will bless you in all your produce and in all the work of your hands, so that you will be altogether joyful.
-16. Three times a year all your males shall appear before the Lord your God at the place that he will choose : at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Booths. They shall not appear before the Lord empty-handed.
+16. Three times a year all your males shall appear before the Lord your God at the place that he will choose: at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Booths. They shall not appear before the Lord empty-handed.
 17. Every man shall give as he is able, according to the blessing of the Lord your God that he has given you.
 18. You shall appoint judges and officers in all your towns that the Lord your God is giving you, according to your tribes, and they shall judge the people with righteous judgment.
 19. You shall not pervert justice. You shall not show partiality, and you shall not accept a bribe, for a bribe blinds the eyes of the wise and subverts the cause of the righteous.
@@ -547,7 +547,7 @@
 
 1. The Levitical priests, all the tribe of Levi, shall have no portion or inheritance with Israel. They shall eat the Lord ’s food offerings as their inheritance.
 2. They shall have no inheritance among their brothers; the Lord is their inheritance, as he promised them.
-3. And this shall be the priests ’ due from the people, from those offering a sacrifice, whether an ox or a sheep : they shall give to the priest the shoulder and the two cheeks and the stomach.
+3. And this shall be the priests ’ due from the people, from those offering a sacrifice, whether an ox or a sheep: they shall give to the priest the shoulder and the two cheeks and the stomach.
 4. The firstfruits of your grain, of your wine and of your oil, and the first fleece of your sheep, you shall give him.
 5. For the Lord your God has chosen him out of all your tribes to stand and minister in the name of the Lord, him and his sons for all time.
 6. And if a Levite comes from any of your towns out of all Israel, where he lives —and he may come when he desires — to the place that the Lord will choose,
@@ -596,7 +596,7 @@
 
 1. When you go out to war against your enemies, and see horses and chariots and an army larger than your own, you shall not be afraid of them, for the Lord your God is with you, who brought you up out of the land of Egypt.
 2. And when you draw near to the battle, the priest shall come forward and speak to the people
-3. and shall say to them, Hear, O Israel, today you are drawing near for battle against your enemies : let not your heart faint. Do not fear or panic or be in dread of them,
+3. and shall say to them, Hear, O Israel, today you are drawing near for battle against your enemies: let not your heart faint. Do not fear or panic or be in dread of them,
 4. for the Lord your God is he who goes with you to fight for you against your enemies, to give you the victory.
 5. Then the officers shall speak to the people, saying, Is there any man who has built a new house and has not dedicated it? Let him go back to his house, lest he die in the battle and another man dedicate it.
 6. And is there any man who has planted a vineyard and has not enjoyed its fruit? Let him go back to his house, lest he die in the battle and another man enjoy its fruit.
@@ -781,12 +781,12 @@
 6. you shall build an altar to the Lord your God of uncut stones. And you shall offer burnt offerings on it to the Lord your God,
 7. and you shall sacrifice peace offerings and shall eat there, and you shall rejoice before the Lord your God.
 8. And you shall write on the stones all the words of this law very plainly.
-9. Then Moses and the Levitical priests said to all Israel, Keep silence and hear, O Israel : this day you have become the people of the Lord your God.
+9. Then Moses and the Levitical priests said to all Israel, Keep silence and hear, O Israel: this day you have become the people of the Lord your God.
 10. You shall therefore obey the voice of the Lord your God, keeping his commandments and his statutes, which I command you today.
 11. That day Moses charged the people, saying,
-12. When you have crossed over the Jordan, these shall stand on Mount Gerizim to bless the people : Simeon, Levi, Judah, Issachar, Joseph, and Benjamin.
-13. And these shall stand on Mount Ebal for the curse : Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.
-14. And the Levites shall declare to all the men of Israel in a loud voice :
+12. When you have crossed over the Jordan, these shall stand on Mount Gerizim to bless the people: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin.
+13. And these shall stand on Mount Ebal for the curse: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.
+14. And the Levites shall declare to all the men of Israel in a loud voice:
 15. Cursed be the man who makes a carved or cast metal image, an abomination to the Lord, a thing made by the hands of a craftsman, and sets it up in secret. And all the people shall answer and say, Amen.
 16. Cursed be anyone who dishonors his father or his mother. And all the people shall say, Amen.
 17. Cursed be anyone who moves his neighbor’s landmark. And all the people shall say, Amen.
@@ -882,7 +882,7 @@
 7. And when you came to this place, Sihon the king of Heshbon and Og the king of Bashan came out against us to battle, but we defeated them.
 8. We took their land and gave it for an inheritance to the Reubenites, the Gadites, and the half-tribe of the Manassites.
 9. Therefore keep the words of this covenant and do them, that you may prosper in all that you do.
-10. You are standing today all of you before the Lord your God : the heads of your tribes, your elders, and your officers, all the men of Israel,
+10. You are standing today all of you before the Lord your God: the heads of your tribes, your elders, and your officers, all the men of Israel,
 11. your little ones, your wives, and the sojourner who is in your camp, from the one who chops your wood to the one who draws your water,
 12. so that you may enter into the sworn covenant of the Lord your God, which the Lord your God is making with you today,
 13. that he may establish you today as his people, and that he may be your God, as he promised you, and as he swore to your fathers, to Abraham, to Isaac, and to Jacob.
@@ -957,7 +957,7 @@
 27. For I know how rebellious and stubborn you are. Behold, even today while I am yet alive with you, you have been rebellious against the Lord. How much more after my death!
 28. Assemble to me all the elders of your tribes and your officers, that I may speak these words in their ears and call heaven and earth to witness against them.
 29. For I know that after my death you will surely act corruptly and turn aside from the way that I have commanded you. And in the days to come evil will befall you, because you will do what is evil in the sight of the Lord, provoking him to anger through the work of your hands.
-30. Then Moses spoke the words of this song until they were finished, in the ears of all the assembly of Israel :
+30. Then Moses spoke the words of this song until they were finished, in the ears of all the assembly of Israel:
 
 ## Chapter 32
 
@@ -1022,7 +1022,7 @@
 4. when Moses commanded us a law, as a possession for the assembly of Jacob.
 5. Thus the Lord became king in Jeshurun, when the heads of the people were gathered, all the tribes of Israel together.
 6. Let Reuben live, and not die, but let his men be few.
-7. And this he said of Judah : Hear, O Lord, the voice of Judah, and bring him in to his people. With your hands contend for him, and be a help against his adversaries.
+7. And this he said of Judah: Hear, O Lord, the voice of Judah, and bring him in to his people. With your hands contend for him, and be a help against his adversaries.
 8. And of Levi he said, Give to Levi your Thummim, and your Urim to your godly one, whom you tested at Massah, with whom you quarreled at the waters of Meribah;
 9. who said of his father and mother, I regard them not; he disowned his brothers and ignored his children. For they observed your word and kept your covenant.
 10. They shall teach Jacob your rules and Israel your law; they shall put incense before you and whole burnt offerings on your altar.

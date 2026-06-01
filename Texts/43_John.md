@@ -33,7 +33,7 @@
 29. The next day he saw Jesus coming toward him, and said, Behold, the Lamb of God, who takes away the sin of the world!
 30. This is he of whom I said, After me comes a man who ranks before me, because he was before me.
 31. I myself did not know him, but for this purpose I came baptizing with water, that he might be revealed to Israel.
-32. And John bore witness : I saw the Spirit descend from heaven like a dove, and it remained on him.
+32. And John bore witness: I saw the Spirit descend from heaven like a dove, and it remained on him.
 33. I myself did not know him, but he who sent me to baptize with water said to me, He on whom you see the Spirit descend and remain, this is he who baptizes with the Holy Spirit.
 34. And I have seen and have borne witness that this is the Son of God.
 35. The next day again John was standing with two of his disciples,
@@ -102,7 +102,7 @@
 16. For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.
 17. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.
 18. Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God.
-19. And this is the judgment : the light has come into the world, and people loved the darkness rather than the light because their works were evil.
+19. And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil.
 20. For everyone who does wicked things hates the light and does not come to the light, lest his works should be exposed.
 21. But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God.
 22. After this Jesus and his disciples went into the Judean countryside, and he remained there with them and was baptizing.
@@ -224,7 +224,7 @@
 42. But I know that you do not have the love of God within you.
 43. I have come in my Father’s name, and you do not receive me. If another comes in his own name, you will receive him.
 44. How can you believe, when you receive glory from one another and do not seek the glory that comes from the only God?
-45. Do not think that I will accuse you to the Father. There is one who accuses you : Moses, on whom you have set your hope.
+45. Do not think that I will accuse you to the Father. There is one who accuses you: Moses, on whom you have set your hope.
 46. For if you believed Moses, you would believe me; for he wrote of me.
 47. But if you do not believe his writings, how will you believe my words?
 
@@ -598,7 +598,7 @@
 25. Whoever loves his life loses it, and whoever hates his life in this world will keep it for eternal life.
 26. If anyone serves me, he must follow me; and where I am, there will my servant be also. If anyone serves me, the Father will honor him.
 27. Now is my soul troubled. And what shall I say? Father, save me from this hour? But for this purpose I have come to this hour.
-28. Father, glorify your name. Then a voice came from heaven : I have glorified it, and I will glorify it again.
+28. Father, glorify your name. Then a voice came from heaven: I have glorified it, and I will glorify it again.
 29. The crowd that stood there and heard it said that it had thundered. Others said, An angel has spoken to him.
 30. Jesus answered, This voice has come for your sake, not mine.
 31. Now is the judgment of this world; now will the ruler of this world be cast out.
@@ -608,7 +608,7 @@
 35. So Jesus said to them, The light is among you for a little while longer. Walk while you have the light, lest darkness overtake you. The one who walks in the darkness does not know where he is going.
 36. While you have the light, believe in the light, that you may become sons of light. When Jesus had said these things, he departed and hid himself from them.
 37. Though he had done so many signs before them, they still did not believe in him,
-38. so that the word spoken by the prophet Isaiah might be fulfilled : Lord, who has believed what he heard from us, and to whom has the arm of the Lord been revealed?
+38. so that the word spoken by the prophet Isaiah might be fulfilled: Lord, who has believed what he heard from us, and to whom has the arm of the Lord been revealed?
 39. Therefore they could not believe. For again Isaiah said,
 40. He has blinded their eyes and hardened their heart, lest they see with their eyes, and understand with their heart, and turn, and I would heal them.
 41. Isaiah said these things because he saw his glory and spoke of him.
@@ -657,7 +657,7 @@
 31. When he had gone out, Jesus said, Now is the Son of Man glorified, and God is glorified in him.
 32. If God is glorified in him, God will also glorify him in himself, and glorify him at once.
 33. Little children, yet a little while I am with you. You will seek me, and just as I said to the Jews, so now I also say to you, Where I am going you cannot come.
-34. A new commandment I give to you, that you love one another : just as I have loved you, you also are to love one another.
+34. A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another.
 35. By this all people will know that you are my disciples, if you have love for one another.
 36. Simon Peter said to him, Lord, where are you going? Jesus answered him, Where I am going you cannot follow me now, but you will follow afterward.
 37. Peter said to him, Lord, why can I not follow you now? I will lay down my life for you.
@@ -718,12 +718,12 @@
 17. These things I command you, so that you will love one another.
 18. If the world hates you, know that it has hated me before it hated you.
 19. If you were of the world, the world would love you as its own; but because you are not of the world, but I chose you out of the world, therefore the world hates you.
-20. Remember the word that I said to you : A servant is not greater than his master. If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours.
+20. Remember the word that I said to you: A servant is not greater than his master. If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours.
 21. But all these things they will do to you on account of my name, because they do not know him who sent me.
 22. If I had not come and spoken to them, they would not have been guilty of sin, but now they have no excuse for their sin.
 23. Whoever hates me hates my Father also.
 24. If I had not done among them the works that no one else did, they would not be guilty of sin, but now they have seen and hated both me and my Father.
-25. But the word that is written in their Law must be fulfilled : They hated me without a cause.
+25. But the word that is written in their Law must be fulfilled: They hated me without a cause.
 26. But when the Helper comes, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will bear witness about me.
 27. And you also will bear witness, because you have been with me from the beginning.
 
@@ -735,8 +735,8 @@
 4. But I have said these things to you, that when their hour comes you may remember that I told them to you. I did not say these things to you from the beginning, because I was with you.
 5. But now I am going to him who sent me, and none of you asks me, Where are you going?
 6. But because I have said these things to you, sorrow has filled your heart.
-7. Nevertheless, I tell you the truth : it is to your advantage that I go away, for if I do not go away, the Helper will not come to you. But if I go, I will send him to you.
-8. And when he comes, he will convict the world concerning sin and righteousness and judgment :
+7. Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, the Helper will not come to you. But if I go, I will send him to you.
+8. And when he comes, he will convict the world concerning sin and righteousness and judgment:
 9. concerning sin, because they do not believe in me;
 10. concerning righteousness, because I go to the Father, and you will see me no longer;
 11. concerning judgment, because the ruler of this world is judged.
@@ -802,7 +802,7 @@
 6. When Jesus said to them, I am he, they drew back and fell to the ground.
 7. So he asked them again, Whom do you seek? And they said, Jesus of Nazareth.
 8. Jesus answered, I told you that I am he. So, if you seek me, let these men go.
-9. This was to fulfill the word that he had spoken : Of those whom you gave me I have lost not one.
+9. This was to fulfill the word that he had spoken: Of those whom you gave me I have lost not one.
 10. Then Simon Peter, having a sword, drew it and struck the high priest’s servant and cut off his right ear. ( The servant’s name was Malchus .)
 11. So Jesus said to Peter, Put your sword into its sheath; shall I not drink the cup that the Father has given me?
 12. So the band of soldiers and their captain and the officers of the Jews arrested Jesus and bound him.
@@ -872,7 +872,7 @@
 33. But when they came to Jesus and saw that he was already dead, they did not break his legs.
 34. But one of the soldiers pierced his side with a spear, and at once there came out blood and water.
 35. He who saw it has borne witness — his testimony is true, and he knows that he is telling the truth — that you also may believe.
-36. For these things took place that the Scripture might be fulfilled : Not one of his bones will be broken.
+36. For these things took place that the Scripture might be fulfilled: Not one of his bones will be broken.
 37. And again another Scripture says, They will look on him whom they have pierced.
 38. After these things Joseph of Arimathea, who was a disciple of Jesus, but secretly for fear of the Jews, asked Pilate that he might take away the body of Jesus, and Pilate gave him permission. So he came and took away his body.
 39. Nicodemus also, who earlier had come to Jesus by night, came bringing a mixture of myrrh and aloes, about seventy-five pounds in weight.

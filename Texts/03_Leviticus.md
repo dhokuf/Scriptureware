@@ -140,7 +140,7 @@
 17. It shall not be baked with leaven. I have given it as their portion of my food offerings. It is a thing most holy, like the sin offering and the guilt offering.
 18. Every male among the children of Aaron may eat of it, as decreed forever throughout your generations, from the Lord ’s food offerings. Whatever touches them shall become holy.
 19. The Lord spoke to Moses, saying,
-20. This is the offering that Aaron and his sons shall offer to the Lord on the day when he is anointed : a tenth of an ephah of fine flour as a regular grain offering, half of it in the morning and half in the evening.
+20. This is the offering that Aaron and his sons shall offer to the Lord on the day when he is anointed: a tenth of an ephah of fine flour as a regular grain offering, half of it in the morning and half in the evening.
 21. It shall be made with oil on a griddle. You shall bring it well mixed, in baked pieces like a grain offering, and offer it for a pleasing aroma to the Lord.
 22. The priest from among Aaron’s sons, who is anointed to succeed him, shall offer it to the Lord as decreed forever. The whole of it shall be burned.
 23. Every grain offering of a priest shall be wholly burned. It shall not be eaten.
@@ -263,7 +263,7 @@
 
 1. Now Nadab and Abihu, the sons of Aaron, each took his censer and put fire in it and laid incense on it and offered unauthorized fire before the Lord, which he had not commanded them.
 2. And fire came out from before the Lord and consumed them, and they died before the Lord.
-3. Then Moses said to Aaron, This is what the Lord has said : Among those who are near me I will be sanctified, and before all the people I will be glorified. And Aaron held his peace.
+3. Then Moses said to Aaron, This is what the Lord has said: Among those who are near me I will be sanctified, and before all the people I will be glorified. And Aaron held his peace.
 4. And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said to them, Come near; carry your brothers away from the front of the sanctuary and out of the camp.
 5. So they came near and carried them in their coats out of the camp, as Moses had said.
 6. And Moses said to Aaron and to Eleazar and Ithamar his sons, Do not let the hair of your heads hang loose, and do not tear your clothes, lest you die, and wrath come upon all the congregation; but let your brothers, the whole house of Israel, bewail the burning that the Lord has kindled.
@@ -272,7 +272,7 @@
 9. Drink no wine or strong drink, you or your sons with you, when you go into the tent of meeting, lest you die. It shall be a statute forever throughout your generations.
 10. You are to distinguish between the holy and the common, and between the unclean and the clean,
 11. and you are to teach the people of Israel all the statutes that the Lord has spoken to them by Moses.
-12. Moses spoke to Aaron and to Eleazar and Ithamar, his surviving sons : Take the grain offering that is left of the Lord ’s food offerings, and eat it unleavened beside the altar, for it is most holy.
+12. Moses spoke to Aaron and to Eleazar and Ithamar, his surviving sons: Take the grain offering that is left of the Lord ’s food offerings, and eat it unleavened beside the altar, for it is most holy.
 13. You shall eat it in a holy place, because it is your due and your sons ’ due, from the Lord ’s food offerings, for so I am commanded.
 14. But the breast that is waved and the thigh that is contributed you shall eat in a clean place, you and your sons and your daughters with you, for they are given as your due and your sons ’ due from the sacrifices of the peace offerings of the people of Israel.
 15. The thigh that is contributed and the breast that is waved they shall bring with the food offerings of the fat pieces to wave for a wave offering before the Lord, and it shall be yours and your sons ’ with you as a due forever, as the Lord has commanded.
@@ -296,7 +296,7 @@
 10. But anything in the seas or the rivers that does not have fins and scales, of the swarming creatures in the waters and of the living creatures that are in the waters, is detestable to you.
 11. You shall regard them as detestable; you shall not eat any of their flesh, and you shall detest their carcasses.
 12. Everything in the waters that does not have fins and scales is detestable to you.
-13. And these you shall detest among the birds; they shall not be eaten; they are detestable : the eagle, the bearded vulture, the black vulture,
+13. And these you shall detest among the birds; they shall not be eaten; they are detestable: the eagle, the bearded vulture, the black vulture,
 14. the kite, the falcon of any kind,
 15. every raven of any kind,
 16. the ostrich, the nighthawk, the sea gull, the hawk of any kind,
@@ -305,14 +305,14 @@
 19. the stork, the heron of any kind, the hoopoe, and the bat.
 20. All winged insects that go on all fours are detestable to you.
 21. Yet among the winged insects that go on all fours you may eat those that have jointed legs above their feet, with which to hop on the ground.
-22. Of them you may eat : the locust of any kind, the bald locust of any kind, the cricket of any kind, and the grasshopper of any kind.
+22. Of them you may eat: the locust of any kind, the bald locust of any kind, the cricket of any kind, and the grasshopper of any kind.
 23. But all other winged insects that have four feet are detestable to you.
 24. And by these you shall become unclean. Whoever touches their carcass shall be unclean until the evening,
 25. and whoever carries any part of their carcass shall wash his clothes and be unclean until the evening.
 26. Every animal that parts the hoof but is not cloven-footed or does not chew the cud is unclean to you. Everyone who touches them shall be unclean.
 27. And all that walk on their paws, among the animals that go on all fours, are unclean to you. Whoever touches their carcass shall be unclean until the evening,
 28. and he who carries their carcass shall wash his clothes and be unclean until the evening; they are unclean to you.
-29. And these are unclean to you among the swarming things that swarm on the ground : the mole rat, the mouse, the great lizard of any kind,
+29. And these are unclean to you among the swarming things that swarm on the ground: the mole rat, the mouse, the great lizard of any kind,
 30. the gecko, the monitor lizard, the lizard, the sand lizard, and the chameleon.
 31. These are unclean to you among all that swarm. Whoever touches them when they are dead shall be unclean until the evening.
 32. And anything on which any of them falls when they are dead shall be unclean, whether it is an article of wood or a garment or a skin or a sack, any article that is used for any purpose. It must be put into water, and it shall be unclean until the evening; then it shall be clean.
@@ -460,7 +460,7 @@
 51. and shall take the cedarwood and the hyssop and the scarlet yarn, along with the live bird, and dip them in the blood of the bird that was killed and in the fresh water and sprinkle the house seven times.
 52. Thus he shall cleanse the house with the blood of the bird and with the fresh water and with the live bird and with the cedarwood and hyssop and scarlet yarn.
 53. And he shall let the live bird go out of the city into the open country. So he shall make atonement for the house, and it shall be clean.
-54. This is the law for any case of leprous disease : for an itch,
+54. This is the law for any case of leprous disease: for an itch,
 55. for leprous disease in a garment or in a house,
 56. and for a swelling or an eruption or a spot,
 57. to show when it is unclean and when it is clean. This is the law for leprous disease.
@@ -469,7 +469,7 @@
 
 1. The Lord spoke to Moses and Aaron, saying,
 2. Speak to the people of Israel and say to them, When any man has a discharge from his body, his discharge is unclean.
-3. And this is the law of his uncleanness for a discharge : whether his body runs with his discharge, or his body is blocked up by his discharge, it is his uncleanness.
+3. And this is the law of his uncleanness for a discharge: whether his body runs with his discharge, or his body is blocked up by his discharge, it is his uncleanness.
 4. Every bed on which the one with the discharge lies shall be unclean, and everything on which he sits shall be unclean.
 5. And anyone who touches his bed shall wash his clothes and bathe himself in water and be unclean until the evening.
 6. And whoever sits on anything on which the one with the discharge has sat shall wash his clothes and bathe himself in water and be unclean until the evening.
@@ -553,7 +553,7 @@
 11. For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life.
 12. Therefore I have said to the people of Israel, No person among you shall eat blood, neither shall any stranger who sojourns among you eat blood.
 13. Any one also of the people of Israel, or of the strangers who sojourn among them, who takes in hunting any beast or bird that may be eaten shall pour out its blood and cover it with earth.
-14. For the life of every creature is its blood : its blood is its life. Therefore I have said to the people of Israel, You shall not eat the blood of any creature, for the life of every creature is its blood. Whoever eats it shall be cut off.
+14. For the life of every creature is its blood: its blood is its life. Therefore I have said to the people of Israel, You shall not eat the blood of any creature, for the life of every creature is its blood. Whoever eats it shall be cut off.
 15. And every person who eats what dies of itself or what is torn by beasts, whether he is a native or a sojourner, shall wash his clothes and bathe himself in water and be unclean until the evening; then he shall be clean.
 16. But if he does not wash them or bathe his flesh, he shall bear his iniquity.
 
@@ -579,7 +579,7 @@
 18. And you shall not take a woman as a rival wife to her sister, uncovering her nakedness while her sister is still alive.
 19. You shall not approach a woman to uncover her nakedness while she is in her menstrual uncleanness.
 20. And you shall not lie sexually with your neighbor’s wife and so make yourself unclean with her.
-21. You shall not give any of your children to offer them to Molech, and so profane the name of your God : I am the Lord.
+21. You shall not give any of your children to offer them to Molech, and so profane the name of your God: I am the Lord.
 22. You shall not lie with a male as with a woman; it is an abomination.
 23. And you shall not lie with any animal and so make yourself unclean with it, neither shall any woman give herself to an animal to lie with it: it is perversion.
 24. Do not make yourselves unclean by any of these things, for by all these the nations I am driving out before you have become unclean,
@@ -594,22 +594,22 @@
 
 1. And the Lord spoke to Moses, saying,
 2. Speak to all the congregation of the people of Israel and say to them, You shall be holy, for I the Lord your God am holy.
-3. Every one of you shall revere his mother and his father, and you shall keep my Sabbaths : I am the Lord your God.
-4. Do not turn to idols or make for yourselves any gods of cast metal : I am the Lord your God.
+3. Every one of you shall revere his mother and his father, and you shall keep my Sabbaths: I am the Lord your God.
+4. Do not turn to idols or make for yourselves any gods of cast metal: I am the Lord your God.
 5. When you offer a sacrifice of peace offerings to the Lord, you shall offer it so that you may be accepted.
 6. It shall be eaten the same day you offer it or on the day after, and anything left over until the third day shall be burned up with fire.
 7. If it is eaten at all on the third day, it is tainted; it will not be accepted,
 8. and everyone who eats it shall bear his iniquity, because he has profaned what is holy to the Lord, and that person shall be cut off from his people.
 9. When you reap the harvest of your land, you shall not reap your field right up to its edge, neither shall you gather the gleanings after your harvest.
-10. And you shall not strip your vineyard bare, neither shall you gather the fallen grapes of your vineyard. You shall leave them for the poor and for the sojourner : I am the Lord your God.
+10. And you shall not strip your vineyard bare, neither shall you gather the fallen grapes of your vineyard. You shall leave them for the poor and for the sojourner: I am the Lord your God.
 11. You shall not steal; you shall not deal falsely; you shall not lie to one another.
-12. You shall not swear by my name falsely, and so profane the name of your God : I am the Lord.
+12. You shall not swear by my name falsely, and so profane the name of your God: I am the Lord.
 13. You shall not oppress your neighbor or rob him. The wages of a hired worker shall not remain with you all night until the morning.
-14. You shall not curse the deaf or put a stumbling block before the blind, but you shall fear your God : I am the Lord.
+14. You shall not curse the deaf or put a stumbling block before the blind, but you shall fear your God: I am the Lord.
 15. You shall do no injustice in court. You shall not be partial to the poor or defer to the great, but in righteousness shall you judge your neighbor.
-16. You shall not go around as a slanderer among your people, and you shall not stand up against the life of your neighbor : I am the Lord.
+16. You shall not go around as a slanderer among your people, and you shall not stand up against the life of your neighbor: I am the Lord.
 17. You shall not hate your brother in your heart, but you shall reason frankly with your neighbor, lest you incur sin because of him.
-18. You shall not take vengeance or bear a grudge against the sons of your own people, but you shall love your neighbor as yourself : I am the Lord.
+18. You shall not take vengeance or bear a grudge against the sons of your own people, but you shall love your neighbor as yourself: I am the Lord.
 19. You shall keep my statutes. You shall not let your cattle breed with a different kind. You shall not sow your field with two kinds of seed, nor shall you wear a garment of cloth made of two kinds of material.
 20. If a man lies sexually with a woman who is a slave, assigned to another man and not yet ransomed or given her freedom, a distinction shall be made. They shall not be put to death, because she was not free;
 21. but he shall bring his compensation to the Lord, to the entrance of the tent of meeting, a ram for a guilt offering.
@@ -621,13 +621,13 @@
 27. You shall not round off the hair on your temples or mar the edges of your beard.
 28. You shall not make any cuts on your body for the dead or tattoo yourselves: I am the Lord.
 29. Do not profane your daughter by making her a prostitute, lest the land fall into prostitution and the land become full of depravity.
-30. You shall keep my Sabbaths and reverence my sanctuary : I am the Lord.
+30. You shall keep my Sabbaths and reverence my sanctuary: I am the Lord.
 31. Do not turn to mediums or necromancers; do not seek them out, and so make yourselves unclean by them: I am the Lord your God.
-32. You shall stand up before the gray head and honor the face of an old man, and you shall fear your God : I am the Lord.
+32. You shall stand up before the gray head and honor the face of an old man, and you shall fear your God: I am the Lord.
 33. When a stranger sojourns with you in your land, you shall not do him wrong.
-34. You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself, for you were strangers in the land of Egypt : I am the Lord your God.
+34. You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself, for you were strangers in the land of Egypt: I am the Lord your God.
 35. You shall do no wrong in judgment, in measures of length or weight or quantity.
-36. You shall have just balances, just weights, a just ephah, and a just hin : I am the Lord your God, who brought you out of the land of Egypt.
+36. You shall have just balances, just weights, a just ephah, and a just hin: I am the Lord your God, who brought you out of the land of Egypt.
 37. And you shall observe all my statutes and all my rules, and do them: I am the Lord.
 
 ## Chapter 20
@@ -690,8 +690,8 @@
 ## Chapter 22
 
 1. And the Lord spoke to Moses, saying,
-2. Speak to Aaron and his sons so that they abstain from the holy things of the people of Israel, which they dedicate to me, so that they do not profane my holy name : I am the Lord.
-3. Say to them, If any one of all your offspring throughout your generations approaches the holy things that the people of Israel dedicate to the Lord, while he has an uncleanness, that person shall be cut off from my presence : I am the Lord.
+2. Speak to Aaron and his sons so that they abstain from the holy things of the people of Israel, which they dedicate to me, so that they do not profane my holy name: I am the Lord.
+3. Say to them, If any one of all your offspring throughout your generations approaches the holy things that the people of Israel dedicate to the Lord, while he has an uncleanness, that person shall be cut off from my presence: I am the Lord.
 4. None of the offspring of Aaron who has a leprous disease or a discharge may eat of the holy things until he is clean. Whoever touches anything that is unclean through contact with the dead or a man who has had an emission of semen,
 5. and whoever touches a swarming thing by which he may be made unclean or a person from whom he may take uncleanness, whatever his uncleanness may be—
 6. the person who touches such a thing shall be unclean until the evening and shall not eat of the holy things unless he has bathed his body in water.
@@ -704,7 +704,7 @@
 13. But if a priest’s daughter is widowed or divorced and has no child and returns to her father’s house, as in her youth, she may eat of her father’s food; yet no lay person shall eat of it.
 14. And if anyone eats of a holy thing unintentionally, he shall add the fifth of its value to it and give the holy thing to the priest.
 15. They shall not profane the holy things of the people of Israel, which they contribute to the Lord,
-16. and so cause them to bear iniquity and guilt, by eating their holy things : for I am the Lord who sanctifies them.
+16. and so cause them to bear iniquity and guilt, by eating their holy things: for I am the Lord who sanctifies them.
 17. And the Lord spoke to Moses, saying,
 18. Speak to Aaron and his sons and all the people of Israel and say to them, When any one of the house of Israel or of the sojourners in Israel presents a burnt offering as his offering, for any of their vows or freewill offerings that they offer to the Lord,
 19. if it is to be accepted for you it shall be a male without blemish, of the bulls or the sheep or the goats.
@@ -718,10 +718,10 @@
 27. When an ox or sheep or goat is born, it shall remain seven days with its mother, and from the eighth day on it shall be acceptable as a food offering to the Lord.
 28. But you shall not kill an ox or a sheep and her young in one day.
 29. And when you sacrifice a sacrifice of thanksgiving to the Lord, you shall sacrifice it so that you may be accepted.
-30. It shall be eaten on the same day; you shall leave none of it until morning : I am the Lord.
+30. It shall be eaten on the same day; you shall leave none of it until morning: I am the Lord.
 31. So you shall keep my commandments and do them: I am the Lord.
 32. And you shall not profane my holy name, that I may be sanctified among the people of Israel. I am the Lord who sanctifies you,
-33. who brought you out of the land of Egypt to be your God : I am the Lord.
+33. who brought you out of the land of Egypt to be your God: I am the Lord.
 
 ## Chapter 23
 
@@ -738,7 +738,7 @@
 11. and he shall wave the sheaf before the Lord, so that you may be accepted. On the day after the Sabbath the priest shall wave it.
 12. And on the day when you wave the sheaf, you shall offer a male lamb a year old without blemish as a burnt offering to the Lord.
 13. And the grain offering with it shall be two tenths of an ephah of fine flour mixed with oil, a food offering to the Lord with a pleasing aroma, and the drink offering with it shall be of wine, a fourth of a hin.
-14. And you shall eat neither bread nor grain parched or fresh until this same day, until you have brought the offering of your God : it is a statute forever throughout your generations in all your dwellings.
+14. And you shall eat neither bread nor grain parched or fresh until this same day, until you have brought the offering of your God: it is a statute forever throughout your generations in all your dwellings.
 15. You shall count seven full weeks from the day after the Sabbath, from the day that you brought the sheaf of the wave offering.
 16. You shall count fifty days to the day after the seventh Sabbath. Then you shall present a grain offering of new grain to the Lord.
 17. You shall bring from your dwelling places two loaves of bread to be waved, made of two tenths of an ephah. They shall be of fine flour, and they shall be baked with leaven, as firstfruits to the Lord.
@@ -746,7 +746,7 @@
 19. And you shall offer one male goat for a sin offering, and two male lambs a year old as a sacrifice of peace offerings.
 20. And the priest shall wave them with the bread of the firstfruits as a wave offering before the Lord, with the two lambs. They shall be holy to the Lord for the priest.
 21. And you shall make a proclamation on the same day. You shall hold a holy convocation. You shall not do any ordinary work. It is a statute forever in all your dwelling places throughout your generations.
-22. And when you reap the harvest of your land, you shall not reap your field right up to its edge, nor shall you gather the gleanings after your harvest. You shall leave them for the poor and for the sojourner : I am the Lord your God.
+22. And when you reap the harvest of your land, you shall not reap your field right up to its edge, nor shall you gather the gleanings after your harvest. You shall leave them for the poor and for the sojourner: I am the Lord your God.
 23. And the Lord spoke to Moses, saying,
 24. Speak to the people of Israel, saying, In the seventh month, on the first day of the month, you shall observe a day of solemn rest, a memorial proclaimed with blast of trumpets, a holy convocation.
 25. You shall not do any ordinary work, and you shall present a food offering to the Lord.
@@ -767,7 +767,7 @@
 40. And you shall take on the first day the fruit of splendid trees, branches of palm trees and boughs of leafy trees and willows of the brook, and you shall rejoice before the Lord your God seven days.
 41. You shall celebrate it as a feast to the Lord for seven days in the year. It is a statute forever throughout your generations; you shall celebrate it in the seventh month.
 42. You shall dwell in booths for seven days. All native Israelites shall dwell in booths,
-43. that your generations may know that I made the people of Israel dwell in booths when I brought them out of the land of Egypt : I am the Lord your God.
+43. that your generations may know that I made the people of Israel dwell in booths when I brought them out of the land of Egypt: I am the Lord your God.
 44. Thus Moses declared to the people of Israel the appointed feasts of the Lord.
 
 ## Chapter 24
@@ -804,7 +804,7 @@
 4. but in the seventh year there shall be a Sabbath of solemn rest for the land, a Sabbath to the Lord. You shall not sow your field or prune your vineyard.
 5. You shall not reap what grows of itself in your harvest, or gather the grapes of your undressed vine. It shall be a year of solemn rest for the land.
 6. The Sabbath of the land shall provide food for you, for yourself and for your male and female slaves and for your hired worker and the sojourner who lives with you,
-7. and for your cattle and for the wild animals that are in your land : all its yield shall be for food.
+7. and for your cattle and for the wild animals that are in your land: all its yield shall be for food.
 8. You shall count seven weeks of years, seven times seven years, so that the time of the seven weeks of years shall give you forty-nine years.
 9. Then you shall sound the loud trumpet on the tenth day of the seventh month. On the Day of Atonement you shall sound the trumpet throughout all your land.
 10. And you shall consecrate the fiftieth year, and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you, when each of you shall return to his property and each of you shall return to his clan.
@@ -836,7 +836,7 @@
 36. Take no interest from him or profit, but fear your God, that your brother may live beside you.
 37. You shall not lend him your money at interest, nor give him your food for profit.
 38. I am the Lord your God, who brought you out of the land of Egypt to give you the land of Canaan, and to be your God.
-39. If your brother becomes poor beside you and sells himself to you, you shall not make him serve as a slave :
+39. If your brother becomes poor beside you and sells himself to you, you shall not make him serve as a slave:
 40. he shall be with you as a hired worker and as a sojourner. He shall serve with you until the year of the jubilee.
 41. Then he shall go out from you, he and his children with him, and go back to his own clan and return to the possession of his fathers.
 42. For they are my servants, whom I brought out of the land of Egypt; they shall not be sold as slaves.
@@ -852,12 +852,12 @@
 52. If there remain but a few years until the year of jubilee, he shall calculate and pay for his redemption in proportion to his years of service.
 53. He shall treat him as a worker hired year by year. He shall not rule ruthlessly over him in your sight.
 54. And if he is not redeemed by these means, then he and his children with him shall be released in the year of jubilee.
-55. For it is to me that the people of Israel are servants. They are my servants whom I brought out of the land of Egypt : I am the Lord your God.
+55. For it is to me that the people of Israel are servants. They are my servants whom I brought out of the land of Egypt: I am the Lord your God.
 
 ## Chapter 26
 
 1. You shall not make idols for yourselves or erect an image or pillar, and you shall not set up a figured stone in your land to bow down to it, for I am the Lord your God.
-2. You shall keep my Sabbaths and reverence my sanctuary : I am the Lord.
+2. You shall keep my Sabbaths and reverence my sanctuary: I am the Lord.
 3. If you walk in my statutes and observe my commandments and do them,
 4. then I will give you your rains in their season, and the land shall yield its increase, and the trees of the field shall yield their fruit.
 5. Your threshing shall last to the time of the grape harvest, and the grape harvest shall last to the time for sowing. And you shall eat your bread to the full and dwell in your land securely.
@@ -900,7 +900,7 @@
 42. then I will remember my covenant with Jacob, and I will remember my covenant with Isaac and my covenant with Abraham, and I will remember the land.
 43. But the land shall be abandoned by them and enjoy its Sabbaths while it lies desolate without them, and they shall make amends for their iniquity, because they spurned my rules and their soul abhorred my statutes.
 44. Yet for all that, when they are in the land of their enemies, I will not spurn them, neither will I abhor them so as to destroy them utterly and break my covenant with them, for I am the Lord their God.
-45. But I will for their sake remember the covenant with their forefathers, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God : I am the Lord.
+45. But I will for their sake remember the covenant with their forefathers, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God: I am the Lord.
 46. These are the statutes and rules and laws that the Lord made between himself and the people of Israel through Moses on Mount Sinai.
 
 ## Chapter 27
@@ -929,7 +929,7 @@
 22. If he dedicates to the Lord a field that he has bought, which is not a part of his possession,
 23. then the priest shall calculate the amount of the valuation for it up to the year of jubilee, and the man shall give the valuation on that day as a holy gift to the Lord.
 24. In the year of jubilee the field shall return to him from whom it was bought, to whom the land belongs as a possession.
-25. Every valuation shall be according to the shekel of the sanctuary : twenty gerahs shall make a shekel.
+25. Every valuation shall be according to the shekel of the sanctuary: twenty gerahs shall make a shekel.
 26. But a firstborn of animals, which as a firstborn belongs to the Lord, no man may dedicate; whether ox or sheep, it is the Lord ’s.
 27. And if it is an unclean animal, then he shall buy it back at the valuation, and add a fifth to it; or, if it is not redeemed, it shall be sold at the valuation.
 28. But no devoted thing that a man devotes to the Lord, of anything that he has, whether man or beast, or of his inherited field, shall be sold or redeemed; every devoted thing is most holy to the Lord.

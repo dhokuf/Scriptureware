@@ -55,8 +55,8 @@
 14. Malchijah the son of Rechab, ruler of the district of Beth-haccherem, repaired the Dung Gate. He rebuilt it and set its doors, its bolts, and its bars.
 15. And Shallum the son of Col-hozeh, ruler of the district of Mizpah, repaired the Fountain Gate. He rebuilt it and covered it and set its doors, its bolts, and its bars. And he built the wall of the Pool of Shelah of the king’s garden, as far as the stairs that go down from the city of David.
 16. After him Nehemiah the son of Azbuk, ruler of half the district of Beth-zur, repaired to a point opposite the tombs of David, as far as the artificial pool, and as far as the house of the mighty men.
-17. After him the Levites repaired : Rehum the son of Bani. Next to him Hashabiah, ruler of half the district of Keilah, repaired for his district.
-18. After him their brothers repaired : Bavvai the son of Henadad, ruler of half the district of Keilah.
+17. After him the Levites repaired: Rehum the son of Bani. Next to him Hashabiah, ruler of half the district of Keilah, repaired for his district.
+18. After him their brothers repaired: Bavvai the son of Henadad, ruler of half the district of Keilah.
 19. Next to him Ezer the son of Jeshua, ruler of Mizpah, repaired another section opposite the ascent to the armory at the buttress.
 20. After him Baruch the son of Zabbai repaired another section from the buttress to the door of the house of Eliashib the high priest.
 21. After him Meremoth the son of Uriah, son of Hakkoz repaired another section from the door of the house of Eliashib to the end of the house of Eliashib.
@@ -139,7 +139,7 @@
 15. So the wall was finished on the twenty-fifth day of the month Elul, in fifty-two days.
 16. And when all our enemies heard of it, all the nations around us were afraid and fell greatly in their own esteem, for they perceived that this work had been accomplished with the help of our God.
 17. Moreover, in those days the nobles of Judah sent many letters to Tobiah, and Tobiah’s letters came to them.
-18. For many in Judah were bound by oath to him, because he was the son-in-law of Shecaniah the son of Arah : and his son Jehohanan had taken the daughter of Meshullam the son of Berechiah as his wife.
+18. For many in Judah were bound by oath to him, because he was the son-in-law of Shecaniah the son of Arah: and his son Jehohanan had taken the daughter of Meshullam the son of Berechiah as his wife.
 19. Also they spoke of his good deeds in my presence and reported my words to him. And Tobiah sent letters to make me afraid.
 
 ## Chapter 7
@@ -150,7 +150,7 @@
 4. The city was wide and large, but the people within it were few, and no houses had been rebuilt.
 5. Then my God put it into my heart to assemble the nobles and the officials and the people to be enrolled by genealogy. And I found the book of the genealogy of those who came up at the first, and I found written in it:
 6. These were the people of the province who came up out of the captivity of those exiles whom Nebuchadnezzar the king of Babylon had carried into exile. They returned to Jerusalem and Judah, each to his town.
-7. They came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number of the men of the people of Israel :
+7. They came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number of the men of the people of Israel:
 8. the sons of Parosh, 2,172.
 9. The sons of Shephatiah, 372.
 10. The sons of Arah, 652.
@@ -182,14 +182,14 @@
 36. The sons of Jericho, 345.
 37. The sons of Lod, Hadid, and Ono, 721.
 38. The sons of Senaah, 3,930.
-39. The priests : the sons of Jedaiah, namely the house of Jeshua, 973.
+39. The priests: the sons of Jedaiah, namely the house of Jeshua, 973.
 40. The sons of Immer, 1,052.
 41. The sons of Pashhur, 1,247.
 42. The sons of Harim, 1,017.
-43. The Levites : the sons of Jeshua, namely of Kadmiel of the sons of Hodevah, 74.
-44. The singers : the sons of Asaph, 148.
-45. The gatekeepers : the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, 138.
-46. The temple servants : the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth,
+43. The Levites: the sons of Jeshua, namely of Kadmiel of the sons of Hodevah, 74.
+44. The singers: the sons of Asaph, 148.
+45. The gatekeepers: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, 138.
+46. The temple servants: the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth,
 47. the sons of Keros, the sons of Sia, the sons of Padon,
 48. the sons of Lebana, the sons of Hagaba, the sons of Shalmai,
 49. the sons of Hanan, the sons of Giddel, the sons of Gahar,
@@ -200,13 +200,13 @@
 54. the sons of Bazlith, the sons of Mehida, the sons of Harsha,
 55. the sons of Barkos, the sons of Sisera, the sons of Temah,
 56. the sons of Neziah, the sons of Hatipha.
-57. The sons of Solomon’s servants : the sons of Sotai, the sons of Sophereth, the sons of Perida,
+57. The sons of Solomon’s servants: the sons of Sotai, the sons of Sophereth, the sons of Perida,
 58. the sons of Jaala, the sons of Darkon, the sons of Giddel,
 59. the sons of Shephatiah, the sons of Hattil, the sons of Pochereth-hazzebaim, the sons of Amon.
 60. All the temple servants and the sons of Solomon’s servants were 392.
-61. The following were those who came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, but they could not prove their fathers ’ houses nor their descent, whether they belonged to Israel :
+61. The following were those who came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, but they could not prove their fathers ’ houses nor their descent, whether they belonged to Israel:
 62. the sons of Delaiah, the sons of Tobiah, the sons of Nekoda, 642.
-63. Also, of the priests : the sons of Hobaiah, the sons of Hakkoz, the sons of Barzillai (who had taken a wife of the daughters of Barzillai the Gileadite and was called by their name ).
+63. Also, of the priests: the sons of Hobaiah, the sons of Hakkoz, the sons of Barzillai (who had taken a wife of the daughters of Barzillai the Gileadite and was called by their name ).
 64. These sought their registration among those enrolled in the genealogies, but it was not found there, so they were excluded from the priesthood as unclean.
 65. The governor told them that they were not to partake of the most holy food until a priest with Urim and Thummim should arise.
 66. The whole assembly together was 42,360,
@@ -290,12 +290,12 @@
 6. Daniel, Ginnethon, Baruch,
 7. Meshullam, Abijah, Mijamin,
 8. Maaziah, Bilgai, Shemaiah; these are the priests.
-9. And the Levites : Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;
+9. And the Levites: Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;
 10. and their brothers, Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,
 11. Mica, Rehob, Hashabiah,
 12. Zaccur, Sherebiah, Shebaniah,
 13. Hodiah, Bani, Beninu.
-14. The chiefs of the people : Parosh, Pahath-moab, Elam, Zattu, Bani,
+14. The chiefs of the people: Parosh, Pahath-moab, Elam, Zattu, Bani,
 15. Bunni, Azgad, Bebai,
 16. Adonijah, Bigvai, Adin,
 17. Ater, Hezekiah, Azzur,
@@ -313,7 +313,7 @@
 29. join with their brothers, their nobles, and enter into a curse and an oath to walk in God’s Law that was given by Moses the servant of God, and to observe and do all the commandments of the Lord our Lord and his rules and his statutes.
 30. We will not give our daughters to the peoples of the land or take their daughters for our sons.
 31. And if the peoples of the land bring in goods or any grain on the Sabbath day to sell, we will not buy from them on the Sabbath or on a holy day. And we will forego the crops of the seventh year and the exaction of every debt.
-32. We also take on ourselves the obligation to give yearly a third part of a shekel for the service of the house of our God :
+32. We also take on ourselves the obligation to give yearly a third part of a shekel for the service of the house of our God:
 33. for the showbread, the regular grain offering, the regular burnt offering, the Sabbaths, the new moons, the appointed feasts, the holy things, and the sin offerings to make atonement for Israel, and for all the work of the house of our God.
 34. We, the priests, the Levites, and the people, have likewise cast lots for the wood offering, to bring it into the house of our God, according to our fathers ’ houses, at times appointed, year by year, to burn on the altar of the Lord our God, as it is written in the Law.
 35. We obligate ourselves to bring the firstfruits of our ground and the firstfruits of all fruit of every tree, year by year, to the house of the Lord;
@@ -326,19 +326,19 @@
 
 1. Now the leaders of the people lived in Jerusalem. And the rest of the people cast lots to bring one out of ten to live in Jerusalem the holy city, while nine out of ten remained in the other towns.
 2. And the people blessed all the men who willingly offered to live in Jerusalem.
-3. These are the chiefs of the province who lived in Jerusalem; but in the towns of Judah everyone lived on his property in their towns : Israel, the priests, the Levites, the temple servants, and the descendants of Solomon’s servants.
-4. And in Jerusalem lived certain of the sons of Judah and of the sons of Benjamin. Of the sons of Judah : Athaiah the son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalalel, of the sons of Perez;
+3. These are the chiefs of the province who lived in Jerusalem; but in the towns of Judah everyone lived on his property in their towns: Israel, the priests, the Levites, the temple servants, and the descendants of Solomon’s servants.
+4. And in Jerusalem lived certain of the sons of Judah and of the sons of Benjamin. Of the sons of Judah: Athaiah the son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalalel, of the sons of Perez;
 5. and Maaseiah the son of Baruch, son of Col-hozeh, son of Hazaiah, son of Adaiah, son of Joiarib, son of Zechariah, son of the Shilonite.
 6. All the sons of Perez who lived in Jerusalem were 468 valiant men.
-7. And these are the sons of Benjamin : Sallu the son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Maaseiah, son of Ithiel, son of Jeshaiah,
+7. And these are the sons of Benjamin: Sallu the son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Maaseiah, son of Ithiel, son of Jeshaiah,
 8. and his brothers, men of valor, 928.
 9. Joel the son of Zichri was their overseer; and Judah the son of Hassenuah was second over the city.
-10. Of the priests : Jedaiah the son of Joiarib, Jachin,
+10. Of the priests: Jedaiah the son of Joiarib, Jachin,
 11. Seraiah the son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, ruler of the house of God,
 12. and their brothers who did the work of the house, 822; and Adaiah the son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malchijah,
 13. and his brothers, heads of fathers ’ houses, 242; and Amashsai, the son of Azarel, son of Ahzai, son of Meshillemoth, son of Immer,
 14. and their brothers, mighty men of valor, 128; their overseer was Zabdiel the son of Haggedolim.
-15. And of the Levites : Shemaiah the son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni;
+15. And of the Levites: Shemaiah the son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni;
 16. and Shabbethai and Jozabad, of the chiefs of the Levites, who were over the outside work of the house of God;
 17. and Mattaniah the son of Mica, son of Zabdi, son of Asaph, who was the leader of the praise, who gave thanks, and Bakbukiah, the second among his brothers; and Abda the son of Shammua, son of Galal, son of Jeduthun.
 18. All the Levites in the holy city were 284.
@@ -363,14 +363,14 @@
 
 ## Chapter 12
 
-1. These are the priests and the Levites who came up with Zerubbabel the son of Shealtiel, and Jeshua : Seraiah, Jeremiah, Ezra,
+1. These are the priests and the Levites who came up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,
 2. Amariah, Malluch, Hattush,
 3. Shecaniah, Rehum, Meremoth,
 4. Iddo, Ginnethoi, Abijah,
 5. Mijamin, Maadiah, Bilgah,
 6. Shemaiah, Joiarib, Jedaiah,
 7. Sallu, Amok, Hilkiah, Jedaiah. These were the chiefs of the priests and of their brothers in the days of Jeshua.
-8. And the Levites : Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who with his brothers was in charge of the songs of thanksgiving.
+8. And the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who with his brothers was in charge of the songs of thanksgiving.
 9. And Bakbukiah and Unni and their brothers stood opposite them in the service.
 10. And Jeshua was the father of Joiakim, Joiakim the father of Eliashib, Eliashib the father of Joiada,
 11. Joiada the father of Jonathan, and Jonathan the father of Jaddua.
@@ -386,7 +386,7 @@
 21. of Hilkiah, Hashabiah; of Jedaiah, Nethanel.
 22. In the days of Eliashib, Joiada, Johanan, and Jaddua, the Levites were recorded as heads of fathers ’ houses; so too were the priests in the reign of Darius the Persian.
 23. As for the sons of Levi, their heads of fathers ’ houses were written in the Book of the Chronicles until the days of Johanan the son of Eliashib.
-24. And the chiefs of the Levites : Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brothers who stood opposite them, to praise and to give thanks, according to the commandment of David the man of God, watch by watch.
+24. And the chiefs of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brothers who stood opposite them, to praise and to give thanks, according to the commandment of David the man of God, watch by watch.
 25. Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub were gatekeepers standing guard at the storehouses of the gates.
 26. These were in the days of Joiakim the son of Jeshua son of Jozadak, and in the days of Nehemiah the governor and of Ezra, the priest and scribe.
 27. And at the dedication of the wall of Jerusalem they sought the Levites in all their places, to bring them to Jerusalem to celebrate the dedication with gladness, with thanksgivings and with singing, with cymbals, harps, and lyres.
@@ -397,7 +397,7 @@
 32. And after them went Hoshaiah and half of the leaders of Judah,
 33. and Azariah, Ezra, Meshullam,
 34. Judah, Benjamin, Shemaiah, and Jeremiah,
-35. and certain of the priests ’ sons with trumpets : Zechariah the son of Jonathan, son of Shemaiah, son of Mattaniah, son of Micaiah, son of Zaccur, son of Asaph;
+35. and certain of the priests ’ sons with trumpets: Zechariah the son of Jonathan, son of Shemaiah, son of Mattaniah, son of Micaiah, son of Zaccur, son of Asaph;
 36. and his relatives, Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, and Hanani, with the musical instruments of David the man of God. And Ezra the scribe went before them.
 37. At the Fountain Gate they went up straight before them by the stairs of the city of David, at the ascent of the wall, above the house of David, to the Water Gate on the east.
 38. The other choir of those who gave thanks went to the north, and I followed them with half of the people, on the wall, above the Tower of the Ovens, to the Broad Wall,

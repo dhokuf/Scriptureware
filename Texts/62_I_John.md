@@ -19,7 +19,7 @@
 2. He is the propitiation for our sins, and not for ours only but also for the sins of the whole world.
 3. And by this we know that we have come to know him, if we keep his commandments.
 4. Whoever says I know him but does not keep his commandments is a liar, and the truth is not in him,
-5. but whoever keeps his word, in him truly the love of God is perfected. By this we may know that we are in him :
+5. but whoever keeps his word, in him truly the love of God is perfected. By this we may know that we are in him:
 6. whoever says he abides in him ought to walk in the same way in which he walked.
 7. Beloved, I am writing you no new commandment, but an old commandment that you had from the beginning. The old commandment is the word that you have heard.
 8. At the same time, it is a new commandment that I am writing to you, which is true in him and in you, because the darkness is passing away and the true light is already shining.
@@ -56,7 +56,7 @@
 7. Little children, let no one deceive you. Whoever practices righteousness is righteous, as he is righteous.
 8. Whoever makes a practice of sinning is of the devil, for the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the works of the devil.
 9. No one born of God makes a practice of sinning, for God’s seed abides in him, and he cannot keep on sinning because he has been born of God.
-10. By this it is evident who are the children of God, and who are the children of the devil : whoever does not practice righteousness is not of God, nor is the one who does not love his brother.
+10. By this it is evident who are the children of God, and who are the children of the devil: whoever does not practice righteousness is not of God, nor is the one who does not love his brother.
 11. For this is the message that you have heard from the beginning, that we should love one another.
 12. We should not be like Cain, who was of the evil one and murdered his brother. And why did he murder him? Because his own deeds were evil and his brother’s righteous.
 13. Do not be surprised, brothers, that the world hates you.
@@ -75,7 +75,7 @@
 ## Chapter 4
 
 1. Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world.
-2. By this you know the Spirit of God : every spirit that confesses that Jesus Christ has come in the flesh is from God,
+2. By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God,
 3. and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you heard was coming and now is in the world already.
 4. Little children, you are from God and have overcome them, for he who is in you is greater than he who is in the world.
 5. They are from the world; therefore they speak from the world, and the world listens to them.
@@ -94,7 +94,7 @@
 18. There is no fear in love, but perfect love casts out fear. For fear has to do with punishment, and whoever fears has not been perfected in love.
 19. We love because he first loved us.
 20. If anyone says, I love God, and hates his brother, he is a liar; for he who does not love his brother whom he has seen cannot love God whom he has not seen.
-21. And this commandment we have from him : whoever loves God must also love his brother.
+21. And this commandment we have from him: whoever loves God must also love his brother.
 
 ## Chapter 5
 
@@ -104,7 +104,7 @@
 4. For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world — our faith.
 5. Who is it that overcomes the world except the one who believes that Jesus is the Son of God?
 6. This is he who came by water and blood — Jesus Christ; not by the water only but by the water and the blood. And the Spirit is the one who testifies, because the Spirit is the truth.
-7. For there are three that testify :
+7. For there are three that testify:
 8. the Spirit and the water and the blood; and these three agree.
 9. If we receive the testimony of men, the testimony of God is greater, for this is the testimony of God that he has borne concerning his Son.
 10. Whoever believes in the Son of God has the testimony in himself. Whoever does not believe God has made him a liar, because he has not believed in the testimony that God has borne concerning his Son.

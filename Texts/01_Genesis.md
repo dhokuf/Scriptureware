@@ -113,7 +113,7 @@
 20. Adah bore Jabal; he was the father of those who dwell in tents and have livestock.
 21. His brother’s name was Jubal; he was the father of all those who play the lyre and pipe.
 22. Zillah also bore Tubal-cain; he was the forger of all instruments of bronze and iron. The sister of Tubal-cain was Naamah.
-23. Lamech said to his wives : Adah and Zillah, hear my voice; you wives of Lamech, listen to what I say : I have killed a man for wounding me, a young man for striking me.
+23. Lamech said to his wives: Adah and Zillah, hear my voice; you wives of Lamech, listen to what I say: I have killed a man for wounding me, a young man for striking me.
 24. If Cain’s revenge is sevenfold, then Lamech’s is seventy-sevenfold.
 25. And Adam knew his wife again, and she bore a son and called his name Seth, for she said, God has appointed for me another offspring instead of Abel, for Cain killed him.
 26. To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the Lord.
@@ -157,7 +157,7 @@
 
 1. When man began to multiply on the face of the land and daughters were born to them,
 2. the sons of God saw that the daughters of man were attractive. And they took as their wives any they chose.
-3. Then the Lord said, My Spirit shall not abide in man forever, for he is flesh : his days shall be 120 years.
+3. Then the Lord said, My Spirit shall not abide in man forever, for he is flesh: his days shall be 120 years.
 4. The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of man and they bore children to them. These were the mighty men who were of old, the men of renown.
 5. The Lord saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually.
 6. And the Lord regretted that he had made man on the earth, and it grieved him to his heart.
@@ -236,14 +236,14 @@
 2. The fear of you and the dread of you shall be upon every beast of the earth and upon every bird of the heavens, upon everything that creeps on the ground and all the fish of the sea. Into your hand they are delivered.
 3. Every moving thing that lives shall be food for you. And as I gave you the green plants, I give you everything.
 4. But you shall not eat flesh with its life, that is, its blood.
-5. And for your lifeblood I will require a reckoning : from every beast I will require it and from man. From his fellow man I will require a reckoning for the life of man.
+5. And for your lifeblood I will require a reckoning: from every beast I will require it and from man. From his fellow man I will require a reckoning for the life of man.
 6. Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image.
 7. And you, be fruitful and multiply, increase greatly on the earth and multiply in it.
 8. Then God said to Noah and to his sons with him,
 9. Behold, I establish my covenant with you and your offspring after you,
 10. and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as came out of the ark; it is for every beast of the earth.
 11. I establish my covenant with you, that never again shall all flesh be cut off by the waters of the flood, and never again shall there be a flood to destroy the earth.
-12. And God said, This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations :
+12. And God said, This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations:
 13. I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth.
 14. When I bring clouds over the earth and the bow is seen in the clouds,
 15. I will remember my covenant that is between me and you and every living creature of all flesh. And the waters shall never again become a flood to destroy all flesh.
@@ -265,12 +265,12 @@
 ## Chapter 10
 
 1. These are the generations of the sons of Noah, Shem, Ham, and Japheth. Sons were born to them after the flood.
-2. The sons of Japheth : Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
-3. The sons of Gomer : Ashkenaz, Riphath, and Togarmah.
-4. The sons of Javan : Elishah, Tarshish, Kittim, and Dodanim.
+2. The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+3. The sons of Gomer: Ashkenaz, Riphath, and Togarmah.
+4. The sons of Javan: Elishah, Tarshish, Kittim, and Dodanim.
 5. From these the coastland peoples spread in their lands, each with his own language, by their clans, in their nations.
-6. The sons of Ham : Cush, Egypt, Put, and Canaan.
-7. The sons of Cush : Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah : Sheba and Dedan.
+6. The sons of Ham: Cush, Egypt, Put, and Canaan.
+7. The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.
 8. Cush fathered Nimrod; he was the first on earth to be a mighty man.
 9. He was a mighty hunter before the Lord. Therefore it is said, Like Nimrod a mighty hunter before the Lord.
 10. The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.
@@ -285,10 +285,10 @@
 19. And the territory of the Canaanites extended from Sidon in the direction of Gerar as far as Gaza, and in the direction of Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.
 20. These are the sons of Ham, by their clans, their languages, their lands, and their nations.
 21. To Shem also, the father of all the children of Eber, the elder brother of Japheth, children were born.
-22. The sons of Shem : Elam, Asshur, Arpachshad, Lud, and Aram.
-23. The sons of Aram : Uz, Hul, Gether, and Mash.
+22. The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram.
+23. The sons of Aram: Uz, Hul, Gether, and Mash.
 24. Arpachshad fathered Shelah; and Shelah fathered Eber.
-25. To Eber were born two sons : the name of the one was Peleg, for in his days the earth was divided, and his brother’s name was Joktan.
+25. To Eber were born two sons: the name of the one was Peleg, for in his days the earth was divided, and his brother’s name was Joktan.
 26. Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,
 27. Hadoram, Uzal, Diklah,
 28. Obal, Abimael, Sheba,
@@ -405,7 +405,7 @@
 
 ## Chapter 15
 
-1. After these things the word of the Lord came to Abram in a vision : Fear not, Abram, I am your shield; your reward shall be very great.
+1. After these things the word of the Lord came to Abram in a vision: Fear not, Abram, I am your shield; your reward shall be very great.
 2. But Abram said, O Lord God, what will you give me, for I continue childless, and the heir of my house is Eliezer of Damascus?
 3. And Abram said, Behold, you have given me no offspring, and a member of my household will be my heir.
 4. And behold, the word of the Lord came to him: This man shall not be your heir; your very own son shall be your heir.
@@ -632,7 +632,7 @@
 17. I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand that is on the seashore. And your offspring shall possess the gate of his enemies,
 18. and in your offspring shall all the nations of the earth be blessed, because you have obeyed my voice.
 19. So Abraham returned to his young men, and they arose and went together to Beersheba. And Abraham lived at Beersheba.
-20. Now after these things it was told to Abraham, Behold, Milcah also has borne children to your brother Nahor :
+20. Now after these things it was told to Abraham, Behold, Milcah also has borne children to your brother Nahor:
 21. Uz his firstborn, Buz his brother, Kemuel the father of Aram,
 22. Chesed, Hazo, Pildash, Jidlaph, and Bethuel.
 23. ( Bethuel fathered Rebekah .) These eight Milcah bore to Nahor, Abraham’s brother.
@@ -650,7 +650,7 @@
 8. And he said to them, If you are willing that I should bury my dead out of my sight, hear me and entreat for me Ephron the son of Zohar,
 9. that he may give me the cave of Machpelah, which he owns; it is at the end of his field. For the full price let him give it to me in your presence as property for a burying place.
 10. Now Ephron was sitting among the Hittites, and Ephron the Hittite answered Abraham in the hearing of the Hittites, of all who went in at the gate of his city,
-11. No, my lord, hear me : I give you the field, and I give you the cave that is in it. In the sight of the sons of my people I give it to you. Bury your dead.
+11. No, my lord, hear me: I give you the field, and I give you the cave that is in it. In the sight of the sons of my people I give it to you. Bury your dead.
 12. Then Abraham bowed down before the people of the land.
 13. And he said to Ephron in the hearing of the people of the land, But if you will, hear me: I give the price of the field. Accept it from me, that I may bury my dead there.
 14. Ephron answered Abraham,
@@ -745,13 +745,13 @@
 10. the field that Abraham purchased from the Hittites. There Abraham was buried, with Sarah his wife.
 11. After the death of Abraham, God blessed Isaac his son. And Isaac settled at Beer-lahai-roi.
 12. These are the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s servant, bore to Abraham.
-13. These are the names of the sons of Ishmael, named in the order of their birth : Nebaioth, the firstborn of Ishmael; and Kedar, Adbeel, Mibsam,
+13. These are the names of the sons of Ishmael, named in the order of their birth: Nebaioth, the firstborn of Ishmael; and Kedar, Adbeel, Mibsam,
 14. Mishma, Dumah, Massa,
 15. Hadad, Tema, Jetur, Naphish, and Kedemah.
 16. These are the sons of Ishmael and these are their names, by their villages and by their encampments, twelve princes according to their tribes.
-17. (These are the years of the life of Ishmael : 137 years. He breathed his last and died, and was gathered to his people .)
+17. (These are the years of the life of Ishmael: 137 years. He breathed his last and died, and was gathered to his people .)
 18. They settled from Havilah to Shur, which is opposite Egypt in the direction of Assyria. He settled over against all his kinsmen.
-19. These are the generations of Isaac, Abraham’s son : Abraham fathered Isaac,
+19. These are the generations of Isaac, Abraham’s son: Abraham fathered Isaac,
 20. and Isaac was forty years old when he took Rebekah, the daughter of Bethuel the Aramean of Paddan-aram, the sister of Laban the Aramean, to be his wife.
 21. And Isaac prayed to the Lord for his wife, because she was barren. And the Lord granted his prayer, and Rebekah his wife conceived.
 22. The children struggled together within her, and she said, If it is thus, why is this happening to me? So she went to inquire of the Lord.
@@ -1027,7 +1027,7 @@
 1. Jacob went on his way, and the angels of God met him.
 2. And when Jacob saw them he said, This is God’s camp! So he called the name of that place Mahanaim.
 3. And Jacob sent messengers before him to Esau his brother in the land of Seir, the country of Edom,
-4. instructing them, Thus you shall say to my lord Esau : Thus says your servant Jacob, I have sojourned with Laban and stayed until now.
+4. instructing them, Thus you shall say to my lord Esau: Thus says your servant Jacob, I have sojourned with Laban and stayed until now.
 5. I have oxen, donkeys, flocks, male servants, and female servants. I have sent to tell my lord, in order that I may find favor in your sight.
 6. And the messengers returned to Jacob, saying, We came to your brother Esau, and he is coming to meet you, and there are four hundred men with him.
 7. Then Jacob was greatly afraid and distressed. He divided the people who were with him, and the flocks and herds and camels, into two camps,
@@ -1126,7 +1126,7 @@
 8. And Deborah, Rebekah’s nurse, died, and she was buried under an oak below Bethel. So he called its name Allon-bacuth.
 9. God appeared to Jacob again, when he came from Paddan-aram, and blessed him.
 10. And God said to him, Your name is Jacob; no longer shall your name be called Jacob, but Israel shall be your name. So he called his name Israel.
-11. And God said to him, I am God Almighty : be fruitful and multiply. A nation and a company of nations shall come from you, and kings shall come from your own body.
+11. And God said to him, I am God Almighty: be fruitful and multiply. A nation and a company of nations shall come from you, and kings shall come from your own body.
 12. The land that I gave to Abraham and Isaac I will give to you, and I will give the land to your offspring after you.
 13. Then God went up from him in the place where he had spoken with him.
 14. And Jacob set up a pillar in the place where he had spoken with him, a pillar of stone. He poured out a drink offering on it and poured oil on it.
@@ -1138,10 +1138,10 @@
 20. and Jacob set up a pillar over her tomb. It is the pillar of Rachel’s tomb, which is there to this day.
 21. Israel journeyed on and pitched his tent beyond the tower of Eder.
 22. While Israel lived in that land, Reuben went and lay with Bilhah his father’s concubine. And Israel heard of it. Now the sons of Jacob were twelve.
-23. The sons of Leah : Reuben ( Jacob’s firstborn ), Simeon, Levi, Judah, Issachar, and Zebulun.
-24. The sons of Rachel : Joseph and Benjamin.
-25. The sons of Bilhah, Rachel’s servant : Dan and Naphtali.
-26. The sons of Zilpah, Leah’s servant : Gad and Asher. These were the sons of Jacob who were born to him in Paddan-aram.
+23. The sons of Leah: Reuben ( Jacob’s firstborn ), Simeon, Levi, Judah, Issachar, and Zebulun.
+24. The sons of Rachel: Joseph and Benjamin.
+25. The sons of Bilhah, Rachel’s servant: Dan and Naphtali.
+26. The sons of Zilpah, Leah’s servant: Gad and Asher. These were the sons of Jacob who were born to him in Paddan-aram.
 27. And Jacob came to his father Isaac at Mamre, or Kiriath-arba (that is, Hebron ), where Abraham and Isaac had sojourned.
 28. Now the days of Isaac were 180 years.
 29. And Isaac breathed his last, and he died and was gathered to his people, old and full of days. And his sons Esau and Jacob buried him.
@@ -1149,7 +1149,7 @@
 ## Chapter 36
 
 1. These are the generations of Esau (that is, Edom ).
-2. Esau took his wives from the Canaanites : Adah the daughter of Elon the Hittite, Oholibamah the daughter of Anah the daughter of Zibeon the Hivite,
+2. Esau took his wives from the Canaanites: Adah the daughter of Elon the Hittite, Oholibamah the daughter of Anah the daughter of Zibeon the Hivite,
 3. and Basemath, Ishmael’s daughter, the sister of Nebaioth.
 4. And Adah bore to Esau, Eliphaz; Basemath bore Reuel;
 5. and Oholibamah bore Jeush, Jalam, and Korah. These are the sons of Esau who were born to him in the land of Canaan.
@@ -1157,26 +1157,26 @@
 7. For their possessions were too great for them to dwell together. The land of their sojournings could not support them because of their livestock.
 8. So Esau settled in the hill country of Seir. ( Esau is Edom .)
 9. These are the generations of Esau the father of the Edomites in the hill country of Seir.
-10. These are the names of Esau’s sons : Eliphaz the son of Adah the wife of Esau, Reuel the son of Basemath the wife of Esau.
+10. These are the names of Esau’s sons: Eliphaz the son of Adah the wife of Esau, Reuel the son of Basemath the wife of Esau.
 11. The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
 12. ( Timna was a concubine of Eliphaz, Esau’s son; she bore Amalek to Eliphaz .) These are the sons of Adah, Esau’s wife.
-13. These are the sons of Reuel : Nahath, Zerah, Shammah, and Mizzah. These are the sons of Basemath, Esau’s wife.
-14. These are the sons of Oholibamah the daughter of Anah the daughter of Zibeon, Esau’s wife : she bore to Esau Jeush, Jalam, and Korah.
-15. These are the chiefs of the sons of Esau. The sons of Eliphaz the firstborn of Esau : the chiefs Teman, Omar, Zepho, Kenaz,
+13. These are the sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. These are the sons of Basemath, Esau’s wife.
+14. These are the sons of Oholibamah the daughter of Anah the daughter of Zibeon, Esau’s wife: she bore to Esau Jeush, Jalam, and Korah.
+15. These are the chiefs of the sons of Esau. The sons of Eliphaz the firstborn of Esau: the chiefs Teman, Omar, Zepho, Kenaz,
 16. Korah, Gatam, and Amalek; these are the chiefs of Eliphaz in the land of Edom; these are the sons of Adah.
-17. These are the sons of Reuel, Esau’s son : the chiefs Nahath, Zerah, Shammah, and Mizzah; these are the chiefs of Reuel in the land of Edom; these are the sons of Basemath, Esau’s wife.
-18. These are the sons of Oholibamah, Esau’s wife : the chiefs Jeush, Jalam, and Korah; these are the chiefs born of Oholibamah the daughter of Anah, Esau’s wife.
+17. These are the sons of Reuel, Esau’s son: the chiefs Nahath, Zerah, Shammah, and Mizzah; these are the chiefs of Reuel in the land of Edom; these are the sons of Basemath, Esau’s wife.
+18. These are the sons of Oholibamah, Esau’s wife: the chiefs Jeush, Jalam, and Korah; these are the chiefs born of Oholibamah the daughter of Anah, Esau’s wife.
 19. These are the sons of Esau ( that is, Edom ), and these are their chiefs.
-20. These are the sons of Seir the Horite, the inhabitants of the land : Lotan, Shobal, Zibeon, Anah,
+20. These are the sons of Seir the Horite, the inhabitants of the land: Lotan, Shobal, Zibeon, Anah,
 21. Dishon, Ezer, and Dishan; these are the chiefs of the Horites, the sons of Seir in the land of Edom.
 22. The sons of Lotan were Hori and Hemam; and Lotan’s sister was Timna.
-23. These are the sons of Shobal : Alvan, Manahath, Ebal, Shepho, and Onam.
-24. These are the sons of Zibeon : Aiah and Anah; he is the Anah who found the hot springs in the wilderness, as he pastured the donkeys of Zibeon his father.
-25. These are the children of Anah : Dishon and Oholibamah the daughter of Anah.
-26. These are the sons of Dishon : Hemdan, Eshban, Ithran, and Cheran.
-27. These are the sons of Ezer : Bilhan, Zaavan, and Akan.
-28. These are the sons of Dishan : Uz and Aran.
-29. These are the chiefs of the Horites : the chiefs Lotan, Shobal, Zibeon, Anah,
+23. These are the sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam.
+24. These are the sons of Zibeon: Aiah and Anah; he is the Anah who found the hot springs in the wilderness, as he pastured the donkeys of Zibeon his father.
+25. These are the children of Anah: Dishon and Oholibamah the daughter of Anah.
+26. These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.
+27. These are the sons of Ezer: Bilhan, Zaavan, and Akan.
+28. These are the sons of Dishan: Uz and Aran.
+29. These are the chiefs of the Horites: the chiefs Lotan, Shobal, Zibeon, Anah,
 30. Dishon, Ezer, and Dishan; these are the chiefs of the Horites, chief by chief in the land of Seir.
 31. These are the kings who reigned in the land of Edom, before any king reigned over the Israelites.
 32. Bela the son of Beor reigned in Edom, the name of his city being Dinhabah.
@@ -1187,7 +1187,7 @@
 37. Samlah died, and Shaul of Rehoboth on the Euphrates reigned in his place.
 38. Shaul died, and Baal-hanan the son of Achbor reigned in his place.
 39. Baal-hanan the son of Achbor died, and Hadar reigned in his place, the name of his city being Pau; his wife’s name was Mehetabel, the daughter of Matred, daughter of Mezahab.
-40. These are the names of the chiefs of Esau, according to their clans and their dwelling places, by their names : the chiefs Timna, Alvah, Jetheth,
+40. These are the names of the chiefs of Esau, according to their clans and their dwelling places, by their names: the chiefs Timna, Alvah, Jetheth,
 41. Oholibamah, Elah, Pinon,
 42. Kenaz, Teman, Mibzar,
 43. Magdiel, and Iram; these are the chiefs of Edom (that is, Esau, the father of Edom ), according to their dwelling places in the land of their possession.
@@ -1199,7 +1199,7 @@
 3. Now Israel loved Joseph more than any other of his sons, because he was the son of his old age. And he made him a robe of many colors.
 4. But when his brothers saw that their father loved him more than all his brothers, they hated him and could not speak peacefully to him.
 5. Now Joseph had a dream, and when he told it to his brothers they hated him even more.
-6. He said to them, Hear this dream that I have dreamed :
+6. He said to them, Hear this dream that I have dreamed:
 7. Behold, we were binding sheaves in the field, and behold, my sheaf arose and stood upright. And behold, your sheaves gathered around it and bowed down to my sheaf.
 8. His brothers said to him, Are you indeed to reign over us? Or are you indeed to rule over us? So they hated him even more for his dreams and for his words.
 9. Then he dreamed another dream and told it to his brothers and said, Behold, I have dreamed another dream. Behold, the sun, the moon, and eleven stars were bowing down to me.
@@ -1303,13 +1303,13 @@
 9. So the chief cupbearer told his dream to Joseph and said to him, In my dream there was a vine before me,
 10. and on the vine there were three branches. As soon as it budded, its blossoms shot forth, and the clusters ripened into grapes.
 11. Pharaoh’s cup was in my hand, and I took the grapes and pressed them into Pharaoh’s cup and placed the cup in Pharaoh’s hand.
-12. Then Joseph said to him, This is its interpretation : the three branches are three days.
+12. Then Joseph said to him, This is its interpretation: the three branches are three days.
 13. In three days Pharaoh will lift up your head and restore you to your office, and you shall place Pharaoh’s cup in his hand as formerly, when you were his cupbearer.
 14. Only remember me, when it is well with you, and please do me the kindness to mention me to Pharaoh, and so get me out of this house.
 15. For I was indeed stolen out of the land of the Hebrews, and here also I have done nothing that they should put me into the pit.
-16. When the chief baker saw that the interpretation was favorable, he said to Joseph, I also had a dream : there were three cake baskets on my head,
+16. When the chief baker saw that the interpretation was favorable, he said to Joseph, I also had a dream: there were three cake baskets on my head,
 17. and in the uppermost basket there were all sorts of baked food for Pharaoh, but the birds were eating it out of the basket on my head.
-18. And Joseph answered and said, This is its interpretation : the three baskets are three days.
+18. And Joseph answered and said, This is its interpretation: the three baskets are three days.
 19. In three days Pharaoh will lift up your head — from you!—and hang you on a tree. And the birds will eat the flesh from you.
 20. On the third day, which was Pharaoh’s birthday, he made a feast for all his servants and lifted up the head of the chief cupbearer and the head of the chief baker among his servants.
 21. He restored the chief cupbearer to his position, and he placed the cup in Pharaoh’s hand.
@@ -1392,10 +1392,10 @@
 12. He said to them, No, it is the nakedness of the land that you have come to see.
 13. And they said, We, your servants, are twelve brothers, the sons of one man in the land of Canaan, and behold, the youngest is this day with our father, and one is no more.
 14. But Joseph said to them, It is as I said to you. You are spies.
-15. By this you shall be tested : by the life of Pharaoh, you shall not go from this place unless your youngest brother comes here.
+15. By this you shall be tested: by the life of Pharaoh, you shall not go from this place unless your youngest brother comes here.
 16. Send one of you, and let him bring your brother, while you remain confined, that your words may be tested, whether there is truth in you. Or else, by the life of Pharaoh, surely you are spies.
 17. And he put them all together in custody for three days.
-18. On the third day Joseph said to them, Do this and you will live, for I fear God :
+18. On the third day Joseph said to them, Do this and you will live, for I fear God:
 19. if you are honest men, let one of your brothers remain confined where you are in custody, and let the rest go and carry grain for the famine of your households,
 20. and bring your youngest brother to me. So your words will be verified, and you shall not die. And they did so.
 21. Then they said to one another, In truth we are guilty concerning our brother, in that we saw the distress of his soul, when he begged us and we did not listen. That is why this distress has come upon us.
@@ -1465,7 +1465,7 @@
 7. They said to him, Why does my lord speak such words as these? Far be it from your servants to do such a thing!
 8. Behold, the money that we found in the mouths of our sacks we brought back to you from the land of Canaan. How then could we steal silver or gold from your lord’s house?
 9. Whichever of your servants is found with it shall die, and we also will be my lord’s servants.
-10. He said, Let it be as you say : he who is found with it shall be my servant, and the rest of you shall be innocent.
+10. He said, Let it be as you say: he who is found with it shall be my servant, and the rest of you shall be innocent.
 11. Then each man quickly lowered his sack to the ground, and each man opened his sack.
 12. And he searched, beginning with the eldest and ending with the youngest. And the cup was found in Benjamin’s sack.
 13. Then they tore their clothes, and every man loaded his donkey, and they returned to the city.
@@ -1509,13 +1509,13 @@
 14. Then he fell upon his brother Benjamin’s neck and wept, and Benjamin wept upon his neck.
 15. And he kissed all his brothers and wept upon them. After that his brothers talked with him.
 16. When the report was heard in Pharaoh’s house, Joseph’s brothers have come, it pleased Pharaoh and his servants.
-17. And Pharaoh said to Joseph, Say to your brothers, Do this : load your beasts and go back to the land of Canaan,
+17. And Pharaoh said to Joseph, Say to your brothers, Do this: load your beasts and go back to the land of Canaan,
 18. and take your father and your households, and come to me, and I will give you the best of the land of Egypt, and you shall eat the fat of the land.
-19. And you, Joseph, are commanded to say, Do this : take wagons from the land of Egypt for your little ones and for your wives, and bring your father, and come.
+19. And you, Joseph, are commanded to say, Do this: take wagons from the land of Egypt for your little ones and for your wives, and bring your father, and come.
 20. Have no concern for your goods, for the best of all the land of Egypt is yours.
-21. The sons of Israel did so : and Joseph gave them wagons, according to the command of Pharaoh, and gave them provisions for the journey.
+21. The sons of Israel did so: and Joseph gave them wagons, according to the command of Pharaoh, and gave them provisions for the journey.
 22. To each and all of them he gave a change of clothes, but to Benjamin he gave three hundred shekels of silver and five changes of clothes.
-23. To his father he sent as follows : ten donkeys loaded with the good things of Egypt, and ten female donkeys loaded with grain, bread, and provision for his father on the journey.
+23. To his father he sent as follows: ten donkeys loaded with the good things of Egypt, and ten female donkeys loaded with grain, bread, and provision for his father on the journey.
 24. Then he sent his brothers away, and as they departed, he said to them, Do not quarrel on the way.
 25. So they went up out of Egypt and came to the land of Canaan to their father Jacob.
 26. And they told him, Joseph is still alive, and he is ruler over all the land of Egypt. And his heart became numb, for he did not believe them.
@@ -1532,22 +1532,22 @@
 6. They also took their livestock and their goods, which they had gained in the land of Canaan, and came into Egypt, Jacob and all his offspring with him,
 7. his sons, and his sons ’ sons with him, his daughters, and his sons ’ daughters. All his offspring he brought with him into Egypt.
 8. Now these are the names of the descendants of Israel, who came into Egypt, Jacob and his sons. Reuben, Jacob’s firstborn,
-9. and the sons of Reuben : Hanoch, Pallu, Hezron, and Carmi.
-10. The sons of Simeon : Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman.
-11. The sons of Levi : Gershon, Kohath, and Merari.
-12. The sons of Judah : Er, Onan, Shelah, Perez, and Zerah (but Er and Onan died in the land of Canaan ); and the sons of Perez were Hezron and Hamul.
-13. The sons of Issachar : Tola, Puvah, Yob, and Shimron.
-14. The sons of Zebulun : Sered, Elon, and Jahleel.
+9. and the sons of Reuben: Hanoch, Pallu, Hezron, and Carmi.
+10. The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman.
+11. The sons of Levi: Gershon, Kohath, and Merari.
+12. The sons of Judah: Er, Onan, Shelah, Perez, and Zerah (but Er and Onan died in the land of Canaan ); and the sons of Perez were Hezron and Hamul.
+13. The sons of Issachar: Tola, Puvah, Yob, and Shimron.
+14. The sons of Zebulun: Sered, Elon, and Jahleel.
 15. These are the sons of Leah, whom she bore to Jacob in Paddan-aram, together with his daughter Dinah; altogether his sons and his daughters numbered thirty-three.
-16. The sons of Gad : Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.
-17. The sons of Asher : Imnah, Ishvah, Ishvi, Beriah, with Serah their sister. And the sons of Beriah : Heber and Malchiel.
+16. The sons of Gad: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.
+17. The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, with Serah their sister. And the sons of Beriah: Heber and Malchiel.
 18. These are the sons of Zilpah, whom Laban gave to Leah his daughter; and these she bore to Jacob — sixteen persons.
-19. The sons of Rachel, Jacob’s wife : Joseph and Benjamin.
+19. The sons of Rachel, Jacob’s wife: Joseph and Benjamin.
 20. And to Joseph in the land of Egypt were born Manasseh and Ephraim, whom Asenath, the daughter of Potiphera the priest of On, bore to him.
-21. And the sons of Benjamin : Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.
+21. And the sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.
 22. These are the sons of Rachel, who were born to Jacob — fourteen persons in all.
-23. The son of Dan : Hushim.
-24. The sons of Naphtali : Jahzeel, Guni, Jezer, and Shillem.
+23. The son of Dan: Hushim.
+24. The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem.
 25. These are the sons of Bilhah, whom Laban gave to Rachel his daughter, and these she bore to Jacob — seven persons in all.
 26. All the persons belonging to Jacob who came into Egypt, who were his own descendants, not including Jacob’s sons ’ wives, were sixty-six persons in all.
 27. And the sons of Joseph, who were born to him in Egypt, were two. All the persons of the house of Jacob who came into Egypt were seventy.
@@ -1660,7 +1660,7 @@
 2. And Joseph commanded his servants the physicians to embalm his father. So the physicians embalmed Israel.
 3. Forty days were required for it, for that is how many are required for embalming. And the Egyptians wept for him seventy days.
 4. And when the days of weeping for him were past, Joseph spoke to the household of Pharaoh, saying, If now I have found favor in your eyes, please speak in the ears of Pharaoh, saying,
-5. My father made me swear, saying, I am about to die : in my tomb that I hewed out for myself in the land of Canaan, there shall you bury me. Now therefore, let me please go up and bury my father. Then I will return.
+5. My father made me swear, saying, I am about to die: in my tomb that I hewed out for myself in the land of Canaan, there shall you bury me. Now therefore, let me please go up and bury my father. Then I will return.
 6. And Pharaoh answered, Go up, and bury your father, as he made you swear.
 7. So Joseph went up to bury his father. With him went up all the servants of Pharaoh, the elders of his household, and all the elders of the land of Egypt,
 8. as well as all the household of Joseph, his brothers, and his father’s household. Only their children, their flocks, and their herds were left in the land of Goshen.
@@ -1671,7 +1671,7 @@
 13. for his sons carried him to the land of Canaan and buried him in the cave of the field at Machpelah, to the east of Mamre, which Abraham bought with the field from Ephron the Hittite to possess as a burying place.
 14. After he had buried his father, Joseph returned to Egypt with his brothers and all who had gone up with him to bury his father.
 15. When Joseph’s brothers saw that their father was dead, they said, It may be that Joseph will hate us and pay us back for all the evil that we did to him.
-16. So they sent a message to Joseph, saying, Your father gave this command before he died :
+16. So they sent a message to Joseph, saying, Your father gave this command before he died:
 17. Say to Joseph, Please forgive the transgression of your brothers and their sin, because they did evil to you. And now, please forgive the transgression of the servants of the God of your father. Joseph wept when they spoke to him.
 18. His brothers also came and fell down before him and said, Behold, we are your servants.
 19. But Joseph said to them, Do not fear, for am I in the place of God?

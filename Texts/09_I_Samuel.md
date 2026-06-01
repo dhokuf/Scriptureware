@@ -34,7 +34,7 @@
 ## Chapter 2
 
 1. And Hannah prayed and said, My heart exults in the Lord; my horn is exalted in the Lord. My mouth derides my enemies, because I rejoice in your salvation.
-2. There is none holy like the Lord : for there is none besides you; there is no rock like our God.
+2. There is none holy like the Lord: for there is none besides you; there is no rock like our God.
 3. Talk no more so very proudly, let not arrogance come from your mouth; for the Lord is a God of knowledge, and by him actions are weighed.
 4. The bows of the mighty are broken, but the feeble bind on strength.
 5. Those who were full have hired themselves out for bread, but those who were hungry have ceased to hunger. The barren has borne seven, but she who has many children is forlorn.
@@ -62,7 +62,7 @@
 27. And there came a man of God to Eli and said to him, Thus says the Lord, Did I indeed reveal myself to the house of your father when they were in Egypt subject to the house of Pharaoh?
 28. Did I choose him out of all the tribes of Israel to be my priest, to go up to my altar, to burn incense, to wear an ephod before me? I gave to the house of your father all my offerings by fire from the people of Israel.
 29. Why then do you scorn my sacrifices and my offerings that I commanded for my dwelling, and honor your sons above me by fattening yourselves on the choicest parts of every offering of my people Israel?
-30. Therefore the Lord, the God of Israel, declares : I promised that your house and the house of your father should go in and out before me forever, but now the Lord declares : Far be it from me, for those who honor me I will honor, and those who despise me shall be lightly esteemed.
+30. Therefore the Lord, the God of Israel, declares: I promised that your house and the house of your father should go in and out before me forever, but now the Lord declares: Far be it from me, for those who honor me I will honor, and those who despise me shall be lightly esteemed.
 31. Behold, the days are coming when I will cut off your strength and the strength of your father’s house, so that there will not be an old man in your house.
 32. Then in distress you will look with envious eye on all the prosperity that shall be bestowed on Israel, and there shall not be an old man in your house forever.
 33. The only one of you whom I shall not cut off from my altar shall be spared to weep his eyes out to grieve his heart, and all the descendants of your house shall die by the sword of men.
@@ -152,7 +152,7 @@
 14. The cart came into the field of Joshua of Beth-shemesh and stopped there. A great stone was there. And they split up the wood of the cart and offered the cows as a burnt offering to the Lord.
 15. And the Levites took down the ark of the Lord and the box that was beside it, in which were the golden figures, and set them upon the great stone. And the men of Beth-shemesh offered burnt offerings and sacrificed sacrifices on that day to the Lord.
 16. And when the five lords of the Philistines saw it, they returned that day to Ekron.
-17. These are the golden tumors that the Philistines returned as a guilt offering to the Lord : one for Ashdod, one for Gaza, one for Ashkelon, one for Gath, one for Ekron,
+17. These are the golden tumors that the Philistines returned as a guilt offering to the Lord: one for Ashdod, one for Gaza, one for Ashkelon, one for Gath, one for Ekron,
 18. and the golden mice, according to the number of all the cities of the Philistines belonging to the five lords, both fortified cities and unwalled villages. The great stone beside which they set down the ark of the Lord is a witness to this day in the field of Joshua of Beth-shemesh.
 19. And he struck some of the men of Beth-shemesh, because they looked upon the ark of the Lord. He struck seventy men of them, and the people mourned because the Lord had struck the people with a great blow.
 20. Then the men of Beth-shemesh said, Who is able to stand before the Lord, this holy God? And to whom shall he go up away from us?
@@ -219,7 +219,7 @@
 12. They answered, He is; behold, he is just ahead of you. Hurry. He has come just now to the city, because the people have a sacrifice today on the high place.
 13. As soon as you enter the city you will find him, before he goes up to the high place to eat. For the people will not eat till he comes, since he must bless the sacrifice; afterward those who are invited will eat. Now go up, for you will meet him immediately.
 14. So they went up to the city. As they were entering the city, they saw Samuel coming out toward them on his way up to the high place.
-15. Now the day before Saul came, the Lord had revealed to Samuel :
+15. Now the day before Saul came, the Lord had revealed to Samuel:
 16. Tomorrow about this time I will send to you a man from the land of Benjamin, and you shall anoint him to be prince over my people Israel. He shall save my people from the hand of the Philistines. For I have seen my people, because their cry has come to me.
 17. When Samuel saw Saul, the Lord told him, Here is the man of whom I spoke to you! He it is who shall restrain my people.
 18. Then Saul approached Samuel in the gate and said, Tell me where is the house of the seer?
@@ -273,7 +273,7 @@
 6. And the Spirit of God rushed upon Saul when he heard these words, and his anger was greatly kindled.
 7. He took a yoke of oxen and cut them in pieces and sent them throughout all the territory of Israel by the hand of the messengers, saying, Whoever does not come out after Saul and Samuel, so shall it be done to his oxen! Then the dread of the Lord fell upon the people, and they came out as one man.
 8. When he mustered them at Bezek, the people of Israel were three hundred thousand, and the men of Judah thirty thousand.
-9. And they said to the messengers who had come, Thus shall you say to the men of Jabesh-gilead : Tomorrow, by the time the sun is hot, you shall have salvation. When the messengers came and told the men of Jabesh, they were glad.
+9. And they said to the messengers who had come, Thus shall you say to the men of Jabesh-gilead: Tomorrow, by the time the sun is hot, you shall have salvation. When the messengers came and told the men of Jabesh, they were glad.
 10. Therefore the men of Jabesh said, Tomorrow we will give ourselves up to you, and you may do to us whatever seems good to you.
 11. And the next day Saul put the people in three companies. And they came into the midst of the camp in the morning watch and struck down the Ammonites until the heat of the day. And those who survived were scattered, so that no two of them were left together.
 12. Then the people said to Samuel, Who is it that said, Shall Saul reign over us? Bring the men, that we may put them to death.
@@ -401,7 +401,7 @@
 7. And Saul defeated the Amalekites from Havilah as far as Shur, which is east of Egypt.
 8. And he took Agag the king of the Amalekites alive and devoted to destruction all the people with the edge of the sword.
 9. But Saul and the people spared Agag and the best of the sheep and of the oxen and of the fattened calves and the lambs, and all that was good, and would not utterly destroy them. All that was despised and worthless they devoted to destruction.
-10. The word of the Lord came to Samuel :
+10. The word of the Lord came to Samuel:
 11. I regret that I have made Saul king, for he has turned back from following me and has not performed my commandments. And Samuel was angry, and he cried to the Lord all night.
 12. And Samuel rose early to meet Saul in the morning. And it was told Samuel, Saul came to Carmel, and behold, he set up a monument for himself and turned and passed on and went down to Gilgal.
 13. And Samuel came to Saul, and Saul said to him, Blessed be you to the Lord. I have performed the commandment of the Lord.
@@ -436,7 +436,7 @@
 4. Samuel did what the Lord commanded and came to Bethlehem. The elders of the city came to meet him trembling and said, Do you come peaceably?
 5. And he said, Peaceably; I have come to sacrifice to the Lord. Consecrate yourselves, and come with me to the sacrifice. And he consecrated Jesse and his sons and invited them to the sacrifice.
 6. When they came, he looked on Eliab and thought, Surely the Lord ’s anointed is before him.
-7. But the Lord said to Samuel, Do not look on his appearance or on the height of his stature, because I have rejected him. For the Lord sees not as man sees : man looks on the outward appearance, but the Lord looks on the heart.
+7. But the Lord said to Samuel, Do not look on his appearance or on the height of his stature, because I have rejected him. For the Lord sees not as man sees: man looks on the outward appearance, but the Lord looks on the heart.
 8. Then Jesse called Abinadab and made him pass before Samuel. And he said, Neither has the Lord chosen this one.
 9. Then Jesse made Shammah pass by. And he said, Neither has the Lord chosen this one.
 10. And Jesse made seven of his sons pass before Samuel. And Samuel said to Jesse, The Lord has not chosen these.

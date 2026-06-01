@@ -2,7 +2,7 @@
 
 ## Chapter 1
 
-1. The word of the Lord that came to Joel, the son of Pethuel :
+1. The word of the Lord that came to Joel, the son of Pethuel:
 2. Hear this, you elders; give ear, all inhabitants of the land! Has such a thing happened in your days, or in the days of your fathers?
 3. Tell your children of it, and let your children tell their children, and their children to another generation.
 4. What the cutting locust left, the swarming locust has eaten. What the swarming locust left, the hopping locust has eaten, and what the hopping locust left, the destroying locust has eaten.
@@ -68,7 +68,7 @@
 6. You have sold the people of Judah and Jerusalem to the Greeks in order to remove them far from their own border.
 7. Behold, I will stir them up from the place to which you have sold them, and I will return your payment on your own head.
 8. I will sell your sons and your daughters into the hand of the people of Judah, and they will sell them to the Sabeans, to a nation far away, for the Lord has spoken.
-9. Proclaim this among the nations : Consecrate for war; stir up the mighty men. Let all the men of war draw near; let them come up.
+9. Proclaim this among the nations: Consecrate for war; stir up the mighty men. Let all the men of war draw near; let them come up.
 10. Beat your plowshares into swords, and your pruning hooks into spears; let the weak say, I am a warrior.
 11. Hasten and come, all you surrounding nations, and gather yourselves there. Bring down your warriors, O Lord.
 12. Let the nations stir themselves up and come up to the Valley of Jehoshaphat; for there I will sit to judge all the surrounding nations.

@@ -13,7 +13,7 @@
 9. and Uzziah the father of Jotham, and Jotham the father of Ahaz, and Ahaz the father of Hezekiah,
 10. and Hezekiah the father of Manasseh, and Manasseh the father of Amos, and Amos the father of Josiah,
 11. and Josiah the father of Jechoniah and his brothers, at the time of the deportation to Babylon.
-12. And after the deportation to Babylon : Jechoniah was the father of Shealtiel, and Shealtiel the father of Zerubbabel,
+12. And after the deportation to Babylon: Jechoniah was the father of Shealtiel, and Shealtiel the father of Zerubbabel,
 13. and Zerubbabel the father of Abiud, and Abiud the father of Eliakim, and Eliakim the father of Azor,
 14. and Azor the father of Zadok, and Zadok the father of Achim, and Achim the father of Eliud,
 15. and Eliud the father of Eleazar, and Eleazar the father of Matthan, and Matthan the father of Jacob,
@@ -23,9 +23,9 @@
 19. And her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly.
 20. But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit.
 21. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.
-22. All this took place to fulfill what the Lord had spoken by the prophet :
+22. All this took place to fulfill what the Lord had spoken by the prophet:
 23. Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel ( which means, God with us ).
-24. When Joseph woke from sleep, he did as the angel of the Lord commanded him : he took his wife,
+24. When Joseph woke from sleep, he did as the angel of the Lord commanded him: he took his wife,
 25. but knew her not until she had given birth to a son. And he called his name Jesus.
 
 ## Chapter 2
@@ -34,7 +34,7 @@
 2. saying, Where is he who has been born king of the Jews? For we saw his star when it rose and have come to worship him.
 3. When Herod the king heard this, he was troubled, and all Jerusalem with him;
 4. and assembling all the chief priests and scribes of the people, he inquired of them where the Christ was to be born.
-5. They told him, In Bethlehem of Judea, for so it is written by the prophet :
+5. They told him, In Bethlehem of Judea, for so it is written by the prophet:
 6. And you, O Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for from you shall come a ruler who will shepherd my people Israel.
 7. Then Herod summoned the wise men secretly and ascertained from them what time the star had appeared.
 8. And he sent them to Bethlehem, saying, Go and search diligently for the child, and when you have found him, bring me word, that I too may come and worship him.
@@ -46,7 +46,7 @@
 14. And he rose and took the child and his mother by night and departed to Egypt
 15. and remained there until the death of Herod. This was to fulfill what the Lord had spoken by the prophet, Out of Egypt I called my son.
 16. Then Herod, when he saw that he had been tricked by the wise men, became furious, and he sent and killed all the male children in Bethlehem and in all that region who were two years old or under, according to the time that he had ascertained from the wise men.
-17. Then was fulfilled what was spoken by the prophet Jeremiah :
+17. Then was fulfilled what was spoken by the prophet Jeremiah:
 18. A voice was heard in Ramah, weeping and loud lamentation, Rachel weeping for her children; she refused to be comforted, because they are no more.
 19. But when Herod died, behold, an angel of the Lord appeared in a dream to Joseph in Egypt,
 20. saying, Rise, take the child and his mother and go to the land of Israel, for those who sought the child’s life are dead.
@@ -58,7 +58,7 @@
 
 1. In those days John the Baptist came preaching in the wilderness of Judea,
 2. Repent, for the kingdom of heaven is at hand.
-3. For this is he who was spoken of by the prophet Isaiah when he said, The voice of one crying in the wilderness : Prepare the way of the Lord; make his paths straight.
+3. For this is he who was spoken of by the prophet Isaiah when he said, The voice of one crying in the wilderness: Prepare the way of the Lord; make his paths straight.
 4. Now John wore a garment of camel’s hair and a leather belt around his waist, and his food was locusts and wild honey.
 5. Then Jerusalem and all Judea and all the region about the Jordan were going out to him,
 6. and they were baptized by him in the river Jordan, confessing their sins.
@@ -89,7 +89,7 @@
 11. Then the devil left him, and behold, angels came and were ministering to him.
 12. Now when he heard that John had been arrested, he withdrew into Galilee.
 13. And leaving Nazareth he went and lived in Capernaum by the sea, in the territory of Zebulun and Naphtali,
-14. so that what was spoken by the prophet Isaiah might be fulfilled :
+14. so that what was spoken by the prophet Isaiah might be fulfilled:
 15. The land of Zebulun and the land of Naphtali, the way of the sea, beyond the Jordan, Galilee of the Gentiles —
 16. the people dwelling in darkness have seen a great light, and for those dwelling in the region and shadow of death, on them a light has dawned.
 17. From that time Jesus began to preach, saying, Repent, for the kingdom of heaven is at hand.
@@ -105,7 +105,7 @@
 ## Chapter 5
 
 1. Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him.
-2. And he opened his mouth and taught them, saying :
+2. And he opened his mouth and taught them, saying:
 3. Blessed are the poor in spirit, for theirs is the kingdom of heaven.
 4. Blessed are those who mourn, for they shall be comforted.
 5. Blessed are the meek, for they shall inherit the earth.
@@ -163,7 +163,7 @@
 6. But when you pray, go into your room and shut the door and pray to your Father who is in secret. And your Father who sees in secret will reward you.
 7. And when you pray, do not heap up empty phrases as the Gentiles do, for they think that they will be heard for their many words.
 8. Do not be like them, for your Father knows what you need before you ask him.
-9. Pray then like this : Our Father in heaven, hallowed be your name.
+9. Pray then like this: Our Father in heaven, hallowed be your name.
 10. Your kingdom come, your will be done, on earth as it is in heaven.
 11. Give us this day our daily bread,
 12. and forgive us our debts, as we also have forgiven our debtors.
@@ -180,9 +180,9 @@
 23. but if your eye is bad, your whole body will be full of darkness. If then the light in you is darkness, how great is the darkness!
 24. No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money.
 25. Therefore I tell you, do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will put on. Is not life more than food, and the body more than clothing?
-26. Look at the birds of the air : they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they?
+26. Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they?
 27. And which of you by being anxious can add a single hour to his span of life?
-28. And why are you anxious about clothing? Consider the lilies of the field, how they grow : they neither toil nor spin,
+28. And why are you anxious about clothing? Consider the lilies of the field, how they grow: they neither toil nor spin,
 29. yet I tell you, even Solomon in all his glory was not arrayed like one of these.
 30. But if God so clothes the grass of the field, which today is alive and tomorrow is thrown into the oven, will he not much more clothe you, O you of little faith?
 31. Therefore do not be anxious, saying, What shall we eat? or What shall we drink? or What shall we wear?
@@ -240,7 +240,7 @@
 14. And when Jesus entered Peter’s house, he saw his mother-in-law lying sick with a fever.
 15. He touched her hand, and the fever left her, and she rose and began to serve him.
 16. That evening they brought to him many who were oppressed by demons, and he cast out the spirits with a word and healed all who were sick.
-17. This was to fulfill what was spoken by the prophet Isaiah : He took our illnesses and bore our diseases.
+17. This was to fulfill what was spoken by the prophet Isaiah: He took our illnesses and bore our diseases.
 18. Now when Jesus saw a crowd around him, he gave orders to go over to the other side.
 19. And a scribe came up and said to him, Teacher, I will follow you wherever you go.
 20. And Jesus said to him, Foxes have holes, and birds of the air have nests, but the Son of Man has nowhere to lay his head.
@@ -303,7 +303,7 @@
 ## Chapter 10
 
 1. And he called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every affliction.
-2. The names of the twelve apostles are these : first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;
+2. The names of the twelve apostles are these: first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;
 3. Philip and Bartholomew; Thomas and Matthew the tax collector; James the son of Alphaeus, and Thaddaeus;
 4. Simon the Zealot, and Judas Iscariot, who betrayed him.
 5. These twelve Jesus sent out, instructing them, Go nowhere among the Gentiles and enter no town of the Samaritans,
@@ -350,10 +350,10 @@
 1. When Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in their cities.
 2. Now when John heard in prison about the deeds of the Christ, he sent word by his disciples
 3. and said to him, Are you the one who is to come, or shall we look for another?
-4. And Jesus answered them, Go and tell John what you hear and see :
+4. And Jesus answered them, Go and tell John what you hear and see:
 5. the blind receive their sight and the lame walk, lepers are cleansed and the deaf hear, and the dead are raised up, and the poor have good news preached to them.
 6. And blessed is the one who is not offended by me.
-7. As they went away, Jesus began to speak to the crowds concerning John : What did you go out into the wilderness to see? A reed shaken by the wind?
+7. As they went away, Jesus began to speak to the crowds concerning John: What did you go out into the wilderness to see? A reed shaken by the wind?
 8. What then did you go out to see? A man dressed in soft clothing? Behold, those who wear soft clothing are in kings ’ houses.
 9. What then did you go out to see? A prophet? Yes, I tell you, and more than a prophet.
 10. This is he of whom it is written, Behold, I send my messenger before your face, who will prepare your way before you.
@@ -382,7 +382,7 @@
 
 1. At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry, and they began to pluck heads of grain and to eat.
 2. But when the Pharisees saw it, they said to him, Look, your disciples are doing what is not lawful to do on the Sabbath.
-3. He said to them, Have you not read what David did when he was hungry, and those who were with him :
+3. He said to them, Have you not read what David did when he was hungry, and those who were with him:
 4. how he entered the house of God and ate the bread of the Presence, which it was not lawful for him to eat nor for those who were with him, but only for the priests?
 5. Or have you not read in the Law how on the Sabbath the priests in the temple profane the Sabbath and are guiltless?
 6. I tell you, something greater than the temple is here.
@@ -396,7 +396,7 @@
 14. But the Pharisees went out and conspired against him, how to destroy him.
 15. Jesus, aware of this, withdrew from there. And many followed him, and he healed them all
 16. and ordered them not to make him known.
-17. This was to fulfill what was spoken by the prophet Isaiah :
+17. This was to fulfill what was spoken by the prophet Isaiah:
 18. Behold, my servant whom I have chosen, my beloved with whom my soul is well pleased. I will put my Spirit upon him, and he will proclaim justice to the Gentiles.
 19. He will not quarrel or cry aloud, nor will anyone hear his voice in the streets;
 20. a bruised reed he will not break, and a smoldering wick he will not quench, until he brings justice to victory;
@@ -435,7 +435,7 @@
 
 1. That same day Jesus went out of the house and sat beside the sea.
 2. And great crowds gathered about him, so that he got into a boat and sat down. And the whole crowd stood on the beach.
-3. And he told them many things in parables, saying : A sower went out to sow.
+3. And he told them many things in parables, saying: A sower went out to sow.
 4. And as he sowed, some seeds fell along the path, and the birds came and devoured them.
 5. Other seeds fell on rocky ground, where they did not have much soil, and immediately they sprang up, since they had no depth of soil,
 6. but when the sun rose they were scorched. And since they had no root, they withered away.
@@ -446,11 +446,11 @@
 11. And he answered them, To you it has been given to know the secrets of the kingdom of heaven, but to them it has not been given.
 12. For to the one who has, more will be given, and he will have an abundance, but from the one who has not, even what he has will be taken away.
 13. This is why I speak to them in parables, because seeing they do not see, and hearing they do not hear, nor do they understand.
-14. Indeed, in their case the prophecy of Isaiah is fulfilled that says : You will indeed hear but never understand, and you will indeed see but never perceive.
+14. Indeed, in their case the prophecy of Isaiah is fulfilled that says: You will indeed hear but never understand, and you will indeed see but never perceive.
 15. For this people’s heart has grown dull, and with their ears they can barely hear, and their eyes they have closed, lest they should see with their eyes and hear with their ears and understand with their heart and turn, and I would heal them.
 16. But blessed are your eyes, for they see, and your ears, for they hear.
 17. For truly, I say to you, many prophets and righteous people longed to see what you see, and did not see it, and to hear what you hear, and did not hear it.
-18. Hear then the parable of the sower :
+18. Hear then the parable of the sower:
 19. When anyone hears the word of the kingdom and does not understand it, the evil one comes and snatches away what has been sown in his heart. This is what was sown along the path.
 20. As for what was sown on rocky ground, this is the one who hears the word and immediately receives it with joy,
 21. yet he has no root in himself, but endures for a while, and when tribulation or persecution arises on account of the word, immediately he falls away.
@@ -467,7 +467,7 @@
 32. It is the smallest of all seeds, but when it has grown it is larger than all the garden plants and becomes a tree, so that the birds of the air come and make nests in its branches.
 33. He told them another parable. The kingdom of heaven is like leaven that a woman took and hid in three measures of flour, till it was all leavened.
 34. All these things Jesus said to the crowds in parables; indeed, he said nothing to them without a parable.
-35. This was to fulfill what was spoken by the prophet : I will open my mouth in parables; I will utter what has been hidden since the foundation of the world.
+35. This was to fulfill what was spoken by the prophet: I will open my mouth in parables; I will utter what has been hidden since the foundation of the world.
 36. Then he left the crowds and went into the house. And his disciples came to him, saying, Explain to us the parable of the weeds of the field.
 37. He answered, The one who sows the good seed is the Son of Man.
 38. The field is the world, and the good seed is the sons of the kingdom. The weeds are the sons of the evil one,
@@ -539,10 +539,10 @@
 4. For God commanded, Honor your father and your mother, and, Whoever reviles father or mother must surely die.
 5. But you say, If anyone tells his father or his mother, What you would have gained from me is given to God,
 6. he need not honor his father. So for the sake of your tradition you have made void the word of God.
-7. You hypocrites! Well did Isaiah prophesy of you, when he said :
+7. You hypocrites! Well did Isaiah prophesy of you, when he said:
 8. This people honors me with their lips, but their heart is far from me;
 9. in vain do they worship me, teaching as doctrines the commandments of men.
-10. And he called the people to him and said to them, Hear and understand :
+10. And he called the people to him and said to them, Hear and understand:
 11. it is not what goes into the mouth that defiles a person, but what comes out of the mouth; this defiles a person.
 12. Then the disciples came and said to him, Do you know that the Pharisees were offended when they heard this saying?
 13. He answered, Every plant that my heavenly Father has not planted will be rooted up.
@@ -682,7 +682,7 @@
 6. So they are no longer two but one flesh. What therefore God has joined together, let not man separate.
 7. They said to him, Why then did Moses command one to give a certificate of divorce and to send her away?
 8. He said to them, Because of your hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so.
-9. And I say to you : whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.
+9. And I say to you: whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.
 10. The disciples said to him, If such is the case of a man with his wife, it is better not to marry.
 11. But he said to them, Not everyone can receive this saying, but only those to whom it is given.
 12. For there are eunuchs who have been so from birth, and there are eunuchs who have been made eunuchs by men, and there are eunuchs who have made themselves eunuchs for the sake of the kingdom of heaven. Let the one who is able to receive this receive it.
@@ -785,7 +785,7 @@
 39. And they took him and threw him out of the vineyard and killed him.
 40. When therefore the owner of the vineyard comes, what will he do to those tenants?
 41. They said to him, He will put those wretches to a miserable death and let out the vineyard to other tenants who will give him the fruits in their seasons.
-42. Jesus said to them, Have you never read in the Scriptures : The stone that the builders rejected has become the cornerstone; this was the Lord’s doing, and it is marvelous in our eyes?
+42. Jesus said to them, Have you never read in the Scriptures: The stone that the builders rejected has become the cornerstone; this was the Lord’s doing, and it is marvelous in our eyes?
 43. Therefore I tell you, the kingdom of God will be taken away from you and given to a people producing its fruits.
 44. And the one who falls on this stone will be broken to pieces; and when it falls on anyone, it will crush him.
 45. When the chief priests and the Pharisees heard his parables, they perceived that he was speaking about them.
@@ -823,7 +823,7 @@
 28. In the resurrection, therefore, of the seven, whose wife will she be? For they all had her.
 29. But Jesus answered them, You are wrong, because you know neither the Scriptures nor the power of God.
 30. For in the resurrection they neither marry nor are given in marriage, but are like angels in heaven.
-31. And as for the resurrection of the dead, have you not read what was said to you by God :
+31. And as for the resurrection of the dead, have you not read what was said to you by God:
 32. I am the God of Abraham, and the God of Isaac, and the God of Jacob? He is not God of the dead, but of the living.
 33. And when the crowd heard it, they were astonished at his teaching.
 34. But when the Pharisees heard that he had silenced the Sadducees, they gathered together.
@@ -831,7 +831,7 @@
 36. Teacher, which is the great commandment in the Law?
 37. And he said to him, You shall love the Lord your God with all your heart and with all your soul and with all your mind.
 38. This is the great and first commandment.
-39. And a second is like it : You shall love your neighbor as yourself.
+39. And a second is like it: You shall love your neighbor as yourself.
 40. On these two commandments depend all the Law and the Prophets.
 41. Now while the Pharisees were gathered together, Jesus asked them a question,
 42. saying, What do you think about the Christ? Whose son is he? They said to him, The son of David.
@@ -864,7 +864,7 @@
 20. So whoever swears by the altar swears by it and by everything on it.
 21. And whoever swears by the temple swears by it and by him who dwells in it.
 22. And whoever swears by heaven swears by the throne of God and by him who sits upon it.
-23. Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, and have neglected the weightier matters of the law : justice and mercy and faithfulness. These you ought to have done, without neglecting the others.
+23. Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness. These you ought to have done, without neglecting the others.
 24. You blind guides, straining out a gnat and swallowing a camel!
 25. Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and the plate, but inside they are full of greed and self-indulgence.
 26. You blind Pharisee! First clean the inside of the cup and the plate, that the outside also may be clean.
@@ -915,7 +915,7 @@
 29. Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light, and the stars will fall from heaven, and the powers of the heavens will be shaken.
 30. Then will appear in heaven the sign of the Son of Man, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory.
 31. And he will send out his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of heaven to the other.
-32. From the fig tree learn its lesson : as soon as its branch becomes tender and puts out its leaves, you know that summer is near.
+32. From the fig tree learn its lesson: as soon as its branch becomes tender and puts out its leaves, you know that summer is near.
 33. So also, when you see all these things, you know that he is near, at the very gates.
 34. Truly, I say to you, this generation will not pass away until all these things take place.
 35. Heaven and earth will pass away, but my words will not pass away.
@@ -1058,7 +1058,7 @@
 69. Now Peter was sitting outside in the courtyard. And a servant girl came up to him and said, You also were with Jesus the Galilean.
 70. But he denied it before them all, saying, I do not know what you mean.
 71. And when he went out to the entrance, another servant girl saw him, and she said to the bystanders, This man was with Jesus of Nazareth.
-72. And again he denied it with an oath : I do not know the man.
+72. And again he denied it with an oath: I do not know the man.
 73. After a little while the bystanders came up and said to Peter, Certainly you too are one of them, for your accent betrays you.
 74. Then he began to invoke a curse on himself and to swear, I do not know the man. And immediately the rooster crowed.
 75. And Peter remembered the saying of Jesus, Before the rooster crows, you will deny me three times. And he went out and wept bitterly.
@@ -1081,7 +1081,7 @@
 14. But he gave him no answer, not even to a single charge, so that the governor was greatly amazed.
 15. Now at the feast the governor was accustomed to release for the crowd any one prisoner whom they wanted.
 16. And they had then a notorious prisoner called Barabbas.
-17. So when they had gathered, Pilate said to them, Whom do you want me to release for you : Barabbas, or Jesus who is called Christ?
+17. So when they had gathered, Pilate said to them, Whom do you want me to release for you: Barabbas, or Jesus who is called Christ?
 18. For he knew that it was out of envy that they had delivered him up.
 19. Besides, while he was sitting on the judgment seat, his wife sent word to him, Have nothing to do with that righteous man, for I have suffered much because of him today in a dream.
 20. Now the chief priests and the elders persuaded the crowd to ask for Barabbas and destroy Jesus.

@@ -44,7 +44,7 @@
 ## Chapter 3
 
 1. After this Job opened his mouth and cursed the day of his birth.
-2. And Job said :
+2. And Job said:
 3. Let the day perish on which I was born, and the night that said, A man is conceived.
 4. Let that day be darkness! May God above not seek it, nor light shine upon it.
 5. Let gloom and deep darkness claim it. Let clouds dwell upon it; let the blackness of the day terrify it.
@@ -72,13 +72,13 @@
 
 ## Chapter 4
 
-1. Then Eliphaz the Temanite answered and said :
+1. Then Eliphaz the Temanite answered and said:
 2. If one ventures a word with you, will you be impatient? Yet who can keep from speaking?
 3. Behold, you have instructed many, and you have strengthened the weak hands.
 4. Your words have upheld him who was stumbling, and you have made firm the feeble knees.
 5. But now it has come to you, and you are impatient; it touches you, and you are dismayed.
 6. Is not your fear of God your confidence, and the integrity of your ways your hope?
-7. Remember : who that was innocent ever perished? Or where were the upright cut off?
+7. Remember: who that was innocent ever perished? Or where were the upright cut off?
 8. As I have seen, those who plow iniquity and sow trouble reap the same.
 9. By the breath of God they perish, and by the blast of his anger they are consumed.
 10. The roar of the lion, the voice of the fierce lion, the teeth of the young lions are broken.
@@ -87,7 +87,7 @@
 13. Amid thoughts from visions of the night, when deep sleep falls on men,
 14. dread came upon me, and trembling, which made all my bones shake.
 15. A spirit glided past my face; the hair of my flesh stood up.
-16. It stood still, but I could not discern its appearance. A form was before my eyes; there was silence, then I heard a voice :
+16. It stood still, but I could not discern its appearance. A form was before my eyes; there was silence, then I heard a voice:
 17. Can mortal man be in the right before God? Can a man be pure before his Maker?
 18. Even in his servants he puts no trust, and his angels he charges with error;
 19. how much more those who dwell in houses of clay, whose foundation is in the dust, who are crushed like the moth.
@@ -104,7 +104,7 @@
 6. For affliction does not come from the dust, nor does trouble sprout from the ground,
 7. but man is born to trouble as the sparks fly upward.
 8. As for me, I would seek God, and to God would I commit my cause,
-9. who does great things and unsearchable, marvelous things without number :
+9. who does great things and unsearchable, marvelous things without number:
 10. he gives rain on the earth and sends waters on the fields;
 11. he sets on high those who are lowly, and those who mourn are lifted to safety.
 12. He frustrates the devices of the crafty, so that their hands achieve no success.
@@ -126,7 +126,7 @@
 
 ## Chapter 6
 
-1. Then Job answered and said :
+1. Then Job answered and said:
 2. Oh that my vexation were weighed, and all my calamity laid in the balances!
 3. For then it would be heavier than the sand of the sea; therefore my words have been rash.
 4. For the arrows of the Almighty are in me; my spirit drinks their poison; the terrors of God are arrayed against me.
@@ -183,7 +183,7 @@
 
 ## Chapter 8
 
-1. Then Bildad the Shuhite answered and said :
+1. Then Bildad the Shuhite answered and said:
 2. How long will you say these things, and the words of your mouth be a great wind?
 3. Does God pervert justice? Or does the Almighty pervert the right?
 4. If your children have sinned against him, he has delivered them into the hand of their transgression.
@@ -208,7 +208,7 @@
 
 ## Chapter 9
 
-1. Then Job answered and said :
+1. Then Job answered and said:
 2. Truly I know that it is so: But how can a man be in the right before God?
 3. If one wished to contend with him, one could not answer him once in a thousand times.
 4. He is wise in heart and mighty in strength —who has hardened himself against him, and succeeded ?—
@@ -271,7 +271,7 @@
 
 ## Chapter 11
 
-1. Then Zophar the Naamathite answered and said :
+1. Then Zophar the Naamathite answered and said:
 2. Should a multitude of words go unanswered, and a man full of talk be judged right?
 3. Should your babble silence men, and when you mock, shall no one shame you?
 4. For you say, My doctrine is pure, and I am clean in God’s eyes.
@@ -294,7 +294,7 @@
 
 ## Chapter 12
 
-1. Then Job answered and said :
+1. Then Job answered and said:
 2. No doubt you are the people, and wisdom will die with you.
 3. But I have understanding as well as you; I am not inferior to you. Who does not know such things as these?
 4. I am a laughingstock to my friends; I, who called to God and he answered me, a just and blameless man, am a laughingstock.
@@ -341,7 +341,7 @@
 17. Keep listening to my words, and let my declaration be in your ears.
 18. Behold, I have prepared my case; I know that I shall be in the right.
 19. Who is there who will contend with me? For then I would be silent and die.
-20. Only grant me two things, then I will not hide myself from your face :
+20. Only grant me two things, then I will not hide myself from your face:
 21. withdraw your hand far from me, and let not dread of you terrify me.
 22. Then call, and I will answer; or let me speak, and you reply to me.
 23. How many are my iniquities and my sins? Make me know my transgression and my sin.
@@ -378,7 +378,7 @@
 
 ## Chapter 15
 
-1. Then Eliphaz the Temanite answered and said :
+1. Then Eliphaz the Temanite answered and said:
 2. Should a wise man answer with windy knowledge, and fill his belly with the east wind?
 3. Should he argue in unprofitable talk, or in words with which he can do no good?
 4. But you are doing away with the fear of God and hindering meditation before God.
@@ -416,7 +416,7 @@
 
 ## Chapter 16
 
-1. Then Job answered and said :
+1. Then Job answered and said:
 2. I have heard many such things; miserable comforters are you all.
 3. Shall windy words have an end? Or what provokes you that you answer?
 4. I also could speak as you do, if you were in my place; I could join words together against you and shake my head at you.
@@ -452,7 +452,7 @@
 9. Yet the righteous holds to his way, and he who has clean hands grows stronger and stronger.
 10. But you, come on again, all of you, and I shall not find a wise man among you.
 11. My days are past; my plans are broken off, the desires of my heart.
-12. They make night into day : The light, they say, is near to the darkness.
+12. They make night into day: The light, they say, is near to the darkness.
 13. If I hope for Sheol as my house, if I make my bed in darkness,
 14. if I say to the pit, You are my father, and to the worm, My mother, or My sister,
 15. where then is my hope? Who will see my hope?
@@ -460,7 +460,7 @@
 
 ## Chapter 18
 
-1. Then Bildad the Shuhite answered and said :
+1. Then Bildad the Shuhite answered and said:
 2. How long will you hunt for words? Consider, and then we will speak.
 3. Why are we counted as cattle? Why are we stupid in your sight?
 4. You who tear yourself in your anger, shall the earth be forsaken for you, or the rock be removed out of its place?
@@ -484,7 +484,7 @@
 
 ## Chapter 19
 
-1. Then Job answered and said :
+1. Then Job answered and said:
 2. How long will you torment me and break me in pieces with words?
 3. These ten times you have cast reproach upon me; are you not ashamed to wrong me?
 4. And even if it be true that I have erred, my error remains with myself.
@@ -516,7 +516,7 @@
 
 ## Chapter 20
 
-1. Then Zophar the Naamathite answered and said :
+1. Then Zophar the Naamathite answered and said:
 2. Therefore my thoughts answer me, because of my haste within me.
 3. I hear censure that insults me, and out of my understanding a spirit answers me.
 4. Do you not know this from of old, since man was placed on earth,
@@ -548,7 +548,7 @@
 
 ## Chapter 21
 
-1. Then Job answered and said :
+1. Then Job answered and said:
 2. Keep listening to my words, and let this be your comfort.
 3. Bear with me, and I will speak, and after I have spoken, mock on.
 4. As for me, is my complaint against man? Why should I not be impatient?
@@ -585,7 +585,7 @@
 
 ## Chapter 22
 
-1. Then Eliphaz the Temanite answered and said :
+1. Then Eliphaz the Temanite answered and said:
 2. Can a man be profitable to God? Surely he who is wise is profitable to himself.
 3. Is it any pleasure to the Almighty if you are in the right, or is it gain to him if you make your ways blameless?
 4. Is it for your fear of him that he reproves you and enters into judgment with you?
@@ -618,7 +618,7 @@
 
 ## Chapter 23
 
-1. Then Job answered and said :
+1. Then Job answered and said:
 2. Today also my complaint is bitter; my hand is heavy on account of my groaning.
 3. Oh, that I knew where I might find him, that I might come even to his seat!
 4. I would lay my case before him and fill my mouth with arguments.
@@ -666,7 +666,7 @@
 
 ## Chapter 25
 
-1. Then Bildad the Shuhite answered and said :
+1. Then Bildad the Shuhite answered and said:
 2. Dominion and fear are with God; he makes peace in his high heaven.
 3. Is there any number to his armies? Upon whom does his light not arise?
 4. How then can man be in the right before God? How can he who is born of woman be pure?
@@ -675,7 +675,7 @@
 
 ## Chapter 26
 
-1. Then Job answered and said :
+1. Then Job answered and said:
 2. How you have helped him who has no power! How you have saved the arm that has no strength!
 3. How you have counseled him who has no wisdom, and plentifully declared sound knowledge!
 4. With whose help have you uttered words, and whose breath has come out from you?
@@ -692,7 +692,7 @@
 
 ## Chapter 27
 
-1. And Job again took up his discourse, and said :
+1. And Job again took up his discourse, and said:
 2. As God lives, who has taken away my right, and the Almighty, who has made my soul bitter,
 3. as long as my breath is in me, and the spirit of God is in my nostrils,
 4. my lips will not speak falsehood, and my tongue will not utter deceit.
@@ -704,7 +704,7 @@
 10. Will he take delight in the Almighty? Will he call upon God at all times?
 11. I will teach you concerning the hand of God; what is with the Almighty I will not conceal.
 12. Behold, all of you have seen it yourselves; why then have you become altogether vain?
-13. This is the portion of a wicked man with God, and the heritage that oppressors receive from the Almighty :
+13. This is the portion of a wicked man with God, and the heritage that oppressors receive from the Almighty:
 14. If his children are multiplied, it is for the sword, and his descendants have not enough bread.
 15. Those who survive him the pestilence buries, and his widows do not weep.
 16. Though he heap up silver like dust, and pile up clothing like clay,
@@ -749,7 +749,7 @@
 
 ## Chapter 29
 
-1. And Job again took up his discourse, and said :
+1. And Job again took up his discourse, and said:
 2. Oh, that I were as in the months of old, as in the days when God watched over me,
 3. when his lamp shone upon my head, and by his light I walked through darkness,
 4. as I was in my prime, when the friendship of God was upon my tent,
@@ -859,7 +859,7 @@
 3. He burned with anger also at Job’s three friends because they had found no answer, although they had declared Job to be in the wrong.
 4. Now Elihu had waited to speak to Job because they were older than he.
 5. And when Elihu saw that there was no answer in the mouth of these three men, he burned with anger.
-6. And Elihu the son of Barachel the Buzite answered and said : I am young in years, and you are aged; therefore I was timid and afraid to declare my opinion to you.
+6. And Elihu the son of Barachel the Buzite answered and said: I am young in years, and you are aged; therefore I was timid and afraid to declare my opinion to you.
 7. I said, Let days speak, and many years teach wisdom.
 8. But it is the spirit in man, the breath of the Almighty, that makes him understand.
 9. It is not the old who are wise, nor the aged who understand what is right.
@@ -905,7 +905,7 @@
 24. and he is merciful to him, and says, Deliver him from going down into the pit; I have found a ransom;
 25. let his flesh become fresh with youth; let him return to the days of his youthful vigor;
 26. then man prays to God, and he accepts him; he sees his face with a shout of joy, and he restores to man his righteousness.
-27. He sings before men and says : I sinned and perverted what was right, and it was not repaid to me.
+27. He sings before men and says: I sinned and perverted what was right, and it was not repaid to me.
 28. He has redeemed my soul from going down into the pit, and my life shall look upon the light.
 29. Behold, God does all these things, twice, three times, with a man,
 30. to bring back his soul from the pit, that he may be lighted with the light of life.
@@ -915,7 +915,7 @@
 
 ## Chapter 34
 
-1. Then Elihu answered and said :
+1. Then Elihu answered and said:
 2. Hear my words, you wise men, and give ear to me, you who know;
 3. for the ear tests words as the palate tastes food.
 4. Let us choose what is right; let us know among ourselves what is good.
@@ -924,7 +924,7 @@
 7. What man is like Job, who drinks up scoffing like water,
 8. who travels in company with evildoers and walks with wicked men?
 9. For he has said, It profits a man nothing that he should take delight in God.
-10. Therefore, hear me, you men of understanding : far be it from God that he should do wickedness, and from the Almighty that he should do wrong.
+10. Therefore, hear me, you men of understanding: far be it from God that he should do wickedness, and from the Almighty that he should do wrong.
 11. For according to the work of a man he will repay him, and according to his ways he will make it befall him.
 12. Of a truth, God will not do wickedly, and the Almighty will not pervert justice.
 13. Who gave him charge over the earth, and who laid on him the whole world?
@@ -955,7 +955,7 @@
 
 ## Chapter 35
 
-1. And Elihu answered and said :
+1. And Elihu answered and said:
 2. Do you think this to be just? Do you say, It is my right before God,
 3. that you ask, What advantage have I? How am I better off than if I had sinned?
 4. I will answer you and your friends with you.
@@ -974,7 +974,7 @@
 
 ## Chapter 36
 
-1. And Elihu continued, and said :
+1. And Elihu continued, and said:
 2. Bear with me a little, and I will show you, for I have yet something to say on God’s behalf.
 3. I will get my knowledge from afar and ascribe righteousness to my Maker.
 4. For truly my words are not false; one who is perfect in knowledge is with you.
@@ -1037,7 +1037,7 @@
 
 ## Chapter 38
 
-1. Then the Lord answered Job out of the whirlwind and said :
+1. Then the Lord answered Job out of the whirlwind and said:
 2. Who is this that darkens counsel by words without knowledge?
 3. Dress for action like a man; I will question you, and you make it known to me.
 4. Where were you when I laid the foundation of the earth? Tell me, if you have understanding.
@@ -1114,12 +1114,12 @@
 
 ## Chapter 40
 
-1. And the Lord said to Job :
+1. And the Lord said to Job:
 2. Shall a faultfinder contend with the Almighty? He who argues with God, let him answer it.
-3. Then Job answered the Lord and said :
+3. Then Job answered the Lord and said:
 4. Behold, I am of small account; what shall I answer you? I lay my hand on my mouth.
 5. I have spoken once, and I will not answer; twice, but I will proceed no further.
-6. Then the Lord answered Job out of the whirlwind and said :
+6. Then the Lord answered Job out of the whirlwind and said:
 7. Dress for action like a man; I will question you, and you make it known to me.
 8. Will you even put me in the wrong? Will you condemn me that you may be in the right?
 9. Have you an arm like God, and can you thunder with a voice like his?
@@ -1178,13 +1178,13 @@
 
 ## Chapter 42
 
-1. Then Job answered the Lord and said :
+1. Then Job answered the Lord and said:
 2. I know that you can do all things, and that no purpose of yours can be thwarted.
 3. Who is this that hides counsel without knowledge? Therefore I have uttered what I did not understand, things too wonderful for me, which I did not know.
 4. Hear, and I will speak; I will question you, and you make it known to me.
 5. I had heard of you by the hearing of the ear, but now my eye sees you;
 6. therefore I despise myself, and repent in dust and ashes.
-7. After the Lord had spoken these words to Job, the Lord said to Eliphaz the Temanite : My anger burns against you and against your two friends, for you have not spoken of me what is right, as my servant Job has.
+7. After the Lord had spoken these words to Job, the Lord said to Eliphaz the Temanite: My anger burns against you and against your two friends, for you have not spoken of me what is right, as my servant Job has.
 8. Now therefore take seven bulls and seven rams and go to my servant Job and offer up a burnt offering for yourselves. And my servant Job shall pray for you, for I will accept his prayer not to deal with you according to your folly. For you have not spoken of me what is right, as my servant Job has.
 9. So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went and did what the Lord had told them, and the Lord accepted Job’s prayer.
 10. And the Lord restored the fortunes of Job, when he had prayed for his friends. And the Lord gave Job twice as much as he had before.

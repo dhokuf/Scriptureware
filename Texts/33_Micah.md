@@ -23,7 +23,7 @@
 
 1. Woe to those who devise wickedness and work evil on their beds! When the morning dawns, they perform it, because it is in the power of their hand.
 2. They covet fields and seize them, and houses, and take them away; they oppress a man and his house, a man and his inheritance.
-3. Therefore thus says the Lord : behold, against this family I am devising disaster, from which you cannot remove your necks, and you shall not walk haughtily, for it will be a time of disaster.
+3. Therefore thus says the Lord: behold, against this family I am devising disaster, from which you cannot remove your necks, and you shall not walk haughtily, for it will be a time of disaster.
 4. In that day they shall take up a taunt song against you and moan bitterly, and say, We are utterly ruined; he changes the portion of my people; how he removes it from me! To an apostate he allots our fields.
 5. Therefore you will have none to cast the line by lot in the assembly of the Lord.
 6. Do not preach —thus they preach — one should not preach of such things; disgrace will not overtake us.
@@ -37,7 +37,7 @@
 
 ## Chapter 3
 
-1. And I said : Hear, you heads of Jacob and rulers of the house of Israel! Is it not for you to know justice ?—
+1. And I said: Hear, you heads of Jacob and rulers of the house of Israel! Is it not for you to know justice ?—
 2. you who hate the good and love the evil, who tear the skin from off my people and their flesh from off their bones,
 3. who eat the flesh of my people, and flay their skin from off them, and break their bones in pieces and chop them up like meat in a pot, like flesh in a cauldron.
 4. Then they will cry to the Lord, but he will not answer them; he will hide his face from them at that time, because they have made their deeds evil.
@@ -53,7 +53,7 @@
 ## Chapter 4
 
 1. It shall come to pass in the latter days that the mountain of the house of the Lord shall be established as the highest of the mountains, and it shall be lifted up above the hills; and peoples shall flow to it,
-2. and many nations shall come, and say : Come, let us go up to the mountain of the Lord, to the house of the God of Jacob, that he may teach us his ways and that we may walk in his paths. For out of Zion shall go forth the law, and the word of the Lord from Jerusalem.
+2. and many nations shall come, and say: Come, let us go up to the mountain of the Lord, to the house of the God of Jacob, that he may teach us his ways and that we may walk in his paths. For out of Zion shall go forth the law, and the word of the Lord from Jerusalem.
 3. He shall judge between many peoples, and shall decide for strong nations far away; and they shall beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war anymore;
 4. but they shall sit every man under his vine and under his fig tree, and no one shall make them afraid, for the mouth of the Lord of hosts has spoken.
 5. For all the peoples walk each in the name of its god, but we will walk in the name of the Lord our God forever and ever.
@@ -86,7 +86,7 @@
 
 ## Chapter 6
 
-1. Hear what the Lord says : Arise, plead your case before the mountains, and let the hills hear your voice.
+1. Hear what the Lord says: Arise, plead your case before the mountains, and let the hills hear your voice.
 2. Hear, you mountains, the indictment of the Lord, and you enduring foundations of the earth, for the Lord has an indictment against his people, and he will contend with Israel.
 3. O my people, what have I done to you? How have I wearied you? Answer me!
 4. For I brought you up from the land of Egypt and redeemed you from the house of slavery, and I sent before you Moses, Aaron, and Miriam.
@@ -94,7 +94,7 @@
 6. With what shall I come before the Lord, and bow myself before God on high? Shall I come before him with burnt offerings, with calves a year old?
 7. Will the Lord be pleased with thousands of rams, with ten thousands of rivers of oil? Shall I give my firstborn for my transgression, the fruit of my body for the sin of my soul?
 8. He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?
-9. The voice of the Lord cries to the city — and it is sound wisdom to fear your name : Hear of the rod and of him who appointed it!
+9. The voice of the Lord cries to the city — and it is sound wisdom to fear your name: Hear of the rod and of him who appointed it!
 10. Can I forget any longer the treasures of wickedness in the house of the wicked, and the scant measure that is accursed?
 11. Shall I acquit the man with wicked scales and with a bag of deceitful weights?
 12. Your rich men are full of violence; your inhabitants speak lies, and their tongue is deceitful in their mouth.
@@ -105,7 +105,7 @@
 
 ## Chapter 7
 
-1. Woe is me! For I have become as when the summer fruit has been gathered, as when the grapes have been gleaned : there is no cluster to eat, no first-ripe fig that my soul desires.
+1. Woe is me! For I have become as when the summer fruit has been gathered, as when the grapes have been gleaned: there is no cluster to eat, no first-ripe fig that my soul desires.
 2. The godly has perished from the earth, and there is no one upright among mankind; they all lie in wait for blood, and each hunts the other with a net.
 3. Their hands are on what is evil, to do it well; the prince and the judge ask for a bribe, and the great man utters the evil desire of his soul; thus they weave it together.
 4. The best of them is like a brier, the most upright of them a thorn hedge. The day of your watchmen, of your punishment, has come; now their confusion is at hand.

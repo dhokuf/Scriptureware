@@ -52,7 +52,7 @@
 
 ## Chapter 3
 
-1. For everything there is a season, and a time for every matter under heaven :
+1. For everything there is a season, and a time for every matter under heaven:
 2. a time to be born, and a time to die; a time to plant, and a time to pluck up what is planted;
 3. a time to kill, and a time to heal; a time to break down, and a time to build up;
 4. a time to weep, and a time to laugh; a time to mourn, and a time to dance;
@@ -83,7 +83,7 @@
 4. Then I saw that all toil and all skill in work come from a man’s envy of his neighbor. This also is vanity and a striving after wind.
 5. The fool folds his hands and eats his own flesh.
 6. Better is a handful of quietness than two hands full of toil and a striving after wind.
-7. Again, I saw vanity under the sun :
+7. Again, I saw vanity under the sun:
 8. one person who has no other, either son or brother, yet there is no end to all his toil, and his eyes are never satisfied with riches, so that he never asks, For whom am I toiling and depriving myself of pleasure? This also is vanity and an unhappy business.
 9. Two are better than one, because they have a good reward for their toil.
 10. For if they fall, one will lift up his fellow. But woe to him who is alone when he falls and has not another to lift him up!
@@ -108,10 +108,10 @@
 10. He who loves money will not be satisfied with money, nor he who loves wealth with his income; this also is vanity.
 11. When goods increase, they increase who eat them, and what advantage has their owner but to see them with his eyes?
 12. Sweet is the sleep of a laborer, whether he eats little or much, but the full stomach of the rich will not let him sleep.
-13. There is a grievous evil that I have seen under the sun : riches were kept by their owner to his hurt,
+13. There is a grievous evil that I have seen under the sun: riches were kept by their owner to his hurt,
 14. and those riches were lost in a bad venture. And he is father of a son, but he has nothing in his hand.
 15. As he came from his mother’s womb he shall go again, naked as he came, and shall take nothing for his toil that he may carry away in his hand.
-16. This also is a grievous evil : just as he came, so shall he go, and what gain is there to him who toils for the wind?
+16. This also is a grievous evil: just as he came, so shall he go, and what gain is there to him who toils for the wind?
 17. Moreover, all his days he eats in darkness in much vexation and sickness and anger.
 18. Behold, what I have seen to be good and fitting is to eat and drink and find enjoyment in all the toil with which one toils under the sun the few days of his life that God has given him, for this is his lot.
 19. Everyone also to whom God has given wealth and possessions and power to enjoy them, and to accept his lot and rejoice in his toil — this is the gift of God.
@@ -119,7 +119,7 @@
 
 ## Chapter 6
 
-1. There is an evil that I have seen under the sun, and it lies heavy on mankind :
+1. There is an evil that I have seen under the sun, and it lies heavy on mankind:
 2. a man to whom God gives wealth, possessions, and honor, so that he lacks nothing of all that he desires, yet God does not give him power to enjoy them, but a stranger enjoys them. This is vanity; it is a grievous evil.
 3. If a man fathers a hundred children and lives many years, so that the days of his years are many, but his soul is not satisfied with life’s good things, and he also has no burial, I say that a stillborn child is better off than he.
 4. For it comes in vanity and goes in darkness, and in darkness its name is covered.
@@ -127,7 +127,7 @@
 6. Even though he should live a thousand years twice over, yet enjoy no good —do not all go to the one place?
 7. All the toil of man is for his mouth, yet his appetite is not satisfied.
 8. For what advantage has the wise man over the fool? And what does the poor man have who knows how to conduct himself before the living?
-9. Better is the sight of the eyes than the wandering of the appetite : this also is vanity and a striving after wind.
+9. Better is the sight of the eyes than the wandering of the appetite: this also is vanity and a striving after wind.
 10. Whatever has come to be has already been named, and it is known what man is, and that he is not able to dispute with one stronger than he.
 11. The more words, the more vanity, and what is the advantage to man?
 12. For who knows what is good for man while he lives the few days of his vain life, which he passes like a shadow? For who can tell man what will be after him under the sun?
@@ -146,8 +146,8 @@
 10. Say not, Why were the former days better than these? For it is not from wisdom that you ask this.
 11. Wisdom is good with an inheritance, an advantage to those who see the sun.
 12. For the protection of wisdom is like the protection of money, and the advantage of knowledge is that wisdom preserves the life of him who has it.
-13. Consider the work of God : who can make straight what he has made crooked?
-14. In the day of prosperity be joyful, and in the day of adversity consider : God has made the one as well as the other, so that man may not find out anything that will be after him.
+13. Consider the work of God: who can make straight what he has made crooked?
+14. In the day of prosperity be joyful, and in the day of adversity consider: God has made the one as well as the other, so that man may not find out anything that will be after him.
 15. In my vain life I have seen everything. There is a righteous man who perishes in his righteousness, and there is a wicked man who prolongs his life in his evildoing.
 16. Be not overly righteous, and do not make yourself too wise. Why should you destroy yourself?
 17. Be not overly wicked, neither be a fool. Why should you die before your time?
@@ -159,7 +159,7 @@
 23. All this I have tested by wisdom. I said, I will be wise, but it was far from me.
 24. That which has been is far off, and deep, very deep; who can find it out?
 25. I turned my heart to know and to search out and to seek wisdom and the scheme of things, and to know the wickedness of folly and the foolishness that is madness.
-26. And I find something more bitter than death : the woman whose heart is snares and nets, and whose hands are fetters. He who pleases God escapes her, but the sinner is taken by her.
+26. And I find something more bitter than death: the woman whose heart is snares and nets, and whose hands are fetters. He who pleases God escapes her, but the sinner is taken by her.
 27. Behold, this is what I found, says the Preacher, while adding one thing to another to find the scheme of things—
 28. which my soul has sought repeatedly, but I have not found. One man among a thousand I found, but a woman among all these I have not found.
 29. See, this alone I found, that God made man upright, but they have sought out many schemes.
@@ -211,7 +211,7 @@
 2. A wise man’s heart inclines him to the right, but a fool’s heart to the left.
 3. Even when the fool walks on the road, he lacks sense, and he says to everyone that he is a fool.
 4. If the anger of the ruler rises against you, do not leave your place, for calmness will lay great offenses to rest.
-5. There is an evil that I have seen under the sun, as it were an error proceeding from the ruler :
+5. There is an evil that I have seen under the sun, as it were an error proceeding from the ruler:
 6. folly is set in many high places, and the rich sit in a low place.
 7. I have seen slaves on horses, and princes walking on the ground like slaves.
 8. He who digs a pit will fall into it, and a serpent will bite him who breaks through a wall.

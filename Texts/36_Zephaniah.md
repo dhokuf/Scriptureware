@@ -56,7 +56,7 @@
 13. those who are left in Israel; they shall do no injustice and speak no lies, nor shall there be found in their mouth a deceitful tongue. For they shall graze and lie down, and none shall make them afraid.
 14. Sing aloud, O daughter of Zion; shout, O Israel! Rejoice and exult with all your heart, O daughter of Jerusalem!
 15. The Lord has taken away the judgments against you; he has cleared away your enemies. The King of Israel, the Lord, is in your midst; you shall never again fear evil.
-16. On that day it shall be said to Jerusalem : Fear not, O Zion; let not your hands grow weak.
+16. On that day it shall be said to Jerusalem: Fear not, O Zion; let not your hands grow weak.
 17. The Lord your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing.
 18. I will gather those of you who mourn for the festival, so that you will no longer suffer reproach.
 19. Behold, at that time I will deal with all your oppressors. And I will save the lame and gather the outcast, and I will change their shame into praise and renown in all the earth.

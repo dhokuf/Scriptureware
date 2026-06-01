@@ -8,7 +8,7 @@
 4. youths without blemish, of good appearance and skillful in all wisdom, endowed with knowledge, understanding learning, and competent to stand in the king’s palace, and to teach them the literature and language of the Chaldeans.
 5. The king assigned them a daily portion of the food that the king ate, and of the wine that he drank. They were to be educated for three years, and at the end of that time they were to stand before the king.
 6. Among these were Daniel, Hananiah, Mishael, and Azariah of the tribe of Judah.
-7. And the chief of the eunuchs gave them names : Daniel he called Belteshazzar, Hananiah he called Shadrach, Mishael he called Meshach, and Azariah he called Abednego.
+7. And the chief of the eunuchs gave them names: Daniel he called Belteshazzar, Hananiah he called Shadrach, Mishael he called Meshach, and Azariah he called Abednego.
 8. But Daniel resolved that he would not defile himself with the king’s food, or with the wine that he drank. Therefore he asked the chief of the eunuchs to allow him not to defile himself.
 9. And God gave Daniel favor and compassion in the sight of the chief of the eunuchs,
 10. and the chief of the eunuchs said to Daniel, I fear my lord the king, who assigned your food and your drink; for why should he see that you were in worse condition than the youths who are of your own age? So you would endanger my head with the king.
@@ -30,7 +30,7 @@
 2. Then the king commanded that the magicians, the enchanters, the sorcerers, and the Chaldeans be summoned to tell the king his dreams. So they came in and stood before the king.
 3. And the king said to them, I had a dream, and my spirit is troubled to know the dream.
 4. Then the Chaldeans said to the king in Aramaic, O king, live forever! Tell your servants the dream, and we will show the interpretation.
-5. The king answered and said to the Chaldeans, The word from me is firm : if you do not make known to me the dream and its interpretation, you shall be torn limb from limb, and your houses shall be laid in ruins.
+5. The king answered and said to the Chaldeans, The word from me is firm: if you do not make known to me the dream and its interpretation, you shall be torn limb from limb, and your houses shall be laid in ruins.
 6. But if you show the dream and its interpretation, you shall receive from me gifts and rewards and great honor. Therefore show me the dream and its interpretation.
 7. They answered a second time and said, Let the king tell his servants the dream, and we will show its interpretation.
 8. The king answered and said, I know with certainty that you are trying to gain time, because you see that the word from me is firm —
@@ -45,7 +45,7 @@
 17. Then Daniel went to his house and made the matter known to Hananiah, Mishael, and Azariah, his companions,
 18. and told them to seek mercy from the God of heaven concerning this mystery, so that Daniel and his companions might not be destroyed with the rest of the wise men of Babylon.
 19. Then the mystery was revealed to Daniel in a vision of the night. Then Daniel blessed the God of heaven.
-20. Daniel answered and said : Blessed be the name of God forever and ever, to whom belong wisdom and might.
+20. Daniel answered and said: Blessed be the name of God forever and ever, to whom belong wisdom and might.
 21. He changes times and seasons; he removes kings and sets up kings; he gives wisdom to the wise and knowledge to those who have understanding;
 22. he reveals deep and hidden things; he knows what is in the darkness, and the light dwells with him.
 23. To you, O God of my fathers, I give thanks and praise, for you have given me wisdom and might, and have now made known to me what we asked of you, for you have made known to us the king’s matter.
@@ -53,7 +53,7 @@
 25. Then Arioch brought in Daniel before the king in haste and said thus to him: I have found among the exiles from Judah a man who will make known to the king the interpretation.
 26. The king declared to Daniel, whose name was Belteshazzar, Are you able to make known to me the dream that I have seen and its interpretation?
 27. Daniel answered the king and said, No wise men, enchanters, magicians, or astrologers can show to the king the mystery that the king has asked,
-28. but there is a God in heaven who reveals mysteries, and he has made known to King Nebuchadnezzar what will be in the latter days. Your dream and the visions of your head as you lay in bed are these :
+28. but there is a God in heaven who reveals mysteries, and he has made known to King Nebuchadnezzar what will be in the latter days. Your dream and the visions of your head as you lay in bed are these:
 29. To you, O king, as you lay in bed came thoughts of what would be after this, and he who reveals mysteries made known to you what is to be.
 30. But as for me, this mystery has been revealed to me, not because of any wisdom that I have more than all the living, but in order that the interpretation may be made known to the king, and that you may know the thoughts of your mind.
 31. You saw, O king, and behold, a great image. This image, mighty and of exceeding brightness, stood before you, and its appearance was frightening.
@@ -89,7 +89,7 @@
 9. They declared to King Nebuchadnezzar, O king, live forever!
 10. You, O king, have made a decree, that every man who hears the sound of the horn, pipe, lyre, trigon, harp, bagpipe, and every kind of music, shall fall down and worship the golden image.
 11. And whoever does not fall down and worship shall be cast into a burning fiery furnace.
-12. There are certain Jews whom you have appointed over the affairs of the province of Babylon : Shadrach, Meshach, and Abednego. These men, O king, pay no attention to you; they do not serve your gods or worship the golden image that you have set up.
+12. There are certain Jews whom you have appointed over the affairs of the province of Babylon: Shadrach, Meshach, and Abednego. These men, O king, pay no attention to you; they do not serve your gods or worship the golden image that you have set up.
 13. Then Nebuchadnezzar in furious rage commanded that Shadrach, Meshach, and Abednego be brought. So they brought these men before the king.
 14. Nebuchadnezzar answered and said to them, Is it true, O Shadrach, Meshach, and Abednego, that you do not serve my gods or worship the golden image that I have set up?
 15. Now if you are ready when you hear the sound of the horn, pipe, lyre, trigon, harp, bagpipe, and every kind of music, to fall down and worship the image that I have made, well and good. But if you do not worship, you shall immediately be cast into a burning fiery furnace. And who is the god who will deliver you out of my hands?
@@ -106,12 +106,12 @@
 26. Then Nebuchadnezzar came near to the door of the burning fiery furnace; he declared, Shadrach, Meshach, and Abednego, servants of the Most High God, come out, and come here! Then Shadrach, Meshach, and Abednego came out from the fire.
 27. And the satraps, the prefects, the governors, and the king’s counselors gathered together and saw that the fire had not had any power over the bodies of those men. The hair of their heads was not singed, their cloaks were not harmed, and no smell of fire had come upon them.
 28. Nebuchadnezzar answered and said, Blessed be the God of Shadrach, Meshach, and Abednego, who has sent his angel and delivered his servants, who trusted in him, and set aside the king’s command, and yielded up their bodies rather than serve and worship any god except their own God.
-29. Therefore I make a decree : Any people, nation, or language that speaks anything against the God of Shadrach, Meshach, and Abednego shall be torn limb from limb, and their houses laid in ruins, for there is no other god who is able to rescue in this way.
+29. Therefore I make a decree: Any people, nation, or language that speaks anything against the God of Shadrach, Meshach, and Abednego shall be torn limb from limb, and their houses laid in ruins, for there is no other god who is able to rescue in this way.
 30. Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon.
 
 ## Chapter 4
 
-1. King Nebuchadnezzar to all peoples, nations, and languages, that dwell in all the earth : Peace be multiplied to you!
+1. King Nebuchadnezzar to all peoples, nations, and languages, that dwell in all the earth: Peace be multiplied to you!
 2. It has seemed good to me to show the signs and wonders that the Most High God has done for me.
 3. How great are his signs, how mighty his wonders! His kingdom is an everlasting kingdom, and his dominion endures from generation to generation.
 4. I, Nebuchadnezzar, was at ease in my house and prospering in my palace.
@@ -124,7 +124,7 @@
 11. The tree grew and became strong, and its top reached to heaven, and it was visible to the end of the whole earth.
 12. Its leaves were beautiful and its fruit abundant, and in it was food for all. The beasts of the field found shade under it, and the birds of the heavens lived in its branches, and all flesh was fed from it.
 13. I saw in the visions of my head as I lay in bed, and behold, a watcher, a holy one, came down from heaven.
-14. He proclaimed aloud and said thus : Chop down the tree and lop off its branches, strip off its leaves and scatter its fruit. Let the beasts flee from under it and the birds from its branches.
+14. He proclaimed aloud and said thus: Chop down the tree and lop off its branches, strip off its leaves and scatter its fruit. Let the beasts flee from under it and the birds from its branches.
 15. But leave the stump of its roots in the earth, bound with a band of iron and bronze, amid the tender grass of the field. Let him be wet with the dew of heaven. Let his portion be with the beasts in the grass of the earth.
 16. Let his mind be changed from a man’s, and let a beast’s mind be given to him; and let seven periods of time pass over him.
 17. The sentence is by the decree of the watchers, the decision by the word of the holy ones, to the end that the living may know that the Most High rules the kingdom of men and gives it to whom he will and sets over it the lowliest of men.
@@ -134,14 +134,14 @@
 21. whose leaves were beautiful and its fruit abundant, and in which was food for all, under which beasts of the field found shade, and in whose branches the birds of the heavens lived —
 22. it is you, O king, who have grown and become strong. Your greatness has grown and reaches to heaven, and your dominion to the ends of the earth.
 23. And because the king saw a watcher, a holy one, coming down from heaven and saying, Chop down the tree and destroy it, but leave the stump of its roots in the earth, bound with a band of iron and bronze, in the tender grass of the field, and let him be wet with the dew of heaven, and let his portion be with the beasts of the field, till seven periods of time pass over him,
-24. this is the interpretation, O king : It is a decree of the Most High, which has come upon my lord the king,
+24. this is the interpretation, O king: It is a decree of the Most High, which has come upon my lord the king,
 25. that you shall be driven from among men, and your dwelling shall be with the beasts of the field. You shall be made to eat grass like an ox, and you shall be wet with the dew of heaven, and seven periods of time shall pass over you, till you know that the Most High rules the kingdom of men and gives it to whom he will.
 26. And as it was commanded to leave the stump of the roots of the tree, your kingdom shall be confirmed for you from the time that you know that Heaven rules.
-27. Therefore, O king, let my counsel be acceptable to you : break off your sins by practicing righteousness, and your iniquities by showing mercy to the oppressed, that there may perhaps be a lengthening of your prosperity.
+27. Therefore, O king, let my counsel be acceptable to you: break off your sins by practicing righteousness, and your iniquities by showing mercy to the oppressed, that there may perhaps be a lengthening of your prosperity.
 28. All this came upon King Nebuchadnezzar.
 29. At the end of twelve months he was walking on the roof of the royal palace of Babylon,
 30. and the king answered and said, Is not this great Babylon, which I have built by my mighty power as a royal residence and for the glory of my majesty?
-31. While the words were still in the king’s mouth, there fell a voice from heaven, O King Nebuchadnezzar, to you it is spoken : The kingdom has departed from you,
+31. While the words were still in the king’s mouth, there fell a voice from heaven, O King Nebuchadnezzar, to you it is spoken: The kingdom has departed from you,
 32. and you shall be driven from among men, and your dwelling shall be with the beasts of the field. And you shall be made to eat grass like an ox, and seven periods of time shall pass over you, until you know that the Most High rules the kingdom of men and gives it to whom he will.
 33. Immediately the word was fulfilled against Nebuchadnezzar. He was driven from among men and ate grass like an ox, and his body was wet with the dew of heaven till his hair grew as long as eagles ’ feathers, and his nails were like birds ’ claws.
 34. At the end of the days I, Nebuchadnezzar, lifted my eyes to heaven, and my reason returned to me, and I blessed the Most High, and praised and honored him who lives forever, for his dominion is an everlasting dominion, and his kingdom endures from generation to generation;
@@ -175,8 +175,8 @@
 22. And you his son, Belshazzar, have not humbled your heart, though you knew all this,
 23. but you have lifted up yourself against the Lord of heaven. And the vessels of his house have been brought in before you, and you and your lords, your wives, and your concubines have drunk wine from them. And you have praised the gods of silver and gold, of bronze, iron, wood, and stone, which do not see or hear or know, but the God in whose hand is your breath, and whose are all your ways, you have not honored.
 24. Then from his presence the hand was sent, and this writing was inscribed.
-25. And this is the writing that was inscribed : Mene, Mene, Tekel, and Parsin.
-26. This is the interpretation of the matter : Mene, God has numbered the days of your kingdom and brought it to an end;
+25. And this is the writing that was inscribed: Mene, Mene, Tekel, and Parsin.
+26. This is the interpretation of the matter: Mene, God has numbered the days of your kingdom and brought it to an end;
 27. Tekel, you have been weighed in the balances and found wanting;
 28. Peres, your kingdom is divided and given to the Medes and Persians.
 29. Then Belshazzar gave the command, and Daniel was clothed with purple, a chain of gold was put around his neck, and a proclamation was made about him, that he should be the third ruler in the kingdom.
@@ -209,7 +209,7 @@
 22. My God sent his angel and shut the lions ’ mouths, and they have not harmed me, because I was found blameless before him; and also before you, O king, I have done no harm.
 23. Then the king was exceedingly glad, and commanded that Daniel be taken up out of the den. So Daniel was taken up out of the den, and no kind of harm was found on him, because he had trusted in his God.
 24. And the king commanded, and those men who had maliciously accused Daniel were brought and cast into the den of lions — they, their children, and their wives. And before they reached the bottom of the den, the lions overpowered them and broke all their bones in pieces.
-25. Then King Darius wrote to all the peoples, nations, and languages that dwell in all the earth : Peace be multiplied to you.
+25. Then King Darius wrote to all the peoples, nations, and languages that dwell in all the earth: Peace be multiplied to you.
 26. I make a decree, that in all my royal dominion people are to tremble and fear before the God of Daniel, for he is the living God, enduring forever; his kingdom shall never be destroyed, and his dominion shall be to the end.
 27. He delivers and rescues; he works signs and wonders in heaven and on earth, he who has saved Daniel from the power of the lions.
 28. So this Daniel prospered during the reign of Darius and the reign of Cyrus the Persian.
@@ -238,7 +238,7 @@
 20. and about the ten horns that were on its head, and the other horn that came up and before which three of them fell, the horn that had eyes and a mouth that spoke great things, and that seemed greater than its companions.
 21. As I looked, this horn made war with the saints and prevailed over them,
 22. until the Ancient of Days came, and judgment was given for the saints of the Most High, and the time came when the saints possessed the kingdom.
-23. Thus he said : As for the fourth beast, there shall be a fourth kingdom on earth, which shall be different from all the kingdoms, and it shall devour the whole earth, and trample it down, and break it to pieces.
+23. Thus he said: As for the fourth beast, there shall be a fourth kingdom on earth, which shall be different from all the kingdoms, and it shall devour the whole earth, and trample it down, and break it to pieces.
 24. As for the ten horns, out of this kingdom ten kings shall arise, and another shall arise after them; he shall be different from the former ones, and shall put down three kings.
 25. He shall speak words against the Most High, and shall wear out the saints of the Most High, and shall think to change the times and the law; and they shall be given into his hand for a time, times, and half a time.
 26. But the court shall sit in judgment, and his dominion shall be taken away, to be consumed and destroyed to the end.
@@ -327,7 +327,7 @@
 18. Again one having the appearance of a man touched me and strengthened me.
 19. And he said, O man greatly loved, fear not, peace be with you; be strong and of good courage. And as he spoke to me, I was strengthened and said, Let my lord speak, for you have strengthened me.
 20. Then he said, Do you know why I have come to you? But now I will return to fight against the prince of Persia; and when I go out, behold, the prince of Greece will come.
-21. But I will tell you what is inscribed in the book of truth : there is none who contends by my side against these except Michael, your prince.
+21. But I will tell you what is inscribed in the book of truth: there is none who contends by my side against these except Michael, your prince.
 
 ## Chapter 11
 
@@ -371,7 +371,7 @@
 38. He shall honor the god of fortresses instead of these. A god whom his fathers did not know he shall honor with gold and silver, with precious stones and costly gifts.
 39. He shall deal with the strongest fortresses with the help of a foreign god. Those who acknowledge him he shall load with honor. He shall make them rulers over many and shall divide the land for a price.
 40. At the time of the end, the king of the south shall attack him, but the king of the north shall rush upon him like a whirlwind, with chariots and horsemen, and with many ships. And he shall come into countries and shall overflow and pass through.
-41. He shall come into the glorious land. And tens of thousands shall fall, but these shall be delivered out of his hand : Edom and Moab and the main part of the Ammonites.
+41. He shall come into the glorious land. And tens of thousands shall fall, but these shall be delivered out of his hand: Edom and Moab and the main part of the Ammonites.
 42. He shall stretch out his hand against the countries, and the land of Egypt shall not escape.
 43. He shall become ruler of the treasures of gold and of silver, and all the precious things of Egypt, and the Libyans and the Cushites shall follow in his train.
 44. But news from the east and the north shall alarm him, and he shall go out with great fury to destroy and devote many to destruction.
