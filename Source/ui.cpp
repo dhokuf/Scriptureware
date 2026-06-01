@@ -73,9 +73,9 @@ namespace ui {
 
         int columnCounter = 0;
         for (int i = 0; i < index->size(); i++) {
-            cout << left << setw(30) << (to_string((i+1)) + ": " + index->at(i));
+            cout << left << setw(30) << (to_string((i+1)) + ": " + ((i>9) ? "" : " ") + index->at(i)); // Pretty slick, you must admit
             columnCounter++;
-            if (columnCounter > 2) {
+            if (columnCounter > 5) {
                 cout << "\n\t";
                 columnCounter = 0;
             }

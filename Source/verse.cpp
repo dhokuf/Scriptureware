@@ -168,7 +168,7 @@ vector<string> Verse::loadVerse() {
     string token;
     int currChapter;
     while (book >> token) {
-        if (token == "CHAPTER") {
+        if (token == "Chapter") {
             book >> currChapter;
             if (currChapter == reference.chapter) break;
         }
@@ -181,6 +181,7 @@ vector<string> Verse::loadVerse() {
         verse >> verseIndex;
         if (verseIndex == reference.verse) {
             string currWord;
+            verse >> currWord; // Skip the extra period
             while (verse >> currWord) {
                 returnVerse.push_back(currWord);
             }

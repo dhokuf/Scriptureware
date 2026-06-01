@@ -1,3 +1,66 @@
-1peter 1 Peter
-testdata2 This Should Go Second
-testdata Test Data
+01_Genesis.md Genesis
+02_Exodus.md Exodus
+03_Leviticus.md Leviticus
+04_Numbers.md Numbers
+05_Deuteronomy.md Deuteronomy
+06_Joshua.md Joshua
+07_Judges.md Judges
+08_Ruth.md Ruth
+09_I_Samuel.md I Samuel
+10_II_Samuel.md II Samuel
+11_I_Kings.md I Kings
+12_II_Kings.md II Kings
+13_I_Chronicles.md I Chronicles
+14_II_Chronicles.md II Chronicles
+15_Ezra.md Ezra
+16_Nehemiah.md Nehemiah
+17_Esther.md Esther
+18_Job.md Job
+19_Psalms.md Psalms
+20_Proverbs.md Proverbs
+21_Ecclesiastes.md Ecclesiastes
+22_Song_of_Solomon.md Song of Solomon
+23_Isaiah.md Isaiah
+24_Jeremiah.md Jeremiah
+25_Lamentations.md Lamentations
+26_Ezekiel.md Ezekiel
+27_Daniel.md Daniel
+28_Hosea.md Hosea
+29_Joel.md Joel
+30_Amos.md Amos
+31_Obadiah.md Obadiah
+32_Jonah.md Jonah
+33_Micah.md Micah
+34_Nahum.md Nahum
+35_Habakkuk.md Habakkuk
+36_Zephaniah.md Zephaniah
+37_Haggai.md Haggai
+38_Zechariah.md Zechariah
+39_Malachi.md Malachi
+40_Matthew.md Matthew
+41_Mark.md Mark
+42_Luke.md Luke
+43_John.md John 
+44_Acts.md Acts 
+45_Romans.md Romans
+46_I_Corinthians.md I Corinthians
+47_II_Corinthians.md II Corinthians
+48_Galatians.md Galatians
+49_Ephesians.md Ephesians
+50_Philippians.md Philippians
+51_Colossians.md Colossians
+52_I_Thessalonians.md I Thessalonians
+53_II_Thessalonians.md II Thessalonians
+54_I_Timothy.md I Timothy
+55_II_Timothy.md II Timothy
+56_Titus.md Titus
+57_Philemon.md Philemon
+58_Hebrews.md Hebrews
+59_James.md James
+60_I_Peter.md I Peter
+61_II_Peter.md II Peter
+62_I_John.md I John
+63_II_John.md II John
+64_III_John.md III John
+65_Jude.md Jude
+66_Revelation_of_John.md Revelation
