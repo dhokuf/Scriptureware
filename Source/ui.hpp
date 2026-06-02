@@ -17,7 +17,7 @@ using namespace std;
 // Metadata
 #define VERSION "0.1.0 (alpha)\n"
 #define AUTHORS "David Hokuf and Benjamin Van Grouw\n"
-#define LASTUPDATE "May 2026\n"
+#define LASTUPDATE "June 2026\n"
 #define SUPPORT "Whole Bible [ESV]\n"
 
 // Escape Codes
