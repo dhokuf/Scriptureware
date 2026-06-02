@@ -1,0 +1,16 @@
+app-id: io.github.benjaminvangrouw.Scriptureware
+
+runtime: org.freedesktop.Platform
+runtime-version: "24.08"
+sdk: org.freedesktop.Sdk
+
+command: scriptureware
+
+modules:
+  - name: scriptureware
+
+    buildsystem: cmake-ninja
+
+    sources:
+      - type: dir
+        path: ..

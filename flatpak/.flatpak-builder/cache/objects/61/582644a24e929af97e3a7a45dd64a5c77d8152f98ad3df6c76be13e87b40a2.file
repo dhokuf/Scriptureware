@@ -1,0 +1,5 @@
+[Runtime]
+name=io.github.benjaminvangrouw.Scriptureware.Debug
+
+[ExtensionOf]
+ref=app/io.github.benjaminvangrouw.Scriptureware/x86_64/master

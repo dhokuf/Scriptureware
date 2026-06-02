@@ -1,0 +1,22 @@
+{
+  "id" : "io.github.benjaminvangrouw.Scriptureware",
+  "runtime" : "org.freedesktop.Platform",
+  "runtime-version" : "24.08",
+  "runtime-commit" : "d3326f4ffbecf57054e65db6c1715410dc1a0e00d414548a964a38c548bde264",
+  "sdk" : "org.freedesktop.Sdk",
+  "sdk-commit" : "60767ed840c4a35aadeac65944d235ef47b1d9def9f61969c1760f35ff8f429d",
+  "command" : "scriptureware",
+  "modules" : [
+    {
+      "name" : "scriptureware",
+      "buildsystem" : "cmake-ninja",
+      "sources" : [
+        {
+          "path" : "..",
+          "type" : "dir"
+        }
+      ]
+    }
+  ],
+  "source-date-epoch" : 1780360271
+}

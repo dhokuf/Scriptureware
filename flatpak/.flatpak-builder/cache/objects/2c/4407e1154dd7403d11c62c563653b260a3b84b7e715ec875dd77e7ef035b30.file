@@ -1,0 +1,13 @@
+[Application]
+name=io.github.benjaminvangrouw.Scriptureware
+runtime=org.freedesktop.Platform/x86_64/24.08
+sdk=org.freedesktop.Sdk/x86_64/24.08
+command=scriptureware
+
+[Extension io.github.benjaminvangrouw.Scriptureware.Debug]
+directory=lib/debug
+autodelete=true
+no-autodownload=true
+
+[Build]
+built-extensions=io.github.benjaminvangrouw.Scriptureware.Debug;
