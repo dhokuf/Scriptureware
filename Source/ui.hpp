@@ -18,7 +18,7 @@ using namespace std;
 #define VERSION "0.1.0 (alpha)\n"
 #define AUTHORS "David Hokuf and Benjamin Van Grouw\n"
 #define LASTUPDATE "May 2026\n"
-#define SUPPORT "1 Peter [5 chapters]\n"
+#define SUPPORT "Whole Bible [ESV]\n"
 
 // Escape Codes
 // Source: https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797
