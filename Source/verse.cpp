@@ -20,7 +20,7 @@ vector<string>* loadIndex() {
 
     vector<string>* index = new vector<string>;
     index->reserve(100);
-    ifstream indexFile("../Texts/index");
+    ifstream indexFile(TEXTFOLDER + "index");
     string line;
     string bookTitle;
 

@@ -18,7 +18,8 @@ Date: May 2026
 #include <string>
 using namespace std;
 
-#define TEXTFOLDER "../Texts/"
+#define TEXTFOLDER string(SCRIPTUREWARE_DATA_DIR)
+
 
 struct Reference {
 
