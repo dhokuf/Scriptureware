@@ -20,3 +20,7 @@ install(TARGETS scriptureware
 
 install(DIRECTORY Texts/
         DESTINATION share/scriptureware/texts)
+
+target_compile_definitions(scriptureware PRIVATE
+    SCRIPTUREWARE_DATA_DIR="/app/share/scriptureware/texts/"
+)
