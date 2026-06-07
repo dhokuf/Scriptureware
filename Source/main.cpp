@@ -1,8 +1,8 @@
 /* 
 ---------- Scriptureware ----------
-Version  0.1.0 (alpha)
+Version  1.0.0
 Authors: David Hokuf and Benjamin Van Grouw
-Date: May 2026 
+Date: June 2026 
 */
 
 #include "main.hpp"
